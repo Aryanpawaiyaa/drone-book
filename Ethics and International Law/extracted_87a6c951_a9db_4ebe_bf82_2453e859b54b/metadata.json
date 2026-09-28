@@ -1,0 +1,73 @@
+{
+  "source_pdf": "87a6c951-a9db-4ebe-bf82-2453e859b54b.pdf",
+  "total_pages": 264,
+  "total_extracted_images": 1,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "CONTENTS",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "ACKNOWLEDGEMENTS",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "LIST OF ABBREVIATIONS",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "Chapter 1 INTRODUCTION: ARMED DRONES AND DRONE VIOLENCE",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "Chapter 2 WARFARE",
+      "page": 34
+    },
+    {
+      "level": 1,
+      "title": "Chapter 3 VIOLENT LAW ENFORCEMENT",
+      "page": 61
+    },
+    {
+      "level": 1,
+      "title": "Chapter 4 THE PROBLEM OF ‘GREY’ DRONE VIOLENCE",
+      "page": 101
+    },
+    {
+      "level": 1,
+      "title": "Chapter 5 TELE-INTIMATE VIOLENCE",
+      "page": 131
+    },
+    {
+      "level": 1,
+      "title": "Chapter 6 DEVOLVED VIOLENCE",
+      "page": 169
+    },
+    {
+      "level": 1,
+      "title": "Chapter 7 CONCLUSION: DRONE VIOLENCE AND THE SCOPE FOR FUTURE RESTRAINT",
+      "page": 208
+    },
+    {
+      "level": 1,
+      "title": "BIBLIOGRAPHY",
+      "page": 212
+    },
+    {
+      "level": 1,
+      "title": "INDEX",
+      "page": 255
+    }
+  ],
+  "output_directory": "f:\\drone-book\\Ethics and International Law\\extracted_87a6c951_a9db_4ebe_bf82_2453e859b54b",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 2",
+  "original_caption": "Research Article 4 | Fig. 2. Overview of the spiking vision network. Running at approx. 200 Hz, events are accumulated (max 90 events per corner) and then fed through the vision network consisting of three encoders (kernel size 3x3, stride 2) and a spiking pooling layer. Spikes are decoded into two ﬂoats representing ﬂow for that corner. This network is replicated to the three other corners, in order to end up with four corner optical ﬂows vectors. During training, these are used in a homography transformation to derive dense ﬂow, which is then used for the self-supervised loss. The full network is running on the neuromorphic processor during the real-world ﬂight tests.",
+  "contextual_text": "Research Article\n4 Fig. 2. Overview of the spiking vision network. Running at approx. 200 Hz, events are accumulated (max 90 events per corner)\nand then fed through the vision network consisting of three encoders (kernel size 3x3, stride 2) and a spiking pooling layer. Spikes\nare decoded into two ﬂoats representing ﬂow for that corner. This network is replicated to the three other corners, in order to end\nup with four corner optical ﬂows vectors. During training, these are used in a homography transformation to derive dense ﬂow,\nwhich is then used for the self-supervised loss. The full network is running on the neuromorphic processor during the real-world\nﬂight tests. mulate event and optical ﬂow tuples over multiple timesteps\nfor contrast maximization to be a robust self-supervisory signal,\nand only compute the deblurring loss function and perform a\nbackward pass through the networks (using backpropagation\nthrough time) once 25 milliseconds of event data have been pro-\ncessed. To cope",
+  "section_title": "RESULTS",
+  "image_filename": "page_004_fig_01.png",
+  "relative_path": "images/page_004_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "network",
+    "corner",
+    "spiking",
+    "vision",
+    "running",
+    "events",
+    "then",
+    "three",
+    "during",
+    "research"
+  ],
+  "cross_references": [
+    {
+      "page": 3,
+      "snippet": "We split the training of our vision-to-control pipeline into two\nseparate frameworks. On the one hand, the vision part of the\npipeline, in charge of mapping input events to optical ﬂow, is\ntrained in "
+    },
+    {
+      "page": 4,
+      "snippet": "Fig. 2. Overview of the spiking vision network. Running at approx. 200 Hz, events are accumulated (max 90 events per corner)\nand then fed through the vision network consisting of three encoders (kerne"
+    },
+    {
+      "page": 11,
+      "snippet": "As shown in Fig. 2A, our vision network predicts the displace-\nment of the corner pixels in a certain time window. Using this\ninformation, we can solve for the components of the homogra-\nphy matrix th"
+    },
+    {
+      "page": 11,
+      "snippet": "i=k, which is a buffer that gets populated\nevery forward pass with the input events and their correspond-\ning optical ﬂow estimates. This is illustrated in Fig. 2A. At\ntraining time, we perform a back"
+    }
+  ],
+  "metadata": {
+    "width": 5164,
+    "height": 2638,
+    "size_bytes": 3247927,
+    "format": "png"
+  }
+}

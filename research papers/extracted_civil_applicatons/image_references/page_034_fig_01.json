@@ -1,0 +1,32 @@
+{
+  "original_page": 34,
+  "figure_number": "Fig. 35",
+  "original_caption": "Deployment strategies | for minimizing the transmit power of UAVs",
+  "contextual_text": "34 Deployment strategies for minimizing the\ntransmit power of UAVs Deployment strategies for maximizing the\nwireless coverage of UAVs Deployment strategies for\nminimizing the number of\nUAVs required to perform task Deployment strategies to collect data using UAVs Classiﬁcation of Deploy-\nment strategies for UAVs Fig. 35: Classiﬁcation of Deployment Strategies for UAVs. Fig. 36: Interference Mitigation Techniques and Challenges. given amount of data from ground terminals at ﬁxed location.\nThey aim to ﬁnd the optimal ground terminal transmit power\nand UAV trajectory that achieve different Pareto optimal en-\nergy trade-offs between the ground terminal and the UAV. The\nauthors in [238] study the problem of trajectory planning for\nwireless sensor network data collecting deployed in remote ar-\neas with a cooperative system of UAVs. The missions are given\nby a set of ground points which deﬁne wireless sensor network\ngathering zones and each UAV should pass through them to\ngather the data whil",
+  "section_title": "XI-E Interference Mitigation",
+  "image_filename": "page_034_fig_01.png",
+  "relative_path": "images/page_034_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "deployment",
+    "strategies",
+    "minimizing",
+    "transmit",
+    "power",
+    "uavs",
+    "interference",
+    "mitigation"
+  ],
+  "cross_references": [
+    {
+      "page": 34,
+      "snippet": "Fig. 35: Classiﬁcation of Deployment Strategies for UAVs."
+    }
+  ],
+  "metadata": {
+    "width": 1152,
+    "height": 899,
+    "size_bytes": 104598,
+    "format": "png"
+  }
+}

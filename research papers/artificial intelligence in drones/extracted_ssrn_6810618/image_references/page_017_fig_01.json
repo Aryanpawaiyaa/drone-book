@@ -1,0 +1,33 @@
+{
+  "original_page": 17,
+  "figure_number": "Fig. 12",
+  "original_caption": "Table 7 | Quantitative Benchmarking of Drone Control Approaches",
+  "contextual_text": "Autonomous Control and Artificial Intelligence in Drones Table 7 Y. ALQUDSI et al. : \nPage 17 of 26 Quantitative Benchmarking of Drone Control Approaches Control Approach \nTracking Accuracy (RMSE) \nDisturbance Rejection \nComputational Efficiency \nDeployment Maturity (TRL) \nPID Control \n10-15 cm \n30-50% error increase \n0.1-0.5 ms/iteration \nHigh (9) \nModel Predictive Control \n3-8 cm \n15-25% error increase \n10-100 ms/iteration \nMedium (6-7) \nH∞ Control \n5-12 cm \n10-20% error increase \n2-5 ms/iteration \nMedium (6) \nNeural Network Control \n4-10 cm \n20-40% error increase \n3-8 ms/iteration \nLow-Medium (4-6) \nReinforcement Learning \n2-6 cm \n15-30% error increase \n2-5 ms/iteration \nLow (3-5) \nHybrid Hierarchical Control \n3-7 cm \n10-20% error increase \n5-15 ms/iteration \nMedium (5-7) Fig. 12: Technology Readiness Level (TRL) versus tracking accuracy for control approaches. The inverse relationship \nhighlights the implementation gap for advanced methods. Error bars show ranges from primary studi",
+  "section_title": "7. Comparative Analysis and Research Gaps",
+  "image_filename": "page_017_fig_01.jpeg",
+  "relative_path": "images/page_017_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "quantitative",
+    "benchmarking",
+    "drone",
+    "control",
+    "approaches",
+    "comparative",
+    "analysis",
+    "research",
+    "gaps"
+  ],
+  "cross_references": [
+    {
+      "page": 17,
+      "snippet": "Fig. 12: Technology Readiness Level (TRL) versus tracking accuracy for control approaches. The inverse relationship \nhighlights the implementation gap for advanced methods. Error bars show ranges from"
+    }
+  ],
+  "metadata": {
+    "width": 771,
+    "height": 470,
+    "size_bytes": 27970,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 13,
+  "figure_number": "Fig. 9",
+  "original_caption": "Autonomous Control and Artificial Intelligence in Drones | Fig. 9: Heatmap of AI methodologies across AIMM dimensions, showing clustering of perception methods (higher DR)  versus decision-making (higher AL/II). Color intensity represents number of studies.",
+  "contextual_text": "Autonomous Control and Artificial Intelligence in Drones Y. ALQUDSI et al. : \nPage 13 of 26 Fig. 9: Heatmap of AI methodologies across AIMM dimensions, showing clustering of perception methods (higher DR) \nversus decision-making (higher AL/II). Color intensity represents number of studies. another important advantage, with small-package transport consuming much less energy per package-kilometer com-\npared to conventional delivery vehicles in comparable operating environments [60]. Recent commercial deployments \nby industry pioneers have validated operational feasibility at a large scale, in which medical logistics applications are \ndemonstrating particularly compelling economics through substantial cost savings per delivery in remote healthcare \nscenarios. Despite these advances, current systems face fundamental trade-offs between payload capacity, operational range, \nand energy consumption that limit broader deployment. Commercially viable operations remain constrained to specific \npa",
+  "section_title": "6. Applications of AI-Enabled Drones",
+  "image_filename": "page_013_fig_01.png",
+  "relative_path": "images/page_013_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "drones",
+    "higher",
+    "autonomous",
+    "control",
+    "artificial",
+    "intelligence",
+    "heatmap",
+    "methodologies",
+    "across",
+    "aimm"
+  ],
+  "cross_references": [
+    {
+      "page": 13,
+      "snippet": "Fig. 9: Heatmap of AI methodologies across AIMM dimensions, showing clustering of perception methods (higher DR) \nversus decision-making (higher AL/II). Color intensity represents number of studies."
+    }
+  ],
+  "metadata": {
+    "width": 894,
+    "height": 770,
+    "size_bytes": 34810,
+    "format": "png"
+  }
+}

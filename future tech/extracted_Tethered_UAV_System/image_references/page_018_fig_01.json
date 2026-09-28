@@ -1,0 +1,29 @@
+{
+  "original_page": 18,
+  "figure_number": "Figure 9",
+  "original_caption": "Drones 2025, 9, 425 18 of 48 | Figure 9. Tether cable discrete models: (a) Linear spring or rigid link model, with equivalent stiffness k; (b) Kelvin-Voigt model, with linear spring stiffness k and viscous damping coefficient c, connected in parallel; (c) SLS model, with damper c in series with linear spring k1, connected in parallel with other linear spring k2.",
+  "contextual_text": "Drones 2025, 9, 425\n18 of 48 (a) \n(b) \n(c) Figure 9. Tether cable discrete models: (a) Linear spring or rigid link model, with equivalent stiffness\nk; (b) Kelvin-Voigt model, with linear spring stiffness k and viscous damping coefficient c, connected\nin parallel; (c) SLS model, with damper c in series with linear spring k1, connected in parallel with\nother linear spring k2. Longitudinal and transverse dynamics are governed, respectively, by ∂2u1 ∂t2 = E ρ ∂2u1 ∂x2\n∂2u2 ∂t2 = T0 ρA ∂2u2 ∂x2 ,\n(19) with wave speeds (cl, ct) and natural frequencies ( fn,l, fn,t) given by [17,127]: cl = q E\nρ\nfn,l =\nn\n2L0 cl ct = q T0\nρA\nfn,t =\nn\n2L0 ct\n(20) Here, u1 and u2 are the longitudinal and transverse displacements, L0 is the unde-\nformed string length, and n is the vibration mode. Lagrangian dynamic strain and the\nrelated strain energy in the cable are calculated using [29,127]: ε(s, t) = ∂u1 ∂s −κu2 + 1 2 \"\u0012∂u1 ∂s −κu2 \u00132 + \u0012∂u2 ∂s + κu1 \u00132# ,\n(21) e(s, t) = EA 2 Z L0 0\nε2ds,\n(22) where s is the ",
+  "section_title": "Z L0",
+  "image_filename": "page_018_fig_01.jpeg",
+  "relative_path": "images/page_018_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "linear",
+    "spring",
+    "model",
+    "stiffness",
+    "connected",
+    "parallel",
+    "drones",
+    "tether",
+    "cable",
+    "discrete"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1329,
+    "height": 669,
+    "size_bytes": 78270,
+    "format": "jpeg"
+  }
+}

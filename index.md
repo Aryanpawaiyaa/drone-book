@@ -1,525 +1,523 @@
 # 🛸 Drone Technology: Comprehensive Book Outline
 
-Welcome to the structured outline for the Drone Technology book. This document organizes chapters, topics, and relevant reference materials located within this workspace.
+Welcome to the master outline for the **Drone Technology** book. This document organizes all 28 chapters into logical modules, tracks development status and priorities, and connects chapters to workspace reference materials.
 
 ---
 
-## 📊 Book Modules & Chapter Status Tracker
-
-This tracker provides an overview of each chapter's current development status, priority, and links to local reference files.
-
-| # | Chapter / Topic | Status | Priority | Reference Materials |
-|---|-----------------|--------|----------|---------------------|
-| 1 | [1. Aviation Fundamentals](#1-aviation-fundamentals-) | 🔴 Missing | Medium | — |
-| 2 | [2. Meteorology](#2-meteorology-) | 🟡 Needs Expansion | 🔥 High | — |
-| 3 | [3. Navigation](#3-navigation-) | 🔴 Missing | 🔥 High | [Quantum Navigation PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/Quantum%20Drones%20&%20Quantum%20Navigation.pdf)<br>[Flight Control & Nav PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/flight%20control%20and%20navigation.pdf) |
-| 4 | [4. Mapping & GIS](#4-mapping--gis-) | 🟢 Complete | Medium | — |
-| 5 | [5. Computer Vision](#5-computer-vision-) | 🟡 Needs Expansion | 🔥 High | [AI in Drones Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/artificial%20intelligence%20in%20drones/) |
-| 6 | [6. Robotics](#6-robotics-) | 🔴 Missing | 🔥 High | — |
-| 7 | [7. Control Engineering](#7-control-engineering-) | 🟡 Needs Expansion | 🔥 High | — |
-| 8 | [8. Embedded Systems](#8-embedded-systems-) | 🟡 Needs Expansion | Medium | — |
-| 9 | [9. Power Systems](#9-power-systems-) | 🔴 Missing | Medium | — |
-| 10 | [10. Manufacturing](#10-manufacturing-) | 🟢 Complete | Medium | — |
-| 11 | [11. Drone Testing](#11-drone-testing-) | 🟢 Complete | 🔥 High | — |
-| 12 | [12. Standards & Certification](#12-standards--certification-) | 🟢 Complete | Medium | — |
-| 13 | [13. Human Factors](#13-human-factors-) | 🟢 Complete | Low | — |
-| 14 | [14. Maintenance Engineering](#14-maintenance-engineering-) | 🟢 Complete | Medium | — |
-| 15 | [15. Reliability Engineering](#15-reliability-engineering-) | 🟢 Complete | 🔥 High | — |
-| 16 | [16. Swarm Robotics](#16-swarm-robotics-) | 🟡 Needs Expansion | 🔥 High | [Drone Swarms Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/) |
-| 17 | [17. Electronic Warfare](#17-electronic-warfare-) | 🟡 Needs Expansion | 🔥 High | [War Case Studies Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/) |
-| 18 | [18. Economics](#18-economics-) | 🟢 Complete | Low | — |
-| 19 | [19. Ethics & Philosophy](#19-ethics--philosophy-) | 🟢 Complete | Low | — |
-| 20 | [20. Future Research](#20-future-research-) | 🟢 Complete | Medium | [Future Tech Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/) |
-| 21 | [21. Reverse Engineering Existing Drones](#21-reverse-engineering-existing-drones-) | ⭐ Core / Complete | 🔥 High | — |
-| 22 | [22. Entrepreneurship & Startups](#22-entrepreneurship--startups-) | ⭐ Core / Complete | Medium | — |
-| 23 | [23. Research Methodology](#23-research-methodology-) | ⭐ Core / Complete | Medium | — |
-| 24 | [24. Drone Simulators](#24-drone-simulators-) | ⭐ Core / Complete | 🔥 High | — |
-| 25 | [25. Open-Source Ecosystem](#25-open-source-ecosystem-) | ⭐ Core / Complete | 🔥 High | — |
-| 26 | [26. Patent Landscape](#26-patent-landscape-) | ⭐ Core / Complete | Medium | — |
-| 27 | [27. Country-by-Country Drone Industry](#27-country-by-country-drone-industry-) | ⭐ Core / Complete | Medium | — |
-| 28 | [28. Appendix Expansion](#28-appendix-expansion-) | 🟢 Complete | Medium | [Knowledge Guide Book PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/Knowledge_Guide_DPAI_Book.pdf) |
+## 📊 Book Modules & Status Matrix
 
 ### 🏷️ Legend
-*   🔴 **Missing**: Chapter structure set up, content needs to be written from scratch.
-*   🟡 **Needs Expansion**: Initial content exists, but needs significant expansion/depth.
-*   🟢 **Complete**: Substantially written and ready for final review.
-*   ⭐ **Core Practical Chapter**: High-impact practical/engineering chapter.
+* 🟢 **Complete**: Substantially written & ready for review
+* 🟡 **Needs Expansion**: Draft exists, requires deeper technical coverage
+* 🔴 **Missing**: Outlined structure, content to be written
+* ⭐ **Core Practical**: High-impact practical/engineering chapter
+* 🔥 **High Priority** | 🔷 **Medium Priority** | ⚪ **Low Priority**
+
+---
+
+### Part I: Aviation & Core Engineering Fundamentals
+| # | Chapter / Topic | Status | Priority | Key Reference Materials |
+|---|-----------------|--------|----------|-------------------------|
+| 01 | [1. Aviation Fundamentals](#1-aviation-fundamentals) | 🔴 Missing | 🔷 Medium | — |
+| 02 | [2. Meteorology](#2-meteorology) | 🟡 Needs Expansion | 🔥 High | — |
+| 03 | [3. Navigation](#3-navigation) | 🔴 Missing | 🔥 High | 📄 [Quantum Nav PDF](./future%20tech/Quantum%20Drones%20&%20Quantum%20Navigation.pdf)<br>📄 [Flight Control & Nav PDF](./research%20papers/flight%20control%20and%20navigation.pdf) |
+| 06 | [6. Robotics](#6-robotics) | 🔴 Missing | 🔥 High | — |
+| 07 | [7. Control Engineering](#7-control-engineering) | 🟡 Needs Expansion | 🔥 High | — |
+| 08 | [8. Embedded Systems](#8-embedded-systems) | 🟡 Needs Expansion | 🔷 Medium | — |
+| 09 | [9. Power Systems](#9-power-systems) | 🔴 Missing | 🔷 Medium | — |
+
+---
+
+### Part II: Perception, Autonomy & Software Systems
+| # | Chapter / Topic | Status | Priority | Key Reference Materials |
+|---|-----------------|--------|----------|-------------------------|
+| 04 | [4. Mapping & GIS](#4-mapping--gis) | 🟢 Complete | 🔷 Medium | — |
+| 05 | [5. Computer Vision](#5-computer-vision) | 🟡 Needs Expansion | 🔥 High | 📁 [AI in Drones Directory](./research%20papers/artificial%20intelligence%20in%20drones/) |
+| 16 | [16. Swarm Robotics](#16-swarm-robotics) | 🟡 Needs Expansion | 🔥 High | 📁 [Drone Swarms Directory](./research%20papers/drone%20swarms/) |
+| 24 | [24. Drone Simulators](#24-drone-simulators) | ⭐ Core / Complete | 🔥 High | — |
+| 25 | [25. Open-Source Ecosystem](#25-open-source-ecosystem) | ⭐ Core / Complete | 🔥 High | — |
+
+---
+
+### Part III: Manufacturing, Testing & Reliability
+| # | Chapter / Topic | Status | Priority | Key Reference Materials |
+|---|-----------------|--------|----------|-------------------------|
+| 10 | [10. Manufacturing](#10-manufacturing) | 🟢 Complete | 🔷 Medium | — |
+| 11 | [11. Drone Testing](#11-drone-testing) | 🟢 Complete | 🔥 High | — |
+| 12 | [12. Standards & Certification](#12-standards--certification) | 🟢 Complete | 🔷 Medium | — |
+| 14 | [14. Maintenance Engineering](#14-maintenance-engineering) | 🟢 Complete | 🔷 Medium | — |
+| 15 | [15. Reliability Engineering](#15-reliability-engineering) | 🟢 Complete | 🔥 High | — |
+| 21 | [21. Reverse Engineering Existing Drones](#21-reverse-engineering-existing-drones) | ⭐ Core / Complete | 🔥 High | — |
+
+---
+
+### Part IV: Defense, Security & Tactical Warfare
+| # | Chapter / Topic | Status | Priority | Key Reference Materials |
+|---|-----------------|--------|----------|-------------------------|
+| 17 | [17. Electronic Warfare](#17-electronic-warfare) | 🟡 Needs Expansion | 🔥 High | 📁 [War Case Studies Directory](./war%20case%20studies/) |
+
+---
+
+### Part V: Strategy, Economics & Future Horizons
+| # | Chapter / Topic | Status | Priority | Key Reference Materials |
+|---|-----------------|--------|----------|-------------------------|
+| 13 | [13. Human Factors](#13-human-factors) | 🟢 Complete | ⚪ Low | — |
+| 18 | [18. Economics](#18-economics) | 🟢 Complete | ⚪ Low | — |
+| 19 | [19. Ethics & Philosophy](#19-ethics--philosophy) | 🟢 Complete | ⚪ Low | — |
+| 20 | [20. Future Research](#20-future-research) | 🟢 Complete | 🔷 Medium | 📁 [Future Tech Directory](./future%20tech/) |
+| 22 | [22. Entrepreneurship & Startups](#22-entrepreneurship--startups) | ⭐ Core / Complete | 🔷 Medium | — |
+| 23 | [23. Research Methodology](#23-research-methodology) | ⭐ Core / Complete | 🔷 Medium | — |
+| 26 | [26. Patent Landscape](#26-patent-landscape) | ⭐ Core / Complete | 🔷 Medium | — |
+| 27 | [27. Country-by-Country Drone Industry](#27-country-by-country-drone-industry) | ⭐ Core / Complete | 🔷 Medium | — |
+| 28 | [28. Appendix Expansion](#28-appendix-expansion) | 🟢 Complete | 🔷 Medium | 📄 [Knowledge Guide PDF](./Knowledge_Guide_DPAI_Book.pdf) |
 
 ---
 
 ## 📖 Chapter Details & Subtopics
 
-### 1. Aviation Fundamentals 🔴
-> Often overlooked in drone books but fully expected in professional aviation texts.
-
-*   **Aircraft Systems & Aerodynamics**
-    *   Aircraft axes of rotation (pitch, roll, yaw)
-    *   Control surfaces
-    *   Aircraft performance & flight envelope
-    *   Stall and recovery mechanisms
-*   **Operational Physics**
-    *   Weight & balance calculations
-    *   Density altitude effects
-*   **Meteorological Challenges**
-    *   Wind shear & microbursts
-    *   Turbulence
-*   **International Frameworks**
-    *   ICAO aviation fundamentals
-
----
-
-### 2. Meteorology 🟡
-> A drone pilot must understand weather behavior. (Very Important — dedicated chapter).
-
-*   **Atmospheric Processes**
-    *   Atmospheric layers & pressure systems
-    *   Clouds & rain formation
-    *   Fog and thunderstorms
-    *   Wind gradients & mountain waves
-    *   Sea breeze effects
-*   **Forecasting & Limitations**
-    *   Weather forecasting models
-    *   Aviation reports (METAR & TAF)
-    *   Aviation weather apps & drone weather limitations
-
----
-
-### 3. Navigation 🔴
-> Deep-dive mapping and location algorithms going far beyond basic GPS.
+### 1. Aviation Fundamentals
+> 🔴 **Status:** Missing | 🔷 **Priority:** Medium
 > 
-> 📄 **Reference Files:**
-> *   [Quantum Navigation PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/Quantum%20Drones%20&%20Quantum%20Navigation.pdf)
-> *   [Flight Control and Navigation PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/flight%20control%20and%20navigation.pdf)
+> *Overlooked in basic drone guides, but vital for professional aviation compliance.*
 
-*   **Coordinates & Mapping Frames**
-    *   Latitude & Longitude
-    *   Coordinate systems (UTM, WGS84)
-*   **Navigation Approaches**
-    *   Compass navigation
-    *   Dead reckoning
-    *   Inertial Navigation Systems (INS)
-*   **Satellite Navigation (GNSS)**
-    *   GPS, GLONASS, Galileo, BeiDou
-    *   Real-Time Kinematic (RTK) & Post-Processed Kinematic (PPK)
-*   **Vision & Autonomy**
-    *   Visual navigation
-    *   Terrain following & terrain avoidance
+* **Aircraft Systems & Aerodynamics**
+  * Aircraft axes of rotation (*pitch, roll, yaw*)
+  * Flight control surfaces & aerodynamic performance
+  * Flight envelope, stall mechanisms, and recovery protocols
+* **Operational Physics**
+  * Weight & balance calculations
+  * Density altitude impact on lift and thrust
+* **Meteorological & Safety Challenges**
+  * Wind shear, microbursts, and low-level turbulence
+* **International Frameworks**
+  * ICAO aviation fundamentals & airspace rules
 
 ---
 
-### 4. Mapping & GIS 🟢
-> Details on the largest commercial sector for drones.
-
-*   **GIS & Photogrammetry Concepts**
-    *   GIS introduction
-    *   Orthomosaics
-    *   Photogrammetry fundamentals
-    *   Elevation models: DEM, DSM, DTM
-    *   Georeferencing & Ground Control Points (GCPs)
-*   **Software Ecosystem**
-    *   Pix4D & DroneDeploy
-    *   Agisoft Metashape & WebODM
-    *   QGIS & ArcGIS
-*   **Verification**
-    *   Survey accuracy standards
-
----
-
-### 5. Computer Vision 🟡
-> Expanded from a few pages into a comprehensive, standalone chapter.
+### 2. Meteorology
+> 🟡 **Status:** Needs Expansion | 🔥 **Priority:** High
 > 
-> 📁 **Reference Folder:** [AI in Drones Research Papers](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/artificial%20intelligence%20in%20drones/)
-> *   [s10462-025-11449-7.pdf (AI Review)](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/artificial%20intelligence%20in%20drones/s10462-025-11449-7.pdf)
-> *   [s44163-024-00209-1.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/artificial%20intelligence%20in%20drones/s44163-024-00209-1.pdf)
-> *   [ssrn-6810618.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/artificial%20intelligence%20in%20drones/ssrn-6810618.pdf)
+> *Understanding localized atmospheric physics is essential for mission planning.*
 
-*   **Image Processing & Setup**
-    *   Image processing pipelines & camera calibration
-*   **3D Geometry & Motion**
-    *   Stereo Vision & Optical Flow
-    *   Pose & depth estimation
-*   **Object Tracking & Deep Learning**
-    *   Image segmentation
-    *   Optical Character Recognition (OCR)
-    *   Multi-object tracking
-    *   Sensor fusion algorithms
+* **Atmospheric Processes**
+  * Atmospheric layers, microclimates, and pressure systems
+  * Cloud types, precipitation, fog, and thunderstorm mechanics
+  * Wind gradients, mountain waves, and sea breeze fronts
+* **Forecasting & Pilot Tools**
+  * Aviation weather models and reports (*METAR & TAF*)
+  * Modern weather apps vs. physical drone operational thresholds
 
 ---
 
-### 6. Robotics 🔴
-> Reinforcing the core concept that a drone is fundamentally a flying robot.
-
-*   **Robotics Theory**
-    *   Robot kinematics & dynamics
-*   **Perception & Mapping**
-    *   Localization & mapping (SLAM)
-*   **Behavioral Autonomy**
-    *   Behavior trees
-    *   Motion planning
-    *   Autonomous systems & multi-agent robotics
-
----
-
-### 7. Control Engineering 🟡
-> Detailed analysis of modern mathematical control theories.
-
-*   **Classical & Optimal Control**
-    *   PID control loops
-    *   LQR (Linear Quadratic Regulator)
-    *   MPC (Model Predictive Control)
-*   **Advanced Control Systems**
-    *   Adaptive & Robust Control
-    *   State-space control
-*   **Estimation & Filtering**
-    *   Kalman Filters (KF)
-    *   Extended Kalman Filter (EKF)
-    *   Unscented Kalman Filter (UKF)
-
----
-
-### 8. Embedded Systems 🟡
-> Expanding details on hardware-level processing and RTOS.
-
-*   **Microcontrollers & Hardware**
-    *   ARM Cortex
-    *   STM32 architecture
-*   **Interfaces & Protocols**
-    *   CAN, SPI, UART, I2C
-*   **Programming Concepts**
-    *   Real-time programming, interrupts, DMA, timers
-*   **Operating Systems**
-    *   RTOS basics, FreeRTOS, Zephyr
-
----
-
-### 9. Power Systems 🔴
-> A new chapter covering battery chemistry, charging, and management safety.
-
-*   **Power Sources**
-    *   Battery Chemistry (LiPo, Li-ion, Solid State, Hydrogen, Solar)
-*   **Management & Charging**
-    *   Wireless Charging systems
-    *   Battery aging models
-    *   Charging algorithms
-*   **Safety & Logistics**
-    *   Thermal runaway prevention & fire mitigation
-    *   Safe battery transportation
-
----
-
-### 10. Manufacturing 🟢
-> Industrial processes for designing and building commercial airframes.
-
-*   **Composite & Rigid Structures**
-    *   Injection molding
-    *   Carbon fiber layup & composite manufacturing
-    *   CNC & 3D printing
-*   **Electronics & Testing**
-    *   PCB manufacturing
-    *   Assembly lines
-    *   Quality Control (QC) & testing
-    *   Reliability engineering
-
----
-
-### 11. Drone Testing 🟢
-> Crucial steps to verify flightworthiness and robustness.
-
-*   **Lab & Environmental Tests**
-    *   Ground testing
-    *   Vibration testing
-    *   Electromagnetic Interference (EMI) testing
-    *   Environmental (temperature) testing
-    *   Drop testing & durability validation
-*   **Operational Validation**
-    *   Range testing
-    *   Flight testing
-    *   Reliability & certification testing
-
----
-
-### 12. Standards & Certification 🟢
-> Compliance frameworks and regulatory guidelines.
-
-*   **Standardization Organizations**
-    *   ASTM, ISO, SAE, MIL Standards
-*   **Safety Standards**
-    *   DO-178 (Software)
-    *   DO-254 (Hardware)
-    *   DO-160 (Environmental)
-*   **Civil Regulations**
-    *   Remote ID standards
-    *   FAA compliance (US) & DGCA standards (India)
-
----
-
-### 13. Human Factors 🟢
-> Understanding pilot fatigue and cockpit/crew interaction.
-
-*   **Cognitive Limits**
-    *   Pilot fatigue & decision making under stress
-    *   Crew coordination & workload management
-*   **Automation Bias**
-    *   Situational awareness & automation trust issues
-
----
-
-### 14. Maintenance Engineering 🟢
-> A structured approach to preventive and predictive maintenance.
-
-*   **Condition Monitoring**
-    *   Predictive maintenance protocols
-    *   Vibration analysis
-*   **Component Failure Points**
-    *   Motor wear & bearing failures
-    *   ESC failures & propeller inspection
-*   **Logs**
-    *   Maintenance schedules & documentation
-
----
-
-### 15. Reliability Engineering 🟢
-> Risk assessment and fault tolerance analysis.
-
-*   **Metrics & Calculations**
-    *   MTBF (Mean Time Between Failures)
-    *   FMEA (Failure Mode and Effects Analysis)
-    *   Fault Tree Analysis
-*   **Design Safety**
-    *   Hardware & software redundancy
-    *   Safety engineering & risk analysis
-
----
-
-### 16. Swarm Robotics 🟡
-> Moving beyond basic concepts to focus on swarm intelligence algorithms.
+### 3. Navigation
+> 🔴 **Status:** Missing | 🔥 **Priority:** High
 > 
-> 📁 **Reference Folder:** [Drone Swarms Research Papers](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/)
-> *   [1-s2.0-S2452414X18300086-main.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/1-s2.0-S2452414X18300086-main.pdf)
-> *   [UAV Swarm Intelligence.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/UAV_Swarm_Intelligence_Recent_Advances_and_Future_.pdf)
-> *   [drones-09-00700-v2.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/drones-09-00700-v2.pdf)
-> *   [s44147-025-00582-3.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/s44147-025-00582-3.pdf)
+> 📄 **References:**
+> * [Quantum Drones & Quantum Navigation.pdf](./future%20tech/Quantum%20Drones%20&%20Quantum%20Navigation.pdf)
+> * [Flight Control and Navigation.pdf](./research%20papers/flight%20control%20and%20navigation.pdf)
 
-*   **Kinematic Control**
-    *   Formation Control & Flocking
-    *   Leader-Follower models
-*   **Distributed Intelligence**
-    *   Consensus Algorithms
-    *   Distributed AI
-    *   Swarm communication & task allocation
-    *   Collective Intelligence
+* **Coordinate Systems & Mapping Frames**
+  * Latitude, Longitude, altitude datums
+  * Projected coordinate systems (*UTM, WGS84*)
+* **Core Navigation Methods**
+  * Compass-based navigation & Dead Reckoning
+  * Inertial Navigation Systems (*INS/IMU*)
+* **Satellite Navigation (GNSS)**
+  * GPS, GLONASS, Galileo, BeiDou architecture
+  * Real-Time Kinematic (*RTK*) & Post-Processed Kinematic (*PPK*)
+* **Vision-Based & Autonomous Navigation**
+  * Visual odometry & terrain following / avoidance algorithms
 
 ---
 
-### 17. Electronic Warfare 🟡
-> Tactical military topics including RF jamming and counter-UAS.
+### 4. Mapping & GIS
+> 🟢 **Status:** Complete | 🔷 **Priority:** Medium
 > 
-> 📁 **Reference Folder:** [War Case Studies](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/)
-> *   [Combined Arms UASs Study PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/221110_Jones_CombinedArms_UASs.pdf)
-> *   [Grenade-Dropping Quadcopters PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/Grenade-Dropping-Quadcopters-UA.pdf)
-> *   [Bayraktars & Quadcopters Case Study PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/danczuk-bayraktars-quadcopters-II-UA1.pdf)
-> *   [case.json (Tactical Dataset)](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/case.json)
+> *Covers commercial photogrammetry and spatial analysis pipelines.*
 
-*   **RF Spectrum & Signals**
-    *   RF spectrum analysis
-    *   SIGINT (Signals Intelligence) & ELINT (Electronic Intelligence)
-    *   Direction finding
-*   **Countermeasures**
-    *   Anti-jamming & frequency hopping
-    *   GPS-denied navigation
-    *   Cyber Electronic Warfare
+* **GIS & Photogrammetry Principles**
+  * GIS fundamentals & spatial data models
+  * Photogrammetry workflows & orthomosaic generation
+  * Digital elevation models: DEM, DSM, DTM
+  * Ground Control Points (*GCPs*) & georeferencing precision
+* **Software Ecosystem**
+  * Commercial: *Pix4D*, *DroneDeploy*, *Agisoft Metashape*
+  * Open Source: *WebODM*, *QGIS*, *ArcGIS*
+* **Quality Assurance**
+  * Surveying accuracy verification & tolerance standards
 
 ---
 
-### 18. Economics 🟢
-> Cost modeling, supply chains, and Drone-as-a-Service operations.
-
-*   **Operational & Cost Models**
-    *   Drone manufacturing economics & cost models
-    *   Business ROI & Fleet economics
-*   **Commercial Infrastructure**
-    *   Drone-as-a-Service (DaaS)
-    *   Insurance & Investments
-    *   Supply chain management
-
----
-
-### 19. Ethics & Philosophy 🟢
-> Crucial discussion about autonomy, privacy, and ecological impacts.
-
-*   **Defense & Autonomy**
-    *   AI ethics & autonomous weapons
-*   **Societal Impact**
-    *   Privacy & mass surveillance
-    *   Civil liberties & dual-use technology
-*   **Ecology**
-    *   Environmental impact & wildlife disruption
-    *   Noise pollution
-
----
-
-### 20. Future Research 🟢
-> Investigating emerging tech fields.
+### 5. Computer Vision
+> 🟡 **Status:** Needs Expansion | 🔥 **Priority:** High
 > 
-> 📁 **Reference Folder:** [Future Tech Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/)
-> *   [Cellular-Connected UAVs PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/Cellular-Connected%20UAVs.pdf)
-> *   [Internet of Drones (IoD) PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/Internet%20of%20Drones%20(IoD).pdf)
-> *   [Tethered UAV System PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/Tethered%20UAV%20System.pdf)
+> 📁 **References:** [AI in Drones Research Folder](./research%20papers/artificial%20intelligence%20in%20drones/)
+> * 📄 [AI Review (s10462-025-11449-7.pdf)](./research%20papers/artificial%20intelligence%20in%20drones/s10462-025-11449-7.pdf)
+> * 📄 [AI Applications (s44163-024-00209-1.pdf)](./research%20papers/artificial%20intelligence%20in%20drones/s44163-024-00209-1.pdf)
+> * 📄 [Deep Learning Survey (ssrn-6810618.pdf)](./research%20papers/artificial%20intelligence%20in%20drones/ssrn-6810618.pdf)
 
-*   **Advanced Flight & Autonomy**
-    *   Neuromorphic AI & brain-inspired control
-    *   Quantum navigation
-    *   Self-healing drone materials & morphing structures
-    *   Nano & bio-hybrid drones
-*   **Next-Gen Infrastructure**
-    *   Space drones (e.g., Martian/planetary)
-    *   Autonomous droneports & drone highways
+* **Image Processing & Optics**
+  * Camera calibration, lens distortion, and video pipelines
+* **3D Geometry & Optical Motion**
+  * Stereo vision, optical flow, and depth estimation
+  * Pose estimation & spatial tracking
+* **Object Tracking & Deep Learning**
+  * Real-time image segmentation & OCR
+  * Multi-object tracking (*MOT*) & target classification
+  * Sensor fusion (*Camera + LiDAR + Radar*)
+
+---
+
+### 6. Robotics
+> 🔴 **Status:** Missing | 🔥 **Priority:** High
+> 
+> *Establishes the foundation of drones as flying autonomous robots.*
+
+* **Kinematics & Dynamics**
+  * Rigid body dynamics & spatial transformation matrices
+  * Forces, torques, and multi-rotor physics
+* **Perception & Mapping**
+  * Simultaneous Localization and Mapping (*SLAM*)
+* **Behavioral Autonomy**
+  * Behavior trees & finite state machines
+  * Path finding & obstacle avoidance motion planning
+  * Multi-agent autonomous coordination
+
+---
+
+### 7. Control Engineering
+> 🟡 **Status:** Needs Expansion | 🔥 **Priority:** High
+> 
+> *Modern control algorithms governing flight stability and trajectory.*
+
+* **Classical & Optimal Control**
+  * Proportional-Integral-Derivative (*PID*) control loops
+  * Linear Quadratic Regulator (*LQR*)
+  * Model Predictive Control (*MPC*)
+* **Advanced & Adaptive Control**
+  * Robust control & adaptive gain tuning
+  * State-space models
+* **Estimation & State Filtering**
+  * Kalman Filters (*KF*), Extended Kalman Filters (*EKF*), Unscented Kalman Filters (*UKF*)
+
+---
+
+### 8. Embedded Systems
+> 🟡 **Status:** Needs Expansion | 🔷 **Priority:** Medium
+> 
+> *Hardware architecture, low-level interfaces, and real-time execution.*
+
+* **Microcontrollers & Architectures**
+  * ARM Cortex-M series & STM32 microcontroller families
+* **Communication Protocols**
+  * CAN bus, SPI, UART, I2C, MAVLink hardware interfaces
+* **Embedded Software Patterns**
+  * Interrupt handling, Direct Memory Access (*DMA*), hardware timers
+* **Real-Time Operating Systems (RTOS)**
+  * FreeRTOS, Zephyr RTOS, and task scheduling mechanics
+
+---
+
+### 9. Power Systems
+> 🔴 **Status:** Missing | 🔷 **Priority:** Medium
+> 
+> *Battery chemistry, power distribution, and safe charging management.*
+
+* **Power Sources & Chemistry**
+  * Lithium Polymer (*LiPo*), Lithium-ion (*Li-ion*), Solid-State
+  * Alternative energy: Hydrogen fuel cells & solar integration
+* **Management & Charging Infrastructure**
+  * Wireless charging systems & automated battery swapping
+  * Battery Management Systems (*BMS*) & health degradation models
+* **Safety & Storage**
+  * Thermal runaway prevention & fire containment
+  * Regulatory transport standards (*UN 38.3*)
+
+---
+
+### 10. Manufacturing
+> 🟢 **Status:** Complete | 🔷 **Priority:** Medium
+> 
+> *Industrial materials, airframe fabrication, and electronics assembly.*
+
+* **Structural Materials & Methods**
+  * Carbon fiber layup, composite vacuum bagging, resin injection
+  * Injection molding, CNC milling, and industrial 3D printing
+* **Electronics & Quality Assurance**
+  * PCB design, surface-mount technology (*SMT*) assembly
+  * Factory testing, quality control (*QC*), and structural validation
+
+---
+
+### 11. Drone Testing
+> 🟢 **Status:** Complete | 🔥 **Priority:** High
+> 
+> *Verification protocols for airworthiness, environment, and range.*
+
+* **Laboratory & Stress Testing**
+  * Ground vibration testing & dynamic balancing
+  * Electromagnetic Interference (*EMI/EMC*) compliance
+  * Thermal chamber testing & drop/impact testing
+* **Flight Validation**
+  * Range testing, endurance limits, and failure-mode flight tests
+
+---
+
+### 12. Standards & Certification
+> 🟢 **Status:** Complete | 🔷 **Priority:** Medium
+> 
+> *Regulatory frameworks and civil/military certification standards.*
+
+* **Standardization Bodies**
+  * ASTM, ISO, SAE, and MIL-STD specifications
+* **Avionics & Software Safety Standards**
+  * DO-178C (*Software considerations*)
+  * DO-254 (*Complex electronic hardware*)
+  * DO-160 (*Environmental conditions*)
+* **Civil Regulations**
+  * Remote ID compliance, FAA Part 107 / EASA / DGCA frameworks
+
+---
+
+### 13. Human Factors
+> 🟢 **Status:** Complete | ⚪ **Priority:** Low
+> 
+> *Human-machine interface, operator fatigue, and crew dynamics.*
+
+* **Cognitive Limits & Ergonomics**
+  * Pilot fatigue, stress response, and workload management
+  * Ground Control Station (*GCS*) UI/UX layout
+* **Automation Interactions**
+  * Situational awareness degradation & automation bias
+
+---
+
+### 14. Maintenance Engineering
+> 🟢 **Status:** Complete | 🔷 **Priority:** Medium
+> 
+> *Preventive, predictive, and corrective airframe maintenance.*
+
+* **Condition Monitoring & Diagnostics**
+  * Telemetry-based predictive maintenance & vibration diagnostics
+* **High-Wear Components**
+  * Motor bearings, ESC degradation, propeller fatigue
+* **Documentation**
+  * Scheduled maintenance logs and component lifecycle tracking
+
+---
+
+### 15. Reliability Engineering
+> 🟢 **Status:** Complete | 🔥 **Priority:** High
+> 
+> *Statistical failure analysis, fault tolerance, and safety metrics.*
+
+* **Reliability Metrics**
+  * Mean Time Between Failures (*MTBF*) & Mean Time to Repair (*MTTR*)
+  * Failure Mode and Effects Analysis (*FMEA*) & Fault Tree Analysis (*FTA*)
+* **System Redundancy**
+  * Dual/triple IMU setups, ESC fallback routines, power path redundancy
+
+---
+
+### 16. Swarm Robotics
+> 🟡 **Status:** Needs Expansion | 🔥 **Priority:** High
+> 
+> 📁 **References:** [Drone Swarms Research Folder](./research%20papers/drone%20swarms/)
+> * 📄 [Swarm Coordination Survey](./research%20papers/drone%20swarms/1-s2.0-S2452414X18300086-main.pdf)
+> * 📄 [UAV Swarm Intelligence Advances](./research%20papers/drone%20swarms/UAV_Swarm_Intelligence_Recent_Advances_and_Future_.pdf)
+> * 📄 [Swarm Formations & Control](./research%20papers/drone%20swarms/drones-09-00700-v2.pdf)
+> * 📄 [Distributed Swarm Networks](./research%20papers/drone%20swarms/s44147-025-00582-3.pdf)
+
+* **Kinematic & Formation Control**
+  * Flocking behavior, formation control, leader-follower models
+* **Distributed Autonomy**
+  * Consensus algorithms & decentralized task allocation
+  * Mesh networking & collective intelligence
+
+---
+
+### 17. Electronic Warfare
+> 🟡 **Status:** Needs Expansion | 🔥 **Priority:** High
+> 
+> 📁 **References:** [War Case Studies Folder](./war%20case%20studies/)
+> * 📄 [Combined Arms UAS Study](./war%20case%20studies/221110_Jones_CombinedArms_UASs.pdf)
+> * 📄 [Grenade-Dropping Quadcopters](./war%20case%20studies/Grenade-Dropping-Quadcopters-UA.pdf)
+> * 📄 [Bayraktars & Quadcopters Case Study](./war%20case%20studies/danczuk-bayraktars-quadcopters-II-UA1.pdf)
+> * 📊 [Tactical Dataset (case.json)](./war%20case%20studies/case.json)
+
+* **RF Spectrum & Signals Intelligence**
+  * RF spectrum analysis, SIGINT, ELINT, and direction finding
+* **Countermeasures & Resiliency**
+  * RF jamming, spoofing, anti-jamming, and frequency hopping
+  * GPS-denied navigation (*Optical flow, terrain matching, visual SLAM*)
+  * Cyber electronic warfare & link interception
+
+---
+
+### 18. Economics
+> 🟢 **Status:** Complete | ⚪ **Priority:** Low
+> 
+> *Business models, manufacturing unit economics, and operational ROI.*
+
+* **Cost Modeling & Unit Economics**
+  * Manufacturing BOM cost vs. operational flight hour cost
+  * ROI models for commercial fleet operations
+* **Service Infrastructures**
+  * Drone-as-a-Service (*DaaS*), insurance premiums, supply chain risks
+
+---
+
+### 19. Ethics & Philosophy
+> 🟢 **Status:** Complete | ⚪ **Priority:** Low
+> 
+> *Ethics of lethal autonomy, privacy concerns, and environmental impact.*
+
+* **Autonomous Weapons & Defense**
+  * Ethics of autonomous targeting & international humanitarian law
+* **Societal & Environmental Impact**
+  * Civil privacy, mass surveillance concerns, noise pollution, wildlife disruption
+
+---
+
+### 20. Future Research
+> 🟢 **Status:** Complete | 🔷 **Priority:** Medium
+> 
+> 📁 **References:** [Future Tech Folder](./future%20tech/)
+> * 📄 [Cellular-Connected UAVs.pdf](./future%20tech/Cellular-Connected%20UAVs.pdf)
+> * 📄 [Internet of Drones (IoD).pdf](./future%20tech/Internet%20of%20Drones%20(IoD).pdf)
+> * 📄 [Tethered UAV System.pdf](./future%20tech/Tethered%20UAV%20System.pdf)
+
+* **Emerging Flight Technologies**
+  * Neuromorphic processing, quantum navigation, self-healing materials
+  * Morphing wings & bio-inspired micro air vehicles (*MAVs*)
+* **Future Infrastructure**
+  * Planetary/space exploration drones, automated drone highways, urban droneports
 
 ---
 
 ### 21. Reverse Engineering Existing Drones ⭐
-> Disassembling commercial platforms to analyze construction and firmware.
+> ⭐ **Status:** Core / Complete | 🔥 **Priority:** High
+> 
+> *Hardware teardowns and firmware analysis of commercial platforms.*
 
-*   **Platform Teardowns**
-    *   DJI, Skydio, and Parrot drones
-    *   Open-source & custom FPV racing platforms
-*   **Dissection Focus Areas**
-    *   PCB layout, cooling systems, and sensors
-    *   Flight controllers & camera payloads
-    *   Motor selection & weight optimization
-    *   Firmware extraction & analysis
+* **Hardware Teardowns**
+  * DJI, Skydio, Parrot, and custom FPV racing airframes
+* **Dissection Areas**
+  * Thermal dissipation, PCB trace analysis, sensor integration
+  * Flight controller architecture & proprietary firmware extraction
 
 ---
 
 ### 22. Entrepreneurship & Startups ⭐
-> Launching commercial drone ventures.
+> ⭐ **Status:** Core / Complete | 🔷 **Priority:** Medium
+> 
+> *Building and scaling a venture in the hardware and drone service sector.*
 
-*   **Business Verticals**
-    *   Drone manufacturing vs. services
-    *   Agriculture, defense, and inspection startups
-    *   Mapping companies
-*   **Venture Operations**
-    *   Funding, government grants, patents, IP, and export regulations
+* **Market Verticals**
+  * Manufacturing vs. software analytics vs. field operations
+* **Venture Execution**
+  * Pitching, government grants, defense procurement, export controls (*ITAR/EAR*)
 
 ---
 
 ### 23. Research Methodology ⭐
-> Academic writing, patents, and testing frameworks.
+> ⭐ **Status:** Core / Complete | 🔷 **Priority:** Medium
+> 
+> *Academic rigor, simulation validation, and patent filing workflows.*
 
-*   **Research Loop**
-    *   Academic papers & patent search methods
-    *   Experimental design, simulator validation, and benchmarking
-    *   Publishing routes
+* **Methodology Loop**
+  * Literature review strategies, patent database navigation
+  * Simulator-to-real (*Sim2Real*) transfer & experimental benchmarking
 
 ---
 
 ### 24. Drone Simulators ⭐
-> Software-in-the-Loop (SITL) and photorealistic physics engines.
+> ⭐ **Status:** Core / Complete | 🔥 **Priority:** High
+> 
+> *Software-in-the-Loop (SITL) and photorealistic environment simulation.*
 
-*   **Development Simulators**
-    *   Microsoft AirSim, Gazebo, and PX4 SITL
-*   **Pilot Flight Simulators**
-    *   RealFlight, VelociDrone, and Liftoff
+* **Developer & Autopilot Simulators**
+  * PX4 SITL, ArduPilot SITL, Gazebo, Microsoft AirSim
+* **Pilot Training Simulators**
+  * Liftoff, VelociDrone, RealFlight
 
 ---
 
 ### 25. Open-Source Ecosystem ⭐
-> Open-source standards, libraries, and autopilots.
+> ⭐ **Status:** Core / Complete | 🔥 **Priority:** High
+> 
+> *Software frameworks, libraries, and open standards.*
 
-*   **Autopilots & OS**
-    *   GitHub repository management
-    *   PX4 & ArduPilot
-    *   Robot Operating System 2 (ROS2) & Dronecode
-*   **Computer Vision & ML**
-    *   OpenCV, YOLO, TensorFlow, PyTorch
-*   **Protocols**
-    *   MAVSDK, MAVROS, and DroneCAN
+* **Autopilots & Middleware**
+  * PX4 Autopilot, ArduPilot, ROS 2, Dronecode Consortium
+* **Computer Vision & ML Libraries**
+  * OpenCV, YOLO, PyTorch, TensorFlow Lite
+* **Communication Protocols**
+  * MAVLink, MAVSDK, MAVROS, DroneCAN
 
 ---
 
 ### 26. Patent Landscape ⭐
-> Navigating IP protection and licensing.
+> ⭐ **Status:** Core / Complete | 🔷 **Priority:** Medium
+> 
+> *Intellectual property strategy and patent trends in UAV technology.*
 
-*   **History & Trends**
-    *   History of UAV patents & leading innovators
-*   **Strategy**
-    *   Patent searching, Freedom to Operate (FTO), and open-source vs. patent strategy
+* **IP Dynamics**
+  * Major patent holders, historical innovation trends, Freedom to Operate (*FTO*) analysis
 
 ---
 
 ### 27. Country-by-Country Drone Industry ⭐
-> Comparative analysis of the global drone economy.
+> ⭐ **Status:** Core / Complete | 🔷 **Priority:** Medium
+> 
+> *Global drone market analysis across key defense and commercial nations.*
 
-*   **Regions Analysed**
-    *   US, China, India, Israel, Turkey, Ukraine, UK, Japan, South Korea, Europe, Australia, Middle East
-*   **Comparative Factors**
-    *   Local manufacturers, civil/defense policies, exports, and defense integration
+* **Regional Analysis**
+  * USA, China, India, Israel, Turkey, Ukraine, Europe, UK, Japan, South Korea
+* **Strategic Variables**
+  * Domestic supply chain independence, regulatory speed, defense integration
 
 ---
 
 ### 28. Appendix Expansion 🟢
-> Formula handbook and template logs.
+> 🟢 **Status:** Complete | 🔷 **Priority:** Medium
 > 
-> 📄 **Core Reference:** [Knowledge Guide DPAI Book PDF](file:///C:/Users/Aryan/Desktop/MY_BOOK/Knowledge_Guide_DPAI_Book.pdf)
+> 📄 **Core Reference:** [Knowledge Guide DPAI Book PDF](./Knowledge_Guide_DPAI_Book.pdf)
 
-*   **Reference Charts**
-    *   Drone formulas handbook & conversion tables
-    *   Airspace, ICAO, NATO symbols/terminology, and abbreviations
-    *   Component datasheets & wiring standards
-    *   ESC protocol comparisons & motor KV/propeller charts
-    *   Battery, sensor, and software reference charts
-    *   Global regulations comparison matrix
-*   **Operations Logs & Templates**
-    *   Drone buying guide & build checklists
-    *   Maintenance & flight logs
-    *   Mission report & accident investigation templates
+* **Reference Charts & Tables**
+  * Drone flight formulas, unit conversion matrices
+  * ESC protocols, motor KV vs. propeller matching charts
+  * Global regulation summary matrix
+* **Templates & Operational Checklists**
+  * Pre-flight checklists, maintenance logs, accident investigation reports
 
 ---
 
-## 📂 Quick-Access Reference Materials
+## 📂 Master Reference Index
 
-For convenience, here is a categorized directory list of the reference PDFs and source files included in this workspace:
+An organized index of local workspace reference documents:
 
 ### 📌 Core Guides
-*   📄 [Knowledge_Guide_DPAI_Book.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/Knowledge_Guide_DPAI_Book.pdf)
+* 📄 [Knowledge_Guide_DPAI_Book.pdf](./Knowledge_Guide_DPAI_Book.pdf)
 
 ### 🚀 Future Tech & Trends
-*   📁 [future tech/ Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/)
-*   📄 [Cellular-Connected UAVs.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/Cellular-Connected%20UAVs.pdf)
-*   📄 [Internet of Drones (IoD).pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/Internet%20of%20Drones%20(IoD).pdf)
-*   📄 [Quantum Drones & Quantum Navigation.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/Quantum%20Drones%20&%20Quantum%20Navigation.pdf)
-*   📄 [Tethered UAV System.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/Tethered%20UAV%20System.pdf)
-*   📄 [s10462-025-11449-7.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/future%20tech/s10462-025-11449-7.pdf)
+* 📁 [future tech/ Directory](./future%20tech/)
+* 📄 [Cellular-Connected UAVs.pdf](./future%20tech/Cellular-Connected%20UAVs.pdf)
+* 📄 [Internet of Drones (IoD).pdf](./future%20tech/Internet%20of%20Drones%20(IoD).pdf)
+* 📄 [Quantum Drones & Quantum Navigation.pdf](./future%20tech/Quantum%20Drones%20&%20Quantum%20Navigation.pdf)
+* 📄 [Tethered UAV System.pdf](./future%20tech/Tethered%20UAV%20System.pdf)
 
-### ⚔️ Military & War Case Studies
-*   📁 [war case studies/ Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/)
-*   📄 [10.32709-akusosbil.1675258-4769461.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/10.32709-akusosbil.1675258-4769461.pdf)
-*   📄 [11-Tselitskiy.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/11-Tselitskiy.pdf)
-*   📄 [221110_Jones_CombinedArms_UASs.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/221110_Jones_CombinedArms_UASs.pdf)
-*   📄 [227-ArticleText-682-1-10-20250707.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/227-ArticleText-682-1-10-20250707.pdf)
-*   📄 [Grenade-Dropping-Quadcopters-UA.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/Grenade-Dropping-Quadcopters-UA.pdf)
-*   📄 [N0620210303.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/N0620210303.pdf)
-*   📊 [case.json](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/case.json)
-*   📄 [danczuk-bayraktars-quadcopters-II-UA1.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/war%20case%20studies/danczuk-bayraktars-quadcopters-II-UA1.pdf)
+### ⚔️ Tactical & Military Studies
+* 📁 [war case studies/ Directory](./war%20case%20studies/)
+* 📄 [Combined Arms UASs Study](./war%20case%20studies/221110_Jones_CombinedArms_UASs.pdf)
+* 📄 [Grenade-Dropping Quadcopters](./war%20case%20studies/Grenade-Dropping-Quadcopters-UA.pdf)
+* 📄 [Bayraktars & Quadcopters Case Study](./war%20case%20studies/danczuk-bayraktars-quadcopters-II-UA1.pdf)
+* 📊 [Tactical Case Dataset (case.json)](./war%20case%20studies/case.json)
 
 ### 🔬 Research Papers
-*   📁 [research papers/ Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/)
-*   📄 [1711.10085v2.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/1711.10085v2.pdf)
-*   📄 [2307.13691v1.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/2307.13691v1.pdf)
-*   📄 [civil applicatons.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/civil%20applicatons.pdf)
-*   📄 [communicatoin - 5G and 6G.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/communicatoin%20-%205G%20and%206G.pdf)
-*   📄 [flight control and navigation.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/flight%20control%20and%20navigation.pdf)
-*   📄 [s10846-021-01527-7.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/s10846-021-01527-7.pdf)
-
-#### 🤖 AI in Drones
-*   📁 [artificial intelligence in drones/ Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/artificial%20intelligence%20in%20drones/)
-*   📄 [s10462-025-11449-7.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/artificial%20intelligence%20in%20drones/s10462-025-11449-7.pdf)
-*   📄 [s44163-024-00209-1.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/artificial%20intelligence%20in%20drones/s44163-024-00209-1.pdf)
-*   📄 [ssrn-6810618.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/artificial%20intelligence%20in%20drones/ssrn-6810618.pdf)
-
-#### 🔗 Drone Swarms
-*   📁 [drone swarms/ Directory](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/)
-*   📄 [1-s2.0-S2452414X18300086-main.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/1-s2.0-S2452414X18300086-main.pdf)
-*   📄 [UAV_Swarm_Intelligence_Recent_Advances_and_Future_.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/UAV_Swarm_Intelligence_Recent_Advances_and_Future_.pdf)
-*   📄 [drones-09-00700-v2.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/drones-09-00700-v2.pdf)
-*   📄 [s44147-025-00582-3.pdf](file:///C:/Users/Aryan/Desktop/MY_BOOK/research%20papers/drone%20swarms/s44147-025-00582-3.pdf)
+* 📁 [research papers/ Directory](./research%20papers/)
+* 📄 [Flight Control & Navigation](./research%20papers/flight%20control%20and%20navigation.pdf)
+* 📄 [Civil Applications](./research%20papers/civil%20applicatons.pdf)
+* 📄 [5G & 6G Drone Communication](./research%20papers/communicatoin%20-%205G%20and%206G.pdf)
+* 📁 [AI in Drones Directory](./research%20papers/artificial%20intelligence%20in%20drones/)
+* 📁 [Drone Swarms Directory](./research%20papers/drone%20swarms/)

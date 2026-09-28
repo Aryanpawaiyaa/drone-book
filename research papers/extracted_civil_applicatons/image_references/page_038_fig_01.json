@@ -1,0 +1,29 @@
+{
+  "original_page": 38,
+  "figure_number": "Figure 37",
+  "original_caption": "• For future research, it is important to propose efﬁcient techniques that manage and control the power consump- tion of Internet of things devices on-board [3]. | • The security is one of the most critical issues to think about in UAVs-based Internet of things services, methods to avoid the aerial jammer on the communications are needed [3].",
+  "contextual_text": "38 clustering, as well as D2D ﬁle sharing [8]. • Utilizing UAVs in public safety communications needs\nfurther research, where topology formation, cooperation\nbetween UAVs in a multi-UAV network, energy con-\nstraints, and mobility model are the challenges that are\nfacing UAVs in public safety communications [9]. • In UAVs-based IoT services, it is difﬁcult to control and\nmanage a high number of UAVs. The reason is that\neach UAV may host more than one IoT device, such as\ndifferent types of cameras and aerial sensors. Moreover,\nconﬂict of interest between different devices likely to\nhappen many times, e.g., taking two videos from two\ndifferent angles from one ﬁxed placement. For future\nresearch, we need to propose efﬁcient algorithms to solve\nthe conﬂict of interest among Internet of things devices\non-board [3]. • For future research, it is important to propose efﬁcient\ntechniques that manage and control the power consump-\ntion of Internet of things devices on-board [3]. • The security is",
+  "section_title": "XII. KEY CHALLENGES",
+  "image_filename": "page_038_fig_01.png",
+  "relative_path": "images/page_038_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "internet",
+    "things",
+    "future",
+    "research",
+    "important",
+    "propose",
+    "techniques",
+    "manage",
+    "control",
+    "power"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 321,
+    "height": 361,
+    "size_bytes": 41814,
+    "format": "png"
+  }
+}

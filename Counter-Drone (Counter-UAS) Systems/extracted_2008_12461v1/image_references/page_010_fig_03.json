@@ -1,0 +1,38 @@
+{
+  "original_page": 10,
+  "figure_number": "Fig. 10",
+  "original_caption": "The data fusion approaches combine the advantages of each approach in the detection. The attempts show that the data fusion approaches have obvious advantages compared with single methods. According to the characteristics of each type of approaches, the detection deployment could contain multiple schemes in different areas which is apart from the center restricted areas in distance differently. Thereafter, how to implement the data fusion algorithms to achieve the con- sistency of the detection system on the results will be next challenge. Another challenge of the data fusion approaches is how to balance the weight of each approach in the ﬁnal decision to achieve optimal detection results. | The technologies of detection and mitigation are still im- mature. The research on UAS mitigation is limited. David etc. [99] developed an architecture of UAS defense system. In this architecture, they speciﬁed the effective engagement range, including initial target range, detection range and neutralization range which is dominant for response. And their report showed that when the range is over 4,000 feet, the hardware based reaction and neutralization could operate efﬁciently. Based on the architecture, the approaches could be classiﬁed into three main categories, as shown in Fig. 10. The ﬁrst one is the physical capture which focuses on capturing UAS with physical methods. The second is to leverage the noise generator to jam the systems or sensors, thus rendering the UAS inoperable by the UAS controller. The third is to exploit vulnerabilities of system or sensors to acquire priority of control.",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n10 In this part, the sensing algorithms receive the data\ndelivered from the sensors and extract the target features\naccording to the types of sensors. The UAS detection\nsystem can adjust the sensing algorithm accuracy to meet\nthe requirement of detection once the abnormal signals\nare detected. In [91], the researchers leverage the unsu-\npervised approaches to extract the features of signal from\nvarious acoustic sensors under different scenarios (bird,\nairplanes, thunderstorm, rain, wind and UAS). Based on\nthe recognition of scenarios, the system, proposed in\nthis research, triggers support vector machine (SVM)\nand K Nearest Neighbor (KNN), separately, to detect\nthe amateur drones in the restricted areas. To achieve\nthe tracking efﬁciency, the authors, in [94], [95], [96],\n[97], implemented multiple sensing algorithms on the\npassive mm-wave radar system to achieve the different\naccuracy of tracking according to the requirement of the\nrecognition.\nThe combinati",
+  "section_title": "UAS Negation",
+  "image_filename": "page_010_fig_03.jpeg",
+  "relative_path": "images/page_010_fig_03.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "detection",
+    "uas",
+    "approaches",
+    "range",
+    "data",
+    "fusion",
+    "each",
+    "could",
+    "architecture",
+    "advantages"
+  ],
+  "cross_references": [
+    {
+      "page": 10,
+      "snippet": "The technologies of detection and mitigation are still im-\nmature. The research on UAS mitigation is limited. David\netc. [99] developed an architecture of UAS defense system.\nIn this architecture, the"
+    },
+    {
+      "page": 10,
+      "snippet": "Fig. 10: Categories of UAS Negation"
+    }
+  ],
+  "metadata": {
+    "width": 256,
+    "height": 256,
+    "size_bytes": 17190,
+    "format": "jpeg"
+  }
+}

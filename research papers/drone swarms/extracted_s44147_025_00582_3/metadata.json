@@ -1,0 +1,158 @@
+{
+  "source_pdf": "s44147-025-00582-3.pdf",
+  "total_pages": 24,
+  "total_extracted_images": 8,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "UAV swarms: research, challenges, and future directions",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Abstract ",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Introduction",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Infrastructure and features of UAV swarms",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": " UAV swarms infrastructure",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "Features and characteristics of UAV swarms",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "Research aspects of UAV swarms",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "Coordinated path planning for UAV swarms",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "Task assignment and role interchangeability",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "Formation control in UAV swarms",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "Communication and networking in UAV swarms",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "Security & privacy considerations",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "Towards intelligent UAV swarms",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "Recent advancements",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "Integration of AI and ML in UAV swarms",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "Application areas of UAV swarms",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "Civilian applications",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "Military applications",
+      "page": 17
+    },
+    {
+      "level": 2,
+      "title": "Challenges, limitations and future directions",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "Heterogeneous swarms and ethical considerations",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "Energy efficiency and algorithm development",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "Autonomous control and task allocation",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "Communication and coordination",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Robustness and scalability",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Synchronization and environmental disturbances",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Security and safety",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "Conclusions",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "Acknowledgements",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "References",
+      "page": 22
+    }
+  ],
+  "output_directory": "f:\\drone-book\\research papers\\drone swarms\\extracted_s44147_025_00582_3",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

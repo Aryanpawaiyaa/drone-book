@@ -1,0 +1,338 @@
+{
+  "source_pdf": "IET Information Security - 2025 - Alsadie - Cybersecurity and Artificial Intelligence in Unmanned Aerial Vehicles  Emerging.pdf",
+  "total_pages": 50,
+  "total_extracted_images": 0,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Cybersecurity and Artificial Intelligence in Unmanned Aerial Vehicles: Emerging Challenges and Advanced Countermeasures",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "1. Introduction",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "2. Related Work",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "3. Research Methodology",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "3.1. Criteria for Selecting Papers",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "3.2. Databases Searched",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "3.3. Inclusion and Exclusion Criteria",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "3.4. Paper Selection Process",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "3.5. Quality Assessment of Selected Studies",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "3.6. Trends and Advancements",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "4. Security Threats in AI-Driven UAVs",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "4.1. Cybersecurity Threats",
+      "page": 8
+    },
+    {
+      "level": 4,
+      "title": "4.1.1. Hacking and Unauthorized Access",
+      "page": 8
+    },
+    {
+      "level": 4,
+      "title": "4.1.2. Jamming and Spoofing Attacks",
+      "page": 10
+    },
+    {
+      "level": 4,
+      "title": "4.1.3. AI-Powered Adversarial Attacks",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "4.2. Physical Security Threats",
+      "page": 11
+    },
+    {
+      "level": 4,
+      "title": "4.2.1. Drone Hijacking and Hardware Tampering",
+      "page": 11
+    },
+    {
+      "level": 4,
+      "title": "4.2.2. Electromagnetic and RF Attacks",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "4.3. Privacy and Ethical Threats",
+      "page": 12
+    },
+    {
+      "level": 4,
+      "title": "4.3.1. Surveillance and Data Privacy Issues",
+      "page": 12
+    },
+    {
+      "level": 4,
+      "title": "4.3.2. Autonomous Decision-Making Risks",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "5. Issues and Challenges in Securing AI-Driven UAVs",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "5.1. AI-Specific Challenges",
+      "page": 13
+    },
+    {
+      "level": 4,
+      "title": "5.1.1. Adversarial AI Attacks",
+      "page": 13
+    },
+    {
+      "level": 4,
+      "title": "5.1.2. Explainability and Trust in AI Models",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "5.2. Communication and Network Challenges",
+      "page": 15
+    },
+    {
+      "level": 4,
+      "title": "5.2.1. Secure Data Transmission",
+      "page": 15
+    },
+    {
+      "level": 4,
+      "title": "5.2.2. Latency and Reliability Trade-Offs in Edge-Based vs. Cloud-Based Threat Detection for UAVs",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "5.3. Regulatory and Ethical Issues",
+      "page": 16
+    },
+    {
+      "level": 4,
+      "title": "5.3.1. Lack of Standardized Security Frameworks",
+      "page": 17
+    },
+    {
+      "level": 4,
+      "title": "5.3.2. Legal and Privacy Concerns",
+      "page": 17
+    },
+    {
+      "level": 2,
+      "title": "6. Recent Solutions for Securing AI-Driven UAVs",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "6.1. AI-Based Intrusion Detection and Prevention",
+      "page": 18
+    },
+    {
+      "level": 4,
+      "title": "6.1.1. ML for Threat Detection",
+      "page": 19
+    },
+    {
+      "level": 4,
+      "title": "6.1.2. FL for Secure Model Training",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "6.2. Blockchain for Secure UAV Communication",
+      "page": 22
+    },
+    {
+      "level": 4,
+      "title": "6.2.1. Decentralized Security Solutions",
+      "page": 24
+    },
+    {
+      "level": 4,
+      "title": "6.2.2. Immutable Logging for Security",
+      "page": 25
+    },
+    {
+      "level": 3,
+      "title": "6.3. Cryptographic and Authentication Mechanisms",
+      "page": 25
+    },
+    {
+      "level": 4,
+      "title": "6.3.1. PQC",
+      "page": 28
+    },
+    {
+      "level": 4,
+      "title": "6.3.2. Multi-Factor Authentication (MFA) for UAV Security",
+      "page": 29
+    },
+    {
+      "level": 3,
+      "title": "6.4. Adversarial Defense Mechanisms in AI Models",
+      "page": 31
+    },
+    {
+      "level": 4,
+      "title": "6.4.1. Robust AI Models Against Adversarial Attacks",
+      "page": 31
+    },
+    {
+      "level": 4,
+      "title": "6.4.2. XAI for UAV Decision Transparency",
+      "page": 34
+    },
+    {
+      "level": 3,
+      "title": "6.5. Software and Hardware-Based Countermeasures",
+      "page": 34
+    },
+    {
+      "level": 4,
+      "title": "6.5.1. Hardware Security Modules (HSMs) for UAVs",
+      "page": 36
+    },
+    {
+      "level": 4,
+      "title": "6.5.2. Self-Healing UAV Systems",
+      "page": 37
+    },
+    {
+      "level": 2,
+      "title": "7. Limitations and Future Research Directions",
+      "page": 39
+    },
+    {
+      "level": 3,
+      "title": "7.1. Limitations of the Present Study",
+      "page": 39
+    },
+    {
+      "level": 3,
+      "title": "7.2. Discussion of Alternative Explanations for Observed Findings",
+      "page": 41
+    },
+    {
+      "level": 3,
+      "title": "7.3. Next-Generation AI Security for UAVs",
+      "page": 41
+    },
+    {
+      "level": 4,
+      "title": "7.3.1. Self-Adaptive AI Security Models",
+      "page": 41
+    },
+    {
+      "level": 4,
+      "title": "7.3.2. AI-Powered Threat Intelligence Systems",
+      "page": 41
+    },
+    {
+      "level": 3,
+      "title": "7.4. Integration of 6G and Edge Computing",
+      "page": 42
+    },
+    {
+      "level": 4,
+      "title": "7.4.1. 6G-Enabled Secure UAV Networks",
+      "page": 42
+    },
+    {
+      "level": 4,
+      "title": "7.4.2. Edge AI for Secure UAV Data Processing",
+      "page": 42
+    },
+    {
+      "level": 3,
+      "title": "7.5. AI-Empowered UAV Swarm Security",
+      "page": 43
+    },
+    {
+      "level": 4,
+      "title": "7.5.1. Decentralized AI for Secure UAV Swarm Operations",
+      "page": 43
+    },
+    {
+      "level": 4,
+      "title": "7.5.2. Blockchain-Based UAV Swarm Communication Security",
+      "page": 43
+    },
+    {
+      "level": 3,
+      "title": "7.6. Ethical Considerations",
+      "page": 44
+    },
+    {
+      "level": 2,
+      "title": "8. Conclusion",
+      "page": 45
+    },
+    {
+      "level": 2,
+      "title": "Data Availability Statement",
+      "page": 45
+    },
+    {
+      "level": 2,
+      "title": "Conflicts of Interest",
+      "page": 45
+    },
+    {
+      "level": 2,
+      "title": "Funding",
+      "page": 45
+    },
+    {
+      "level": 2,
+      "title": "References",
+      "page": 45
+    }
+  ],
+  "output_directory": "f:\\drone-book\\Electronic Warfare (EW)\\extracted_IET_Information_Security_2025_Alsadie_Cybersecurity_and_Artificial_Intelligence_in_Unmanned_Aerial_Vehicles_Emerging",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

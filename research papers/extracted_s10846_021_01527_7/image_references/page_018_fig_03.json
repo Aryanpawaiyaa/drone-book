@@ -1,0 +1,38 @@
+{
+  "original_page": 18,
+  "figure_number": "Fig. 19",
+  "original_caption": "7.6 Fuzzy Logic | Fuzzy logic controllers have a powerful problem-solving method which can now be found in many applications [118–120]. Unlike other controllers, fuzzy logic designs are easier to implement considering the fact that ideal",
+  "contextual_text": "approach, the state-dependant bounds of internal and external\nuncertainties has been successfully approximated and estimat-\ned to build a successful control scheme. 7.5 H∞Control H∞has a unique method of viewing the control as a mathe-\nmatical optimization problem. Finding the correct gain values\nto stabilize the system is a vital objective for this type of\ncontroller [116, 117]. A general control configuration is intro-\nduced by Doyle [128] where the block diagram shown in\nFig. 20 provides a broad insight of how the H∞controller func-\ntions. The block P is expressed as the generalized plant and\nblock K is the controller, in this case, the generalized plant P\ncontains the Quadrotor dynamic system, plus all weighing\nfunctions. The input signal ω carries all of the inputs including\nexternal signals such as sensor noises, uncertain disturbances\n(e.g. wind) and the usual commands; the output Z carries the\nsystem states while V carries the measured variable and U is\nthe control input that i",
+  "section_title": "7.6 Fuzzy Logic",
+  "image_filename": "page_018_fig_03.jpeg",
+  "relative_path": "images/page_018_fig_03.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "fuzzy",
+    "logic",
+    "controllers",
+    "powerful",
+    "problem",
+    "solving",
+    "method",
+    "now",
+    "found",
+    "many"
+  ],
+  "cross_references": [
+    {
+      "page": 17,
+      "snippet": "coefficients are adaptively tuned by the NN method. This\ntechnique ensures that the system has a powerful capability\nof tackling non-linearity, fault tolerance, adaptation and con-\ntinuous online lear"
+    },
+    {
+      "page": 18,
+      "snippet": "Fig. 19 NN based control strategy flowchart [127]\nFig. 20 Generalised functionality of the H∞controller [128]"
+    }
+  ],
+  "metadata": {
+    "width": 462,
+    "height": 276,
+    "size_bytes": 9282,
+    "format": "jpeg"
+  }
+}

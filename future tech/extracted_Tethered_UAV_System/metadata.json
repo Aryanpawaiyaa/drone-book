@@ -1,0 +1,453 @@
+{
+  "source_pdf": "Tethered UAV System.pdf",
+  "total_pages": 48,
+  "total_extracted_images": 13,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Introduction ",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "New Features ",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "Power Supply ",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "Wired Data Communication ",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "Flight Safety Measure ",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "Application Fields ",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "Agriculture ",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "Marine Emergency ",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "Load Transportation ",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "Inspection and Monitoring ",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "Airborne Wind Energy (AWE) ",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "Meteorology ",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Painting ",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Cellular Networks ",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Firefighting ",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Field of Defense ",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "System Description ",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Aerial Platform ",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Tethered Connection ",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "Aerial Power Module ",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "Tether Cable ",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "Ground Control Station ",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "Tether Management System ",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Commercial Off-the-Shelf Systems ",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "Multi-Robot Systems ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "TUAV/UGV Team ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "TUAV/USV Team ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "TUAV Swarm ",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "TUAV + Manipulator ",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "Mathematical Modeling ",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "Multirotor UAV Model ",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "Cartesian Reference Frame ",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "Spherical Reference Frame ",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "Equations of Motion ",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "Tether Cable Model ",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "Tether Statics ",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "Tether Dynamics ",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "Tether Electrical Model ",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "Automated Winch Model ",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "Mechanical Model ",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "Electrical Model ",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "TUAV Unified Model ",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "Tethered Drone Dynamic Model ",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "Tethered Drone Power Draw Model ",
+      "page": 23
+    },
+    {
+      "level": 2,
+      "title": "Comparative Analysis and Modeling Trade-Offs ",
+      "page": 23
+    },
+    {
+      "level": 3,
+      "title": "UAV Platform Dynamics Modeling ",
+      "page": 24
+    },
+    {
+      "level": 3,
+      "title": "Tether Cable Dynamics ",
+      "page": 24
+    },
+    {
+      "level": 3,
+      "title": "Integrated UAV-Tether-Winch Dynamics ",
+      "page": 25
+    },
+    {
+      "level": 1,
+      "title": "Control ",
+      "page": 25
+    },
+    {
+      "level": 2,
+      "title": "State-Space Model ",
+      "page": 26
+    },
+    {
+      "level": 3,
+      "title": "Linearized Dynamics ",
+      "page": 26
+    },
+    {
+      "level": 3,
+      "title": "Nonlinear Dynamics ",
+      "page": 27
+    },
+    {
+      "level": 2,
+      "title": "Control Techniques ",
+      "page": 27
+    },
+    {
+      "level": 3,
+      "title": "Proportional-Integral-Derivative Control ",
+      "page": 27
+    },
+    {
+      "level": 3,
+      "title": "Pole Placement ",
+      "page": 28
+    },
+    {
+      "level": 3,
+      "title": "Linear Quadratic Regulator ",
+      "page": 28
+    },
+    {
+      "level": 3,
+      "title": "Model Predictive Control ",
+      "page": 28
+    },
+    {
+      "level": 3,
+      "title": "Feedback Linearization ",
+      "page": 29
+    },
+    {
+      "level": 3,
+      "title": "Active Disturbance Rejection Control ",
+      "page": 29
+    },
+    {
+      "level": 3,
+      "title": "Backstepping Control ",
+      "page": 29
+    },
+    {
+      "level": 3,
+      "title": "Geometric Control ",
+      "page": 30
+    },
+    {
+      "level": 3,
+      "title": "Sliding Mode Control ",
+      "page": 30
+    },
+    {
+      "level": 3,
+      "title": "Impedance Control ",
+      "page": 30
+    },
+    {
+      "level": 3,
+      "title": "Admittance Control ",
+      "page": 31
+    },
+    {
+      "level": 3,
+      "title": "Fuzzy Logic Control ",
+      "page": 31
+    },
+    {
+      "level": 2,
+      "title": "Comparative Evaluation of TUAV Control Techniques ",
+      "page": 31
+    },
+    {
+      "level": 1,
+      "title": "Hardware and Sensors ",
+      "page": 32
+    },
+    {
+      "level": 2,
+      "title": "Hardware ",
+      "page": 33
+    },
+    {
+      "level": 3,
+      "title": "Avionics/Onboard Hardware ",
+      "page": 33
+    },
+    {
+      "level": 3,
+      "title": "Ground-Level Hardware ",
+      "page": 33
+    },
+    {
+      "level": 2,
+      "title": "Sensors ",
+      "page": 34
+    },
+    {
+      "level": 3,
+      "title": "Tethered Drone Sensors ",
+      "page": 35
+    },
+    {
+      "level": 3,
+      "title": "TMS Sensors ",
+      "page": 35
+    },
+    {
+      "level": 1,
+      "title": "Localization and Navigation ",
+      "page": 36
+    },
+    {
+      "level": 2,
+      "title": "State and Disturbance Observers ",
+      "page": 36
+    },
+    {
+      "level": 2,
+      "title": "Localization Methods ",
+      "page": 37
+    },
+    {
+      "level": 3,
+      "title": "Traditional Methods ",
+      "page": 37
+    },
+    {
+      "level": 3,
+      "title": "Tether-Enhanced Methods ",
+      "page": 38
+    },
+    {
+      "level": 2,
+      "title": "Navigation Strategies ",
+      "page": 38
+    },
+    {
+      "level": 3,
+      "title": "Sampling-Based Global Planning ",
+      "page": 38
+    },
+    {
+      "level": 3,
+      "title": "Optimization-Based Planning ",
+      "page": 39
+    },
+    {
+      "level": 3,
+      "title": "Reactive and Vector Field-Based Navigation ",
+      "page": 39
+    },
+    {
+      "level": 3,
+      "title": "Visual Servoing and Visual-Inertial Guidance ",
+      "page": 39
+    },
+    {
+      "level": 3,
+      "title": "Contact-Aware and Constraint-Driven Planning ",
+      "page": 40
+    },
+    {
+      "level": 3,
+      "title": "Terrain-Aware and Nature-Inspired Planning ",
+      "page": 40
+    },
+    {
+      "level": 3,
+      "title": "Differential GNSS-Based Navigation ",
+      "page": 40
+    },
+    {
+      "level": 1,
+      "title": "Conclusions ",
+      "page": 40
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 42
+    }
+  ],
+  "output_directory": "f:\\drone-book\\future tech\\extracted_Tethered_UAV_System",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "original_page": 8,
+  "figure_number": "Fig. 4",
+  "original_caption": "Direct Link  Disconnection | Flight Control",
+  "contextual_text": "8 Direct Link \nDisconnection Flight Control Command UAV Video Feed UAV Remote Control Station Attacker \n(a) Man-in-the-Middle (MitM) attack diagram \n(b) Wi-Fi and de-authentication attack illustration Human Operator Malicious user UAV Control Loss De-authentication Attack And / Or Connection Loss Malicious user sending \nmultiple messages make \nbusy & lose connection (c) Entities involved and denial-of-service attack Fig. 4: UAV-to-command center coordination attacks: (a) man-in-the-middle attack; (b) Wi-Fi attack and/or de-authentication\nattack, wherein a malicious attacker closes the communication channel used by a legitimate user; and (c) Entities involved in\na DoS attack. received, jamming these signals can be very easily performed\nby broadcasting noise near the GPS frequency band. A short-\nrange experiment was conducted in [52], [65], in which an\n$8 USD GPS jammer which was purchased from eBay was\nused to demonstrate the ease and accessibility of GPS jamming\nhardware. Wi-Fi Attack:",
+  "section_title": "IV. UAV FUNCTIONALITY ATTACKS",
+  "image_filename": "page_008_fig_02.png",
+  "relative_path": "images/page_008_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "direct",
+    "link",
+    "disconnection",
+    "flight",
+    "control",
+    "uav",
+    "functionality",
+    "attacks"
+  ],
+  "cross_references": [
+    {
+      "page": 8,
+      "snippet": "Fig. 4: UAV-to-command center coordination attacks: (a) man-in-the-middle attack; (b) Wi-Fi attack and/or de-authentication\nattack, wherein a malicious attacker closes the communication channel used b"
+    }
+  ],
+  "metadata": {
+    "width": 141,
+    "height": 175,
+    "size_bytes": 12600,
+    "format": "png"
+  }
+}

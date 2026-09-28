@@ -1,0 +1,34 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 6",
+  "original_caption": "Fig. 6: The change of papers distribution by UAV types over the years (overview). Best viewed in color. See text for details. | Fig. 7: Prototypes of quadcopters (in alphabetical order: [15], [36], [87]–[96]) appear in the reviewed papers. Note that 8 out of the 12 illustrated quadcopters have protective cases for safer operation and human-robot interaction. See text for details.",
+  "contextual_text": "6 TABLE II: Top twenty-ﬁve keywords from the identiﬁed drone papers. System modeling\n315\nTrajectory generation\n80\nSensor fusion\n51\nTeleoperation\n45\nMotion planning\n35\nControl\n288\nPath planning\n78\nAerial manipulation\n47\nLocalization\n44\nHuman-robot interaction\n33\nHardware development\n265\nVisual odometry\n75\nHeterogeneous robotics\n47\nVisual servoing\n44\nSLAM\n32\nTask planning\n161\nState estimation\n74\nTarget tracking\n46\nMachine learning\n41\nSystem identiﬁcation\n32\nImage processing\n117\nTeam robotics\n68\nOptical ﬂow\n45\nMapping\n40\nHybrid robotics\n31 Fig. 6: The change of papers distribution by UAV types over the years (overview). Best viewed in color. See text for details. Fig. 7: Prototypes of quadcopters (in alphabetical order: [15], [36], [87]–[96]) appear in the reviewed papers. Note that 8 out\nof the 12 illustrated quadcopters have protective cases for safer operation and human-robot interaction. See text for details. autonomous quadcopter (Fig. 7 (a)) with do-it-yourself (DIY)\nstereo percepti",
+  "section_title": "TABLE II: Top twenty-ﬁve keywords from the identiﬁed drone papers.",
+  "image_filename": "page_006_fig_01.jpeg",
+  "relative_path": "images/page_006_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "papers",
+    "see",
+    "text",
+    "details",
+    "quadcopters",
+    "change",
+    "distribution",
+    "uav",
+    "types",
+    "over"
+  ],
+  "cross_references": [
+    {
+      "page": 6,
+      "snippet": "Fig. 6: The change of papers distribution by UAV types over the years (overview). Best viewed in color. See text for details."
+    }
+  ],
+  "metadata": {
+    "width": 3358,
+    "height": 668,
+    "size_bytes": 531740,
+    "format": "jpeg"
+  }
+}

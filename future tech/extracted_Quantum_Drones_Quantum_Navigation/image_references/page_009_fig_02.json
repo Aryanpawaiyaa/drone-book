@@ -1,0 +1,42 @@
+{
+  "original_page": 9,
+  "figure_number": "Fig. 6",
+  "original_caption": "Quantum key is theoretically considered secure because it is  not possible to break it even with quantum computing approaches.  The success of this experimentation and the feasibility of launch- ing more such satellites will help create an IoQDs network. This  network will be helpful to establish secure communication for  various applications in different domains like military networks,  banks and ﬁnance, power grids, healthcare, Internet, telecommu- nication, and supply chain. A recent study [110] tested a method  for a relay conﬁguration of two quantum drones’ signal repeaters  located at different locations over the ground and one quantum  CubeSat to solve the critical obstacles to the quantum connection  between the Earth and a satellite (e.g., unfavourable weather and  environmental conditions). The drones used in this experiment of  quantum teleportation reached an altitude of 12 to 15 km and a  maximum velocity of 482 km/h. The study suggests that the devel- oped protocol allows spreading IoQDs to all continents and nearby  planets without being hampered by geographic features, environ- mental factors, or weather. | 3.3. Bridging knowledge gaps on Internet of Quantum Drones",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 5. Quantum satellite system [109]. Quantum key is theoretically considered secure because it is \nnot possible to break it even with quantum computing approaches. \nThe success of this experimentation and the feasibility of launch-\ning more such satellites will help create an IoQDs network. This \nnetwork will be helpful to establish secure communication for \nvarious applications in different domains like military networks, \nbanks and ﬁnance, power grids, healthcare, Internet, telecommu-\nnication, and supply chain. A recent study [110] tested a method \nfor a relay conﬁguration of two quantum drones’ signal repeaters \nlocated at different locations over the ground and one quantum \nCubeSat to solve the critical obstacles to the quantum connection \nbetween the Earth and a satellite (e.g., unfavourable weather and \nenvironmental conditions). The drones used in this experiment of \nquantum te",
+  "section_title": "3.3. Bridging knowledge gaps on Internet of Quantum Drones",
+  "image_filename": "page_009_fig_02.jpeg",
+  "relative_path": "images/page_009_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "quantum",
+    "drones",
+    "internet",
+    "secure",
+    "will",
+    "ioqds",
+    "network",
+    "different",
+    "study",
+    "weather"
+  ],
+  "cross_references": [
+    {
+      "page": 9,
+      "snippet": "In Fig. 6, we demonstrated an example of an architecture for \na long-distance connectivity system using drones, a constellation \nof quantum satellites, and an optical ﬁbre network. With the suc-\ncess "
+    },
+    {
+      "page": 9,
+      "snippet": "As shown in Fig. 6, a quantum satellite constellation can be \nconstructed in space. Here, each satellite can communicate either \ndirectly with the ground station or through high- and low-orbit \ndrones"
+    },
+    {
+      "page": 9,
+      "snippet": "Fig. 6. Long-distance connectivity using quantum drones, optical ﬁbre and satellites."
+    }
+  ],
+  "metadata": {
+    "width": 1288,
+    "height": 1100,
+    "size_bytes": 193969,
+    "format": "jpeg"
+  }
+}

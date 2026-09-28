@@ -1,0 +1,29 @@
+{
+  "original_page": 13,
+  "figure_number": "Figure 13-3",
+  "original_caption": "Acoustic  Unique acoustic pattern of | drones’ rotating motors.",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n13 TABLE IV: Comparison of UAS Detection technologies Methods \nPrinciples \nEnabling technologies \nAdvantages \nDisadvantages Acoustic \nUnique acoustic pattern of drones’ rotating motors. Pattern recognition, Digital signal processing, TDoA, Realtime embedded system Low-cost, light-weight \nAffected by weather condition, such as wind or vibration. Limited range of detection. Lacks of identification capacity. Vision \nThe unique pattern of drones’ appearance. Digital image processing, Pattern recognition,  Realtime embedded system, Night vision monocular. Low-cost, light-weight, small-size. Airborne High computational capacity consumption. Affected by environmental illumination Limited range of detection. Limited identification capacity Passive RF \nDistinguishable pattern of drones’ radio signals against background spectrums. Data traffic pattern recognition (FPV and telemetry); SDR; Digital signal processing; TDoA Low-cost. long-range. Identification capacity. Ai",
+  "section_title": "TABLE IV: Comparison of UAS Detection technologies",
+  "image_filename": "page_013_fig_03.png",
+  "relative_path": "images/page_013_fig_03.png",
+  "ocr_text": "",
+  "keywords": [
+    "acoustic",
+    "unique",
+    "pattern",
+    "drones",
+    "rotating",
+    "motors",
+    "comparison",
+    "uas",
+    "detection",
+    "technologies"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 270,
+    "height": 392,
+    "size_bytes": 10599,
+    "format": "png"
+  }
+}

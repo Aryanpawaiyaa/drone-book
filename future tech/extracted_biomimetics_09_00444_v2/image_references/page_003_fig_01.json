@@ -1,0 +1,29 @@
+{
+  "original_page": 3,
+  "figure_number": "Figure 2",
+  "original_caption": "Conventional VSLAM systems gather image data at fixed frame rates, which results in repetitive and often redundant information leading to high computational requirements and other drawbacks [10,11]. Further, they often fail to achieve the expected performance in challenging environments, such as those with high dynamic ranges or light-changing conditions [10,12–17], due to constraints such as susceptibility to motion blur, high power consumption, and low dynamic range. These limitations of frame-based cameras will be discussed in more detail in Section Limitations of Frame-Based Cameras in VSLAM, below, but given these issues, research in emerging technologies of event cameras has evolved to attempt to address them. The advent of novel concepts and the production of bio-inspired visual sensors and processors through developments in neuroscience and neu- romorphic technologies have brought a radical change in the processes of artificial visual systems [18–20]. An event camera (also known as a Dynamic Vision Sensor (DVS) or neuro- morphic camera) operates very differently from conventional frame-based cameras; it only generates an output (in the form of timestamped events or spikes) when there are changes in the brightness of a scene [13,18,19]. Figure 2 depicts the three-layer model of a human retina and corresponding event camera pixel circuitry. Compared to regular cameras, event cameras have greater dynamic range, reduced latency, higher temporal resolution, and significantly lower power consumption and bandwidth usage [3,13,14,20–25]. However, sensors based on these principles are relatively new to the market and their integration poses some challenges as new algorithms are needed because existing approaches are not directly applicable. | Figure 2. Three-layer model of a human retina and corresponding event camera pixel circuitry (adapted from [26]).",
+  "contextual_text": "Biomimetics 2024, 9, 444\n3 of 41 Conventional VSLAM systems gather image data at fixed frame rates, which results in\nrepetitive and often redundant information leading to high computational requirements\nand other drawbacks [10,11]. Further, they often fail to achieve the expected performance\nin challenging environments, such as those with high dynamic ranges or light-changing\nconditions [10,12–17], due to constraints such as susceptibility to motion blur, high power\nconsumption, and low dynamic range. These limitations of frame-based cameras will\nbe discussed in more detail in Section Limitations of Frame-Based Cameras in VSLAM,\nbelow, but given these issues, research in emerging technologies of event cameras has\nevolved to attempt to address them. The advent of novel concepts and the production of\nbio-inspired visual sensors and processors through developments in neuroscience and neu-\nromorphic technologies have brought a radical change in the processes of artificial visual\nsystems [1",
+  "section_title": "1. Introduction",
+  "image_filename": "page_003_fig_01.png",
+  "relative_path": "images/page_003_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "cameras",
+    "event",
+    "frame",
+    "dynamic",
+    "based",
+    "camera",
+    "high",
+    "these",
+    "conventional",
+    "vslam"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1375,
+    "height": 851,
+    "size_bytes": 272749,
+    "format": "png"
+  }
+}

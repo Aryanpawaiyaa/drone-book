@@ -1,0 +1,12 @@
+{
+  "source_pdf": "FOI-R--5573--SE.pdf",
+  "total_pages": 51,
+  "total_extracted_images": 9,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\military drones\\extracted_FOI_R_5573_SE",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

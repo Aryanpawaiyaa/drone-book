@@ -1,0 +1,29 @@
+{
+  "original_page": 31,
+  "figure_number": "Figure 31-16",
+  "original_caption": "The Specific Operation Risk Assessment (SORA) is a structured methodology  developed  by  JARUS  (Joint  Authorities  for Rulemaking on Unmanned Systems) to assess and mitigate risks in drone operations. It is essential for ensuring the safety of operations, particularly in Visual Line of Sight (VLOS) and Beyond Visual Line of Sight (BVLOS) scenarios. SORA identifies potential risks to people, property, and other airspace users, requiring operators to implement mitigation strategies. In VLOS operations, risks are lower but still demand compliance with local regulations. For BVLOS operations, SORA becomes crucial to address higher risks, such as communication failures or mid-air collisions. | Scenario 1: Mapping in a Semi-Urban Area Operation: A drone service provider is tasked with mapping a semi-urban area for a local municipality. Risk Assessment: Ground Risk: Presence of residential areas increases risk to people on the ground. Air Risk: Nearby helipads or manned aviation corridors could pose a collision risk. Mitigation Measures: Perform operations during low-activity hours. Use Geo-fencing and Return-to-Home features. Issue public notifications and barricade the operational area.",
+  "contextual_text": "31 Chapter 7: Specific Operation Risk Assessment\n(SORA) The Specific Operation Risk Assessment (SORA) is a structured\nmethodology \ndeveloped \nby \nJARUS \n(Joint \nAuthorities \nfor\nRulemaking on Unmanned Systems) to assess and mitigate risks\nin drone operations. It is essential for ensuring the safety of\noperations, particularly in Visual Line of Sight (VLOS) and Beyond\nVisual Line of Sight (BVLOS) scenarios. SORA identifies potential\nrisks to people, property, and other airspace users, requiring\noperators to implement mitigation strategies. In VLOS operations,\nrisks are lower but still demand compliance with local regulations.\nFor BVLOS operations, SORA becomes crucial to address higher\nrisks, such as communication failures or mid-air collisions. Scenario 1: Mapping in a Semi-Urban Area\nOperation: A drone service provider is tasked with mapping a\nsemi-urban area for a local municipality.\nRisk Assessment:\nGround Risk: Presence of residential areas increases risk to\npeople on the ground.\nA",
+  "section_title": "LARGE",
+  "image_filename": "page_031_fig_16.png",
+  "relative_path": "images/page_031_fig_16.png",
+  "ocr_text": "",
+  "keywords": [
+    "risk",
+    "operations",
+    "risks",
+    "sora",
+    "area",
+    "operation",
+    "assessment",
+    "drone",
+    "visual",
+    "line"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 800,
+    "height": 497,
+    "size_bytes": 80967,
+    "format": "png"
+  }
+}

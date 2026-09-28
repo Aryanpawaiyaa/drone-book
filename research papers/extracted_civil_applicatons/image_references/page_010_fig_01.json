@@ -1,0 +1,34 @@
+{
+  "original_page": 10,
+  "figure_number": "Fig. 11",
+  "original_caption": "Fig. 11: Active Vs. Passive Remote Sensing. | TABLE IV: UAV AERIAL SENSING SYSTEMS Type of remote sensing Operating Frequency Type of sensor Applications Laser altimeter It measures the height of a UAV with respect to the mean Earths surface to determine the topography of the underlying surface. LiDAR It determines the distance to the object by recording the time between transmitted and backscattered light pulses. Radar It produces a two-dimensional image of the surface by recording Active Microwave portion of the the range and magnitude of the energy reﬂected from all objects. electromagnetic spectrum Ranging Instrument It determines the distance between identical microwave instruments on a pair of platforms. Scatterometer It derives maps of surface wind speed and direction by measuring backscattered radiation in the microwave spectral region. Sounder It measures vertical distribution of precipitation, temperature, humidity, and cloud composition. Accelerometer It measures two general types of accelerometers: 1) The",
+  "contextual_text": "10 Fig. 11: Active Vs. Passive Remote Sensing. TABLE IV: UAV AERIAL SENSING SYSTEMS\nType of remote sensing\nOperating Frequency\nType of sensor\nApplications\nLaser altimeter\nIt measures the height of a UAV with respect to the mean Earths\nsurface to determine the topography of the underlying surface.\nLiDAR\nIt determines the distance to the object by recording the time\nbetween transmitted and backscattered light pulses.\nRadar\nIt produces a two-dimensional image of the surface by recording\nActive\nMicrowave portion of the\nthe range and magnitude of the energy reﬂected from all objects.\nelectromagnetic spectrum\nRanging Instrument\nIt determines the distance between identical microwave\ninstruments on a pair of platforms.\nScatterometer\nIt derives maps of surface wind speed and direction by measuring\nbackscattered radiation in the microwave spectral region.\nSounder\nIt measures vertical distribution of precipitation, temperature,\nhumidity, and cloud composition.\nAccelerometer\nIt measures two genera",
+  "section_title": "V-D Challenges",
+  "image_filename": "page_010_fig_01.jpeg",
+  "relative_path": "images/page_010_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "surface",
+    "sensing",
+    "measures",
+    "microwave",
+    "active",
+    "remote",
+    "uav",
+    "type",
+    "determines",
+    "distance"
+  ],
+  "cross_references": [
+    {
+      "page": 10,
+      "snippet": "Fig. 11: Active Vs. Passive Remote Sensing."
+    }
+  ],
+  "metadata": {
+    "width": 869,
+    "height": 581,
+    "size_bytes": 37038,
+    "format": "jpeg"
+  }
+}

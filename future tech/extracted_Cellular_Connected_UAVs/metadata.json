@@ -1,0 +1,398 @@
+{
+  "source_pdf": "Cellular-Connected UAVs.pdf",
+  "total_pages": 25,
+  "total_extracted_images": 19,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "A survey on cellular-connected UAVs: Design challenges, enabling 5G/B5G innovations, and experimental advancements",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Introduction",
+      "page": 1
+    },
+    {
+      "level": 3,
+      "title": "UAV communication requirement",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "Integration opportunities with cellular network",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "Related surveys and tutorials",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "Key contributions",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "Taxonomy of UAV applications and use cases",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Earth and atmospheric observations",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Civil and commercial services",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Disaster management & security",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Industrial IoT platforms (IIoT)",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Emerging technologies",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Consolidated summary of lesson learnt and rationale of this work",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "Integration challenges of UAVs over 5G",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "Three dimensional (3D) coverage model",
+      "page": 6
+    },
+    {
+      "level": 4,
+      "title": "Preliminary",
+      "page": 6
+    },
+    {
+      "level": 4,
+      "title": "Associated works and illustrative results",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "UAV-ground channel",
+      "page": 7
+    },
+    {
+      "level": 4,
+      "title": "Preliminary",
+      "page": 7
+    },
+    {
+      "level": 4,
+      "title": "Associated works and illustrative results",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "System operations & mobility",
+      "page": 8
+    },
+    {
+      "level": 4,
+      "title": "Preliminary",
+      "page": 8
+    },
+    {
+      "level": 4,
+      "title": "Associated works and illustrative results",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "Trajectory optimization",
+      "page": 8
+    },
+    {
+      "level": 4,
+      "title": "Preliminary",
+      "page": 8
+    },
+    {
+      "level": 4,
+      "title": "Associated works and illustrative results",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Security challenges",
+      "page": 9
+    },
+    {
+      "level": 4,
+      "title": "Preliminary",
+      "page": 9
+    },
+    {
+      "level": 4,
+      "title": "Associated works and illustrative results",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Summary of lessons learnt",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Synergies of 5G/B5G innovations for cellular-connected UAVs",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "Network architectures",
+      "page": 10
+    },
+    {
+      "level": 4,
+      "title": "NFV oriented architectures",
+      "page": 11
+    },
+    {
+      "level": 4,
+      "title": "MEC oriented architectures",
+      "page": 12
+    },
+    {
+      "level": 4,
+      "title": "IoT oriented architectures",
+      "page": 12
+    },
+    {
+      "level": 4,
+      "title": "Service oriented architectures (SOA)",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "Hardware and physical layer consideration",
+      "page": 13
+    },
+    {
+      "level": 4,
+      "title": "5G NR",
+      "page": 13
+    },
+    {
+      "level": 4,
+      "title": "Massive MIMO",
+      "page": 13
+    },
+    {
+      "level": 4,
+      "title": "Millimetre-wave communications",
+      "page": 14
+    },
+    {
+      "level": 4,
+      "title": "Beamforming and BDMA",
+      "page": 14
+    },
+    {
+      "level": 4,
+      "title": "NOMA",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "B5G innovations for cellular-connected UAVs",
+      "page": 14
+    },
+    {
+      "level": 4,
+      "title": " Terahertz communication ",
+      "page": 15
+    },
+    {
+      "level": 4,
+      "title": " Cellular internet of UAVs ",
+      "page": 15
+    },
+    {
+      "level": 4,
+      "title": " Mobility and handover intelligence ",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "Summary of lessons learnt",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "Design trials and prototyping",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "Experimental testbeds",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "Field trials",
+      "page": 17
+    },
+    {
+      "level": 4,
+      "title": " Urban environment ",
+      "page": 17
+    },
+    {
+      "level": 4,
+      "title": " Suburban environment ",
+      "page": 18
+    },
+    {
+      "level": 4,
+      "title": " Rural environment ",
+      "page": 18
+    },
+    {
+      "level": 4,
+      "title": " Mixed environment ",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Summary of lessons learnt",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "Standardization & socio-economic concerns",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "Standardization",
+      "page": 19
+    },
+    {
+      "level": 4,
+      "title": "Release-15",
+      "page": 19
+    },
+    {
+      "level": 4,
+      "title": "Release-16",
+      "page": 20
+    },
+    {
+      "level": 4,
+      "title": "Release-17",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Regulatory concerns",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Market concerns",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Social concerns",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Summary of lessons learnt",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "Future outlooks",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "Accurate channel models",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "Energy/battery power limitations",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "Security and privacy",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "Cell selection and network planning",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "3D Mobility and handovers",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "Testing platforms",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "AI And ML-based methods",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "Computational offloading",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "Conclusions",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "CRediT authorship contribution statement",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "Declaration of competing interest",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "References",
+      "page": 22
+    }
+  ],
+  "output_directory": "f:\\drone-book\\future tech\\extracted_Cellular_Connected_UAVs",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

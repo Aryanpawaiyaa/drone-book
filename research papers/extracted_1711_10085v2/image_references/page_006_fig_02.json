@@ -1,0 +1,34 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 6",
+  "original_caption": "TABLE II: Top twenty-ﬁve keywords from the identiﬁed drone papers. | System modeling 315 Trajectory generation 80 Sensor fusion 51 Teleoperation 45 Motion planning 35 Control 288 Path planning 78 Aerial manipulation 47 Localization 44 Human-robot interaction 33 Hardware development 265 Visual odometry 75 Heterogeneous robotics 47 Visual servoing 44 SLAM 32 Task planning 161 State estimation 74 Target tracking 46 Machine learning 41 System identiﬁcation 32 Image processing 117 Team robotics 68 Optical ﬂow 45 Mapping 40 Hybrid robotics 31",
+  "contextual_text": "6 TABLE II: Top twenty-ﬁve keywords from the identiﬁed drone papers. System modeling\n315\nTrajectory generation\n80\nSensor fusion\n51\nTeleoperation\n45\nMotion planning\n35\nControl\n288\nPath planning\n78\nAerial manipulation\n47\nLocalization\n44\nHuman-robot interaction\n33\nHardware development\n265\nVisual odometry\n75\nHeterogeneous robotics\n47\nVisual servoing\n44\nSLAM\n32\nTask planning\n161\nState estimation\n74\nTarget tracking\n46\nMachine learning\n41\nSystem identiﬁcation\n32\nImage processing\n117\nTeam robotics\n68\nOptical ﬂow\n45\nMapping\n40\nHybrid robotics\n31 Fig. 6: The change of papers distribution by UAV types over the years (overview). Best viewed in color. See text for details. Fig. 7: Prototypes of quadcopters (in alphabetical order: [15], [36], [87]–[96]) appear in the reviewed papers. Note that 8 out\nof the 12 illustrated quadcopters have protective cases for safer operation and human-robot interaction. See text for details. autonomous quadcopter (Fig. 7 (a)) with do-it-yourself (DIY)\nstereo percepti",
+  "section_title": "TABLE II: Top twenty-ﬁve keywords from the identiﬁed drone papers.",
+  "image_filename": "page_006_fig_02.png",
+  "relative_path": "images/page_006_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "planning",
+    "robotics",
+    "top",
+    "twenty",
+    "keywords",
+    "drone",
+    "papers",
+    "visual",
+    "modeling",
+    "trajectory"
+  ],
+  "cross_references": [
+    {
+      "page": 6,
+      "snippet": "Fig. 6: The change of papers distribution by UAV types over the years (overview). Best viewed in color. See text for details."
+    }
+  ],
+  "metadata": {
+    "width": 1823,
+    "height": 513,
+    "size_bytes": 32131,
+    "format": "png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 11,
+  "figure_number": "Fig. 7",
+  "original_caption": "Autonomous Control and Artificial Intelligence in Drones | Fig. 7: Performance degradation of vision systems under challenging conditions, showing relative accuracy loss compared  to ideal conditions. Note the 30-45% drop in low light and 40-60% reduction with occlusion.",
+  "contextual_text": "Autonomous Control and Artificial Intelligence in Drones Y. ALQUDSI et al. : \nPage 11 of 26 Fig. 7: Performance degradation of vision systems under challenging conditions, showing relative accuracy loss compared \nto ideal conditions. Note the 30-45% drop in low light and 40-60% reduction with occlusion. Fig. 8: Computational efficiency versus path optimality for different planning approaches. Hierarchical methods achieve \n90-95% optimality with 60-80% reduced computation. demonstrated superior performance and reliability. These approaches leverage neural representations with attention \nmechanisms and hierarchical planning architectures that reduce computational requirements while maintaining high \nperformance on challenging benchmarks [51, 52]. Multi-objective optimization addresses the competing requirements inherent in real-world missions, where factors \nsuch as energy consumption, flight duration, and coverage efficiency must be balanced against operational objectives. \nEnergy-aware",
+  "section_title": "5. AI-Powered Methodologies in Drones",
+  "image_filename": "page_011_fig_02.png",
+  "relative_path": "images/page_011_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "drones",
+    "conditions",
+    "autonomous",
+    "control",
+    "artificial",
+    "intelligence",
+    "performance",
+    "degradation",
+    "vision",
+    "under"
+  ],
+  "cross_references": [
+    {
+      "page": 11,
+      "snippet": "Fig. 7: Performance degradation of vision systems under challenging conditions, showing relative accuracy loss compared \nto ideal conditions. Note the 30-45% drop in low light and 40-60% reduction wit"
+    }
+  ],
+  "metadata": {
+    "width": 771,
+    "height": 468,
+    "size_bytes": 32106,
+    "format": "png"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 4",
+  "original_caption": "Fig. 4. Taxonomy of UAV Cellular applications & use cases. | This work aims at presenting an extensive study of cellular- connected UAVs, where the UAVs are integrated into the existing cellular networks as new aerial UEs. In order to carry out a mission specific task, UAVs require support from ground infrastructure (base station/control station), with which they exchange CNPC commands in downlink direction, and both CNPC & payload data in uplink. Cellular-connected UAVs bring several open challenges and operational complications that need to be thoroughly investigated and motivate our work to offer researchers and practitioners a handful guide to approach this field.",
+  "contextual_text": "Computer Networks 182 (2020) 107451 6 D. Mishra and E. Natalizio Fig. 4. Taxonomy of UAV Cellular applications & use cases. be efficiently integrated to existing cellular networks as a flying\nbase station or a relay or an aerial UE. These different types\nof integration showcase several promising applications and use\ncases.\n• Owing to the implicit benefits of cellular networks in terms of\nubiquitous accessibility, large coverage, scheduled and safe in-\nformation exchange protocols, cellular-connected UAVs are well\nsuited and find their applicability in many real-world applications\nsuch as earth and environmental observation, civil infrastructure\nand surveillance, defence and security, industrial IoT platforms,\netc. Integrating UAVs to 5G/B5G cellular systems proves to be a\nwin–win situation for both the parties. This work aims at presenting an extensive study of cellular-\nconnected UAVs, where the UAVs are integrated into the existing\ncellular networks as new aerial UEs. In order to car",
+  "section_title": "4.1. Three dimensional (3D) coverage model",
+  "image_filename": "page_006_fig_01.jpeg",
+  "relative_path": "images/page_006_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "cellular",
+    "uavs",
+    "work",
+    "connected",
+    "station",
+    "cnpc",
+    "taxonomy",
+    "uav",
+    "applications",
+    "use"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "Cellular-connected UAVs find their applicability in a wide range of\nemerging applications with varying demands and goals. In this work,\nwe showcase some of the attractive researched domains as a start"
+    },
+    {
+      "page": 6,
+      "snippet": "Fig. 4. Taxonomy of UAV Cellular applications & use cases."
+    }
+  ],
+  "metadata": {
+    "width": 965,
+    "height": 434,
+    "size_bytes": 128170,
+    "format": "jpeg"
+  }
+}

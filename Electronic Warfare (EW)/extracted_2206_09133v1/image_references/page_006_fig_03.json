@@ -1,0 +1,29 @@
+{
+  "original_page": 6,
+  "figure_number": "Figure 8",
+  "original_caption": "Figure 8. Indoor dynamic spoofing: screenshots of GPSTest App. The leftmost screenshot shows the beginning of spoof- ing. The middle screenshot shows the TTFF and the right- most screenshot shows speed. | Figure 9. Indoor dynamic spoofing: screenshots of Google Maps App. Left to right are the screenshots showing the spoofed location as if moving around the Gymkhana ground track in IIT Bombay.",
+  "contextual_text": "MSWiM ’22, Montreal, Canada, M Surendra Kumar, et al. 5.1\nIndoor and Outdoor (Static/ Dynamic) Spoofing\nAgainst an Android Mobile Phone based GNSS\nReceiver Figure 7. Indoor static spoofing: the leftmost screenshot is\nof GPSTest App with no original GNSS signal being received,\ncenter screenshot shows the reception of the spoofed signal\nand the GNSS receiver locking onto it, and the rightmost\nscreenshot of Google Maps shows own location as in the\nmiddle of Powai lake, Mumbai. Fig. 7 shows the screenshots (left to right) taken during\nthe static GPS spoofing attack carried out against a GNSS\nreceiver under indoor conditions. The GNSS receiver was\nnot able to receive any signals from GPS or GLONASS con-\nstellation satellites, as highlighted in the leftmost screenshot.\nOnce the spoofed signals were transmitted, the GNSS re-\nceiver started receiving them instantaneously and was able\nto compute its position within 30-40 s. The center screen-\nshot highlights that it took the receiver 38 s as TT",
+  "section_title": "5.1 Indoor and Outdoor (Static/ Dynamic) Spoofing Against an Android Mobile Phone based GNSS Receiver",
+  "image_filename": "page_006_fig_03.png",
+  "relative_path": "images/page_006_fig_03.png",
+  "ocr_text": "",
+  "keywords": [
+    "indoor",
+    "dynamic",
+    "spoofing",
+    "screenshots",
+    "screenshot",
+    "shows",
+    "app",
+    "right",
+    "gpstest",
+    "leftmost"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1055,
+    "height": 722,
+    "size_bytes": 585914,
+    "format": "png"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 1",
+  "original_caption": "Fig. 1: Common UAV types. See text for details. | A. UAV Deﬁnition",
+  "contextual_text": "2 Fig. 1: Common UAV types. See text for details. A. UAV Deﬁnition Commonly known as a drone, a UAV is an aircraft that\ncan perform ﬂight missions autonomously without a human\npilot onboard [3], [4] or can be tele-operated by a pilot\nfrom a ground station. The UAV’s degree of autonomy varies\nbut often has basic autonomy features such as “self-leveling”\nusing an inertial measurement unit (IMU), “position-holding”\nusing a global navigation satellite system (GNSS) sensor, and\n“altitude-holding” using a barometer or a distance sensor.\nUAVs with higher degrees of autonomy offer more func-\ntions like automatic take-off and landing, path planning, and\nobstacle avoidance. In general, a UAV can be viewed as\na ﬂying robot. In the literature and UAV communities, a\nUAV also has several other names like micro aerial vehicle\n(MAV), unmanned aerial system (UAS), vertical take-off and\nlanding aircraft (VTOL), multicopter, rotorcraft, and aerial\nrobot. In this work, we will use the phrases “UAV” and\n“d",
+  "section_title": "II-A UAV Definition",
+  "image_filename": "page_002_fig_01.png",
+  "relative_path": "images/page_002_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "common",
+    "types",
+    "see",
+    "text",
+    "details",
+    "definition"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "Fig. 1: Common UAV types. See text for details."
+    },
+    {
+      "page": 7,
+      "snippet": "A ﬂapping-wing UAV (Fig. 10 (a)–(g)) [59], [110]–[115],\nalso known as ornithopter and usually in about a hand size,\nis a UAV that generate lifting and forward force by ﬂapping\nits wings. Aiming for a "
+    },
+    {
+      "page": 8,
+      "snippet": "Fig. 10: Prototypes of ﬂapping-wing UAVs (in alphabetical order: [59], [110]–[115]) appear in the reviewed papers. See text\nfor details."
+    },
+    {
+      "page": 8,
+      "snippet": "develop a ﬂapping-wing UAV—BOLT that is capable of ﬂying\nand walking on the ground like a bipedal robot (Fig. 10 (c))."
+    },
+    {
+      "page": 8,
+      "snippet": "Inspired by birds, Paranjape et al. [112] design a ﬂapping-\nwing UAV that is able to perch naturally on a chair or human\nhand (Fig. 10 (d)). One of the unique features of their UAV\nis to control the ﬂ"
+    },
+    {
+      "page": 8,
+      "snippet": "Flapping-wing UAVs with insect shapes are also common.\nMa et al. [114] fabricate an bee-shaped ﬂapping-wing UAV\nthat has a mass of 380 mg by using novel methods (Fig. 10 (f)).\nAfter detailing their de"
+    },
+    {
+      "page": 8,
+      "snippet": "A single-rotor helicopter (Fig. 11 (a)–(c)) [116]–[118] is a\nUAV that relies on a main rotor and a tail rotor to generate\nthrust for VTOL, hovering, forward, backward, and lateral\nﬂights. By using a l"
+    },
+    {
+      "page": 8,
+      "snippet": "On the other hand, a coaxial helicopter (Fig. 11 (d)–(f)) is\na UAV that uses two contra-rotating rotors mounted on the\nsame axis to generate thrust for VTOL, hovering, forward,"
+    },
+    {
+      "page": 8,
+      "snippet": "A ducted-fan UAV (Fig. 11 (g)) is a UAV that has similar\nrotors conﬁguration with a coaxial helicopter but the rotors are\nmounted within a cylindrical duct. The duct helps to reduce\nthrust losses of t"
+    },
+    {
+      "page": 8,
+      "snippet": "An octocopter (Fig. 12 (a)–(b)) [121], [122] is a UAV\nwith eight rotors. Schneider et al. [121] demonstrate an octo-\ncopter with a multiple ﬁsheye-camera system that can perform\na simultaneous localiz"
+    },
+    {
+      "page": 9,
+      "snippet": "Fig. 11: Prototypes of single-rotor helicopters (Fig. (a)–(c)) [116]–[118], coaxial helicopters (Fig. (d)–(f)) [46], [47], [119],\nand ducted-fan UAV (Fig. (g)) [120] appear in the reviewed papers. See"
+    },
+    {
+      "page": 9,
+      "snippet": "Fig. 12: Prototypes of octocopters (Fig. (a)–(b)) [121], [122], multirotor (Fig. (c)) [123], gliders (Fig. (d)–(e)) [124], [125],\nblimp (Fig. (f)) [126], and Ionic Flyer (Fig. (g)) [127] appear in the"
+    },
+    {
+      "page": 9,
+      "snippet": "A multirotor is a UAV with more than one rotor and\nhas simple rotors conﬁguration for ﬂight control. Oung and\nD’Andrea [123] design a modular multirotor system, where\neach rotor aircraft has a hexagon"
+    },
+    {
+      "page": 9,
+      "snippet": "A glider (Fig. 12 (d)–(e)) [124], [125] is a UAV that uses its\nwings and aerodynamics to glide in the air. Glider normally\nhas a outlook like a ﬁxed-wing UAV but does not rely on\nan active propulsion "
+    },
+    {
+      "page": 9,
+      "snippet": "A blimp, also known as a non-rigid airship, is a lighter-\nthan-air UAV that relies on helium gas inside an envelope\nto generate lifting force. Different from a Montgolﬁ`ere or\nhot air balloon, a blimp"
+    },
+    {
+      "page": 9,
+      "snippet": "A cyclocopter (Fig. 13 (a)–(b)) [128], [129] is a UAV that\nﬂies by rotating a cyclogyro wing with several wings posi-\ntioned around the edge of a cylindrical structure. Generally,\nthe wings’ angles of"
+    },
+    {
+      "page": 9,
+      "snippet": "servo motor to generate required forces. Tanaka et al. [128]\nbuilt a cyclocopter that can the angles of attack using a\nnovel eccentric point mechanism without additional actuators\n(Fig. 13 (a)). Hara "
+    },
+    {
+      "page": 9,
+      "snippet": "A spincopter (Fig. 13 (c)–(d)) [61], [130] is a UAV that spins\nitself during ﬂight. Orsag et al. [61] designed a spincopter\nthat can spin the central wings (and the whole aircraft) using\ntwo small mot"
+    },
+    {
+      "page": 9,
+      "snippet": "A Coandˇa UAV is an aircraft that produces lifting force by\nutilizing the Coandˇa effect. Speciﬁcally, the Coandˇa effect is\ncaused by the tendency of a jet of ﬂuid to follow an adjacent\nsurface and t"
+    },
+    {
+      "page": 9,
+      "snippet": "Parafoil\nUAVs\n(Fig.\n13\n(f))\n[132]\nand\nkite\nUAVs\n(Fig. 13 (g)) [133] resemble the shapes and ﬂying principles\nof a parafoil or kite. For an aerial cargo delivery application,\nCacan et al. [132] improve"
+    },
+    {
+      "page": 10,
+      "snippet": "Fig. 13: Prototypes of cyclocopters (Fig. (a)–(b)) [128], [129], spincopters (Fig. (c)–(d)) [61], [130], Coandˇa UAV (Fig.\n(e)) [131], parafoil UAV (Fig. (f)) [132], and kite UAV (Fig. (g)) [133] appe"
+    },
+    {
+      "page": 10,
+      "snippet": "Figure 14 and Fig. 15 show a pie chart and a map of\nthe country distribution of UAV papers. In descending order,\nthe top ten countries with the most drone papers since 2001\nare United States of Americ"
+    },
+    {
+      "page": 10,
+      "snippet": "Fig. 14: Pie chart of the country distribution of UAV papers.\nBest viewed in color. See text for details."
+    },
+    {
+      "page": 10,
+      "snippet": "Fig. 15: Map of the country distribution of UAV papers. Best\nviewed in color. See text for details."
+    },
+    {
+      "page": 10,
+      "snippet": "Fig. 16: Number of UAV papers that use motion capture\nsystem during the ﬂight experiments over the years."
+    }
+  ],
+  "metadata": {
+    "width": 2910,
+    "height": 1035,
+    "size_bytes": 82341,
+    "format": "png"
+  }
+}

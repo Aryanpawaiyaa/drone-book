@@ -1,0 +1,25 @@
+{
+  "original_page": 13,
+  "figure_number": "Figure 13-1",
+  "original_caption": "",
+  "contextual_text": "H. Kang et al.: Protect Your Sky: A Survey of Counter UAV Systems FIGURE 5. Examples of CUS networks: (a) centralized network, (b) decentralized homogeneous network, and (c) decentralized heterogeneous\nnetwork. surrounding platforms, resulting in inefﬁcient CUS opera-\ntion. Furthermore, exchanging information among the plat-\nforms can cause a long latency because the information must\npass through the central platform. Therefore, robust and inde-\npendently dedicated networks are desired to circumvent this\ngeneral concern of centralized network. If there are multiple\nhigh-performance platforms, the centralized process can be\npartially distributed. 2) DECENTRALIZED NETWORK\nIn a decentralized network, C2 systems are distributed to\nmultiple platforms, as shown in Figs. 5(b) and (c), such that\neach platform in the network cooperatively computes and\nmakes decisions. A decentralized network can be categorized\ninto two models, i.e., a decentralized homogeneous network\nmodel and a decentralized ",
+  "section_title": "TABLE 5. Regulations on Commercial UAVs in 20 countries and Violation Consequences [40]–[44].",
+  "image_filename": "page_013_fig_01.png",
+  "relative_path": "images/page_013_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "regulations",
+    "commercial",
+    "uavs",
+    "countries",
+    "violation",
+    "consequences"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 377,
+    "height": 64,
+    "size_bytes": 3399,
+    "format": "png"
+  }
+}

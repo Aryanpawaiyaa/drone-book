@@ -1,0 +1,12 @@
+{
+  "source_pdf": "Protect_Your_Sky_A_Survey_of_Counter_Unmanned_Aeri.pdf",
+  "total_pages": 40,
+  "total_extracted_images": 139,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\military drones\\extracted_Protect_Your_Sky_A_Survey_of_Counter_Unmanned_Aeri",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

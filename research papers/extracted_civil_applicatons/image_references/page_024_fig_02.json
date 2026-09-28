@@ -1,0 +1,34 @@
+{
+  "original_page": 24,
+  "figure_number": "Fig. 25",
+  "original_caption": "Leitloff et al. [172] Fast vehicle detection UAV + camera Self-collected - | Puri et al. [177] real-time trafﬁc monitoring and control UAV + camera Self-collected -",
+  "contextual_text": "24 Fig. 24: Proposed Vehicle Detection Framework in [183]. TABLE IX: SUMMARY OF RELATED LITERATURE\nProject\nGoal\nHardware\nDataset\nLink to dataset\nQu et al. [174]\nMoving vehicle detection\nUAV + Camera\nCATEC UAV\n- Wang et al. [175]\nVehicle detection and\ntracking\nUAV + Camera\nnot avaiable\n- Ke et al. [170]\nExtraction of trafﬁc\nﬂow parameters\nUAV + Camera\nTaken from\nBeihang University\n- Zhou et al. [176]\nReal-time road detection\nand tracking\nUAV + camera\nSelf-collected\nhttps://sites.google.com/site/hailingzhouwei Leitloff et al. [172]\nFast vehicle detection\nUAV + camera\nSelf-collected\n- Puri et al. [177]\nreal-time trafﬁc\nmonitoring and control\nUAV + camera\nSelf-collected\n- Reshma et al. [178]\naddress the security issues\nof road trafﬁc monitoring\nUAV + RFID\nProteus\nsimulator\n- M-Chen et al. [180]\ntrafﬁc surveillance\nUAV + camera\nself-collected\n- Tang et al. [183]\nvehicle detection\nUAV + camera\nMunich vehicle dataset\nhttp://pba-freesoftware.eoc.dlr.de/\n3K VehicleDetection dataset.zip\nApeltaue",
+  "section_title": "IX-B Use Cases",
+  "image_filename": "page_024_fig_02.png",
+  "relative_path": "images/page_024_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "camera",
+    "self",
+    "collected",
+    "leitloff",
+    "fast",
+    "vehicle",
+    "detection",
+    "puri",
+    "real"
+  ],
+  "cross_references": [
+    {
+      "page": 24,
+      "snippet": "Fig. 25: A UAV is Used By Police to Catch Trafﬁc Violators [169]."
+    }
+  ],
+  "metadata": {
+    "width": 534,
+    "height": 216,
+    "size_bytes": 25951,
+    "format": "png"
+  }
+}

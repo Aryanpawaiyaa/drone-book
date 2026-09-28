@@ -1,0 +1,28 @@
+{
+  "original_page": 15,
+  "figure_number": "Figure 15-2",
+  "original_caption": "TABLE V: Comparison of UAS Mitigation Technologies | Methods  Principles  Enabling technologies  Advantages  Disadvantages",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n15 TABLE V: Comparison of UAS Mitigation Technologies Methods \nPrinciples \nEnabling technologies \nAdvantages \nDisadvantages Physical capture \nPhysically disable or block a flying object. Target tracking, motion control. High success rate for non-protected targets. Destructive, high-cost, High-power EMP \nDisrupt the logic of circuits, so as to disable a flying drone. High power microwave, directional antenna, target tracking Low-cost, light-weight, small-size. Leakage of electromagnetic energy. Destructive RF jamming \nBlock the telemetry or GPS signals of drones and trigger their evacuation or landing strategies. RF power amplifier. RF spectrum recognition Low-cost, light-weight, small-size. Non- destructive. Applicable to multiple drones simultaneously. Can only deal with drones operating on ISM band. Interfere other ISM band devices. Hacking \nSeize the root privileges of drones’ operation system and issue appropriate operations. System penetration. System vu",
+  "section_title": "TABLE V: Comparison of UAS Mitigation Technologies",
+  "image_filename": "page_015_fig_02.png",
+  "relative_path": "images/page_015_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "technologies",
+    "comparison",
+    "uas",
+    "mitigation",
+    "methods",
+    "principles",
+    "enabling",
+    "advantages",
+    "disadvantages"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 441,
+    "height": 248,
+    "size_bytes": 125918,
+    "format": "png"
+  }
+}

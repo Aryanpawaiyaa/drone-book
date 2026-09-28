@@ -1,0 +1,29 @@
+{
+  "original_page": 6,
+  "figure_number": "Figure 2",
+  "original_caption": "The following section aims to outline the components and spatial configurations of a TUAV multirotor system. For clarity, the system is divided into three levels: aerial, connection, and ground, each encompassing one or more components depending on their spatial arrangement, as illustrated in Figure 2. Although onboard hardware and sensors are integral to the system, they have been intentionally excluded here, as their complexity and relevance warrant dedicated discussion in a separate chapter. | Figure 2. TUAV system topology: (a) Aerial level comprises drone airframe and its onboard equip- ment; (b) Connection level comprises the tether cable and its coupling to other TUAV system’s components; (c) Ground level comprises control station together with the TMS.",
+  "contextual_text": "Drones 2025, 9, 425\n6 of 48 2. System Description The following section aims to outline the components and spatial configurations of\na TUAV multirotor system. For clarity, the system is divided into three levels: aerial,\nconnection, and ground, each encompassing one or more components depending on their\nspatial arrangement, as illustrated in Figure 2. Although onboard hardware and sensors\nare integral to the system, they have been intentionally excluded here, as their complexity\nand relevance warrant dedicated discussion in a separate chapter. Figure 2. TUAV system topology: (a) Aerial level comprises drone airframe and its onboard equip-\nment; (b) Connection level comprises the tether cable and its coupling to other TUAV system’s\ncomponents; (c) Ground level comprises control station together with the TMS. 2.1. Aerial Platform In a broader sense, the term “Unmanned Aerial Vehicle” encompasses various aerial\nplatforms, provided they are uncrewed. Consequently, the aerial component of a",
+  "section_title": "2.1. Aerial Platform",
+  "image_filename": "page_006_fig_02.png",
+  "relative_path": "images/page_006_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "components",
+    "tuav",
+    "aerial",
+    "level",
+    "comprises",
+    "spatial",
+    "connection",
+    "ground",
+    "their",
+    "onboard"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1516,
+    "height": 352,
+    "size_bytes": 70122,
+    "format": "png"
+  }
+}

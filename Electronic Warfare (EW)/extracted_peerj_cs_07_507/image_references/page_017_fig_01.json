@@ -1,0 +1,29 @@
+{
+  "original_page": 17,
+  "figure_number": "Figure 4",
+  "original_caption": "Figure 4 GPS spoofing of UAV: an illustration. | Full-size DOI: 10.7717/peerjcs.507/fig-4",
+  "contextual_text": "Figure 4\nGPS spoofing of UAV: an illustration. Full-size\nDOI: 10.7717/peerjcs.507/fig-4 result in diversion from the actual course, crashing, hijacking, or even gaining full control\nof the target, forcing it to land at a place of attacker’s choice. Ma et al. (2020) demonstrated\nthat drone in autonomous mode can be lured to a pre-defined destination by executing\na GPS course deviation attack. Using GPS spoofing as a defensive tool against intruding\nGPS dependent drones, He & Liu et al. (2019); He & Qiao et al. (2019) demonstrated path\ndeviation attacks by inducing velocity drifts in loiter mode of the drone. Apart from aerial platforms, GPS is also used extensively in other areas for tracking and\nlocation information e.g., shipping, trains, cargo trucks, and taxis. Commercial truck drivers\ncan use GPS based location spoofing to follow unauthorized routes or assist in fraudulent\ntheft of truck consignments or the truck itself (Schmidt et al., 2016). A similar off-board\nattack setting was",
+  "section_title": "GPS based time spoofing",
+  "image_filename": "page_017_fig_01.png",
+  "relative_path": "images/page_017_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "gps",
+    "spoofing",
+    "uav",
+    "illustration",
+    "full",
+    "size",
+    "doi",
+    "peerjcs",
+    "based",
+    "time"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 2968,
+    "height": 1834,
+    "size_bytes": 397520,
+    "format": "png"
+  }
+}

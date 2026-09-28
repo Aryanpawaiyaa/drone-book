@@ -1,0 +1,34 @@
+{
+  "original_page": 18,
+  "figure_number": "Fig. 13",
+  "original_caption": "CNN-based Detection  85-92% mAP  40-60% accuracy in low light  8-20 GFLOPS  Moderate  Event-based Vision  75-85% mAP  70-80% accuracy in high dynamics  2-5 GFLOPS  High  LiDAR-Camera  Fusion | 88-94% mAP  75-85% accuracy in adverse weather  15-30  GFLOPS",
+  "contextual_text": "Autonomous Control and Artificial Intelligence in Drones Y. ALQUDSI et al. : \nPage 18 of 26 Table 8 \nCross-Domain Performance Analysis of Perception Systems Perception Approach \nObject Detection \nAccuracy Performance in Challenging Condi-\ntions Computational \nRequirements Environmental \nRobustness CNN-based Detection \n85-92% mAP \n40-60% accuracy in low light \n8-20 GFLOPS \nModerate \nEvent-based Vision \n75-85% mAP \n70-80% accuracy in high dynamics \n2-5 GFLOPS \nHigh \nLiDAR-Camera \nFusion 88-94% mAP \n75-85% accuracy in adverse weather \n15-30 \nGFLOPS High Thermal Imaging \n80-88% mAP \n85-90% accuracy in darkness \n5-10 GFLOPS \nTemperature- \ndependent \nRadar-Vision Fusion \n82-90% mAP \n80-90% accuracy in adverse weather \n12-25 \nGFLOPS Very High Fig. 13: AIMM framework visualization showing research concentration (bubble size) and performance gaps. The x-axis \nshows II, y-axis DR, and bubble color represents Autonomy Level. This distribution reveals a significant gap between academic research pr",
+  "section_title": "7. Comparative Analysis and Research Gaps",
+  "image_filename": "page_018_fig_01.jpeg",
+  "relative_path": "images/page_018_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "map",
+    "accuracy",
+    "gflops",
+    "based",
+    "high",
+    "cnn",
+    "detection",
+    "low",
+    "light",
+    "moderate"
+  ],
+  "cross_references": [
+    {
+      "page": 18,
+      "snippet": "Fig. 13: AIMM framework visualization showing research concentration (bubble size) and performance gaps. The x-axis \nshows II, y-axis DR, and bubble color represents Autonomy Level."
+    }
+  ],
+  "metadata": {
+    "width": 915,
+    "height": 670,
+    "size_bytes": 42201,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 4",
+  "original_caption": "First, we demonstrate that the neuromorphic controller is able to perform with similar speed and accuracy as the state of the art event-driven CPU controller in an extreme control scenario, such as controlling a drone moving at high speeds. In order to maintain the disk at different constant speeds, a motorized wheel was attached to the axis of the disk and the rotational speed was kept constant for 10s. To ignore initial transient effects, the analysis of the data was done only for the second half (5s) of the experiment. To quantify the performance, the RMSE between the reading on the disk and drone encoders was calculated after correction for the delay, induced by the overall motor plant (on order of 100- 150ms). To quantify the ability of the on-chip plasticity to adapt control parameters online, a reference trajectory was imposed on the drone to bring it to different target angles with an additional weight of 125g attached to one side of the drone’s arm. The experiments were done once using the CPU PD controller and once using the adaptive SNN PD controller. In order to quantify the performance, we calculate the RMSE over a set of runs when using the adaptive SNN and the non- adaptive CPU controller. | III. RESULTS",
+  "contextual_text": "ing neurons receive an input spike from the on-chip spike\ngenerator according to the current roll angle of the drone. E. Experiments First, we demonstrate that the neuromorphic controller is\nable to perform with similar speed and accuracy as the state\nof the art event-driven CPU controller in an extreme control\nscenario, such as controlling a drone moving at high speeds.\nIn order to maintain the disk at different constant speeds, a\nmotorized wheel was attached to the axis of the disk and\nthe rotational speed was kept constant for 10s. To ignore\ninitial transient effects, the analysis of the data was done\nonly for the second half (5s) of the experiment. To quantify\nthe performance, the RMSE between the reading on the disk\nand drone encoders was calculated after correction for the\ndelay, induced by the overall motor plant (on order of 100-\n150ms).\nTo quantify the ability of the on-chip plasticity to adapt\ncontrol parameters online, a reference trajectory was imposed\non the drone to bring",
+  "section_title": "III. RESULTS",
+  "image_filename": "page_005_fig_01.png",
+  "relative_path": "images/page_005_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "controller",
+    "drone",
+    "cpu",
+    "order",
+    "disk",
+    "quantify",
+    "adaptive",
+    "speed",
+    "control",
+    "speeds"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "Fig. 4: The processing pipeline and vision-driven controller\nlatency and update rate."
+    }
+  ],
+  "metadata": {
+    "width": 11660,
+    "height": 4370,
+    "size_bytes": 1153497,
+    "format": "png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "original_page": 9,
+  "figure_number": "Figure 9-1",
+  "original_caption": "",
+  "contextual_text": "Page 9 of 24\nAlqudsi and Makaraci ﻿Journal of Engineering and Applied Science           (2025) 72:12 Fig. 3  A scenario illustrating the completeness issue associated with basic decoupled planning algorithms. a Two 2D circular robots, R1 and R2 , are assigned to reach goals G1 and G2 respectively, demonstrating a feasible solution with robot prioritization to avoid collisions. b When the goal positions are switched, the decoupled planning algorithm fails to find collision-free paths, highlighting its lack of completeness",
+  "section_title": "Task assignment and role interchangeability",
+  "image_filename": "page_009_fig_01.png",
+  "relative_path": "images/page_009_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "task",
+    "assignment",
+    "role",
+    "interchangeability"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1946,
+    "height": 907,
+    "size_bytes": 442318,
+    "format": "png"
+  }
+}

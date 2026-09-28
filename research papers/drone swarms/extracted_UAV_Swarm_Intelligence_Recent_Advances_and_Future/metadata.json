@@ -1,0 +1,12 @@
+{
+  "source_pdf": "UAV_Swarm_Intelligence_Recent_Advances_and_Future_.pdf",
+  "total_pages": 23,
+  "total_extracted_images": 7,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\research papers\\drone swarms\\extracted_UAV_Swarm_Intelligence_Recent_Advances_and_Future",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

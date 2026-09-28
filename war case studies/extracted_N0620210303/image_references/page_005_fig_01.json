@@ -1,0 +1,29 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 3",
+  "original_caption": "하고, 정밀타격 명령을 신속히 하달했다. FireFly는 무장 상태에서 약 15분간 임무 수행이 가능하며, 표적을 발견하면 상공에 | 서 70 km/h 속도로 급강하 공격을 감행한다.",
+  "contextual_text": "KOSDI\n519 Soonhyeong Cha et al. | Strategic Military Applications of Unmanned Aerial Systems in Modern Warfare: A Case-Based Analysis 도입하였다. 아제르바이잔은 이러한 무인기 운용을 통해 제공권을 장악하고, 아르메니아의 방공·기갑 전력을 우회 및 제거 함으로써 전장 주도권을 확보하였다. 또한, 소셜미디어 등 다양한 채널을 통해 드론 작전 영상을 실시간으로 공개하며 심리 전과 정보전 측면에서도 무인기를 전략적으로 활용하였다(Seo et al., 2022). 이스라엘-하마스 전쟁 사례 하마스는 소형 쿼드콥터 드론을 대량 투입해 이스라엘 국경 감시 카메라와 포탑을 기습 공격하는 ‘드론 스워밍’ 전술을 구 사했다. 아이언 돔 방어망으로 모든 드론을 요격할 수는 없었고, 이 과정에서 다수의 드론이 목표물에 돌진하며 초기 기습 효 과를 거두었다. 이에 이스라엘군은 가자지구 작전 시 FireFly 체공형 드론을 활용하여 하마스 병력 분포를 실시간 모니터링 하고, 정밀타격 명령을 신속히 하달했다. FireFly는 무장 상태에서 약 15분간 임무 수행이 가능하며, 표적을 발견하면 상공에 서 70 km/h 속도로 급강하 공격을 감행한다. 후속 작전에서는 개인 휴대 체공형 드론을 비롯해, Fig. 3의 MagicFly, Lanius, Xtender 같은 실내 감시·공격용 드론을 동 원해 도시·터널 내부를 탐색했다(Jeong, 2025). MagicFly\nLanius\nXtender Fig. 3. Israeli indoor surveillance and attack drones (Eshel, 2024) 이들 소형 드론은 GPS가 차단된 환경에서도 자율비행이 가능하며, 건물 내부 정찰 후 즉시 핀포인트 자폭 또는 동시다발 공격으로 부수적 피해를 최소화했다. 현대 분쟁 사례 기반 무인항공기(UAS) 운용 전략 비교 분석 분쟁별 UAS 운용 양상 비교 ISR 드론은 Intelligen",
+  "section_title": "(카메라+칩) 부착으로 자율 항법과 자동 표적 인식(ATR)이 구현되어 ‘센서→결정→타격’ 고리를 단축하고, 운영자는 ‘전 처",
+  "image_filename": "page_005_fig_01.jpeg",
+  "relative_path": "images/page_005_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "atr"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "후속 작전에서는 개인 휴대 체공형 드론을 비롯해, Fig. 3의 MagicFly, Lanius, Xtender 같은 실내 감시·공격용 드론을 동"
+    },
+    {
+      "page": 5,
+      "snippet": "Fig. 3. Israeli indoor surveillance and attack drones (Eshel, 2024)"
+    }
+  ],
+  "metadata": {
+    "width": 725,
+    "height": 381,
+    "size_bytes": 75681,
+    "format": "jpeg"
+  }
+}

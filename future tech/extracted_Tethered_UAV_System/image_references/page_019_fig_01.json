@@ -1,0 +1,29 @@
+{
+  "original_page": 19,
+  "figure_number": "Figure 10",
+  "original_caption": "Drones 2025, 9, 425 19 of 48 | the incidence angle α of the wind flow, the projected aerodynamic forces, as illustrated in Figure 10, are (",
+  "contextual_text": "Drones 2025, 9, 425\n19 of 48 the incidence angle α of the wind flow, the projected aerodynamic forces, as illustrated in\nFigure 10, are\n( F∥= −Laerosα + Daerocα\nF⊥= Laerocα + Daerosα (24) Figure 10. Aerodynamic forces acting on a cylindrical cable segment. 3.2.3. Tether Electrical Model As the primary role of the tether is power transmission, basic electrical modeling is\nessential. The internal resistance of the cable R, which causes voltage and power losses, is\ndefined by R = ρ L A ,\n(25) where ρ is the conductor’s resistivity, L is the cable length, and A the cross-sectional area.\nThe corresponding voltage drop and power loss are [84]: Vdrop = R · i ,\n(26) Ploss = Vdrop · i = R · i2,\n(27) where i is the operating current. Minimizing Ploss while keeping the cable lightweight\nintroduces a design trade-off between cable diameter and length, key factors in TUAV\nendurance and lift capacity. For AC power transmission, cable inductance also becomes\nrelevant, contributing to additional losse",
+  "section_title": "3.3.1. Mechanical Model",
+  "image_filename": "page_019_fig_01.jpeg",
+  "relative_path": "images/page_019_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "drones",
+    "incidence",
+    "angle",
+    "wind",
+    "flow",
+    "projected",
+    "aerodynamic",
+    "forces",
+    "illustrated",
+    "mechanical"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1020,
+    "height": 653,
+    "size_bytes": 72392,
+    "format": "jpeg"
+  }
+}

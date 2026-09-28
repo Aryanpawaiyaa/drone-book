@@ -1,0 +1,38 @@
+{
+  "original_page": 35,
+  "figure_number": "Fig. 10",
+  "original_caption": "Researchers have also proposed introducing artificial noise or anti-jamming signals as  effective countermeasures against eavesdropping attacks (Xu et al. 2023; Chen et al. 2023).  While passive eavesdropping incidents are among the most common security concerns,  active eavesdropping poses a more severe threat to network integrity. In active eaves­ dropping, adversaries deliberately target the primary communication channel to intercept,  manipulate, or degrade transmitted data. To mitigate such threats, several defense strategies  have been developed. One widely studied approach involves joint trajectory and resource  allocation for UAVs (Wang et al. 2022; Akhunzada et al. 2024; Wang et al. 2022). This  method strategically optimizes UAV flight paths and resource distribution to minimize  signal exposure to unauthorized receivers while maintaining robust links with legitimate  nodes. Another proposed technique focuses on restricting resource availability (Anastasov  et al. 2023; Arslan and Furqan 2022). By carefully managing resource allocation and con­ figuring UAVs to form protective formations around ground nodes, this strategy reduces  the likelihood of unauthorized interception. In addition to defending against eavesdropping,  researchers have examined methods to protect networks from unauthorized UAV intrusions.  Such scenarios may occur when external UAVs unintentionally or maliciously enter the  operational airspace, attempt to intercept data, or conduct surveillance. Since these UAVs  are not part of the authenticated network, they must be prevented from accessing confi­ dential information. To address this challenge, recent studies have explored reinforcement  learning-based detection techniques (Dong et al. 2021) and other intrusion detection mecha­ nisms to accurately identify and respond to unauthorized UAVs within the network (Polus  et al. 2023). | Fig. 10  The figure illustrates two UAV communication scenarios: a depicts a UAV providing communi­ cation coverage with a focus on a legitimate earth station and user, while b shows an illegitimate user  attempting to intercept or interfere with the communication link. The legend identifies key elements  including the UAV/drone, earth station, and the presence of an illegitimate user, highlighting the potential  security concerns in such scenarios",
+  "contextual_text": "Flight into the future: a holistic review of AI-trends, vision, and… 6  Physical layer security and safety Physical layer security can be broadly defined as methods to protect our channel communi­\ncation from several types of attack, such as jamming or eavesdropping (see Fig. 10). Researchers have also proposed introducing artificial noise or anti-jamming signals as \neffective countermeasures against eavesdropping attacks (Xu et al. 2023; Chen et al. 2023). \nWhile passive eavesdropping incidents are among the most common security concerns, \nactive eavesdropping poses a more severe threat to network integrity. In active eaves­\ndropping, adversaries deliberately target the primary communication channel to intercept, \nmanipulate, or degrade transmitted data. To mitigate such threats, several defense strategies \nhave been developed. One widely studied approach involves joint trajectory and resource \nallocation for UAVs (Wang et al. 2022; Akhunzada et al. 2024; Wang et al. 2022). This \nmeth",
+  "section_title": "﻿6﻿ ﻿Physical layer security and safety",
+  "image_filename": "page_035_fig_01.png",
+  "relative_path": "images/page_035_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "uavs",
+    "uav",
+    "eavesdropping",
+    "resource",
+    "unauthorized",
+    "while",
+    "security",
+    "network",
+    "communication",
+    "intercept"
+  ],
+  "cross_references": [
+    {
+      "page": 35,
+      "snippet": "Physical layer security can be broadly defined as methods to protect our channel communi­\ncation from several types of attack, such as jamming or eavesdropping (see Fig. 10)."
+    },
+    {
+      "page": 35,
+      "snippet": "Fig. 10  The figure illustrates two UAV communication scenarios: a depicts a UAV providing communi­\ncation coverage with a focus on a legitimate earth station and user, while b shows an illegitimate u"
+    }
+  ],
+  "metadata": {
+    "width": 1418,
+    "height": 624,
+    "size_bytes": 246145,
+    "format": "png"
+  }
+}

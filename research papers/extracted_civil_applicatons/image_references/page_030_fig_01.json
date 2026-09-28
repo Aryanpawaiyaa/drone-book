@@ -1,0 +1,28 @@
+{
+  "original_page": 30,
+  "figure_number": "Fig. 29",
+  "original_caption": "Control links | Command and",
+  "contextual_text": "30 UAV links Control links Command and control from\nGCS to UAVs UAV status\nreport from\nUAVs to GCS Sense and avoid information\namong UAVs Data links Direct ground mobile-UAV\ncommunication UAV-base station\nand UAV-gateway\nwireless backhaul UAV-UAV\nwireless backhaul Fig. 29: Applications of UAV Links. Fig. 30: Basic Networking Architecture of UAV-Aided Wireless Communications. number of multipath components due to reﬂection, scattering,\nand diffraction by buildings, ground surface, etc. The UAV-\nUAV wireless channels are line of sight dominated and thus the\neffect of multipath is minimal compared to that experienced\nin UAV-ground or ground-ground channels. Due to the contin-\nuous movements of UAVs with different velocities, the UAV-\nto-UAV wireless channels will have high Doppler frequencies,\nespecially the ﬁxed wing UAVs. On one hand, we can utilize\nthe dominance of the line of sight channels to achieve high-\ncapacity for emerging mmWave communications. On the other\nhand, due to the con",
+  "section_title": "LNLOS(dB) = 20log(4πfcd",
+  "image_filename": "page_030_fig_01.jpeg",
+  "relative_path": "images/page_030_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "control",
+    "links",
+    "command",
+    "lnlos"
+  ],
+  "cross_references": [
+    {
+      "page": 30,
+      "snippet": "Fig. 29: Applications of UAV Links."
+    }
+  ],
+  "metadata": {
+    "width": 653,
+    "height": 599,
+    "size_bytes": 24475,
+    "format": "jpeg"
+  }
+}

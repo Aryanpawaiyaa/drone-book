@@ -1,0 +1,38 @@
+{
+  "original_page": 14,
+  "figure_number": "FIGURE 10",
+  "original_caption": "FIGURE 10. The ict-centric mobile simulation framework [98]. | FIGURE 11. Illustration of the multi-UAV network, showing the selection of each UAV [99].",
+  "contextual_text": "Y. Zhou et al.: UAV Swarm Intelligence: Recent Advances and Future Trends FIGURE 9. Typical layered UAV network scenario for forest fire prevention\nand inspection [97]. FIGURE 10. The ict-centric mobile simulation framework [98]. FIGURE 11. Illustration of the multi-UAV network, showing the selection\nof each UAV [99]. network is the key to gaining the right to information\non the battleﬁeld. At the same time, due to the high\nprobability of line-of-sight (LOS) link and on-demand\ndeployment, the UAV can improve the overall performance\nof the ground communication system. Chen Q et al. studied\na relay system in which multiple UAVs established a UAV\nrelay network through orthogonal frequency division multi-\nple access (OFDMA) to help some transmitters communicate\nwith corresponding receivers [100]. In a cellular network composed of drones, each drone can sense and transmit data\nfrom multiple tasks to the base station. By introducing the\nInformation Age to quantify the ‘‘freshness’’ of base s",
+  "section_title": "FIGURE 10. The ict-centric mobile simulation framework [98].",
+  "image_filename": "page_014_fig_04.jpeg",
+  "relative_path": "images/page_014_fig_04.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "ict",
+    "centric",
+    "mobile",
+    "simulation",
+    "framework",
+    "uav",
+    "illustration",
+    "multi",
+    "network",
+    "showing"
+  ],
+  "cross_references": [
+    {
+      "page": 13,
+      "snippet": "The minimum number of upper-layer unmanned aerial\nvehicles is theoretically proved by a closed-form coverage\nboundary, and the average delay and average link delay are\nveriﬁed by numerical simulation."
+    },
+    {
+      "page": 14,
+      "snippet": "FIGURE 10. The ict-centric mobile simulation framework [98]."
+    }
+  ],
+  "metadata": {
+    "width": 597,
+    "height": 521,
+    "size_bytes": 47994,
+    "format": "jpeg"
+  }
+}

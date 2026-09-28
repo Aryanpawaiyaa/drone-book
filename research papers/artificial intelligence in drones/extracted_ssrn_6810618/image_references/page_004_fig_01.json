@@ -1,0 +1,58 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 1",
+  "original_caption": "Autonomous Control and Artificial Intelligence in Drones | Fig. 1: Integration of AI in Autonomous Drone Systems. The figure presents a hierarchical architecture of AI-driven modules  for drone autonomy, including (1) SLAM, (2) neural network-based, (3) computer vision, (4) edge AI processors, and (5)  AI-enhanced flight controllers for adaptive navigation.",
+  "contextual_text": "Autonomous Control and Artificial Intelligence in Drones Y. ALQUDSI et al. : \nPage 4 of 26 Fig. 1: Integration of AI in Autonomous Drone Systems. The figure presents a hierarchical architecture of AI-driven modules \nfor drone autonomy, including (1) SLAM, (2) neural network-based, (3) computer vision, (4) edge AI processors, and (5) \nAI-enhanced flight controllers for adaptive navigation. Table 1 \nEvolution of Drone Control System Paradigms Time Period \nControl Paradigm \nKey Characteristics and Technological Enablers \nPre-2000s \nManual Control \nDirect human operation of all flight parameters; minimal \nautomated stabilization. \n2000–2010 \nStability Augmentation \nIntroduction of PID controllers for attitude stabilization \nand basic systems to assist human pilots. \n2010–2015 \nSemi-Autonomous Operation \nWaypoint navigation, geofencing, and basic obstacle \navoidance, enabling partial autonomy in structured en- \nvironments. \n2015–2020 \nConditional Autonomy \nIntegration of advanced sensors (e",
+  "section_title": "3. Background and Key Concepts",
+  "image_filename": "page_004_fig_01.jpeg",
+  "relative_path": "images/page_004_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "autonomous",
+    "drone",
+    "control",
+    "artificial",
+    "intelligence",
+    "drones",
+    "integration",
+    "presents",
+    "hierarchical",
+    "architecture"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "Fig. 1: Integration of AI in Autonomous Drone Systems. The figure presents a hierarchical architecture of AI-driven modules \nfor drone autonomy, including (1) SLAM, (2) neural network-based, (3) compu"
+    },
+    {
+      "page": 14,
+      "snippet": "Fig. 10: AI-Driven Logistics Framework for Autonomous Drone Delivery Systems. The diagram illustrates an end-to-end \nworkflow integrating AI for drone fleet management, encompassing (1) predictive mai"
+    },
+    {
+      "page": 15,
+      "snippet": "Fig. 11: Integrated framework for autonomous disaster response systems, showing multi-modal workflow combining sensor \nmodules, software stacks, and operational functionalities for victim detection, e"
+    },
+    {
+      "page": 17,
+      "snippet": "Fig. 12: Technology Readiness Level (TRL) versus tracking accuracy for control approaches. The inverse relationship \nhighlights the implementation gap for advanced methods. Error bars show ranges from"
+    },
+    {
+      "page": 18,
+      "snippet": "Fig. 13: AIMM framework visualization showing research concentration (bubble size) and performance gaps. The x-axis \nshows II, y-axis DR, and bubble color represents Autonomy Level."
+    },
+    {
+      "page": 19,
+      "snippet": "Fig. 14: Comparative analysis of energy efficiency solutions showing potential flight duration improvements versus \ntechnological readiness. Error bars indicate performance ranges from experimental st"
+    },
+    {
+      "page": 20,
+      "snippet": "Fig. 15: Impact of regulatory frameworks on deployment timelines across regions. Performance-based approaches enable \n3-5x faster deployment. Error bars show variation across application domains."
+    }
+  ],
+  "metadata": {
+    "width": 807,
+    "height": 718,
+    "size_bytes": 58628,
+    "format": "jpeg"
+  }
+}

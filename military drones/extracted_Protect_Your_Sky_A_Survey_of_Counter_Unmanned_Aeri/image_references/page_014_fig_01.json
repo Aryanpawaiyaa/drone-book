@@ -1,0 +1,42 @@
+{
+  "original_page": 14,
+  "figure_number": "Fig. 6",
+  "original_caption": "two platforms can cooperate to complete the mission. The decentralized heterogeneous network would be a good solution to achieve a tradeoff between robustness and performance. | IV. ARCHITECTURE In this section, the architecture of the integrated CUS is introduced. Integrated CUS architectures can be categorized into three types based on their roles, as follows (refer to Fig. 6): Sensing systems that gather data from the environment and transmit the observed data to C2 systems; C2 systems that perform computing tasks (e.g., detection/identiﬁcation and tracking/localization algorithms) and make decisions based on the received data, such as the detection/identiﬁcation declaration, localization/tracking declaration, and time and method of the neutralization of mUAVs; and mitigation sys- tems that perform mUAV neutralization based on the deci- sions of the C2 systems.",
+  "contextual_text": "H. Kang et al.: Protect Your Sky: A Survey of Counter UAV Systems two platforms can cooperate to complete the mission.\nThe decentralized heterogeneous network would be a\ngood solution to achieve a tradeoff between robustness\nand performance. IV. ARCHITECTURE\nIn this section, the architecture of the integrated CUS is\nintroduced. Integrated CUS architectures can be categorized\ninto three types based on their roles, as follows (refer to\nFig. 6): Sensing systems that gather data from the environment\nand transmit the observed data to C2 systems; C2 systems that\nperform computing tasks (e.g., detection/identiﬁcation and\ntracking/localization algorithms) and make decisions based\non the received data, such as the detection/identiﬁcation\ndeclaration, localization/tracking declaration, and time and\nmethod of the neutralization of mUAVs; and mitigation sys-\ntems that perform mUAV neutralization based on the deci-\nsions of the C2 systems. Each sensing system, the C2 system, and the mitigation\nsyst",
+  "section_title": "TABLE 5. Regulations on Commercial UAVs in 20 countries and Violation Consequences [40]–[44].",
+  "image_filename": "page_014_fig_01.png",
+  "relative_path": "images/page_014_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "based",
+    "data",
+    "architecture",
+    "integrated",
+    "cus",
+    "perform",
+    "detection",
+    "tracking",
+    "localization",
+    "declaration"
+  ],
+  "cross_references": [
+    {
+      "page": 14,
+      "snippet": "IV. ARCHITECTURE\nIn this section, the architecture of the integrated CUS is\nintroduced. Integrated CUS architectures can be categorized\ninto three types based on their roles, as follows (refer to\nFig."
+    },
+    {
+      "page": 18,
+      "snippet": "V. CUS DEVICES AND FUNCTIONS\nSensors and mitigators are essential components that com-\npose the sensing and mitigation systems, respectively,\nas introduced in Section III and as shown in Fig. 6. Each\n"
+    },
+    {
+      "page": 18,
+      "snippet": "A. SENSORS\nA sensor is generally a device, module, machine, or subsys-\ntem that detects and reports events or changes of a monitored\nsurrounding environment. Herein, the sensors of sensing sys-\ntems f"
+    }
+  ],
+  "metadata": {
+    "width": 377,
+    "height": 64,
+    "size_bytes": 3399,
+    "format": "png"
+  }
+}

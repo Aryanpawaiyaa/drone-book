@@ -1,0 +1,70 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 3",
+  "original_caption": "Fig. 3: Predicted Value of UAV Solutions in Key Industries (Billion). | A. UAV-Based SAR System",
+  "contextual_text": "5 Fig. 3: Predicted Value of UAV Solutions in Key Industries (Billion). Fig. 4: Global UAV Payload Market Predictions 2027. On the other hand, HAP operates at very high altitude above\n10 km, and vehicles utilizing this platform are able to stay for\na long time in the upper layers of the stratosphere. Airships,\naircrafts, and balloons are the main types of UAVs that fall\nunder this category. These two categories of aerial communi-\ncations platforms are shown in Figure\n5. More speciﬁcally,\nin each platform the main UAV types and examples of each\ntype are illustrated in this ﬁgure. A comparison between HAP\nand LAP is presented in Table III . This table also summarizes\nthe main UAV types for each platform, and its performance\nparameters. Speciﬁcally, these parameters are UAV endurance,\nmaximum altitude, weight, payload, range, deployment time,\nfuel type, operational complexity, coverage range, applications\nand examples for each UAV type is also shown in this table. PART II: UAV APPLICATION",
+  "section_title": "IV. SEARCH AND RESCUE (SAR)",
+  "image_filename": "page_005_fig_01.png",
+  "relative_path": "images/page_005_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "sar",
+    "predicted",
+    "value",
+    "solutions",
+    "key",
+    "industries",
+    "billion",
+    "based",
+    "search"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "Fig. 3: Predicted Value of UAV Solutions in Key Industries (Billion)."
+    },
+    {
+      "page": 30,
+      "snippet": "Fig. 30: Basic Networking Architecture of UAV-Aided Wireless Communications."
+    },
+    {
+      "page": 31,
+      "snippet": "Fig. 31: Classiﬁcation of Path Loss Models for UAVs."
+    },
+    {
+      "page": 31,
+      "snippet": "Fig. 32: Coverage Zone By a Low Altitude UAV.\nFig. 33: Providing Wireless Coverage for Indoor Users."
+    },
+    {
+      "page": 32,
+      "snippet": "Fig. 34: Cellular-to-UAV Path Loss Parameters."
+    },
+    {
+      "page": 34,
+      "snippet": "Fig. 35: Classiﬁcation of Deployment Strategies for UAVs."
+    },
+    {
+      "page": 34,
+      "snippet": "Fig. 36: Interference Mitigation Techniques and Challenges."
+    },
+    {
+      "page": 38,
+      "snippet": "Fig. 37: Illustration of Battery Hot Swapping System."
+    },
+    {
+      "page": 43,
+      "snippet": "Fig. 38: Control and Data Planes in SDN Platform."
+    },
+    {
+      "page": 44,
+      "snippet": "Fig. 39: General Architecture of UAV Systems. Reprinted from [351]."
+    }
+  ],
+  "metadata": {
+    "width": 451,
+    "height": 567,
+    "size_bytes": 78868,
+    "format": "png"
+  }
+}

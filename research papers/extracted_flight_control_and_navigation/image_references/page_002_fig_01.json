@@ -1,0 +1,38 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 1",
+  "original_caption": "In the literature, there are some surveys that cover different aspects  of UAV/UAS/drone/swarm control systems and path planning algo­ rithms. For instance, [17–21] focused on control strategies and archi­ tectures, covering strategies from basic to advanced. [17] focuses on the  novel concept of quadrotors with tilting propellers, highlighting the  need for hybrid control schemes to achieve optimal performance. [18]  compares linear and nonlinear control strategies, emphasizing the  trade-offs between stability, robustness, and complexity. Additionally,  they discuss experimental implementation setups and future directions,  such as integrating UAVs into traffic policing systems. [19] underscores  the prevalence of PID control in quadrotor systems and explores varia­ tions and enhancements, including adaptive capabilities and stability  analyses. They identify opportunities for further research, particularly in  analyzing the stability of PID-based control schemes and addressing  challenges related to disturbances and parameter uncertainty. [20]  provides a concise overview of quadrotor UAV control algorithms,  focusing on linear, nonlinear, and intelligent control methods. They  emphasize the challenges posed by the quadrotor’s underactuated | Moreover, [22–26] focused on path planning algorithms. [22] pro­ vides an extensive analysis of UAV path planning approaches, high­ lighting the prevalence of classical techniques, heuristic algorithms,  meta-heuristics, and machine learning methods. The discussion un­ derscores the trade-offs between simplicity, computational efficiency,  and optimality across static and dynamic environments. [23] presents a  comprehensive analysis of UAV path planning research focusing on  computational intelligence (CI) algorithms. They identify trends in  CI-based path planning and categorize studies based on time domain  (offline and online) and space domain (2D and 3D). [24] explores the  emerging field of UAV swarm path planning, emphasizing the role of  artificial intelligence techniques in enhancing coordination and effi­ ciency. [25] offers a thorough examination of 3D path planning algo­ rithms for UAVs. They categorize methods into sampling-based,  node-based, mathematical model-based, bio-inspired, and multi-fusion  algorithms, comparing their characteristics and applicability. [26]  provides a thorough examination of path planning techniques for UAVs.  They categorize the techniques into representative, cooperative, and  non-cooperative methods, and delve into their applicability, coverage,  and connectivity within UAV communication networks. Furthermore,  they identify key research directions, including the need for more effi­ cient path planning, enhanced energy efficiency through green energy  adoption, and the development of secure communication protocols to  mitigate potential security threats.",
+  "contextual_text": "Swarm and Evolutionary Computation 89 (2024) 101626 2 Machine learning and artificial intelligence are increasingly used to \nenhance both control and path planning [11–13], allowing drones to \nlearn from experience and adapt to changing conditions. With the increase in drone usage, drone swarms are becoming more \npopular. The coordination of multiple drones in swarms, facilitated by \nadvanced control and path planning algorithms [14], revolutionizes \naerial operations. These swarms enhance capabilities across various \ndomains, such as search and rescue, environmental monitoring, and \nmore. By working collaboratively, swarms cover larger areas, respond \nfaster, and achieve mission objectives with unprecedented efficiency, \nmaking them a game-changing innovation in the world of drone tech­\nnology. Furthermore, advancements in autonomous navigation systems \nempower drones to execute missions independently, diminishing the \nrequirement for continuous human supervision [15]. These sophisti­",
+  "section_title": "1.1. Related surveys",
+  "image_filename": "page_002_fig_01.png",
+  "relative_path": "images/page_002_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "path",
+    "planning",
+    "control",
+    "they",
+    "uav",
+    "based",
+    "algorithms",
+    "into",
+    "methods",
+    "techniques"
+  ],
+  "cross_references": [
+    {
+      "page": 1,
+      "snippet": "While the development of Unmanned Aerial Vehicles/Unmanned \naerial systems (UAVs/UASs) traces its origins back to the early 1900s \n[1], research in this field began to gain momentum around 2012–2013 \n"
+    },
+    {
+      "page": 2,
+      "snippet": "Fig. 1. Evolution of papers published on drones per year between 2009 and 2018."
+    }
+  ],
+  "metadata": {
+    "width": 1400,
+    "height": 817,
+    "size_bytes": 80246,
+    "format": "png"
+  }
+}

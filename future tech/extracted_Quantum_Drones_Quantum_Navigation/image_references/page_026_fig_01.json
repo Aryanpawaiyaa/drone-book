@@ -1,0 +1,38 @@
+{
+  "original_page": 26,
+  "figure_number": "Fig. 16",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 16. Quantum software life cycle for IoQDs.",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 16. Quantum software life cycle for IoQDs. ing all constituent software artefacts, such as quantum programs, \nclassical programs, and workﬂows, comparable to the execution \nphase. During the deployment phase, everything is in place to allow \nthe quantum application to work. Therefore, the performance con-\ntext for traditional programs is built up. For example, a virtual \nmachine may be established and the appropriate Python runtime \ndeployed on it for a Python code. Quantum applications and pro-\ncedures must be deployed in the same way. Several of the needed \ncapabilities, on the other hand, may be offered as a service or \nAPI, requiring no deployment. The quantum program and its pro-\ngramming environment are then monitored in the following phase. \nData is gathered for two motives: monitoring the current state \nof a functioning quantum program and preserving the data for \nlong-term s",
+  "section_title": "4.5. Security and cryptography aspects for IoQDs",
+  "image_filename": "page_026_fig_01.jpeg",
+  "relative_path": "images/page_026_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "ioqds",
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular",
+    "communications",
+    "quantum",
+    "software"
+  ],
+  "cross_references": [
+    {
+      "page": 24,
+      "snippet": "The Quantum Software Life Cycle for IoQDs is shown in Fig. 16\n[171,172]. Step 1 consists of requirement gathering, in which \nthe hardware-related requirements related to IoQDs are gathered. \nBased on "
+    },
+    {
+      "page": 26,
+      "snippet": "Fig. 16. Quantum software life cycle for IoQDs."
+    }
+  ],
+  "metadata": {
+    "width": 1337,
+    "height": 898,
+    "size_bytes": 159890,
+    "format": "jpeg"
+  }
+}

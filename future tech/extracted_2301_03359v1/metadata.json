@@ -1,0 +1,93 @@
+{
+  "source_pdf": "2301.03359v1.pdf",
+  "total_pages": 17,
+  "total_extracted_images": 21,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "I Introduction",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "II Digital Twins for Wireless Systems: A Primer ",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "III Data Acquisition",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "III-A Enabling Technologies and Techniques",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "III-B Research Opportunities and Challenges",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "IV Network Softwarization and Virtualization",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "IV-A State of the Art",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "IV-B Research Opportunities",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "V Domain Adaptation Techniques",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "V-A State of the Art",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "V-B Research Opportunities",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "VI Physical Scenarios Development",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "VI-A State of the Art",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VI-B Research Opportunities",
+      "page": 13
+    },
+    {
+      "level": 1,
+      "title": "VII Conclusions",
+      "page": 14
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 15
+    }
+  ],
+  "output_directory": "f:\\drone-book\\future tech\\extracted_2301_03359v1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

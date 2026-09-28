@@ -1,0 +1,22 @@
+{
+  "original_page": 26,
+  "figure_number": "Figure 26-1",
+  "original_caption": "",
+  "contextual_text": "Biomimetics 2024, 9, 444\n26 of 41 Figure 7. A comparison between neurons of ANNs and SNNs (adapted from [182]). Among the various neuron models proposed by the researchers, the LIF and its\nvariants are among the most popular neuron models due to their low implementation\ncosts [32,183]. The LIF model can be represented mathematically as follows: CdV dt = −gL(V(t) −EL) + I(t)\n(3) In Equation (3), output voltage V(t) relies on the conductance gL of the resistor, the\ncapacitance C of the capacitor, the resting voltage EL, and a current source I(t). When\nmultiplying Equation (3) by R = 1 C, the dvmem dt\nin relation to the membrane time constant,\nτm is: τm dvmem dt = −[vmem(t) −vrest] + RI\n(4) Consequently, the activation function A(t) for LIF neurons is represented as shown in\n5; vmem constantly decays to the rest value and undergoes a refractory period. A(t) = \u001a0, i f vmem < vthresh 1, i f vmem ≥vthresh\n(5) 4.4. Neuromorphic Computing in SLAM Integrating neuromorphic computing into SLAM sy",
+  "section_title": "4.4. Neuromorphic Computing in SLAM",
+  "image_filename": "page_026_fig_01.jpeg",
+  "relative_path": "images/page_026_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "neuromorphic",
+    "computing",
+    "slam"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1619,
+    "height": 1068,
+    "size_bytes": 173337,
+    "format": "jpeg"
+  }
+}

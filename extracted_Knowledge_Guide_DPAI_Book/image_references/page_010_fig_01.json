@@ -1,0 +1,29 @@
+{
+  "original_page": 10,
+  "figure_number": "Figure 10-1",
+  "original_caption": "intervention, relying on pre-programmed flight paths and AI- | driven navigation. These drones require special permissions",
+  "contextual_text": "Sub-Categories of Drones Beyond design, drones are further classified based on their operational capabilities and the level of human control involved. Remotely Piloted Aircraft System (RPAS) – The most common type of drone, actively controlled by a human pilot through a remote controller or ground station. This category includes consumer drones, commercial drones, and industrial RPAS used for applications like aerial photography, surveillance, and mapping. Model RPAS – Specifically designed for research, education, and hobbyist use, these drones do not require commercial approvals but must adhere to safety and operational guidelines. Autonomous Drones – Operate without direct human intervention, relying on pre-programmed flight paths and AI- driven navigation. These drones require special permissions from DGCA due to their potential impact on airspace management and safety. 10",
+  "section_title": "CHAPTERS",
+  "image_filename": "page_010_fig_01.jpeg",
+  "relative_path": "images/page_010_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "intervention",
+    "relying",
+    "pre",
+    "programmed",
+    "flight",
+    "paths",
+    "driven",
+    "navigation",
+    "these",
+    "drones"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1050,
+    "height": 700,
+    "size_bytes": 233485,
+    "format": "jpeg"
+  }
+}

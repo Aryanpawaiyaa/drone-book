@@ -1,0 +1,44 @@
+{
+  "original_page": 13,
+  "figure_number": "Fig. 12",
+  "original_caption": "Computer Networks 182 (2020) 107451 | D. Mishra and E. Natalizio",
+  "contextual_text": "Computer Networks 182 (2020) 107451 13 D. Mishra and E. Natalizio Fig. 12. Network Architectures of Cellular-connected UAV. Fig. 13. Service Oriented System Architecture of UAV [116]. 5.2. Hardware and physical layer consideration The performance of cellular-connected UAVs in 5G networks sig-\nnificantly depends on the underlying physical layer signal processing.\nIn this section, we highlight the candidate physical layer techniques\nthat influence the UAV communication. The key techniques are massive\nMIMO (Multiple Input Multiple Output) antenna, mmWave communi-\ncation (3–300 GHz), beamforming and beam division multiple access\n(BDMA), as well as some new modulation schemes. In 4G LTE, Orthogo-\nnal frequency division multiplexing (OFDM) and Orthogonal frequency\ndivision multiple access (OFDMA) are predominantly used for multi-\nplexing and multiple access method. 5G/B5G networks is considering\nnew waveforms to support efficient air interface [119]. These new\nwaveforms are superior than OFD",
+  "section_title": "5.2. Hardware and physical layer consideration",
+  "image_filename": "page_013_fig_02.jpeg",
+  "relative_path": "images/page_013_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "computer",
+    "networks",
+    "mishra",
+    "natalizio",
+    "hardware",
+    "physical",
+    "layer",
+    "consideration"
+  ],
+  "cross_references": [
+    {
+      "page": 12,
+      "snippet": "In [110], the authors presented a UAV-enabled MEC architecture\napplicable for cellular-connected UAVs. Fig. 12(a) illustrates this archi-\ntecture, where the UAV has some computational task to be execu"
+    },
+    {
+      "page": 12,
+      "snippet": "the total time for UAV mission considering the maximum speed and\nground station capacity constraints. This setup is shown in Fig. 12(b)."
+    },
+    {
+      "page": 12,
+      "snippet": "In [41], the authors envision a heterogeneous UAV network archi-\ntecture, where UAVs are used to deliver value-added IoT services from\nthe sky. The UAVs are considered as key enabler of IoT framework "
+    },
+    {
+      "page": 13,
+      "snippet": "Fig. 12. Network Architectures of Cellular-connected UAV."
+    }
+  ],
+  "metadata": {
+    "width": 1809,
+    "height": 489,
+    "size_bytes": 173347,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_page": 5,
+  "figure_number": "Figure 4",
+  "original_caption": "Autonomous Control and Artificial Intelligence in Drones | Lightweight architectures such as YOLOv4-tiny have demonstrated high detection performance under controlled  benchmark conditions, with reported accuracies exceeding 90% in specific datasets; however, these results vary  significantly depending on environmental conditions, dataset characteristics, and task complexity [19]. Frameworks  like TerraFusion further demonstrate the power of semi-supervised vision-fusion for robust terrain classification across  varying environmental conditions [20]. A typical computer vision pipeline for drone obstacle detection, encompassing  image acquisition, processing, feature extraction, and decision-making, is shown in Figure 4.",
+  "contextual_text": "Autonomous Control and Artificial Intelligence in Drones Y. ALQUDSI et al. : \nPage 5 of 26 Fig. 2: AI, Machine Learning, and Deep Learning. This diagram demonstrates the relationship and differences between AI, \nML, and DL, with a focus on their application in drone systems. Lightweight architectures such as YOLOv4-tiny have demonstrated high detection performance under controlled \nbenchmark conditions, with reported accuracies exceeding 90% in specific datasets; however, these results vary \nsignificantly depending on environmental conditions, dataset characteristics, and task complexity [19]. Frameworks \nlike TerraFusion further demonstrate the power of semi-supervised vision-fusion for robust terrain classification across \nvarying environmental conditions [20]. A typical computer vision pipeline for drone obstacle detection, encompassing \nimage acquisition, processing, feature extraction, and decision-making, is shown in Figure 4. 3.3. The AI-ACS Integration Maturity Model (AIMM) \nTo",
+  "section_title": "3. Background and Key Concepts",
+  "image_filename": "page_005_fig_01.jpeg",
+  "relative_path": "images/page_005_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "conditions",
+    "detection",
+    "environmental",
+    "vision",
+    "autonomous",
+    "control",
+    "artificial",
+    "intelligence",
+    "drones",
+    "lightweight"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 918,
+    "height": 800,
+    "size_bytes": 57747,
+    "format": "jpeg"
+  }
+}

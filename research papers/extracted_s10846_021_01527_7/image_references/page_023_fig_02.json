@@ -1,0 +1,38 @@
+{
+  "original_page": 23,
+  "figure_number": "Fig. 28",
+  "original_caption": "state. Each of these techniques are implemented in various ways such that the control output reacts differently from one another. In fact, the continuous research of these techniques is | Fig. 28 Switching process in reaching the final state [138]",
+  "contextual_text": "state. Each of these techniques are implemented in various\nways such that the control output reacts differently from one\nanother. In fact, the continuous research of these techniques is becoming widely implemented for practical experiments\nwhere the variations in the controller response can be\nviewed. As a result, the dynamics react uniquely in terms of\nresponsivity and robustness based on the selected controller.\nNevertheless, the implementation approach is somewhat sim-\nilar to the flowchart shown on Fig. 32, which is aimed at\nresearchers who are modelling dynamics and designing a con-\ntrol system for their selected UAV. With regard to the controllers mentioned in this review, we\nnoticed that there is a great research focused on modifying the\ndesign to achieve an improved performance from the dynamic\nmodel. In particular, Quadrotors have been greatly researched\nfor applications that are carried out in outdoor environments.\nHowever, to reach that stage of complex behaviour analysis,\nt",
+  "section_title": "7.10 Comparative Study",
+  "image_filename": "page_023_fig_02.jpeg",
+  "relative_path": "images/page_023_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "state",
+    "these",
+    "techniques",
+    "each",
+    "implemented",
+    "various",
+    "ways",
+    "such",
+    "control",
+    "output"
+  ],
+  "cross_references": [
+    {
+      "page": 21,
+      "snippet": "To describe the functionality of a SMC, Fig. 28 illustrates\nthe principles of the controller, where x = (x1, x2)T, Let x1 and\nx2 be the system states, when a control algorithm is designed\nand tested, "
+    },
+    {
+      "page": 23,
+      "snippet": "Fig. 28 Switching process in reaching the final state [138]"
+    }
+  ],
+  "metadata": {
+    "width": 971,
+    "height": 777,
+    "size_bytes": 49969,
+    "format": "jpeg"
+  }
+}

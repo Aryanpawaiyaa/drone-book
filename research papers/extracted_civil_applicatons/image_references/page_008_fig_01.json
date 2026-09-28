@@ -1,0 +1,34 @@
+{
+  "original_page": 8,
+  "figure_number": "Fig. 10",
+  "original_caption": "Fig. 10: Block Diagram of SAR System Using UAVs with Machine Learning Technology. | D. Research Trends and Future Insights",
+  "contextual_text": "8 Fig. 10: Block Diagram of SAR System Using UAVs with Machine Learning Technology. D. Research Trends and Future Insights 1) Image Processing: SAR operations using UAVs can\nemploy image processing techniques to quickly and accurately\nﬁnd targeted objects. Image processing methods can be used in\nautonomous single and multi-UAV systems to locate potential\ntargets in support of SAR operations. Moreover, location\ninformation can be augmented to aerial images of target\nobjects [51]. UAVs can be integrated with target detection\ntechnologies including thermal and vision cameras. Thermal\ncameras (e.g., IR cameras) can detect the heat proﬁle to locate\nmissing persons. Two stage template based methods can be\nused with such cameras [52]. Vision cameras can also help\nin the detection process of objects and persons [53], [54].\nMethods that utilize a combination of thermal and vision\ncameras have been reported in the literature as in [52]. In SAR operations, image processing can be done either at\nt",
+  "section_title": "IV-D Research Trends and Future Insights",
+  "image_filename": "page_008_fig_01.png",
+  "relative_path": "images/page_008_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "research",
+    "trends",
+    "future",
+    "insights",
+    "block",
+    "diagram",
+    "sar",
+    "uavs",
+    "machine",
+    "learning"
+  ],
+  "cross_references": [
+    {
+      "page": 8,
+      "snippet": "Fig. 10: Block Diagram of SAR System Using UAVs with Machine Learning Technology."
+    }
+  ],
+  "metadata": {
+    "width": 1286,
+    "height": 451,
+    "size_bytes": 75542,
+    "format": "png"
+  }
+}

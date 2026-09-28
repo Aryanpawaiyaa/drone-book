@@ -1,0 +1,193 @@
+{
+  "source_pdf": "biomimetics-09-00444-v2.pdf",
+  "total_pages": 41,
+  "total_extracted_images": 11,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Introduction ",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "Camera-Based SLAM (VSLAM) ",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "Event Camera-Based SLAM ",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "Event Camera Operating Principles ",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "Event Generation Model ",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Event Representation ",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "Method ",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "Feature-Based Methods ",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "Direct Method ",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "Motion Compensation Methods ",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "Deep Learning Methods ",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "Performance Evaluation of VSLAM Systems ",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "Event Camera Datasets ",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "Event-Based SLAM Metrics ",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "Performance Comparison of SLAM Methods ",
+      "page": 16
+    },
+    {
+      "level": 2,
+      "title": "Applications of Event Camera-Based SLAM Systems ",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "Robotics ",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "Autonomous Vehicles ",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Virtual Reality (VR) and Augmented Reality (AR) ",
+      "page": 18
+    },
+    {
+      "level": 1,
+      "title": "Application of Neuromorphic Computing to SLAM ",
+      "page": 18
+    },
+    {
+      "level": 2,
+      "title": "Neuromorphic Computing Principles ",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "Neuromorphic Hardware ",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "SpiNNaker ",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "TrueNorth ",
+      "page": 22
+    },
+    {
+      "level": 3,
+      "title": "Loihi ",
+      "page": 22
+    },
+    {
+      "level": 3,
+      "title": "BrainScaleS ",
+      "page": 23
+    },
+    {
+      "level": 3,
+      "title": "Dynamic Neuromorphic Asynchronous Processors ",
+      "page": 23
+    },
+    {
+      "level": 3,
+      "title": "Akida ",
+      "page": 24
+    },
+    {
+      "level": 2,
+      "title": "Spiking Neural Networks ",
+      "page": 24
+    },
+    {
+      "level": 2,
+      "title": "Neuromorphic Computing in SLAM ",
+      "page": 26
+    },
+    {
+      "level": 1,
+      "title": "Conclusions ",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "Summary of Key Findings ",
+      "page": 29
+    },
+    {
+      "level": 2,
+      "title": "Limitations of the Study ",
+      "page": 30
+    },
+    {
+      "level": 2,
+      "title": "Current State-of-the-Art and Future Scope ",
+      "page": 30
+    },
+    {
+      "level": 2,
+      "title": "Neuromorphic SLAM Challenges ",
+      "page": 30
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 31
+    }
+  ],
+  "output_directory": "f:\\drone-book\\future tech\\extracted_biomimetics_09_00444_v2",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

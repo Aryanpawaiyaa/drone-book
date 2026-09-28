@@ -1,0 +1,29 @@
+{
+  "original_page": 2,
+  "figure_number": "Figure 2-3",
+  "original_caption": "Twin Domain | Contains accurate model of physical entity  Can be centralized or deployed on edge servers  Accelerates AI using both real and synthetic data",
+  "contextual_text": "Twin Domain Contains accurate model of physical entity \nCan be centralized or deployed on edge servers \nAccelerates AI using both real and synthetic data Physical Domain Data generation and collection\nEnvironmental interaction\nParameterized control Wireless Network E.g.: Aerial-Ground Mobile Network Base Station End Devices Centralized \nNetwork Control Aerial Backhaul Network Location information \nNetwork performance\nRF interference\nGround truth data Data Acquisition Domain Adaptation Reality gap measurement \nTraining data generation\nDomain-agnostic feature extraction\nSystem identification Optimization and Learning AI integration \nParametric analysis \nAutonomous control\nProcessing/ Analytics\nMachine \nLearning Modeling and Softwarization Hybrid simulation\nSystem virtualization\nData fusion \nSynthetic sensing\nDataset construction Virtual Networking Scenario Fig. 1: Top-level overview of a DT-enabled system. [18], trajectory and passive beamforming design in UAV-RIS\nw",
+  "section_title": "I. INTRODUCTION",
+  "image_filename": "page_002_fig_03.jpeg",
+  "relative_path": "images/page_002_fig_03.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "twin",
+    "domain",
+    "contains",
+    "accurate",
+    "model",
+    "physical",
+    "entity",
+    "centralized",
+    "deployed",
+    "edge"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 75,
+    "height": 75,
+    "size_bytes": 1985,
+    "format": "jpeg"
+  }
+}

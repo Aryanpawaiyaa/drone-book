@@ -1,0 +1,12 @@
+{
+  "source_pdf": "ssrn-6810618.pdf",
+  "total_pages": 26,
+  "total_extracted_images": 15,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\research papers\\artificial intelligence in drones\\extracted_ssrn_6810618",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

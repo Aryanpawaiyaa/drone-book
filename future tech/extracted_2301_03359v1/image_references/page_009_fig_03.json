@@ -1,0 +1,39 @@
+{
+  "original_page": 9,
+  "figure_number": "Fig. 4",
+  "original_caption": "Distribution Abstraction Software | Data Plane Virtualization Software",
+  "contextual_text": "necessary for improved real-time ML algorithm training and\ndeployment. UBSim: UBSim is a custom hybrid network simulator\ndesigned for use in DT research. It is capable of simulating\nmicrowave, millimeter-wave, and terahertz-band communica-\ntions in terrestrial, aerial, or hybrid aerial-ground networking\nscenarios deployed in a fully conﬁgurable physical networking\narea. It is fully open-source and open-access, written in\nPython for ﬂexibility, and ease-of-use. It is comprised of three\ncore elements: the network element module, which provides\nbehavioral deﬁnitions of all available simulation elements;\nthe network control module, which provides control over all\ndeployed network elements; and the discrete event module,\nwhich schedules simulation events. To facilitate ease of use,\nthree sets of APIs have been designed: the environment\ndeﬁnition API, which coordinates all environmental features\nand blockages; the network conﬁguration API, which speciﬁes\nnetwork topology and communications p",
+  "section_title": "API",
+  "image_filename": "page_009_fig_03.jpeg",
+  "relative_path": "images/page_009_fig_03.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "software",
+    "distribution",
+    "abstraction",
+    "data",
+    "plane",
+    "virtualization",
+    "api"
+  ],
+  "cross_references": [
+    {
+      "page": 9,
+      "snippet": "UBSim: UBSim is a custom hybrid network simulator\ndesigned for use in DT research. It is capable of simulating\nmicrowave, millimeter-wave, and terahertz-band communica-\ntions in terrestrial, aerial, o"
+    },
+    {
+      "page": 9,
+      "snippet": "Fig. 4: Expansion of UBSim to include OSWireless as a physical domain framework, considering accelerated control algorithm\nconvergence and practical system identiﬁcation."
+    },
+    {
+      "page": 10,
+      "snippet": "Faster-than-real-time Optimization: As part of the envi-\nsioned model for 6G network architecture, DT is expected\nto play a large role in the real-time or faster-than-real-time\noptimization of network"
+    }
+  ],
+  "metadata": {
+    "width": 72,
+    "height": 72,
+    "size_bytes": 2205,
+    "format": "jpeg"
+  }
+}

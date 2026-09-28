@@ -1,0 +1,29 @@
+{
+  "original_page": 10,
+  "figure_number": "Figure 5",
+  "original_caption": "2.4. Multi-Robot Systems | An overview of tethered multi-robot systems is presented in this section to complete the analysis of TUAV configurations. Previous examples have already highlighted the versatility and potential of tethered platforms. As illustrated in Figure 5, the specific characteristics of the operational environment dictate the overall system architecture, particularly when coordinating heterogeneous robotic units, such as aerial and ground- based elements.",
+  "contextual_text": "Drones 2025, 9, 425\n10 of 48 2.4. Multi-Robot Systems An overview of tethered multi-robot systems is presented in this section to complete\nthe analysis of TUAV configurations. Previous examples have already highlighted the\nversatility and potential of tethered platforms. As illustrated in Figure 5, the specific\ncharacteristics of the operational environment dictate the overall system architecture,\nparticularly when coordinating heterogeneous robotic units, such as aerial and ground-\nbased elements. Figure 5. Multi-Robot Teams: (a) UAV/drone; (b) UGV/drone; (c) USV/drone; (d) Drone swarm. 2.4.1. TUAV/UGV Team In inspection and exploration tasks, integrating a TUAV with an Unmanned Ground\nVehicle (UGV) unlocks new operational capabilities. One key advantage is the creation\nof a mobile tether anchor point, with the UGV serving as a moving power and tether\nmanagement unit. This enhances the UAV’s maneuverability in cluttered or confined\nenvironments while reducing the risk of tether entang",
+  "section_title": "2.4.2. TUAV/USV Team",
+  "image_filename": "page_010_fig_01.png",
+  "relative_path": "images/page_010_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "multi",
+    "robot",
+    "tethered",
+    "tuav",
+    "overview",
+    "presented",
+    "section",
+    "complete",
+    "analysis",
+    "configurations"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1143,
+    "height": 488,
+    "size_bytes": 83046,
+    "format": "png"
+  }
+}

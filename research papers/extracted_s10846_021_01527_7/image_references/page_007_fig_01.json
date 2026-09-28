@@ -1,0 +1,46 @@
+{
+  "original_page": 7,
+  "figure_number": "Fig. 5",
+  "original_caption": "Two configurations generally exist within Quadrotors which are categorised as the ‘+’ or ‘X’ sets, a comparison between the two suggests that the overall control authority from both configurations shows that the performance is iden- tical [81]. Fig. 5 shows the basic motor ‘+’ configuration, where the functionality is described as; motors 1 and 3 in Set1, 3 rotating in the clockwise direction (ωm(1=3)_CW) and motors 2 and 4 in Set2, 4 rotate in the counter-clockwise direc- tion (ωm(2=4)_CCW). The figure also illustrates the various basic flight direction a UAV can describe, depending on the indi- vidual motor speeds and their spinning directions commands. For example, by rotating the motors at equal and opposite speeds in both sets (i.e. ωm(1=3)_CW = ωm(2=4)_CCW), the UAV will hover. When the speeds of all motors are simultaneously | Figure 6 illustrates the operation of an ‘X’ configured Quadrotor. Technically speaking, the directional rotation of the propellers for motors 1 and 3 in Set1, 3 and Motors 2 and 4 in Set2, 4 operates in the same way as the plus-configured Quadrotor. However, achieving rotational and translational movements is different as two actuators are required to in- crease or decrease the speed so that the desired angle can be achieved. In essence, completing a roll, pitch or yaw motion can be attained by increasing the speed of two consistent mo- tors. That is, for applying a CW-pitch motion: The motors in Set1, 3 are set at different speeds (i.e. ωm1 > ωm3) while the motors in Set2, 4 are also set at different speeds (i.e. ωm2 >",
+  "contextual_text": "their dynamic models, exploring popular control techniques,\nhighlight common simulation tools, and discussing the\nachievements attained from previous researchers. 4.2 Quadrotor Configurations Quadrotors consists of four actuators that are individually con-\ntrolled to produce a relative thrust. In order to achieve lift, two\nof its motors have to rotate in opposite directions, otherwise,\nthe net moment about the centre of mass will become non zero\nresulting in unwanted motions. In helicopters, the tail rotor or\ntail aerofoil is required to cancel out the net moment created\nabout the centre, and in Quadrotors, the net moment needs to\nbe cancelled out by making any two pairs arranged to rotate\nclockwise (CW) while the adjacent pairs rotate counter clock-\nwise (CCW). Hence, it has become customary for the opposite\nmotors in a crossed configured Quadrotor to rotate in opposite\ndirections. Two configurations generally exist within Quadrotors\nwhich are categorised as the ‘+’ or ‘X’ sets, a com",
+  "section_title": "4.2 Quadrotor Configurations",
+  "image_filename": "page_007_fig_01.jpeg",
+  "relative_path": "images/page_007_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "motors",
+    "speeds",
+    "two",
+    "configurations",
+    "quadrotor",
+    "different",
+    "sets",
+    "both",
+    "shows",
+    "basic"
+  ],
+  "cross_references": [
+    {
+      "page": 7,
+      "snippet": "Two configurations generally exist within Quadrotors\nwhich are categorised as the ‘+’ or ‘X’ sets, a comparison\nbetween the two suggests that the overall control authority\nfrom both configurations sho"
+    },
+    {
+      "page": 7,
+      "snippet": "increased, the UAV will hover at higher altitudes and when\nthe speeds are simultaneously reduced, the UAV will hover at\nlower altitudes, as illustrated in Fig. 5a."
+    },
+    {
+      "page": 7,
+      "snippet": "Increasing the speed of a propeller in one of these sets will\ncause either roll or pitch motion, depending on the selected\nset. To achieve CW-pitch motion; 1) the propellers in Set1, 3\nwill maintain e"
+    },
+    {
+      "page": 7,
+      "snippet": "Fig. 5 Plus configured Quadrotor\nmotion depending on propeller\nrotation"
+    }
+  ],
+  "metadata": {
+    "width": 1503,
+    "height": 969,
+    "size_bytes": 176369,
+    "format": "jpeg"
+  }
+}

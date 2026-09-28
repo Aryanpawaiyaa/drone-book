@@ -1,0 +1,34 @@
+{
+  "original_page": 8,
+  "figure_number": "Fig. 6b",
+  "original_caption": "ωm4) as shown in Fig. 6b. Similarly, to achieve a CCW-pitch motion: The actuators in Set1, 3 are set at the opposite speeds (i.e. ωm1 < ωm3) while the speed of the motors in Set2, 4 are also set at opposite speeds to the CW-pitch rotation (i.e. ωm2 < ωm4). When applying a CW-roll motion: Set1, 3 are set to be one higher than the other (i.e. ωm1 < ωm3) while Set2, 4 has similar configurations (i.e. ωm2 > ωm4) as shown in Fig. 6c. A CCW-Roll angle is achieved by setting ωm1 > ωm3 in Set1, 3 while setting the speeds of Set2, 4 to ωm2 < ωm4. Finally, a CW-Yaw rotation around the z-axis is accomplished by up- holding an equivalent speed of Set1, 3 while reducing speed in Set2, 4. Likewise, a CCW-Yaw motion is attained by main- taining the speed of Set2, 4 and reducing the speed in Set1, 3 as shown in Fig. 6d. | By presenting the functionality of both Quadrotor config- urations, the thrust mixing algorithm for the ‘+’ and ‘X’ UAV is described in Table 3 which explains that changing the speed of a propeller in one of these sets will cause either a rolling or pitching motion, depending on the selected set.",
+  "contextual_text": "ωm4) as shown in Fig. 6b. Similarly, to achieve a CCW-pitch\nmotion: The actuators in Set1, 3 are set at the opposite speeds\n(i.e. ωm1 < ωm3) while the speed of the motors in Set2, 4 are\nalso set at opposite speeds to the CW-pitch rotation (i.e. ωm2 <\nωm4). When applying a CW-roll motion: Set1, 3 are set to be\none higher than the other (i.e. ωm1 < ωm3) while Set2, 4 has\nsimilar configurations (i.e. ωm2 > ωm4) as shown in Fig. 6c. A\nCCW-Roll angle is achieved by setting ωm1 > ωm3 in Set1, 3\nwhile setting the speeds of Set2, 4 to ωm2 < ωm4. Finally, a\nCW-Yaw rotation around the z-axis is accomplished by up-\nholding an equivalent speed of Set1, 3 while reducing speed\nin Set2, 4. Likewise, a CCW-Yaw motion is attained by main-\ntaining the speed of Set2, 4 and reducing the speed in Set1, 3 as\nshown in Fig. 6d. By presenting the functionality of both Quadrotor config-\nurations, the thrust mixing algorithm for the ‘+’ and ‘X’ UAV\nis described in Table 3 which explains that changing the speed\no",
+  "section_title": "Quadrotor Dynamics",
+  "image_filename": "page_008_fig_01.jpeg",
+  "relative_path": "images/page_008_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "speed",
+    "motion",
+    "set",
+    "while",
+    "shown",
+    "ccw",
+    "speeds",
+    "pitch",
+    "opposite",
+    "rotation"
+  ],
+  "cross_references": [
+    {
+      "page": 8,
+      "snippet": "ωm4) as shown in Fig. 6b. Similarly, to achieve a CCW-pitch\nmotion: The actuators in Set1, 3 are set at the opposite speeds\n(i.e. ωm1 < ωm3) while the speed of the motors in Set2, 4 are\nalso set at op"
+    }
+  ],
+  "metadata": {
+    "width": 1503,
+    "height": 1240,
+    "size_bytes": 221496,
+    "format": "jpeg"
+  }
+}

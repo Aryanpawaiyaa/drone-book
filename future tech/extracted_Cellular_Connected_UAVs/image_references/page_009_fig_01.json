@@ -1,0 +1,38 @@
+{
+  "original_page": 9,
+  "figure_number": "Fig. 8",
+  "original_caption": "Computer Networks 182 (2020) 107451 | D. Mishra and E. Natalizio",
+  "contextual_text": "Computer Networks 182 (2020) 107451 9 D. Mishra and E. Natalizio Fig. 8.\nUAV trajectory for two different cellular layouts with respect to a discontinuity threshold [93]. Table 4\nReference works on trajectory optimization for cellular-connected UAVs. Key Considerations\nApproach Taken\nGoals of Optimization Disconnectivity constraints [93]\nDynamic Programming based approximate solution\nwith low complexity Minimize the UAV trajectory distance without staying out of coverage for certain\nthreshold Connectivity constraints [90]\nGraph connectivity-based approach\nMinimize the UAV’s mission completion time by optimizing the trajectory Interference-aware [89]\nDeep reinforcement learning algorithm based on\necho state network (ESN) cells Maximize the energy efficiency, minimize the wireless transmission latency and\ninterference on ground network, minimize the time needed to reach destination An optimization of flight path with above assumption is known as\ncommunication-aware trajectory design. The",
+  "section_title": "4.5. Security challenges",
+  "image_filename": "page_009_fig_01.jpeg",
+  "relative_path": "images/page_009_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "computer",
+    "networks",
+    "mishra",
+    "natalizio",
+    "security",
+    "challenges"
+  ],
+  "cross_references": [
+    {
+      "page": 9,
+      "snippet": "Fig. 8.\nUAV trajectory for two different cellular layouts with respect to a discontinuity threshold [93]."
+    },
+    {
+      "page": 9,
+      "snippet": "4.4.2. Associated works and illustrative results\nTable 4 highlights the existing literature for UAV trajectory op-\ntimization. The authors in [93] formulate an approximate optimum\ntrajectory finding p"
+    },
+    {
+      "page": 9,
+      "snippet": "generates a trajectory that must pass through the cellular coverage, as\nshown by a dark black line in Fig. 8(a). When the threshold value is 15\ntime units (shown by a red line in Fig. 8(a)), then the "
+    }
+  ],
+  "metadata": {
+    "width": 1794,
+    "height": 618,
+    "size_bytes": 232530,
+    "format": "jpeg"
+  }
+}

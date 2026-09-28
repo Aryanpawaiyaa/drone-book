@@ -1,0 +1,34 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 5",
+  "original_caption": "Fig. 5: Numbers of UAV papers (dots) identiﬁed from the top eight journals/conferences over the years 2001–2016, with an exponential curve ﬁtting plot. | factors, such as easier control of the quadcopter conﬁguration, and lower cost of processors and sensors. While there is a slight drop in the number of papers in 2016, with the current strong trends in the research, commercial, government, and hobbyist sectors, we believe that the number of drone papers within the next ﬁve years would continue to exceed 150 papers per year.",
+  "contextual_text": "5 Fig. 5: Numbers of UAV papers (dots) identiﬁed from the top\neight journals/conferences over the years 2001–2016, with an\nexponential curve ﬁtting plot. factors, such as easier control of the quadcopter conﬁguration,\nand lower cost of processors and sensors. While there is a\nslight drop in the number of papers in 2016, with the current\nstrong trends in the research, commercial, government, and\nhobbyist sectors, we believe that the number of drone papers\nwithin the next ﬁve years would continue to exceed 150 papers\nper year. B. UAV Types Distribution Figure 6 shows the UAV types distribution of surveyed\npapers over different years. The most notable transition in\nthe bar graphs is the number of quadcopter papers, where\nit increases from 7, 19, 142, to 377 over the past sixteen\nyears. The number of ﬁxed-wing and ﬂapping-wing papers\nmore gradually increases over the years. The number of hexacopter papers is zero before 2008.\nIn 2009–2012, it increases to 7; in 2013-2016, it further\nincrea",
+  "section_title": "VI. UAV TYPES",
+  "image_filename": "page_005_fig_01.png",
+  "relative_path": "images/page_005_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "papers",
+    "uav",
+    "years",
+    "number",
+    "numbers",
+    "dots",
+    "top",
+    "eight",
+    "journals",
+    "conferences"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "Fig. 5: Numbers of UAV papers (dots) identiﬁed from the top\neight journals/conferences over the years 2001–2016, with an\nexponential curve ﬁtting plot."
+    }
+  ],
+  "metadata": {
+    "width": 1363,
+    "height": 806,
+    "size_bytes": 60595,
+    "format": "png"
+  }
+}

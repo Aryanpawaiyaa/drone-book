@@ -1,0 +1,42 @@
+{
+  "original_page": 16,
+  "figure_number": "Fig. 13",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 13. Single and multi-hop satellite and drone-based quantum entanglement for quantum internet services in different applications.",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 13. Single and multi-hop satellite and drone-based quantum entanglement for quantum internet services in different applications. ment will be able to enhance uplink quantum communication as \na consequence. Designing future quantum Internet satellites should \ntake into account uplink communication through quantum telepor-\ntation, which is currently being investigated. Yang et al. [2] examined the architecture of the 5G mobile \ncommunication satellite infrastructure, including the Iridium, Orb-\ncomm, NB-IoT, and Long Range Radio satellites. It is observed that \nNB-IoT system characteristics include optimized network transmis-\nsion and low-power terminal design. These elements are used \nto construct a new dynamic routing protocol. The algorithm em-\nployed in the sensor network in this work is used in a wireless \nsensor network. In addition, this work has studied and investi-\ngated the e",
+  "section_title": "4 Software characteristics for satellite-based IoT and futuristic quantum-integrated benefits",
+  "image_filename": "page_016_fig_01.jpeg",
+  "relative_path": "images/page_016_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "quantum",
+    "satellite",
+    "based",
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular",
+    "communications"
+  ],
+  "cross_references": [
+    {
+      "page": 14,
+      "snippet": "Likewise, in Fig. 13, we propose a multi-layered quantum \nentanglement-based approach using quantum satellites and quan-\ntum drones. In this approach, quantum satellite-based single and \nmulti-hop qua"
+    },
+    {
+      "page": 16,
+      "snippet": "Fig. 13. Single and multi-hop satellite and drone-based quantum entanglement for quantum internet services in different applications."
+    },
+    {
+      "page": 19,
+      "snippet": "Quantum technology \ncan implement smart \ncity development \nsupported by the use \nof distributed \ncomputing \nenvironment. For \nexample, the hybrid \narchitecture proposed \n(Fig. 11, Fig. 12 and \nFig. 13"
+    }
+  ],
+  "metadata": {
+    "width": 2157,
+    "height": 1469,
+    "size_bytes": 518279,
+    "format": "jpeg"
+  }
+}

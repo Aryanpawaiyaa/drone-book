@@ -1,0 +1,12 @@
+{
+  "source_pdf": "Brief_2024-17_Drones (1).pdf",
+  "total_pages": 4,
+  "total_extracted_images": 1,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\military drones\\extracted_Brief_2024_17_Drones_1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

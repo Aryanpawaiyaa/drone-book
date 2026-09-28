@@ -1,0 +1,38 @@
+{
+  "original_page": 19,
+  "figure_number": "Fig. 22",
+  "original_caption": "The general functionality of a fuzzy logic controller con- sists of three main parts: Fuzzifier, Rule base and Defuzzifier. Assuming that the ‘plant’ block in Fig. 22 represents the dy- namic behaviour of the Quadrotor, the main aim of the fuzzy logic region is to minimize the error as the dynamics change. The ‘fuzzifier’ processes the plants numerical values and con- verts them into a class of set members so that a decision is made depending on the condition of each member. The ‘Rule base’ consists of a control system that makes a decision con- stituted in the form of if-then rules that determines the rela- tionship between the input and output variables based on the operator commands. Control rules are defined with Linguistic terms such as NB (Negative Big), NS (Negative Small), Z (Zero), PS (Positive Small), PB (Positive Big) which are for- mulated to describe the set of member. The ‘Defuzzifier’ transforms the fuzzified output into a crisp output which is fed back into the plant [130, 131]. | Fig. 22 Fuzzy Logic Controller block diagram [130]",
+  "contextual_text": "performance can be achieved even if the full dynamic behav-\niour of the plant is not realised. This makes it suitable for\nsystems that are highly complex and non-linear in nature,\nwhere the description of the exact mathematical model is dif-\nficult to attain. The general functionality of a fuzzy logic controller con-\nsists of three main parts: Fuzzifier, Rule base and Defuzzifier.\nAssuming that the ‘plant’ block in Fig. 22 represents the dy-\nnamic behaviour of the Quadrotor, the main aim of the fuzzy\nlogic region is to minimize the error as the dynamics change.\nThe ‘fuzzifier’ processes the plants numerical values and con-\nverts them into a class of set members so that a decision is\nmade depending on the condition of each member. The ‘Rule\nbase’ consists of a control system that makes a decision con-\nstituted in the form of if-then rules that determines the rela-\ntionship between the input and output variables based on the\noperator commands. Control rules are defined with Linguistic\nte",
+  "section_title": "J ¼ ∫",
+  "image_filename": "page_019_fig_02.jpeg",
+  "relative_path": "images/page_019_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "fuzzy",
+    "logic",
+    "con",
+    "into",
+    "output",
+    "controller",
+    "main",
+    "fuzzifier",
+    "rule",
+    "base"
+  ],
+  "cross_references": [
+    {
+      "page": 19,
+      "snippet": "The general functionality of a fuzzy logic controller con-\nsists of three main parts: Fuzzifier, Rule base and Defuzzifier.\nAssuming that the ‘plant’ block in Fig. 22 represents the dy-\nnamic behaviou"
+    },
+    {
+      "page": 19,
+      "snippet": "Fig. 22 Fuzzy Logic Controller block diagram [130]"
+    }
+  ],
+  "metadata": {
+    "width": 971,
+    "height": 662,
+    "size_bytes": 57125,
+    "format": "jpeg"
+  }
+}

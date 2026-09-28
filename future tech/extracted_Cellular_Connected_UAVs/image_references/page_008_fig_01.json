@@ -1,0 +1,38 @@
+{
+  "original_page": 8,
+  "figure_number": "Fig. 6",
+  "original_caption": "4.3.1. Preliminary UAVs are inherently mobile in nature and Section 3 highlights many use cases of cellular-connected UAVs that implicitly demand BVLoS [82]. The mobility and handover characteristics of terrestrial cellular users are quite different from the 3D aerial mobility of cellular- connected UAVs. With increase in height, the radio environment changes and mobile UAVs face connectivity challenges. In this case, the performance of the system depends on the handover rates, including failed and successful handovers and radio link failures. Radio link fail- ures occurs when the UAV is unable to maintain a successful connection with the serving cell. This could be because of the problematic RACH or expiry of timers or after a certain maximum number of retransmissions is reached [83]. | In cellular-connected UAV, the protocol operations and regulatory needs of UAVs as aerial users are quite different from the ground user. Hence, the network must first detect if the user device is aerial or not [84]. This detection can be driven by the ground BS by estimating:",
+  "contextual_text": "Computer Networks 182 (2020) 107451 8 D. Mishra and E. Natalizio The variables 𝑙1 and 𝑝1 are given as the logarithmic increasing\nfunction of UAV height ℎ𝑢as specified in [22]. The values of 𝐻𝑙𝑜𝑤,\n𝐻ℎ𝑖𝑔ℎ, 𝑝1 and 𝑙1 are also defined with respect to different 3GPP deploy-\nment scenarios. Table B-2 and B-3 in [22] provides detailed path-loss\nand shadowing standard deviation, respectively. The authors in [81]\ndemonstrated a BS selection scheme based on a supervised learning\napproach in order to maximize the signal strength of wireless link\nbetween UAV and BS. The UAV intelligently associate with the most ap-\npropriate BS depending on a trained neural network model to minimize\nthe interference and maximize the received signal from BSs. 4.3. System operations & mobility 4.3.1. Preliminary\nUAVs are inherently mobile in nature and Section 3 highlights\nmany use cases of cellular-connected UAVs that implicitly demand\nBVLoS [82]. The mobility and handover characteristics of terrestrial\ncellular use",
+  "section_title": "4.4. Trajectory optimization",
+  "image_filename": "page_008_fig_01.png",
+  "relative_path": "images/page_008_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "uavs",
+    "cellular",
+    "connected",
+    "aerial",
+    "radio",
+    "mobile",
+    "mobility",
+    "handover",
+    "users",
+    "quite"
+  ],
+  "cross_references": [
+    {
+      "page": 8,
+      "snippet": "4.3.2. Associated works and illustrative results\nThe handover characteristics vary significantly between ground UEs\nand aerial UE due to the nature of cell selection, as shown in Fig. 6.\nIn [85], the "
+    },
+    {
+      "page": 8,
+      "snippet": "Fig. 6.\nUAVs being served from side lobes [85]."
+    }
+  ],
+  "metadata": {
+    "width": 71,
+    "height": 71,
+    "size_bytes": 3637,
+    "format": "png"
+  }
+}

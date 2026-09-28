@@ -1,0 +1,32 @@
+{
+  "original_page": 14,
+  "figure_number": "Fig. 7",
+  "original_caption": "Testbed Plane | Testbed 1",
+  "contextual_text": "User Plane Federation Plane Testbed Plane Internet Testbed Owner\n•\nCreate new testbed\n•\nTestbed management\n•\nUser and resource management UnionLabs Administrator\n•\nRegistration management\n•\nNaming space definition\n•\nTroubleshooting Testbed User\n•\nTestbed subscription \n•\nResource requests\n•\nStart, monitor experiments\n•\nData/code sharing Testbed Directory\n(AWS DynamoDB) Code Repository\n•\nCode-testbed association\n•\nCode deployment \n•\nConsistency check Dataset Repository\n•\nDataset-testbed association \n•\nDataset deployment \n•\nConsistency check Data/Control Channel\n•\nAWS Lambda\n•\nAPI Gateway\n•\nWebSocket Internet User Portal \n(AWS Cognito) Testbed 1 VM1\nVM2\nTestbed 2 Testbed 1 Institutional Gateway Edge Cloud Comms Agent\nEvent Agent Monitoring Tool Local Storage Customized Tool VM Instance Software-defined Front-end Testbed 1 Institutional Gateway Edge Cloud Comms Agent\nEvent Agent Monitoring Tool Local Storage Customized Tool VM Instance Software-defined Front-end Arena\n(USRP sub-6 GHz) … Su",
+  "section_title": "VII. CONCLUSIONS",
+  "image_filename": "page_014_fig_09.jpeg",
+  "relative_path": "images/page_014_fig_09.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "testbed",
+    "plane",
+    "vii",
+    "conclusions"
+  ],
+  "cross_references": [
+    {
+      "page": 14,
+      "snippet": "Fig. 7: Overview of UnionLabs testbed federation."
+    },
+    {
+      "page": 14,
+      "snippet": "made in [82] as discussed in Sec. IV, and propose an expansion\nof the supported framework to include simulation/emulation\ncapabilities. We envision a new framework referred to as\nUnionLabs for testbed"
+    }
+  ],
+  "metadata": {
+    "width": 148,
+    "height": 57,
+    "size_bytes": 1773,
+    "format": "jpeg"
+  }
+}

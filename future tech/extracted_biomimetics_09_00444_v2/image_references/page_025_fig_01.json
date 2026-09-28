@@ -1,0 +1,29 @@
+{
+  "original_page": 25,
+  "figure_number": "Figure 7",
+  "original_caption": "Compared to standard ANNs, SNNs include topologies and learning principles that closely mimic biological processes. SNNs, the third generation of ANNs, are excellent at reliable computation with little computational load. SNN neurons are not differentiable; once their states cross the firing threshold, they produce event-based spikes, but they also hold onto past states that gradually deteriorate over time. Because SNNs are dynamic, direct training with the conventional backpropagation (BP) method is difficult and considered biologically unrealistic [180]. To substitute ReLU activation functions in the ANN with the Leaky Integrate and Fire (LIF) neurons, SNNs are thus created from trained ANNs [181]. However, converted SNNs generally fail to achieve the required performance and impact the latency and power consumption. This has led to directly training SNNs using both unsupervised STDP and supervised learning rules (such as SpikeProp and gradient-based learning), which have also resulted in producing inefficient results, but the surrogate gradient learning rule was found to be effective in training complex and powerful SNNs Model [181]. Figure 7 compares the generic neuron of an artificial neural network and a spiking neural network.",
+  "contextual_text": "Biomimetics 2024, 9, 444\n25 of 41 Compared to their biological counterparts, neural networks in their first and second\ngenerations have limited modeling capabilities. Interestingly, there is no temporal reference\nto electrical impulses found in biological neural networks in these models. Additionally,\nresearch on biological processes remains limited. The human brain excels in processing\nreal-time data, efficiently encoding information through various features related to spikes,\nincluding specific event times [179]. The concept of simulating neural events prompted the\ncreation of SNNs, which currently stand as the most biologically plausible models. An SNN architecture controls the information transfer from a presynaptic (source)\nneuron to a postsynaptic (target) neuron through a network of interconnected neurons\nconnected by synapses. SNNs use spikes to encode and transport information, in contrast\nto traditional ANNs. Unlike a single forward propagation, each input is displayed for\na ",
+  "section_title": "4.3. Spiking Neural Networks",
+  "image_filename": "page_025_fig_01.jpeg",
+  "relative_path": "images/page_025_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "snns",
+    "learning",
+    "anns",
+    "training",
+    "neural",
+    "neurons",
+    "states",
+    "they",
+    "based",
+    "but"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1619,
+    "height": 1068,
+    "size_bytes": 173337,
+    "format": "jpeg"
+  }
+}

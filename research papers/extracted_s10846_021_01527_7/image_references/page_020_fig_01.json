@@ -1,0 +1,38 @@
+{
+  "original_page": 20,
+  "figure_number": "Fig. 25",
+  "original_caption": "Quadrotor can reach the desired state by considerably increas- ing the control input until the state is reached. Therefore, choosing the parameters for this controller must be carefully considered in order to prevent the control input from causing the system to overshoot the reference signal. | The authors in paper [10] have expressed an optimal LQR theory for the altitude motion with a consideration of external disturbances. By adding the Kalman filtering techniques, the effectiveness of the LQR against the Gaussian white noise generated in MATLAB has slightly effected the vehicles per- formance. However, the robustness of the filtering techniques working with the LQR controller clearly improved the vehi- cles performance as shown on Fig. 25.",
+  "contextual_text": "Quadrotor can reach the desired state by considerably increas-\ning the control input until the state is reached. Therefore,\nchoosing the parameters for this controller must be carefully\nconsidered in order to prevent the control input from causing\nthe system to overshoot the reference signal. The authors in paper [10] have expressed an optimal LQR\ntheory for the altitude motion with a consideration of external\ndisturbances. By adding the Kalman filtering techniques, the\neffectiveness of the LQR against the Gaussian white noise\ngenerated in MATLAB has slightly effected the vehicles per-\nformance. However, the robustness of the filtering techniques\nworking with the LQR controller clearly improved the vehi-\ncles performance as shown on Fig. 25. 7.8 PID Control Proportional integral derivative (PID) is a type of controller\nthat is most commonly used and applied in mechanical sys-\ntems. Describing the functionality of this type of controller\nwill consist of three parameter gains Kp, Ki and ",
+  "section_title": "7.8 PID Control",
+  "image_filename": "page_020_fig_01.jpeg",
+  "relative_path": "images/page_020_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "control",
+    "lqr",
+    "state",
+    "input",
+    "controller",
+    "filtering",
+    "techniques",
+    "quadrotor",
+    "reach",
+    "desired"
+  ],
+  "cross_references": [
+    {
+      "page": 20,
+      "snippet": "The authors in paper [10] have expressed an optimal LQR\ntheory for the altitude motion with a consideration of external\ndisturbances. By adding the Kalman filtering techniques, the\neffectiveness of th"
+    },
+    {
+      "page": 21,
+      "snippet": "Fig. 25 The change in altitude compares how the controller reacts with\nexternal disturbances against the Kalman filter [10]"
+    }
+  ],
+  "metadata": {
+    "width": 1503,
+    "height": 1319,
+    "size_bytes": 162025,
+    "format": "jpeg"
+  }
+}

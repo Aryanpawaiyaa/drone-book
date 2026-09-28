@@ -1,0 +1,27 @@
+{
+  "original_page": 20,
+  "figure_number": "Figure 6",
+  "original_caption": "Biomimetics 2024, 9, 444 20 of 41 | Figure 6. Neuromorphic computing vs. von Neuman computing architecture (adapted from [35]).",
+  "contextual_text": "Biomimetics 2024, 9, 444\n20 of 41 Figure 6. Neuromorphic computing vs. von Neuman computing architecture (adapted from [35]). 4.1. Neuromorphic Computing Principles The development of neuromorphic hardware strives to provide scalable, highly paral-\nlel, and energy-efficient computing systems [146,147]. These designs are ideal for robotic\napplications where rapid decision-making and low power consumption are critical since\nthey are made to process data in real time with low latency and high accuracy [148]. Because\nthey require vast volumes of real-time data processing, certain robotics tasks, such as visual\nperception and sensor fusion, are difficult for ordinary CPUs/GPUs to handle. For these\nkinds of activities, traditional computing architectures, such as GPUs, can be computation-\nally and energy-intensive [28,146]. By utilizing the distributed and parallel characteristics of\nneural processing, neuromorphic electronics offer a solution and enable effective real-time\nprocessing of sen",
+  "section_title": "4.1. Neuromorphic Computing Principles",
+  "image_filename": "page_020_fig_01.jpeg",
+  "relative_path": "images/page_020_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "computing",
+    "neuromorphic",
+    "biomimetics",
+    "von",
+    "neuman",
+    "architecture",
+    "adapted",
+    "principles"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 2135,
+    "height": 959,
+    "size_bytes": 283137,
+    "format": "jpeg"
+  }
+}

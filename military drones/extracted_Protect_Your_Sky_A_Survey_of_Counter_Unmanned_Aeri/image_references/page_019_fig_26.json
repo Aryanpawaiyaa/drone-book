@@ -1,0 +1,22 @@
+{
+  "original_page": 19,
+  "figure_number": "Figure 19-26",
+  "original_caption": "",
+  "contextual_text": "H. Kang et al.: Protect Your Sky: A Survey of Counter UAV Systems FIGURE 7. Sensors and mitigators. Note that radar, RF sensor, jamming, spoofing, and high-power EM employ antennas and their functions\ncan be implemented with the same hardware; therefore, their appearances are similar to one another. The platforms show sensing and\nmitigation systems equipped in ground static platforms, ground mobile platforms, human-packable platforms, LAP, and HAP. TABLE 6. Characteristics and Limitations of Sensors. have poor target detection reliability and high false alarm\nprobability rates. Because the RF sensor is passive, it does\nnot provide the range information of the mUAV. Knowledge\nof the spectrum band in use is required for detection. Further-\nmore, knowledge of modulation protocols, e.g., the frequency\nhopping spread spectrum, the direct sequence spread spec-\ntrum, and orthogonal frequency division multiplexing, and/or\nthe identiﬁcation of media access control (MAC) addresses is\nrequired to",
+  "section_title": "TABLE 6. Characteristics and Limitations of Sensors.",
+  "image_filename": "page_019_fig_26.png",
+  "relative_path": "images/page_019_fig_26.png",
+  "ocr_text": "",
+  "keywords": [
+    "characteristics",
+    "limitations",
+    "sensors"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 111,
+    "height": 91,
+    "size_bytes": 1584,
+    "format": "png"
+  }
+}

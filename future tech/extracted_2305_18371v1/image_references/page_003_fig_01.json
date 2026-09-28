@@ -1,0 +1,34 @@
+{
+  "original_page": 3,
+  "figure_number": "Fig. 1",
+  "original_caption": "In recent years, research on low-latency event camera- embedded drones has rapidly grown, as summarized in Table I. Falanga et al. [11] utilized two SEES1 event cameras on a quadrotor and leveraged the temporal information contained in the event stream to distinguish between static and dynamic objects, with the aim of avoiding approaching obstacles with fast response times. They reported an overall latency of only 3.5 milliseconds, which is sufficient for reliable detection and avoidance of fast-moving obstacles. Andersen et al. [15] proposed sparse convolutions for detecting gates in a race track using event-based vision, and achieved success rates between 0.2 to 1.0 for gate detection with different angular rates and scene illumination levels. Mueggler et al. [12] proposed a method that tracks spherical objects on the image plane using probabilistic trackers that are updated with each incoming event. They experimentally demonstrated that the method enables initiating evasive maneuvers early enough to avoid collisions. Dimitrova et al. [16] explored one-dimensional attitude tracking using a dualcopter platform equipped with an event camera and reported promising results of the event- camera-driven closed-loop control. The state estimator per- forms with an update rate of 1 kHz and a latency of 12 milliseconds. The first work of a neuromorphic vision-based controller on a chip, solving a high-speed UAV control task, is shown in [17], where the DVS events are used as inputs to the neuronal cores of a neuromorphic chip using an address event representation interface and processed directly by the SNN. The proposed visual processing, from incoming events to estimated angle, on Loihi takes only 0.25 milliseconds. The first event-based stereo visual-inertial odometry is described in [18], which leverages the complementary advantages of event streams, standard images, and inertial measurements for robust state estimation. The method was successfully validated on a quadrotor platform under low-light environments. | Fig. 1. System architecture: ColibriUAV with Dual Camera and Kraken Development Board.",
+  "contextual_text": "than the widely used data reading approach through a\nUSB interface. • Benchmarking the close-loop neuromorphic performance\nof ColibriUAV using a reference neural network featuring\na latency of 163 ms, power of 46.98 mW, and energy\nconsumption of 9.224 mJ for the end-to-end task from\nevents to motor control. II. RELATED WORK In recent years, research on low-latency event camera-\nembedded drones has rapidly grown, as summarized in Table I.\nFalanga et al. [11] utilized two SEES1 event cameras on a\nquadrotor and leveraged the temporal information contained\nin the event stream to distinguish between static and dynamic\nobjects, with the aim of avoiding approaching obstacles with\nfast response times. They reported an overall latency of only\n3.5 milliseconds, which is sufficient for reliable detection\nand avoidance of fast-moving obstacles. Andersen et al. [15]\nproposed sparse convolutions for detecting gates in a race track\nusing event-based vision, and achieved success rates between\n0.2 to 1",
+  "section_title": "IV. DESIGN AND IMPLEMENTATION",
+  "image_filename": "page_003_fig_01.png",
+  "relative_path": "images/page_003_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "event",
+    "camera",
+    "latency",
+    "milliseconds",
+    "proposed",
+    "based",
+    "method",
+    "low",
+    "quadrotor",
+    "between"
+  ],
+  "cross_references": [
+    {
+      "page": 3,
+      "snippet": "Fig. 1.\nSystem architecture: ColibriUAV with Dual Camera and Kraken\nDevelopment Board."
+    }
+  ],
+  "metadata": {
+    "width": 1171,
+    "height": 504,
+    "size_bytes": 410787,
+    "format": "png"
+  }
+}

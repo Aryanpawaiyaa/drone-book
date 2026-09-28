@@ -1,0 +1,34 @@
+{
+  "original_page": 29,
+  "figure_number": "Fig. 28",
+  "original_caption": "TABLE XIII: A COMPARISON BETWEEN DATA AND CONTROL LINKS OF UAVs | Type of link Security requirement Latency requirement Capacity requirement Frequency bands",
+  "contextual_text": "29 TABLE XIII: A COMPARISON BETWEEN DATA AND CONTROL LINKS OF UAVs Type of link\nSecurity requirement\nLatency requirement\nCapacity requirement\nFrequency bands Control link\nHigh\nHigh\nLow\nL-band (960-977MHz) C-band (5030-5091MHz) Data link\nLow\nLow\nHigh\n450 MHz to mmWave Fig. 28: Typical Use Cases of UAV-Aided Wireless Communications. • UAVs as network gateways: In remote geographic or\ndisaster stricken areas, UAVs can be used as gateway\nnodes to provide connectivity to backbone networks,\ncommunication infrastructure, or the Internet. • UAVs as relay nodes: UAVs can be utilized as relay nodes\nto provide wireless connectivity between two or more\ndistant wireless devices without reliable direct communi-\ncation links as shown in Figure 28.b. • UAVs for data collection: UAVs are utilized to gather\ndelay-tolerant information from a large number of dis-\ntributed wireless devices. An example is wireless sensors\nin precision agriculture applications as shown in Fig-\nure 28.c. • UAVs for worldwide ",
+  "section_title": "TABLE XIII: A COMPARISON BETWEEN DATA AND CONTROL LINKS OF UAVs",
+  "image_filename": "page_029_fig_01.jpeg",
+  "relative_path": "images/page_029_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "requirement",
+    "xiii",
+    "comparison",
+    "between",
+    "data",
+    "control",
+    "links",
+    "uavs",
+    "type",
+    "link"
+  ],
+  "cross_references": [
+    {
+      "page": 29,
+      "snippet": "Fig. 28: Typical Use Cases of UAV-Aided Wireless Communications."
+    }
+  ],
+  "metadata": {
+    "width": 672,
+    "height": 1008,
+    "size_bytes": 50016,
+    "format": "jpeg"
+  }
+}

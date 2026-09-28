@@ -1,0 +1,34 @@
+{
+  "original_page": 21,
+  "figure_number": "Fig. 23",
+  "original_caption": "Fig. 23: Amazon Airspace Model for the Safe Integration of UAV Systems. | model aeronautics airﬁelds, altitude and equipage restrictions in these locations will be established in advance by aviation authorities [163].",
+  "contextual_text": "21 Fig. 23: Amazon Airspace Model for the Safe Integration of UAV Systems. model aeronautics airﬁelds, altitude and equipage restrictions\nin these locations will be established in advance by aviation\nauthorities [163]. C. Research Trends and Future Insights 1) Machine Learning: With machine learning, UAVs can\nﬂy autonomously without knowing the objects they may\nencounter which is important for large-scale UAV delivery\nmissions. Qualcomms tech shows more advanced computing\nthat can actually understand what the UAV encountered in\nmid-air and creates a ﬂight route. They show how the UAV\nprocessing and decision-making technology is nimble enough\nto allow UAVs to operate in unpredictable settings without\nusing any GPS. All of the UAV computational tasks, like the\nmachine learning and ﬂight control, happens on 12 grams\nprocessor without any off-board computing [164]. Some of\nchallenges are : 1) We need to put a lot of effort to ﬁnd\nefﬁcient methods to do unsupervised learning, where collect-",
+  "section_title": "VIII-C Research Trends and Future Insights",
+  "image_filename": "page_021_fig_01.png",
+  "relative_path": "images/page_021_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "model",
+    "amazon",
+    "airspace",
+    "safe",
+    "integration",
+    "uav",
+    "aeronautics",
+    "altitude",
+    "equipage",
+    "restrictions"
+  ],
+  "cross_references": [
+    {
+      "page": 21,
+      "snippet": "Fig. 23: Amazon Airspace Model for the Safe Integration of UAV Systems."
+    }
+  ],
+  "metadata": {
+    "width": 1097,
+    "height": 472,
+    "size_bytes": 49148,
+    "format": "png"
+  }
+}

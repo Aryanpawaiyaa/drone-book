@@ -1,0 +1,18 @@
+{
+  "original_page": 15,
+  "figure_number": "Figure 7",
+  "original_caption": "τψ = ∑ | 4 i=1 (−1)nCQω2",
+  "contextual_text": "Drones 2025, 9, 425\n15 of 48 The final form of the UAV’s EoM depends on the external forces and moments consid-\nered, as illustrated in Figure 7. The main active force is the collective thrust FT generated\nby the rotors, each one spinning at angular velocity ωi: FT = ∑ 4\ni=1 CTω2 i ,\n(12) where CT > 0 is the thrust coefficient, typically obtained from static tests. Rotor drag,\nresulting from blade aerodynamics, induces a net yaw torque based on the rotational\ndirection of each rotor: τψ = ∑ 4\ni=1 (−1)nCQω2 i ,\n(13) with CQ > 0 as the drag coefficient. Assuming an X-configuration quadrotor, the angle δ between each arm and the body axis must be considered when computing rolling and\npitching moments: τϕ = l · sδ \u0000 ω2 2 + ω2\n3 −ω2\n1 −ω2\n4\n\u0001 τθ = l · cδ \u0000 ω2 3 + ω2\n4 −ω2\n1 −ω2\n2\n\u0001\n(14) Figure 7. Forces and moments acting on a free-flying drone: thrust vector is depicted as the sum of\neach propeller contribution FT,i; gravity force has opposite direction with respect to thrust in hovering\nc",
+  "section_title": "FT = ∑",
+  "image_filename": "page_015_fig_01.png",
+  "relative_path": "images/page_015_fig_01.png",
+  "ocr_text": "",
+  "keywords": [],
+  "cross_references": [],
+  "metadata": {
+    "width": 650,
+    "height": 594,
+    "size_bytes": 88157,
+    "format": "png"
+  }
+}

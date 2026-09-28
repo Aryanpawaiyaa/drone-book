@@ -1,0 +1,98 @@
+{
+  "source_pdf": "2206.09133v1.pdf",
+  "total_pages": 10,
+  "total_extracted_images": 18,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Abstract",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "1 Introduction",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "2 Related Work",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "3 GPS Spoofing Attack Plan",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "3.1 Generation of GPS Spoofed Signal",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "3.2 Tx of Generated Spoofed Signal",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "3.3 Target and Testing",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "4 Experimental Scenarios and Setup",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "4.1 Experimental Scenarios",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "4.2 Experimental Setup",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "5 Experimental Results and Discussion",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "5.1 Indoor and Outdoor (Static/ Dynamic) Spoofing Against an Android Mobile Phone based GNSS Receiver",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "5.2 Results of Static and Dynamic Spoofing under Indoor and Outdoor Conditions on Different GNSS Receivers",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "5.3 Results of Indoor and Outdoor Spoofing Against a Commercial Drone (DJI Mavic 2 Pro)",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "6 Conclusions and Future Work",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "Acknowledgments",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 9
+    }
+  ],
+  "output_directory": "f:\\drone-book\\Electronic Warfare (EW)\\extracted_2206_09133v1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_page": 6,
+  "figure_number": "Figure 3",
+  "original_caption": "the intention. Overshadowing is a method where the attacker broadcasts a very high-powered ADS-B signal to substitute parts of the ADS-B message, or entire message in the worst case. Similarly, bit flipping involves flipping certain bits to partially manipulate the signal. In either case, information is removed from the original message and malicious data is inserted in its place [17]. These ADS-B attacks can be accomplished using commercial off-the-shelf components as well as freely licensed software [57]. The most popular ex- ample of this is with Software-defined Radio (SDR) devices, which can be programmed to transmit radio signals of different frequencies, including those of ADS-B signals. By following the general packet structure of an ADS-B message, Figure 3, any SDR can effectively mask themselves as an ADS-B transmitter. | “Descend”",
+  "contextual_text": "6 TABLE II: Transponder comparisons in the context of implementation on drones. Transponder\nWeight\nPower\nAccess\nAdvantages\nDisadvantages to ATC IFF/SSR\nHeavy\nHigh\nLow\nHas been attempted\nRequires radio license and yet to be\nimplemented TCAS\nHeavy\nHigh\nMedium\nHas been attempted\nOnly implemented within research context ADS-B\nHeavy\nHigh\nMedium\nImplemented in academic research\nOnly implemented within research context RID: Wi-Fi\nLight\nLow\nHigh\nEasy to obtain and use, no license\nShort range, 2km, cannot fly drone very far RID: Bluetooth\nLight\nLow\nHigh\nEasy to obtain and use, no license\nVery short range, 200m RID: LoRa\nLight\nLow\nMedium\nPrioritizes operator control\nRequires radio license and interference\nprobability RID: Cellular\nNetwork Light\nLow\nMedium\nMore affordable and easier to\nimplement than ADS-B Infrastructure not ready for global coverage the intention. Overshadowing is a method where the attacker\nbroadcasts a very high-powered ADS-B signal to substitute\nparts of the ADS-B message, or",
+  "section_title": "RA",
+  "image_filename": "page_006_fig_06.png",
+  "relative_path": "images/page_006_fig_06.png",
+  "ocr_text": "",
+  "keywords": [
+    "ads",
+    "message",
+    "signal",
+    "case",
+    "flipping",
+    "software",
+    "radio",
+    "sdr",
+    "signals",
+    "intention"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 204,
+    "height": 150,
+    "size_bytes": 5897,
+    "format": "png"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 4",
+  "original_caption": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z 5 | Fig. 4: Integration of UAV networks with enabling technologies.",
+  "contextual_text": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z\n5 Fig. 4: Integration of UAV networks with enabling technologies. this study, however, we employ a fundamental procedure\n[61],to identify and ﬁlter the existing literature on the issue\nof UAV integration into 6G networks. Fig. 2 depicts the\narticle screening procedure in details. In major databases,\nIEEE Explore, Web of Science, ScienceDirect, and MDPI,\nwe used keywords, ”UAVs”, ”UAVs and security”, ”UAVs\nand privacy”, ”6G,” and other similar keywords, to identify\npossibly relevant publications. In the ﬁrst round, 202 journal\narticles, conference proceedings, and early access publications\nwere identiﬁed. Nonetheless, several irrelevant or unqualiﬁed\nitems were eliminated. We used two criteria to exclude these\nitems. We examined the titles, abstracts, and keywords of\neach of the chosen articles in great depth to conﬁrm that\neach publication was really concerning UAVs and 6G mobile\nnetworks. Alte",
+  "section_title": "I-C Contributions with Organization of the Article",
+  "image_filename": "page_005_fig_01.jpeg",
+  "relative_path": "images/page_005_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "accepted",
+    "ieee",
+    "transactions",
+    "network",
+    "service",
+    "management",
+    "vol",
+    "month",
+    "integration",
+    "uav"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "Fig. 4: Integration of UAV networks with enabling technologies."
+    },
+    {
+      "page": 5,
+      "snippet": "Integration of UAVs into 6G networks (Section II): To\nunderstand the concept of integrating swarm of UAVs into\n6G, we ﬁrst present the network architecture, which is shown\nin Fig. 4. This comprehensiv"
+    }
+  ],
+  "metadata": {
+    "width": 2000,
+    "height": 1125,
+    "size_bytes": 154565,
+    "format": "jpeg"
+  }
+}

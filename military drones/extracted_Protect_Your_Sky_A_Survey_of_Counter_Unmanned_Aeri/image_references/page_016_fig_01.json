@@ -1,0 +1,29 @@
+{
+  "original_page": 16,
+  "figure_number": "Figure 16-1",
+  "original_caption": "platform can perform many roles of a C2 system yet is technically discriminated from a C2 system. Some of the hardware and software of a C2 system can be included in multiple platforms. In other words, C2 system architecture types can be distributed over multiple platforms, and each platform can compute and make partial decisions separately. However, a dedicated C2 system is a core processing unit that can orchestrate multiple platforms for high-end performance of the CUS and can have high computing power. C2 systems make decisions about which tasks are required, i.e., orches- tration, and the threat levels of mUAVs, and perform com- putation for orchestration and decisions. According to i) the distance between the mUAV and the protection area, ii) the speed and direction of the mUAV, iii) the payload carried by the mUAV (e.g., explosives), iv) the size and type of UAV, and v) the attributes of the protective area, the threat level can be determined, as follows: | i.e., operator localization. Generally, operator localiza- tion can be performed only when veiled operators com- municate with UAVs by RF signals, whereas mUAV localization can be achieved not only by RF signals but also by other data sources. Here, the threat level is updated according to the localization results. Localization for mUAVs should be implemented with- out GNSS because the GNSS information of mUAVs is unavailable for CUSs. Localization without GNSS (i.e., indoor localization) has been widely studied [173]– [175]. Indoor localization techniques can be classiﬁed into geometric positioning (e.g., triangulation), ﬁnger- printing, proximity analysis, and vision analysis. The applicable localization techniques for CUSs are geomet- ric positioning and vision analysis. Geometric position- ing requires angle and distance information. The angle- of-arrival (AoA), received signal strength index, time of ﬂight/arrival (ToF/ToA), time difference of arrival (TDoA) [176]–[178], and round-trip ToF (RToF) [179] can be estimated from sound, radio, and light data, and the estimated information provides source information for geometric positioning. Estimation by ToF/ToA and TDoA-based methods may be infeasible for the localiza- tion of uncooperative UAVs, as they require a common clock and synchronization. In one study [180], radio- based UAV detection and AoA estimation algorithms were investigated. In another study [181], AoA estima- tion techniques using a directional antenna array were proposed to localize UAVs. A visual analysis can also be employed for localization. The visual analysis is implemented based on light information (i.e., captured images). The obtained information is discriminated with irrelevant background (e.g., buildings and static objects) to estimate the positions of mUAVs [173], [182]–[184]. However, a depth camera is needed to estimate the dis- tance between an mUAV and a sensor. The distance can also be estimated with prior knowledge of the mUAV without a depth camera [185]. (iv) Tracking: According to the updated threat level,",
+  "contextual_text": "H. Kang et al.: Protect Your Sky: A Survey of Counter UAV Systems platform can perform many roles of a C2 system yet is\ntechnically discriminated from a C2 system. Some of the\nhardware and software of a C2 system can be included in\nmultiple platforms. In other words, C2 system architecture\ntypes can be distributed over multiple platforms, and each\nplatform can compute and make partial decisions separately.\nHowever, a dedicated C2 system is a core processing unit that\ncan orchestrate multiple platforms for high-end performance\nof the CUS and can have high computing power. C2 systems\nmake decisions about which tasks are required, i.e., orches-\ntration, and the threat levels of mUAVs, and perform com-\nputation for orchestration and decisions. According to i) the\ndistance between the mUAV and the protection area, ii) the\nspeed and direction of the mUAV, iii) the payload carried by\nthe mUAV (e.g., explosives), iv) the size and type of UAV, and\nv) the attributes of the protective area, the t",
+  "section_title": "TABLE 5. Regulations on Commercial UAVs in 20 countries and Violation Consequences [40]–[44].",
+  "image_filename": "page_016_fig_01.png",
+  "relative_path": "images/page_016_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "localization",
+    "muav",
+    "information",
+    "analysis",
+    "threat",
+    "muavs",
+    "uavs",
+    "multiple",
+    "platforms",
+    "decisions"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 377,
+    "height": 64,
+    "size_bytes": 3399,
+    "format": "png"
+  }
+}

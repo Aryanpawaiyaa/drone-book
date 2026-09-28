@@ -1,0 +1,12 @@
+{
+  "source_pdf": "Knowledge_Guide_DPAI_Book.pdf",
+  "total_pages": 57,
+  "total_extracted_images": 31,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\extracted_Knowledge_Guide_DPAI_Book",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

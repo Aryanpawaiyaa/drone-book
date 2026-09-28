@@ -1,0 +1,38 @@
+{
+  "original_page": 14,
+  "figure_number": "Fig. 11",
+  "original_caption": "The author in [123] has presented a Backstepping control strategy to control the load position of two mass systems with unknown backlash. Controlling the two mass system will con- sist of either controlling the speed or position, in which one mass represents the motor while the other one represents a load (e.g. propeller aerodynamic load) that are connected to- gether via a shaft. Assuming that all the feedback signals from the motor, shaft and load are available. Designing the control algorithm consists of a pre-control block as shown on Fig. 11, where the input to this particular block considers the actual feedback states of the system which drives the required signals for executing the nonlinear Backstepping control law. The | In papers [110, 124], the authors followed a common de- sign procedure for gain scheduling to control a Quadrotor. A linear parameter varying model of the UAV was constructed using Jacobian linearization method in which multiple equi- librium points were set, typically known for this controller as scheduling variables (variables whose values are monitored to determine when and how will the controller switch). Typical linearization control techniques are used to develop control- lers for the linear parameter varying model of the plant. Finally, determining how the controller switches around these equilibrium points will be dependent on how the scheduling variable changes. Figure 13 depicts the parameter varying",
+  "contextual_text": "scheduling [110–112], adaptive control [92, 113–115], H∞\nControl [116, 117], Fuzzy Logic [118–120], Linear\nQuadratic Regulators (LQR) [8–11], Proportional Integral\nDerivative (PID) [5–7, 98] and Sliding mode controllers\n(SMC) [7, 12, 13]. Since these are found to be the popular\ncontrol techniques for attitude stabilisation and position con-\ntrol, this review will focus on providing the reader with an\noverview of the controller functionality as well as other re-\nsearchers’ comments on the performance. On the other hand, two of these controllers will be reviewed\nand studied further in terms of exploring the functionality and\nunderstanding the performance capability of each technique.\nThe selection of the first controller must meet the criteria of\nsimple implementation and suitable control while ignoring the\naspect of robustness against external disturbances. As for the\nsecond controller, robustness is a priority where the Quadrotor\nmust have great stability regardless of various disturba",
+  "section_title": "7.2 Gain Scheduling",
+  "image_filename": "page_014_fig_01.jpeg",
+  "relative_path": "images/page_014_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "control",
+    "load",
+    "scheduling",
+    "mass",
+    "will",
+    "parameter",
+    "varying",
+    "controller",
+    "how",
+    "backstepping"
+  ],
+  "cross_references": [
+    {
+      "page": 14,
+      "snippet": "The author in [123] has presented a Backstepping control\nstrategy to control the load position of two mass systems with\nunknown backlash. Controlling the two mass system will con-\nsist of either contr"
+    },
+    {
+      "page": 14,
+      "snippet": "Fig. 11 Block diagram of four-\nstep Backstepping control\nalgorithm [123]"
+    }
+  ],
+  "metadata": {
+    "width": 1503,
+    "height": 368,
+    "size_bytes": 43080,
+    "format": "jpeg"
+  }
+}

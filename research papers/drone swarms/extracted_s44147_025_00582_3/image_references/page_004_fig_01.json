@@ -1,0 +1,34 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 1",
+  "original_caption": "Page 4 of 24 Alqudsi and Makaraci ﻿Journal of Engineering and Applied Science           (2025) 72:12 | control can be achieved through a ground station or a cloud-based system, providing a cen- tral interface for control, monitoring, and data reception.",
+  "contextual_text": "Page 4 of 24\nAlqudsi and Makaraci ﻿Journal of Engineering and Applied Science           (2025) 72:12 control can be achieved through a ground station or a cloud-based system, providing a cen-\ntral interface for control, monitoring, and data reception. A robust communication system is essential for the real-time exchange of information \namong UAVs and with the ground control station. This system typically employs wire-\nless protocols such as Wi-Fi, Bluetooth, or Zigbee. Integrated sensors, including cameras, \nLiDAR, GPS, accelerometers, and gyroscopes, enable the drones to gather and process \nenvironmental data. Algorithms, particularly those based on SI, are crucial for autono-\nmous coordination, including path planning, collision avoidance, formation control, and \ndecision-making. The power source, often batteries or a tethered supply, is critical for UAV operation, \ninfluencing flight time and overall performance. Finally, navigation systems, such as GPS, \ninertial navigation, and vi",
+  "section_title": "Infrastructure and features of UAV swarms",
+  "image_filename": "page_004_fig_01.jpeg",
+  "relative_path": "images/page_004_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "control",
+    "alqudsi",
+    "makaraci",
+    "journal",
+    "engineering",
+    "applied",
+    "science",
+    "achieved",
+    "through",
+    "ground"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "Fig. 1  Basic components of UAV swarms"
+    }
+  ],
+  "metadata": {
+    "width": 1418,
+    "height": 1503,
+    "size_bytes": 123503,
+    "format": "jpeg"
+  }
+}

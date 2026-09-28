@@ -1,0 +1,38 @@
+{
+  "original_page": 11,
+  "figure_number": "Fig. 9",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 9. Proposed satellite-based architecture for long-distance (within the country or between two continents) communication.",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 9. Proposed satellite-based architecture for long-distance (within the country or between two continents) communication. Fig. 10. Proposed planet-to-planet connectivity using HA. both LAQDN and HAQDN, multi-node quantum communication is \nrequired. Presently, a three-node quantum network has been found to be \nsuccessful [131]. However, there is a need to extend this network \nfor multi-node quantum networks. This is the base requirement \nto make the IoQDs network feasible at low and high altitudes. \nAdditionally, drone at high altitude to drone at low altitude com-\nmunication is required to be designed that make multi-hop com-\nmunication feasible. 3.3.3. Satellite-based architecture\nIn satellite-based architecture, quantum satellites are also in-\nvolved, as shown in Fig. 9. With quantum satellites, long-distance \ncommunication (inter-continental or inter-planetary) is feasible. \nThis a",
+  "section_title": "3.3.3 Satellite-based architecture",
+  "image_filename": "page_011_fig_01.jpeg",
+  "relative_path": "images/page_011_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "satellite",
+    "based",
+    "architecture",
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular",
+    "communications"
+  ],
+  "cross_references": [
+    {
+      "page": 11,
+      "snippet": "Fig. 9. Proposed satellite-based architecture for long-distance (within the country or between two continents) communication."
+    },
+    {
+      "page": 11,
+      "snippet": "3.3.3. Satellite-based architecture\nIn satellite-based architecture, quantum satellites are also in-\nvolved, as shown in Fig. 9. With quantum satellites, long-distance \ncommunication (inter-continenta"
+    }
+  ],
+  "metadata": {
+    "width": 1561,
+    "height": 1019,
+    "size_bytes": 266538,
+    "format": "jpeg"
+  }
+}

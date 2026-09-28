@@ -1,0 +1,38 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 1",
+  "original_caption": "1) Neuromorphic hardware (Loihi): In this work, Intel’s neuromorphic research chip Loihi [20] in the form of a Kapoho Bay device was integrated on a rotating dual- copter. Kapoho Bay features two Loihi chips with a total of 256 neuro-cores in which a total of 262,144 neurons and up to 260 million synapses can be implemented. Three embedded x86 processors are used for monitoring and I/O spike management. | 2) Constrained UAV: The same robotic platform was used as in [8] - a constrained to 1 DoF dual-copter that can rotate 360 degrees in front of an actuated visual pattern. A 3D- printed holder was designed to mount the Kapoho Bay on top of the rotating dual-copter. Fig. 1 shows both the mounted Kapoho Bay as well as a side view of the setup.",
+  "contextual_text": "to solve different tasks required for autonomous navigation\nand mission control: target tracking and obstacle avoidance,\nvisual odometry, and map formation. We benchmark different parts of the SNN architecture\nand of the overall prototype system and conclude that the\nfully neuromorphic perception combined with conventional\nPD control can bring out another order of magnitude im-\nprovement in speed compared to conventional control driven\nby event-based vision, while relying on the low and scalable\npower-consumption of neuromorphic hardware. II. METHODS\nA. Hardware 1) Neuromorphic hardware (Loihi): In this work, Intel’s\nneuromorphic research chip Loihi [20] in the form of a\nKapoho Bay device was integrated on a rotating dual-\ncopter. Kapoho Bay features two Loihi chips with a total\nof 256 neuro-cores in which a total of 262,144 neurons\nand up to 260 million synapses can be implemented. Three\nembedded x86 processors are used for monitoring and I/O\nspike management. 2) Constrained UAV: The ",
+  "section_title": "II METHODS",
+  "image_filename": "page_002_fig_01.jpeg",
+  "relative_path": "images/page_002_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "kapoho",
+    "bay",
+    "loihi",
+    "dual",
+    "copter",
+    "neuromorphic",
+    "rotating",
+    "total",
+    "constrained",
+    "hardware"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "2) Constrained UAV: The same robotic platform was used\nas in [8] - a constrained to 1 DoF dual-copter that can rotate\n360 degrees in front of an actuated visual pattern. A 3D-\nprinted holder was desig"
+    },
+    {
+      "page": 2,
+      "snippet": "Fig. 1: Left: Intel’s Kapoho Bay mounted on top of the dual-\ncopter. Right: Side view of the entire physical setup."
+    }
+  ],
+  "metadata": {
+    "width": 652,
+    "height": 977,
+    "size_bytes": 180286,
+    "format": "jpeg"
+  }
+}

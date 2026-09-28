@@ -1,0 +1,34 @@
+{
+  "original_page": 8,
+  "figure_number": "Fig. 6",
+  "original_caption": "Computer Networks 182 (2020) 107451 | D. Mishra and E. Natalizio",
+  "contextual_text": "Computer Networks 182 (2020) 107451 8 D. Mishra and E. Natalizio The variables 𝑙1 and 𝑝1 are given as the logarithmic increasing\nfunction of UAV height ℎ𝑢as specified in [22]. The values of 𝐻𝑙𝑜𝑤,\n𝐻ℎ𝑖𝑔ℎ, 𝑝1 and 𝑙1 are also defined with respect to different 3GPP deploy-\nment scenarios. Table B-2 and B-3 in [22] provides detailed path-loss\nand shadowing standard deviation, respectively. The authors in [81]\ndemonstrated a BS selection scheme based on a supervised learning\napproach in order to maximize the signal strength of wireless link\nbetween UAV and BS. The UAV intelligently associate with the most ap-\npropriate BS depending on a trained neural network model to minimize\nthe interference and maximize the received signal from BSs. 4.3. System operations & mobility 4.3.1. Preliminary\nUAVs are inherently mobile in nature and Section 3 highlights\nmany use cases of cellular-connected UAVs that implicitly demand\nBVLoS [82]. The mobility and handover characteristics of terrestrial\ncellular use",
+  "section_title": "4.4. Trajectory optimization",
+  "image_filename": "page_008_fig_02.jpeg",
+  "relative_path": "images/page_008_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "computer",
+    "networks",
+    "mishra",
+    "natalizio",
+    "trajectory",
+    "optimization"
+  ],
+  "cross_references": [
+    {
+      "page": 8,
+      "snippet": "4.3.2. Associated works and illustrative results\nThe handover characteristics vary significantly between ground UEs\nand aerial UE due to the nature of cell selection, as shown in Fig. 6.\nIn [85], the "
+    },
+    {
+      "page": 8,
+      "snippet": "Fig. 6.\nUAVs being served from side lobes [85]."
+    }
+  ],
+  "metadata": {
+    "width": 950,
+    "height": 498,
+    "size_bytes": 128394,
+    "format": "jpeg"
+  }
+}

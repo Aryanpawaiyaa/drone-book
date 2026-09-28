@@ -1,0 +1,32 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 1",
+  "original_caption": "(a) Communication links and vulnerability | UAV2",
+  "contextual_text": "2 Ground Control Station (a) Communication links and vulnerability Mobile Ground Unit UAV1 UAV2 UAV-to-command \nCenter Coordination UAV-to-UAV \nCoordination UAV Functionality UAV Counter Measures and Defensive Aids Prevention \nDetection \nMitigation - Access Control \n- Information Protection \n- Equipment Selection - Anomaly Present \n- Attack agent Present - Neutralize Attack \n- Avoid Attack \n- Add Redundancy \n- Fail-safe Protocols \n- Address Uncertainties (c) UAV countermeasure and defensive aids (b) Common UAV cyberattack classifications Fig. 1: Conceptual illustration of UAV electronic warfare: (a) Communication links, (b) common UAV cyberattack classifica-\ntions, and (c) countermeasures and defensive aids. B. Electronic Warfare and UAVs Electronic warfare encompasses the science and art of\nmaintaining control over the Electromagnetic Spectrum (EMS)\nfor friendly use while denying its use to adversaries. In\nthe context of UAVs, this primarily involves military tactics,\nsuch as informat",
+  "section_title": "UAV Counter Measures and Defensive Aids",
+  "image_filename": "page_002_fig_07.jpeg",
+  "relative_path": "images/page_002_fig_07.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "communication",
+    "links",
+    "vulnerability",
+    "uav",
+    "counter",
+    "measures",
+    "defensive",
+    "aids"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "Fig. 1: Conceptual illustration of UAV electronic warfare: (a) Communication links, (b) common UAV cyberattack classifica-\ntions, and (c) countermeasures and defensive aids."
+    }
+  ],
+  "metadata": {
+    "width": 419,
+    "height": 269,
+    "size_bytes": 16658,
+    "format": "jpeg"
+  }
+}

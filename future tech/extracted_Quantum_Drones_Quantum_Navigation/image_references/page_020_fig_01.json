@@ -1,0 +1,42 @@
+{
+  "original_page": 20,
+  "figure_number": "Fig. 14",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 14. Important software applications and assets for IoQDs.",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 14. Important software applications and assets for IoQDs. tum programming languages for IoQDs, and quantum computing-\nbased error-correction ﬁrmware for IoQDs. Quantum computing-\nbased device control ﬁrmware, quantum computing-based logical \nlevel schedulers and optimizers, quantum computing-based com-\npilers for IoQDs, and quantum computing-based physical level \nschedulers and optimizers for IoQDs. Other assets include soft-\nware for IoQDs for high-security applications, quantum informa-\ntion software simulations, cryptography software, software valida-\ntion in quantum computing-based telecommunication infrastruc-\nture, space-qualiﬁed software components etc. In this case, each \napplication or asset requires specialized software services to oper-\nate. For example, quantum programming languages could include \ndesign, semantic generation, compilation, adjoining, commuting, \ncontrolled",
+  "section_title": "4.1.1 Quantum programming languages for IoQDs",
+  "image_filename": "page_020_fig_01.jpeg",
+  "relative_path": "images/page_020_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "ioqds",
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular",
+    "communications",
+    "important",
+    "software"
+  ],
+  "cross_references": [
+    {
+      "page": 19,
+      "snippet": "acteristics of quantum computing platforms, services, or concept \ndesigns for IoQDs. Fig. 14 shows the overview of various soft-\nware applications and assets studies for IoQDs in recent studies. \nThes"
+    },
+    {
+      "page": 20,
+      "snippet": "Fig. 14. Important software applications and assets for IoQDs."
+    },
+    {
+      "page": 20,
+      "snippet": "tum programming languages for IoQDs, and quantum computing-\nbased error-correction ﬁrmware for IoQDs. Quantum computing-\nbased device control ﬁrmware, quantum computing-based logical \nlevel schedulers"
+    }
+  ],
+  "metadata": {
+    "width": 1961,
+    "height": 1500,
+    "size_bytes": 634715,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_page": 10,
+  "figure_number": "Figure 14",
+  "original_caption": "Figure 14 and Fig. 15 show a pie chart and a map of the country distribution of UAV papers. In descending order, the top ten countries with the most drone papers since 2001 are United States of America, Switzerland, France, Australia, Germany, Japan, Spain, China, Italy, and South Korea. Other countries in the pie chart include Canada, Mexico, Venezuela, Brazil, United Kingdom, Portugal, Netherlands, Belgium, Aus- tria, Czech Republic, Croatia, Hungary, Slovakia, Sweden, Finland, Denmark, Greece, Cyprus, South Africa, United Arab Emirates, Iran, Israel, Saudi Arabia, Turkey, India, Taiwan, Philippines, Malaysia, and Singapore. | REFERENCES",
+  "contextual_text": "10 Fig. 13: Prototypes of cyclocopters (Fig. (a)–(b)) [128], [129], spincopters (Fig. (c)–(d)) [61], [130], Coandˇa UAV (Fig.\n(e)) [131], parafoil UAV (Fig. (f)) [132], and kite UAV (Fig. (g)) [133] appear in the reviewed papers. See text for details. 2001, we focused on the robotic communities (TRO, TME,\nIJRR, RAS, IROS, ICRA, HRI, ROMAN). To extend the\nsurvey, we could expand into journals/conferences in the\naerospace and aeronautics communities, such as International\nJournal of Robust and Nonlinear Control [134], Journal of\nGuidance, Control, and Dynamics [135], and International\nConference on Unmanned Aircraft Systems [136]. UAVs from\nthe commercial sectors would also provide fertile ground. To\nname a few, the DJI Phantom 4 [137] and YUNEEC Typhoon\nH [138]) appear to possess advanced path planning, human\ntracking, and obstacle avoidance algorithms. However, private\ncompanies often do not provide detailed technical information\nto the public. In the Part II of this survey, we cover t",
+  "section_title": "REFERENCES",
+  "image_filename": "page_010_fig_04.png",
+  "relative_path": "images/page_010_fig_04.png",
+  "ocr_text": "",
+  "keywords": [
+    "united",
+    "pie",
+    "chart",
+    "papers",
+    "countries",
+    "south",
+    "references",
+    "show",
+    "map",
+    "country"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1363,
+    "height": 816,
+    "size_bytes": 56558,
+    "format": "png"
+  }
+}

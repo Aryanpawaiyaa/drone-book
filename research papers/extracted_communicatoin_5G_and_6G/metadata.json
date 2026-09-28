@@ -1,0 +1,193 @@
+{
+  "source_pdf": "communicatoin - 5G and 6G.pdf",
+  "total_pages": 19,
+  "total_extracted_images": 9,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "I Introduction",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "I-A Existing literature and their limitations",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "I-B Research Methodology",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "I-C Contributions with Organization of the Article",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "II Integration of UAVs into 6G networks",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "II-A Summary",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "III Security landscape",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "III-A Security and Privacy Threats",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "III-B Security and Privacy Requirements",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "III-C Summary",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "IV Blockchain Technology",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "IV-A Summary",
+      "page": 10
+    },
+    {
+      "level": 1,
+      "title": "V AI/ML Techniques",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "V-A Summary",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "VI Energy Efficiency ",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "VI-A Summary",
+      "page": 13
+    },
+    {
+      "level": 1,
+      "title": "VII Challenges",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VII-A Safety",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VII-B Limited Energy, Storage and Computation Capability",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VII-C Routing",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VII-D Device Compatibility",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VII-E  High Spectrum Exploitation",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VII-F Standardization and Regulations",
+      "page": 14
+    },
+    {
+      "level": 1,
+      "title": "VIII Open Research Topics",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "VIII-A Blockchain-enabled UAV Softwarization",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "VIII-B High-speed Backhaul FSO Connectivity ",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "VIII-C Intrusion Detection Systems and Forensics Models",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "VIII-D 6G Protocol Designs for UAV Networks ",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "VIII-E Intelligent Mobility Management",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "VIII-F Reconfigurable Intelligent Surfaces",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "VIII-G Energy Harvesting Technologies",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "VIII-H SDN and NFV for UAV-enabled 6G Networks",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "VIII-I Integrated Space and Terrestrial UAV Networks",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "VIII-J Quantum Backscatter Communications",
+      "page": 15
+    },
+    {
+      "level": 1,
+      "title": "IX Conclusion",
+      "page": 15
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 16
+    }
+  ],
+  "output_directory": "f:\\drone-book\\research papers\\extracted_communicatoin_5G_and_6G",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

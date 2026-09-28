@@ -1,0 +1,53 @@
+{
+  "source_pdf": "download.pdf",
+  "total_pages": 21,
+  "total_extracted_images": 1,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "_Hlk200354297",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "_Hlk162078339",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "_Hlk162078911",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "_Hlk162077382",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "_Hlk162077489",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "_Hlk162079863",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "_Hlk162080530",
+      "page": 13
+    },
+    {
+      "level": 1,
+      "title": "_Hlk163562538",
+      "page": 13
+    }
+  ],
+  "output_directory": "f:\\drone-book\\Electronic Warfare (EW)\\extracted_download",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 9,
+  "figure_number": "Fig. 5",
+  "original_caption": "Autonomous Control and Artificial Intelligence in Drones | Fig. 5: Hierarchical architecture for AI-driven drone control systems, showing the integration of perception, planning, and  execution layers with machine learning components for autonomous operation.",
+  "contextual_text": "Autonomous Control and Artificial Intelligence in Drones Y. ALQUDSI et al. : \nPage 9 of 26 Fig. 5: Hierarchical architecture for AI-driven drone control systems, showing the integration of perception, planning, and \nexecution layers with machine learning components for autonomous operation. optimization layers, as illustrated in Figure 5. This multi-layered approach enables robust autonomous operation by \ncoordinating environmental perception with mission-level objective optimization. 5.1. Perception and Sensing Systems \nPerception systems serve as the foundational element for autonomous drone operations, providing essential environ-\nmental awareness for obstacle avoidance, target recognition, and situational understanding. Recent advancements have \nfocused on addressing computational constraints and environmental variability through the development of lightweight \narchitectures and sophisticated multi-modal fusion strategies. Deep learning-based computer vision has particularly \nrevol",
+  "section_title": "5. AI-Powered Methodologies in Drones",
+  "image_filename": "page_009_fig_01.jpeg",
+  "relative_path": "images/page_009_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "autonomous",
+    "control",
+    "drones",
+    "artificial",
+    "intelligence",
+    "hierarchical",
+    "architecture",
+    "driven",
+    "drone",
+    "showing"
+  ],
+  "cross_references": [
+    {
+      "page": 9,
+      "snippet": "Fig. 5: Hierarchical architecture for AI-driven drone control systems, showing the integration of perception, planning, and \nexecution layers with machine learning components for autonomous operation."
+    }
+  ],
+  "metadata": {
+    "width": 840,
+    "height": 570,
+    "size_bytes": 75335,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 15,
+  "figure_number": "Fig. 11",
+  "original_caption": "Autonomous Control and Artificial Intelligence in Drones | Fig. 11: Integrated framework for autonomous disaster response systems, showing multi-modal workflow combining sensor  modules, software stacks, and operational functionalities for victim detection, emergency delivery, and communication  relay.",
+  "contextual_text": "Autonomous Control and Artificial Intelligence in Drones Y. ALQUDSI et al. : \nPage 15 of 26 Fig. 11: Integrated framework for autonomous disaster response systems, showing multi-modal workflow combining sensor \nmodules, software stacks, and operational functionalities for victim detection, emergency delivery, and communication \nrelay. detection enables the location of persons of interest multiple times faster than traditional search methods, while \nautomated traffic monitoring achieves high accuracy in incident detection with minimal response latency [65]. \nInfrastructure protection similarly benefits from drone-based perimeter monitoring that detects intrusion attempts at \nsubstantially higher rates than fixed systems, with potential for significant cost reductions for large facilities [66]. \nIndustrial inspections demonstrate remarkable time savings compared to manual methods, with AI-powered defect \ndetection achieving exceptional accuracy for common fault types. Emergency response ",
+  "section_title": "6. Applications of AI-Enabled Drones",
+  "image_filename": "page_015_fig_01.jpeg",
+  "relative_path": "images/page_015_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "autonomous",
+    "drones",
+    "control",
+    "artificial",
+    "intelligence",
+    "integrated",
+    "framework",
+    "disaster",
+    "response",
+    "showing"
+  ],
+  "cross_references": [
+    {
+      "page": 15,
+      "snippet": "Fig. 11: Integrated framework for autonomous disaster response systems, showing multi-modal workflow combining sensor \nmodules, software stacks, and operational functionalities for victim detection, e"
+    }
+  ],
+  "metadata": {
+    "width": 990,
+    "height": 626,
+    "size_bytes": 75014,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 7,
+  "figure_number": "FIGURE 5",
+  "original_caption": "Thermal detection Unavailable Available Unavailable Available | Optic camera Unavailable Available Unavailable Available",
+  "contextual_text": "This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/ This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2021.3065926, IEEE Access FIGURE 4: Detection method classiﬁcation with respect to functionality and range TABLE 2: Detection technology availability Method\nPhysical\nobstacles Unknown\ncommunication Unusual shape\nLow speed Thermal detection\nUnavailable\nAvailable\nUnavailable\nAvailable Optic camera\nUnavailable\nAvailable\nUnavailable\nAvailable Radar\nUnavailable\nAvailable\nDetectable,\nNot identiﬁable Unavailable RF scanner\nAvailable\nUnavailable\nAvailable\nAvailable Acoustic\nAvailable\nAvailable\nPartially\navailable Partially\navailable FIGURE 5: Drone position tracking by multiple RF scanners • Multiple RF scanners. RF scanners can detect drones\nand additiona",
+  "section_title": "FIGURE 5: Drone position tracking by multiple RF scanners",
+  "image_filename": "page_007_fig_02.png",
+  "relative_path": "images/page_007_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "unavailable",
+    "available",
+    "thermal",
+    "detection",
+    "optic",
+    "camera",
+    "drone",
+    "position",
+    "tracking",
+    "multiple"
+  ],
+  "cross_references": [
+    {
+      "page": 7,
+      "snippet": "FIGURE 5: Drone position tracking by multiple RF scanners"
+    }
+  ],
+  "metadata": {
+    "width": 804,
+    "height": 568,
+    "size_bytes": 109244,
+    "format": "png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "original_page": 9,
+  "figure_number": "Fig. 7",
+  "original_caption": "0 ϕ; θ; ψ ð Þ ¼ | cθcψ cθsψ −sθ sϕsθcψ−cϕsψ sϕsθsψ þ cϕcψ sϕcθ cϕsθcψ þ sϕsψ cϕsθsψ−sϕcψ cϕcθ",
+  "contextual_text": "rotors have the same distances to the centre of mass.\nRegardless of the Quadrotor configuration, the centre of mass\nis assumed to be at the centre of the body inertial frame.\nMathematically, the motions are presented by the twelve states\nin xT as shown in Eq. (1). {x, y, z} and { ˙x; ˙y; ˙z } denote the\nposition and respective speeds with reference to the inertial\nfixed frame. Similarly, {ϕ, θ, ψ} and { ˙ϕ: ˙θ; ˙ψ } correspond to\nthe angular displacements (roll, pitch and yaw) and their rate\nof change as denoted in [1, 84, 87]. xT ¼\nx; ˙x; y; ˙y; z; ˙z; ϕ; ˙ϕ; θ; ˙θ; ψ; ˙ψ\nn\n\u0002 ð1Þ Rolling, Pitching and Yawing with respect to the fixed\ninertial frame may be described through the transformation\nmatrix as shown in Eq. (2) where the Euler angles must be\nbounded to −π=2 ≤ϕ≤π=2, −π=2 ≤θ≤π=2 and −π ≤ψ ≤π in\norder to prevent singularities and excessive rotations where\ngreater control efforts are required [83]. ℝ1 0 ϕ; θ; ψ\nð\nÞ ¼ cθcψ\ncθsψ\n−sθ\nsϕsθcψ−cϕsψ\nsϕsθsψ þ cϕcψ\nsϕcθ\ncϕsθcψ þ sϕsψ\ncϕsθsψ",
+  "section_title": "5.1 Aerodynamics Effects of the Propeller",
+  "image_filename": "page_009_fig_01.jpeg",
+  "relative_path": "images/page_009_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "aerodynamics",
+    "effects",
+    "propeller"
+  ],
+  "cross_references": [
+    {
+      "page": 9,
+      "snippet": "vehicle to lift in the relative direction. Fig. 7 shows the air\npassing through the propeller which is defined as the free flow\nof air within the stream tube; the highlighted region of the air\noutside"
+    },
+    {
+      "page": 9,
+      "snippet": "Where CT is the thrust coefficient, ρ is the air density and D\nis the diameter of the area swept by the propeller as shown on\nFig. 7. The thrust coefficient can be derived depending on the"
+    },
+    {
+      "page": 9,
+      "snippet": "Fig. 7 Air flow along the stream tube as the actuator disk rotates during\nflight"
+    }
+  ],
+  "metadata": {
+    "width": 971,
+    "height": 779,
+    "size_bytes": 116318,
+    "format": "jpeg"
+  }
+}

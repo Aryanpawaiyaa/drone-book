@@ -1,0 +1,29 @@
+{
+  "original_page": 1,
+  "figure_number": "Figure 1",
+  "original_caption": "Abstract The vulnerability of the Global Positioning System (GPS) against spoofing is known for quite some time. Also, the positioning and navigation of most semi-autonomous and autonomous drones are dependent on Global Navigation Satellite System (GNSS) signals. In prior work, simplistic or asynchronous GPS spoofing was found to be a simple, efficient, and effective cyber attack against L1 GPS or GNSS dependent commercial drones. In this paper, first we make some important observations on asynchronous GPS spoofing attacks on drones presented in prior research literature. Then, we design an asynchronous GPS spoofing attack plan. Next, we test the effectiveness of this attack against GNSS receivers (high volume consumer devices based on Android mobile phones) of different capabilities and a commercial drone (DJI Mavic 2 Pro) under various conditions. Finally, we present several novel insights based on the results of the tests. | CCS Concepts: • General and reference →Evaluation; • Security and privacy →Denial-of-service attacks; Embed- ded systems security; Usability in security and privacy.",
+  "contextual_text": "Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers M Surendra Kumar\nmsurendrakumar2008@gmail.com Department of Aerospace\nEngineering, Indian Institute of Technology, Bombay\nMumbai, Maharashtra, India Gaurav S Kasbekar\nDepartment of Electrical Engineering, Indian Institute of Technology, Bombay\nMumbai, Maharashtra, India gskasbekar@ee.iitb.ac.in Arnab Maity\nDepartment of Aerospace\nEngineering, Indian Institute of Technology, Bombay\nMumbai, Maharashtra, India arnab@aero.iitb.ac.in Abstract\nThe vulnerability of the Global Positioning System (GPS)\nagainst spoofing is known for quite some time. Also, the\npositioning and navigation of most semi-autonomous and\nautonomous drones are dependent on Global Navigation\nSatellite System (GNSS) signals. In prior work, simplistic\nor asynchronous GPS spoofing was found to be a simple,\nefficient, and effective cyber attack against L1 GPS or GNSS\ndependent commercial drones. In this paper, first we make\nsome important observ",
+  "section_title": "Abstract",
+  "image_filename": "page_001_fig_01.png",
+  "relative_path": "images/page_001_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "gps",
+    "spoofing",
+    "against",
+    "drones",
+    "gnss",
+    "asynchronous",
+    "attack",
+    "security",
+    "abstract",
+    "global"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1007,
+    "height": 742,
+    "size_bytes": 51517,
+    "format": "png"
+  }
+}

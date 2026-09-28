@@ -1,0 +1,50 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 3",
+  "original_caption": "where T is the thrust; the constant cT = 0.4 · Tbaseline = 2880 ensures that the motors are always returning a baseline thrust. The thrust bias bT = 170 is an empirically chosen value; u ∈[−3700, 3700] is the controller output. | 1 ∆T",
+  "contextual_text": "Tmin, Tmax = ±1850, and N is the number of neurons in\nthe output population: u = idx N · (Tmax −Tmin) + Tmin.\n(1) The controller output is further converted in software to a\nthrust difference according to the equations: u = KP · θ + KD · ˙θ, T = cT ± (u 2 + bT ),\n(2) where T is the thrust; the constant cT = 0.4 · Tbaseline =\n2880 ensures that the motors are always returning a baseline\nthrust. The thrust bias bT = 170 is an empirically chosen\nvalue; u ∈[−3700, 3700] is the controller output. 2) Adaptation Pathway: On-chip learning on Loihi en-\nables adaption of the neuromorphic controller by using\nsynaptic plasticity rules. Adaptive CPU controllers rely on\nmonitoring the plant behavior and modifying the controller\nparameters accordingly. On the Loihi chip, adaptation is real-\nized by exploiting the plastic connections between compart-\nments (neurons) directly on the processor, only minimally\nincreasing the processing overhead. To test this capability, we introduced a constant, static\ndi",
+  "section_title": "II-C.2 Adaptation Pathway",
+  "image_filename": "page_004_fig_01.png",
+  "relative_path": "images/page_004_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "thrust",
+    "where",
+    "constant",
+    "tbaseline",
+    "ensures",
+    "motors",
+    "always",
+    "returning",
+    "baseline",
+    "bias"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "In the network, we need to compute the integral in\nEq. 3 using positional coding in the SNN. Fig. 3 illustrates\nan equivalent SNN-pipeline: the neuronal population that\nrepresents the error signal, er"
+    },
+    {
+      "page": 4,
+      "snippet": "position encoding: depending on the represented value (of\nthe integrated error), more or less neurons are active in this\npopulation. To achieve this, neurons in B have different\nactivation thresholds "
+    },
+    {
+      "page": 4,
+      "snippet": "Fig. 3 shows the schematic of the adaptation pathway\nwhich runs in parallel to the full SNN PD controller."
+    },
+    {
+      "page": 4,
+      "snippet": "Fig. 3: Schematic of SNN Adaptation Pathway: Purple lines\nshow currently active plastic synapses."
+    },
+    {
+      "page": 4,
+      "snippet": "For the experiments done with the adaptive SNN Con-\ntroller, where the vision-part of the controller was not the\nprimary objective, the input to the SNN in Fig. 3 is the\nencoder on the drone’s joint. "
+    }
+  ],
+  "metadata": {
+    "width": 891,
+    "height": 501,
+    "size_bytes": 103291,
+    "format": "png"
+  }
+}

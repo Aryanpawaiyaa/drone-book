@@ -1,0 +1,66 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 1",
+  "original_caption": "Due to the fact that UAS are aircraft without a human pilot onboard that are controlled by an operator remotely or pro- grammed to ﬂy autonomously, protecting against UAS-based threats is very challenging. The challenges, which UAS can present to critical infrastructure and several courses of action that law enforcement and critical infrastructure owners and operators may want to take, include: (1) the pilots of the UAS are not able to receive commands from airspace authorities; (2) the pilots of the UAS commonly take actions according to video steams and GPS trajectories; (3) the communication links between pilots and UAS are vulnerable to interference. | The remainder of this paper is structured as follows. Sec- tion II presents various UAS-based threats and introduces restrictions that commonly affect UAS ﬂights. Sections III and IV presents the state of the art detection and mitigation, respectively. Section V identiﬁes the challenges in countering unauthorized or unsafe UAS. Section VI evaluates the trends of detection and mitigation for protecting against UAS-based threats. Section VII concludes this paper.",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n2 ideal UAS detection subsystem, will detect, track, identify\nan unmanned aircraft or unmanned aircraft system, have a\nsmall footprint, and support highly automated operations. The\nideal UAS mitigation subsystem [13] will lawfully and safely\ndisable, disrupt, or seize control of an unmanned aircraft or\nunmanned aircraft system [13], while ensuring low collateral\ndamage and low cost per engagement. Due to the fact that UAS are aircraft without a human pilot\nonboard that are controlled by an operator remotely or pro-\ngrammed to ﬂy autonomously, protecting against UAS-based\nthreats is very challenging. The challenges, which UAS can\npresent to critical infrastructure and several courses of action\nthat law enforcement and critical infrastructure owners and\noperators may want to take, include: (1) the pilots of the UAS\nare not able to receive commands from airspace authorities;\n(2) the pilots of the UAS commonly take actions according\nto video steams and GPS trajec",
+  "section_title": "II. BACKGROUND",
+  "image_filename": "page_002_fig_01.png",
+  "relative_path": "images/page_002_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "uas",
+    "based",
+    "threats",
+    "pilots",
+    "section",
+    "protecting",
+    "against",
+    "challenges",
+    "critical",
+    "infrastructure"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "monthly UAS sightings between January 2014 and December\n2019 are shown in Fig. 1, from which we could observe that\nunsafe and unauthorized UAS operations have been increasing\ndramatically. It is inter"
+    },
+    {
+      "page": 2,
+      "snippet": "Fig. 1: Temporal distribution of UAS sightings"
+    },
+    {
+      "page": 10,
+      "snippet": "The technologies of detection and mitigation are still im-\nmature. The research on UAS mitigation is limited. David\netc. [99] developed an architecture of UAS defense system.\nIn this architecture, the"
+    },
+    {
+      "page": 10,
+      "snippet": "Fig. 10: Categories of UAS Negation"
+    },
+    {
+      "page": 11,
+      "snippet": "Fig. 11: Categorization of Jamming"
+    },
+    {
+      "page": 11,
+      "snippet": "Jamming is the most popular method used in neutralizing\nUAS entering restricted areas. The defenders leverage noise\nsignal to interfere operation of UAS sensors or systems for\nneutralization. In this "
+    },
+    {
+      "page": 12,
+      "snippet": "Fig. 12: Catergorization of Vulnerabilities"
+    },
+    {
+      "page": 16,
+      "snippet": "Fig. 13: Uniﬁed Framework for Drone Safety Management"
+    },
+    {
+      "page": 16,
+      "snippet": "The discussion above shows that it is hard to protect the\npublic from unsafe and unauthorized drone operations by using\none single approach. Therefore, we propose a uniﬁed frame-\nwork of collaborative"
+    }
+  ],
+  "metadata": {
+    "width": 2428,
+    "height": 1222,
+    "size_bytes": 955635,
+    "format": "png"
+  }
+}

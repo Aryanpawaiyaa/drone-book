@@ -1,0 +1,34 @@
+{
+  "original_page": 3,
+  "figure_number": "Fig. 1",
+  "original_caption": "• Benchmarking the close-loop neuromorphic performance of ColibriUAV using a reference neural network featuring a latency of 163 ms, power of 46.98 mW, and energy consumption of 9.224 mJ for the end-to-end task from events to motor control. | II. RELATED WORK",
+  "contextual_text": "than the widely used data reading approach through a\nUSB interface. • Benchmarking the close-loop neuromorphic performance\nof ColibriUAV using a reference neural network featuring\na latency of 163 ms, power of 46.98 mW, and energy\nconsumption of 9.224 mJ for the end-to-end task from\nevents to motor control. II. RELATED WORK In recent years, research on low-latency event camera-\nembedded drones has rapidly grown, as summarized in Table I.\nFalanga et al. [11] utilized two SEES1 event cameras on a\nquadrotor and leveraged the temporal information contained\nin the event stream to distinguish between static and dynamic\nobjects, with the aim of avoiding approaching obstacles with\nfast response times. They reported an overall latency of only\n3.5 milliseconds, which is sufficient for reliable detection\nand avoidance of fast-moving obstacles. Andersen et al. [15]\nproposed sparse convolutions for detecting gates in a race track\nusing event-based vision, and achieved success rates between\n0.2 to 1",
+  "section_title": "IV. DESIGN AND IMPLEMENTATION",
+  "image_filename": "page_003_fig_02.png",
+  "relative_path": "images/page_003_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "end",
+    "benchmarking",
+    "close",
+    "loop",
+    "neuromorphic",
+    "performance",
+    "colibriuav",
+    "reference",
+    "neural",
+    "network"
+  ],
+  "cross_references": [
+    {
+      "page": 3,
+      "snippet": "Fig. 1.\nSystem architecture: ColibriUAV with Dual Camera and Kraken\nDevelopment Board."
+    }
+  ],
+  "metadata": {
+    "width": 846,
+    "height": 346,
+    "size_bytes": 417332,
+    "format": "png"
+  }
+}

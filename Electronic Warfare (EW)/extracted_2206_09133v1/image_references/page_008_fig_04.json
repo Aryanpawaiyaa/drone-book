@@ -1,0 +1,29 @@
+{
+  "original_page": 8,
+  "figure_number": "Figure 12",
+  "original_caption": "Figure 12. Left to right: screenshots of GPSTest App, Google Maps, and mobile phone camera during outdoor dynamic spoofing. | Figure 13. Left to right: screenshots of GPSTest App, Google Maps, and mobile phone camera after receipt of dynamic spoofing signals (outdoor).",
+  "contextual_text": "MSWiM ’22, Montreal, Canada, M Surendra Kumar, et al. Table 4. Results of various tests on different GNSS receivers. Location\nIndoor\nOutdoor\nSpoofed Signal\nS1∗\nS2∗\nS3∗\nS4∗\nS1∗\nS2∗\nS3∗\nS4∗ Static Spoofing\nS\nS\n@\nS\nS\nS\n@\nS\nDynamic Spoofing\nS\nS\n@\nS\nS\nS\n@\n@\n∗Sr. No. as given in Table 2, S= Successfully Spoofed, @= did not get spoofed Figure 12. Left to right: screenshots of GPSTest App, Google\nMaps, and mobile phone camera during outdoor dynamic\nspoofing. Figure 13. Left to right: screenshots of GPSTest App, Google\nMaps, and mobile phone camera after receipt of dynamic\nspoofing signals (outdoor). own location. However, the drone registered its original lo-\ncation as its home location (seen in the bottom half of Fig.\n17 as H circled by green color). The drone with its align-\nment is seen in the screenshots as a red arrow head. Fig. 18 Figure 14. Results of dynamic GPS spoofing on different\nGNSS receivers. Figure 15. Results of static GPS spoofing on different GNSS\nreceivers. shows similar re",
+  "section_title": "5.2 Results of Static and Dynamic Spoofing under Indoor and Outdoor Conditions on Different GNSS Receivers",
+  "image_filename": "page_008_fig_04.jpeg",
+  "relative_path": "images/page_008_fig_04.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "outdoor",
+    "dynamic",
+    "spoofing",
+    "left",
+    "right",
+    "screenshots",
+    "gpstest",
+    "app",
+    "google",
+    "maps"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 975,
+    "height": 726,
+    "size_bytes": 236444,
+    "format": "jpeg"
+  }
+}

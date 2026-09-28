@@ -1,0 +1,38 @@
+{
+  "original_page": 26,
+  "figure_number": "Fig. 32",
+  "original_caption": "Fig. 32 Flow chart illustrating a procedural development of the system architecture | 22    Page 26 of 33 J Intell Robot Syst (2022) 104: 22",
+  "contextual_text": "Fig. 31 Quadrotor tracking\nperformance compared between\nPID, ABSM and BSM for Roll\n(Left), Pitch (Middle) and altitude\n(right) [140] Fig. 32 Flow chart illustrating a\nprocedural development of the\nsystem architecture 22    Page 26 of 33\nJ Intell Robot Syst (2022) 104: 22",
+  "section_title": "7.11 Closing Remarks",
+  "image_filename": "page_026_fig_01.jpeg",
+  "relative_path": "images/page_026_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "flow",
+    "chart",
+    "illustrating",
+    "procedural",
+    "development",
+    "architecture",
+    "intell",
+    "robot",
+    "syst",
+    "closing"
+  ],
+  "cross_references": [
+    {
+      "page": 23,
+      "snippet": "becoming widely implemented for practical experiments\nwhere the variations in the controller response can be\nviewed. As a result, the dynamics react uniquely in terms of\nresponsivity and robustness ba"
+    },
+    {
+      "page": 26,
+      "snippet": "Fig. 32 Flow chart illustrating a\nprocedural development of the\nsystem architecture"
+    }
+  ],
+  "metadata": {
+    "width": 1503,
+    "height": 1317,
+    "size_bytes": 131183,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_page": 13,
+  "figure_number": "Figure 6",
+  "original_caption": "^ b3 points downwards [113]. The attitude orientation of the UAV with respect to the inertial frame is defined using Euler angles, typically in the ZYX sequence, and represented by the rotation matrix RI | B ∈SO3. The relation between the two Cartesian frames is expressed as [114]",
+  "contextual_text": "Drones 2025, 9, 425\n13 of 48 vectors \u001a^ b1, ^\nb2, ^\nb3 \u001b , using the right-hand rule [112] or the North-East-Down (NED) con- vention, where ^\nb3 points downwards [113]. The attitude orientation of the UAV with\nrespect to the inertial frame is defined using Euler angles, typically in the ZYX sequence,\nand represented by the rotation matrix RI B ∈SO3. The relation between the two Cartesian\nframes is expressed as [114]   ^ı 1\n^ı 2\n^ı 3  =   cθcψ\nsϕsθcψ −cϕsψ\ncϕsθcψ + sϕsψ\ncθsψ\nsϕsθsψ + cϕcψ\ncϕsθsψ −sϕsψ\n−sθ\nsϕcθ\ncϕcθ     ^\nb1\n^\nb2\n^\nb3  = RI B   ^\nb1\n^\nb2\n^\nb3  \n(2) Figure 6. Reference Frames: (a) Cartesian inertial frame illustration depicting Euler angles (ϕ, θ, ψ),\nNED body-fixed frame and angular rates (p, q, r) in the body-fixed frame; (b) Spherical inertial frame\nillustration depicting spherical coordinates (r, β, γ) representation. Angular rates are defined starting from the angular velocity in the body-fixed frame ωB = p ^\nb1 + q ^\nb2 + r ^\nb3, wh",
+  "section_title": "3.1.2. Spherical Reference Frame",
+  "image_filename": "page_013_fig_01.jpeg",
+  "relative_path": "images/page_013_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "frame",
+    "points",
+    "downwards",
+    "attitude",
+    "orientation",
+    "uav",
+    "respect",
+    "inertial",
+    "defined",
+    "euler"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1600,
+    "height": 610,
+    "size_bytes": 110424,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_page": 15,
+  "figure_number": "Figure 16",
+  "original_caption": "More speciﬁcally, deep learning is useful for feature ex- traction from the raw measurements provided by sensors on-board a UAV (details about UAV sensor technology is presented in the Precision Agriculture section). Convolutional Neural Networks (CNNs) is one of the main deep learning feature extractors used in the area of image recognition and classiﬁcation which has been proven very effective [58]. Figure 16 illustrates one example of how CNNs works. | Fig. 16: Illustration of How CNNs Work [58].",
+  "contextual_text": "15 D. Research Trends and Future Insights 1) Machine Learning: Machine learning has become an\nincreasingly important artiﬁcal intelligence approach for UAVs\nto operate autonomously. Applying advanced machine learning\nalgorithms (e.g., deep learning algorithm) could help the UAV\nsystem to draw better conclusions. For example, due to its\nimproved data processing models, deep learning algorithms\ncould help to obtain new ﬁndings from existing data and to\nget more concise and reliable analysis results. UAV inspection\nprogram at AT&T uses deep learning algorithms on HD videos\nto detect defects and anomalies in real time [98]. Industrial\nSkyWorks introduces advanced machine learning algorithms\nto process 2D and 3D images [97]. More speciﬁcally, deep learning is useful for feature ex-\ntraction from the raw measurements provided by sensors\non-board a UAV (details about UAV sensor technology is\npresented in the Precision Agriculture section). Convolutional\nNeural Networks (CNNs) is one of the ma",
+  "section_title": "VII. PRECISION AGRICULTURE",
+  "image_filename": "page_015_fig_01.png",
+  "relative_path": "images/page_015_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "cnns",
+    "deep",
+    "learning",
+    "feature",
+    "uav",
+    "precision",
+    "agriculture",
+    "one",
+    "how",
+    "more"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1972,
+    "height": 807,
+    "size_bytes": 23463,
+    "format": "png"
+  }
+}

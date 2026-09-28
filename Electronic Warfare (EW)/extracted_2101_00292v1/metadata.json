@@ -1,0 +1,428 @@
+{
+  "source_pdf": "2101.00292v1.pdf",
+  "total_pages": 39,
+  "total_extracted_images": 0,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "I Introduction",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "II Jamming and Anti-Jamming Attacks in WLANs",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "II-A A Primer of WLANs",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "II-A1 MAC-Layer Protocols",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "II-A2 Frame Structures",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "II-A3 PHY-Layer Signal Processing Modules",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "II-B Jamming Attacks",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "II-B1 Generic Jamming Attacks",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "II-B2 WiFi-Specific Jamming Attacks",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "II-B3 A Summary of Jamming Attacks",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "II-C Anti-Jamming Techniques",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "II-C1 Channel Hopping Techniques",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "II-C2 Spectrum Spreading Technique",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "II-C3 MIMO-based Jamming Mitigation Techniques",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "II-C4 Coding Techniques",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "II-C5 Rate Adaptation and Power Control Techniques",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "II-C6 Jamming Detection Mechanisms",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "II-C7 A Summary of Anti-Jamming Techniques",
+      "page": 10
+    },
+    {
+      "level": 1,
+      "title": "III Jamming and Anti-Jamming Attacks in Cellular Networks",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "III-A A Primer of Cellular Networks",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "III-B Jamming Attacks",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "III-B1 Jamming Attacks on Synchronization",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "III-B2 Jamming Attacks on PDCCH and PUCCH",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "III-B3 Jamming Attacks on PDSCH and PUSCH",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "III-B4 Jamming Attacks on PBCH",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "III-B5 Jamming Attacks on PHICH",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "III-B6 Jamming Attacks on Reference Signal",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "III-B7 Jamming Attacks on Random Access",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "III-B8 A Summary of Jamming Attacks",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "III-C Anti-Jamming Techniques",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "III-C1 MIMO-based Jamming Mitigation Techniques",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "III-C2 Spectrum Spreading Techniques",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "III-C3 Multiple Base Stations Schemes",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "III-C4 Coding and Scrambling Techniques",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "III-C5 Dynamic Resource Allocation Schemes",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "III-C6 Jamming Detection Mechanisms",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "III-C7 A Summary of Anti-Jamming Techniques",
+      "page": 17
+    },
+    {
+      "level": 1,
+      "title": "IV Jamming and Anti-Jamming Attacks in Cognitive Radio Networks (CRNs)",
+      "page": 17
+    },
+    {
+      "level": 2,
+      "title": "IV-A Background",
+      "page": 17
+    },
+    {
+      "level": 2,
+      "title": "IV-B Jamming Attacks",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "IV-B1 Primary User Emulation (PUE) Attacks",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "IV-B2 False-Report Attacks",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "IV-B3 Jamming Attacks on Secondary Network and Common Control Channel",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "IV-B4 Learning-based Jamming Attacks",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "IV-B5 A Summary of Existing Jamming Attacks",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "IV-C Anti-Jamming Techniques",
+      "page": 19
+    },
+    {
+      "level": 1,
+      "title": "V Jamming and Anti-Jamming Attacks in ZigBee Networks",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "V-A A Primer of ZigBee Communication",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "V-B Jamming Attacks",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "V-C Anti-Jamming Techniques",
+      "page": 21
+    },
+    {
+      "level": 1,
+      "title": "VI Jamming and Anti-Jamming Attacks in Bluetooth Networks",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "VI-A A Primer of Bluetooth Communication",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "VI-B Jamming Attacks",
+      "page": 23
+    },
+    {
+      "level": 2,
+      "title": "VI-C Anti-jamming Techniques",
+      "page": 23
+    },
+    {
+      "level": 1,
+      "title": "VII Jamming and Anti-Jamming Attacks in LoRa Networks",
+      "page": 24
+    },
+    {
+      "level": 2,
+      "title": "VII-A A Primer of LoRaWANs",
+      "page": 24
+    },
+    {
+      "level": 2,
+      "title": "VII-B Jamming Attacks",
+      "page": 24
+    },
+    {
+      "level": 2,
+      "title": "VII-C Anti-jamming Techniques",
+      "page": 25
+    },
+    {
+      "level": 1,
+      "title": "VIII Jamming and Anti-Jamming Attacks in Vehicular Wireless Networks",
+      "page": 25
+    },
+    {
+      "level": 2,
+      "title": "VIII-A A Primer of Vehicular Wireless Networks",
+      "page": 26
+    },
+    {
+      "level": 2,
+      "title": "VIII-B Jamming Attacks",
+      "page": 27
+    },
+    {
+      "level": 2,
+      "title": "VIII-C Anti-Jamming Techniques",
+      "page": 27
+    },
+    {
+      "level": 1,
+      "title": "IX Jamming and Anti-Jamming Attacks in RIFD Communication Systems",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "IX-A A Primer of RFID Communication",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "IX-B Jamming Attacks",
+      "page": 29
+    },
+    {
+      "level": 2,
+      "title": "IX-C Anti-Jamming Techniques",
+      "page": 30
+    },
+    {
+      "level": 1,
+      "title": "X Jamming and Anti-Jamming Attacks in GPS Systems",
+      "page": 30
+    },
+    {
+      "level": 2,
+      "title": "X-A A Primer of GPS Communication System",
+      "page": 30
+    },
+    {
+      "level": 2,
+      "title": "X-B Jamming Attacks",
+      "page": 31
+    },
+    {
+      "level": 2,
+      "title": "X-C Anti-Jamming Attacks",
+      "page": 31
+    },
+    {
+      "level": 1,
+      "title": "XI Open Problems and Research Directions",
+      "page": 32
+    },
+    {
+      "level": 2,
+      "title": "XI-A Open Problems",
+      "page": 32
+    },
+    {
+      "level": 3,
+      "title": "XI-A1 Effectiveness of Anti-Jamming Techniques",
+      "page": 32
+    },
+    {
+      "level": 3,
+      "title": "XI-A2 Efficiency of Anti-Jamming Techniques",
+      "page": 32
+    },
+    {
+      "level": 3,
+      "title": "XI-A3 Practicality of Anti-Jamming Techniques",
+      "page": 32
+    },
+    {
+      "level": 3,
+      "title": "XI-A4 Securing Wireless Communication System by Design",
+      "page": 32
+    },
+    {
+      "level": 2,
+      "title": "XI-B Research Directions",
+      "page": 33
+    },
+    {
+      "level": 3,
+      "title": "XI-B1 MIMO-based Jamming Mitigation",
+      "page": 33
+    },
+    {
+      "level": 3,
+      "title": "XI-B2 Cross-Domain Anti-Jamming Design",
+      "page": 33
+    },
+    {
+      "level": 3,
+      "title": "XI-B3 Cross-Layer Anti-Jamming Design",
+      "page": 33
+    },
+    {
+      "level": 3,
+      "title": "XI-B4 Machine Learning for Anti-Jamming Design",
+      "page": 34
+    },
+    {
+      "level": 1,
+      "title": "XII Conclusion",
+      "page": 34
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 34
+    }
+  ],
+  "output_directory": "f:\\drone-book\\Electronic Warfare (EW)\\extracted_2101_00292v1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_page": 20,
+  "figure_number": "Figure 11",
+  "original_caption": "where the subscripts m, s and c indicate, respectively, the DC motor, the spool and a cable of diameter dc; furthermore, re and ri are the external and internal radii of the spool, ϑ = ϑ(t) is the motor angular progress, and rc is the effective winding radius, calculated as | rc = re + L0 −reϑ",
+  "contextual_text": "Drones 2025, 9, 425\n20 of 48 Iaw = Im + Is + Ic = Im + 1 2 Ms\n\u0010 r2 e + r2 i \u0011 + Mc \u0010rc 2 \u00112 ,\n(29) where the subscripts m, s and c indicate, respectively, the DC motor, the spool and a cable of\ndiameter dc; furthermore, re and ri are the external and internal radii of the spool, ϑ = ϑ(t)\nis the motor angular progress, and rc is the effective winding radius, calculated as rc = re + L0 −reϑ 2πre dc 2\n(30) Both geometric and dynamic parameters of the winch model are illustrated in Figure 11. Figure 11. Automated winch frame and parameters: (a) TMS rugged box; (b) Controlled spool, defined by geometric (ri, re, rc, dc) and dynamic \u0010 Maw, Iaw, ωm, T, i, Bf \u0011 variables. Cable length L can be estimated from a motor angle encoder using a second-order\npolynomial fit [85]: L ∼= Lpoly = aLϑ2 + bLϑ + cL ,\n(31) where aL, bL, and cL are polynomial coefficients to be experimentally determined. Assuming\na single cable layer, the unwinding rate .\nL is calculated as [63] .\nL = rcωm,\n(32) where ωm is the",
+  "section_title": "3.3.2. Electrical Model",
+  "image_filename": "page_020_fig_01.jpeg",
+  "relative_path": "images/page_020_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "motor",
+    "spool",
+    "where",
+    "subscripts",
+    "indicate",
+    "respectively",
+    "cable",
+    "diameter",
+    "furthermore",
+    "external"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 986,
+    "height": 576,
+    "size_bytes": 91082,
+    "format": "jpeg"
+  }
+}

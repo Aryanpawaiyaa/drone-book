@@ -1,0 +1,38 @@
+{
+  "original_page": 24,
+  "figure_number": "Fig. 30",
+  "original_caption": "With regard to the control techniques mentioned in this paper, many authors have attempted to compare two control laws while other authors have combined these techniques in order to achieve an improved performance. For this particular review, the main focus will be considered towards selecting a controller that is able to successfully achieve all the steps mentioned above, especially the aspect of overcoming exter- nal disturbances such as wind. On the other hand, a second controller will also be selected with a main criteria of | Based on the literature reviewed, the most popular control- lers that are generally implemented for analysis are either sim- ple techniques such as the PID, or more advanced robust con- trollers that are able to overcome uncertainties such as the SMC. These two methods are found to be implemented on Quadrotors using various approaches where it is dependent on meeting the operators’ requirement and the set application. For instance, the authors in [141] have implemented a PD, PID and SMC controllers to a Quadrotor with a main focus of achieving successful position control, it was concluded that the SMC is rapidly responsive in taking the Quadrotor to a specified angle in less time than the PD and the PID controllers.",
+  "contextual_text": "&\nApplication set for indoor environments.\n&\nPrecise control is essential (minimum steady state).\n&\nAble to reach the desired positions (x, y and z) with quick\nresponsivity.\n&\nStrongly resistible against external perturbations (outdoor\nareas). With regard to the control techniques mentioned in this\npaper, many authors have attempted to compare two control\nlaws while other authors have combined these techniques in\norder to achieve an improved performance. For this particular\nreview, the main focus will be considered towards selecting a\ncontroller that is able to successfully achieve all the steps\nmentioned above, especially the aspect of overcoming exter-\nnal disturbances such as wind. On the other hand, a second\ncontroller will also be selected with a main criteria of successive responsivity and ease of implementation.\nHowever, the robustness and insensitivities will be considered\nleast important. Based on the literature reviewed, the most popular control-\nlers that are generally imple",
+  "section_title": "7.10 Comparative Study",
+  "image_filename": "page_024_fig_02.jpeg",
+  "relative_path": "images/page_024_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "control",
+    "techniques",
+    "authors",
+    "main",
+    "such",
+    "implemented",
+    "pid",
+    "smc",
+    "mentioned",
+    "two"
+  ],
+  "cross_references": [
+    {
+      "page": 22,
+      "snippet": "Simulating the theoretical work shown on Fig. 29 is\nassessed by applying the desired angles for each sub con-\ntroller. For simplicity, the complete system was firstly\nanalysed by assessing the movemen"
+    },
+    {
+      "page": 24,
+      "snippet": "Fig. 30 Behaviour of the UAV in the Cartesian space by following a\ncertain trajectory using sliding mode control [13]"
+    }
+  ],
+  "metadata": {
+    "width": 971,
+    "height": 535,
+    "size_bytes": 62389,
+    "format": "jpeg"
+  }
+}

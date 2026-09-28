@@ -1,0 +1,42 @@
+{
+  "original_page": 3,
+  "figure_number": "Fig. 1",
+  "original_caption": "Research Article 3 | Fig. 1. Overview of the proposed system. (A) Quadrotor used in this work (total weight 1.0 kg, tip-to-tip diameter 35 cm). (B) Hardware overview showing the communication between event-camera, neuromorphic processor, single-board computer and ﬂight controller (C) Pipeline overview showing events as input, processing by the vision network and decoding into a control command. (D) Demonstration of the system for an optical ﬂow divergence landing.",
+  "contextual_text": "Research Article\n3 Fig. 1. Overview of the proposed system. (A) Quadrotor used in this work (total weight 1.0 kg, tip-to-tip diameter 35 cm). (B)\nHardware overview showing the communication between event-camera, neuromorphic processor, single-board computer and\nﬂight controller (C) Pipeline overview showing events as input, processing by the vision network and decoding into a control\ncommand. (D) Demonstration of the system for an optical ﬂow divergence landing. motion of the camera (and hence of the drone) with the help\nof optical ﬂow information, as in [48, 49, 51–53]. Optical ﬂow,\ni.e., the apparent motion of scene points in the image space, can\nbe estimated from the output of an event-based camera with a\nwide variety of methods, ranging from sparse feature-tracking\nalgorithms [54] to dense (i.e., per-pixel) machine learning mod-\nels [17, 19, 43]. In the search for an efﬁcient and high-bandwidth\nvision pipeline, the second design decision was to reduce the\nspatial resolution of the ",
+  "section_title": "1. INTRODUCTION",
+  "image_filename": "page_003_fig_01.png",
+  "relative_path": "images/page_003_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "overview",
+    "tip",
+    "showing",
+    "research",
+    "article",
+    "proposed",
+    "quadrotor",
+    "work",
+    "total",
+    "weight"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "A fully neuromorphic solution to vision-based navigation\nThe presented vision-to-control pipeline consists of a spiking\nneural network that is trained to accept high-dimensional raw\nevent-camera data "
+    },
+    {
+      "page": 3,
+      "snippet": "Fig. 1. Overview of the proposed system. (A) Quadrotor used in this work (total weight 1.0 kg, tip-to-tip diameter 35 cm). (B)\nHardware overview showing the communication between event-camera, neuromo"
+    },
+    {
+      "page": 13,
+      "snippet": "Hardware setup\nReal-world experiments were performed with a custom-built\nquadrotor carrying the event-based camera (DAVIS240C), a\nsingle-board computer (UP Squared) and a neuromorphic pro-\ncessor (Int"
+    }
+  ],
+  "metadata": {
+    "width": 5597,
+    "height": 3874,
+    "size_bytes": 6965310,
+    "format": "png"
+  }
+}

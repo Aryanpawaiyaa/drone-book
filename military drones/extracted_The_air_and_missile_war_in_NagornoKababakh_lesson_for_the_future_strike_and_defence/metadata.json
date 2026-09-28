@@ -1,0 +1,12 @@
+{
+  "source_pdf": "The air and missile war in NagornoKababakh lesson for the future strike and defence.pdf",
+  "total_pages": 11,
+  "total_extracted_images": 4,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\military drones\\extracted_The_air_and_missile_war_in_NagornoKababakh_lesson_for_the_future_strike_and_defence",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

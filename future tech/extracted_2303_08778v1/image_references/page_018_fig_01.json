@@ -1,0 +1,38 @@
+{
+  "original_page": 18,
+  "figure_number": "Fig. 8",
+  "original_caption": "Research Article 18 | Fig. 8. Comparing ﬂight tests with and without tether. Real-world ﬂight tests were performed with a tether. We perform ten runs with νBsp = [0, 0.5, 0]T 1/s with and without this tether, and use bootstrapping to quantify its impact. More speciﬁcally, we combine all data points after the initial transient into a single set, sample two sets of 454 data points and compute the difference of their medians. We repeat this 10,000 times and compare it to the true difference of medians of the tests with and without tether. While the impact of the tether on ˆνBz is signiﬁcant, it is also very small in terms of magnitude.",
+  "contextual_text": "Research Article\n18 Fig. 8. Comparing ﬂight tests with and without tether. Real-world ﬂight tests were performed with a tether. We perform ten runs\nwith νBsp = [0, 0.5, 0]T 1/s with and without this tether, and use bootstrapping to quantify its impact. More speciﬁcally, we combine\nall data points after the initial transient into a single set, sample two sets of 454 data points and compute the difference of their\nmedians. We repeat this 10,000 times and compare it to the true difference of medians of the tests with and without tether. While\nthe impact of the tether on ˆνBz is signiﬁcant, it is also very small in terms of magnitude. thrust is still necessary. • The same scaled velocity value at different heights leads\nto different speeds, which needs different attitude angles\nto be achieved. This effect is also nonlinear, and hence we\ndecided to carry out all horizontal ﬂights from the same\nstarting altitude. Note that this does not account for accu-\nmulated virtual drift during ﬂight, a",
+  "section_title": "188.84, 0, 90.0",
+  "image_filename": "page_018_fig_01.png",
+  "relative_path": "images/page_018_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "tether",
+    "tests",
+    "without",
+    "impact",
+    "data",
+    "points",
+    "difference",
+    "medians",
+    "research",
+    "article"
+  ],
+  "cross_references": [
+    {
+      "page": 18,
+      "snippet": "Fig. 8. Comparing ﬂight tests with and without tether. Real-world ﬂight tests were performed with a tether. We perform ten runs\nwith νBsp = [0, 0.5, 0]T 1/s with and without this tether, and use boots"
+    },
+    {
+      "page": 18,
+      "snippet": "Quantiﬁcation of tether impact\nFor safety reasons, real-world ﬂight tests were performed with\nthe drone attached to a lightweight tether. In Fig. 8 we quantify\nthe impact of this tether through bootst"
+    }
+  ],
+  "metadata": {
+    "width": 4803,
+    "height": 1177,
+    "size_bytes": 140899,
+    "format": "png"
+  }
+}

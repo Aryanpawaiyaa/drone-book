@@ -1,0 +1,113 @@
+{
+  "source_pdf": "2108.03694v2.pdf",
+  "total_pages": 7,
+  "total_extracted_images": 9,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "I INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "II METHODS",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "II-A Hardware",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "II-A.1 Neuromorphic hardware (Loihi)",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "II-A.2 Constrained UAV",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "II-A.3 Event Camera",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "II-A.4 ESCs and Motors",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "II-A.5 Rotary Encoders",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "II-A.6 Interfaces, system overview",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "II-B Spiking Neural Network (SNN) for Visual Processing",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "II-C The Adaptive SNN PD Controller",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "II-C.1 Controller implementation",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "II-C.2 Adaptation Pathway",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "II-D SNN Input/Output Encoding/Decoding",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "II-E Experiments",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "III RESULTS",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "III-A Controller performance: High Speed Control",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "III-B Controller performance: Adaptive Control",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "IV CONCLUSIONS",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 6
+    }
+  ],
+  "output_directory": "f:\\drone-book\\future tech\\extracted_2108_03694v2",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

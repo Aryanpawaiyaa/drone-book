@@ -1,0 +1,24 @@
+{
+  "original_page": 1,
+  "figure_number": "Figure 1-2",
+  "original_caption": "Computer Networks 182 (2020) 107451 | Survey paper",
+  "contextual_text": "Computer Networks 182 (2020) 107451 Available online 7 August 2020\n1389-1286/© 2020 Elsevier B.V. All rights reserved. Contents lists available at ScienceDirect Computer Networks journal homepage: www.elsevier.com/locate/comnet Survey paper A survey on cellular-connected UAVs: Design challenges, enabling 5G/B5G\ninnovations, and experimental advancements Debashisha Mishra a,∗, Enrico Natalizio b a Université de Lorraine, CNRS, LORIA, France\nb Technology Innovation Institute, United Arab Emirates A R T I C L E\nI N F O Keywords:\nCellular-connected UAV\n5G/B5G\nUAV communications\nUAV integration A B S T R A C T As an emerging field of aerial robotics, Unmanned Aerial Vehicles (UAVs) have gained significant research\ninterest within the wireless networking research community. As soon as national legislations allow UAVs\nto fly autonomously, we will see swarms of UAV populating the sky of our smart cities to accomplish\ndifferent missions: parcel delivery, infrastructure monitoring, event filming",
+  "section_title": "1. Introduction",
+  "image_filename": "page_001_fig_02.jpeg",
+  "relative_path": "images/page_001_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "computer",
+    "networks",
+    "survey",
+    "paper",
+    "introduction"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 249,
+    "height": 273,
+    "size_bytes": 33305,
+    "format": "jpeg"
+  }
+}

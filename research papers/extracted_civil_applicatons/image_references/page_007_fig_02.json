@@ -1,0 +1,32 @@
+{
+  "original_page": 7,
+  "figure_number": "Fig. 8",
+  "original_caption": "C. Challenges | Fig. 8: Use UAV to Provide Wireless Coverage for Outdoor Users.",
+  "contextual_text": "7 1. Path planning\nprocess. Rescue team deﬁne the targeted search\narea at the GCS. 2. GCS computes the\noptimal trajectory\nof the SAR mission\nthen each UAV will received its path. 3. Searching process:\nUAVs follow their\npath and start scanning the targeted region. 4. Detection process\ndetecting UAV hovers above the object. 5. Other UAVs act as\nrelay nodes. Create a communication\nrelaying network. 6- UAVs switched to\npropagating mode. Setup\nmulti-hop communication link with the GCS. 7. GCS locates GPS\ncoordinates for the targeted objects. Fig. 7: Use of Multi-UAV Systems in SAR Operations, Locate GPS Coordinates for the Missing Persons. assessment or damage evaluation. This helps to evaluate\nthe magnitude of the damage in the infrastructure caused\nby the disaster. After assessment, rescue teams can\nidentify the targeted search area and commence SAR\noperations accordingly [44].\n2) SAR operations using UAVs can be performed au-\ntonomously, accurately and without introducing addi-\ntional ri",
+  "section_title": "IV-C Challenges ",
+  "image_filename": "page_007_fig_02.png",
+  "relative_path": "images/page_007_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "challenges",
+    "use",
+    "uav",
+    "provide",
+    "wireless",
+    "coverage",
+    "outdoor",
+    "users"
+  ],
+  "cross_references": [
+    {
+      "page": 7,
+      "snippet": "Fig. 8: Use UAV to Provide Wireless Coverage for Outdoor Users."
+    }
+  ],
+  "metadata": {
+    "width": 813,
+    "height": 526,
+    "size_bytes": 158522,
+    "format": "png"
+  }
+}

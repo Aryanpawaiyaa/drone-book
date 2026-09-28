@@ -1,0 +1,38 @@
+{
+  "original_page": 9,
+  "figure_number": "Fig. 5",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 5. Quantum satellite system [109].",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 5. Quantum satellite system [109]. Quantum key is theoretically considered secure because it is \nnot possible to break it even with quantum computing approaches. \nThe success of this experimentation and the feasibility of launch-\ning more such satellites will help create an IoQDs network. This \nnetwork will be helpful to establish secure communication for \nvarious applications in different domains like military networks, \nbanks and ﬁnance, power grids, healthcare, Internet, telecommu-\nnication, and supply chain. A recent study [110] tested a method \nfor a relay conﬁguration of two quantum drones’ signal repeaters \nlocated at different locations over the ground and one quantum \nCubeSat to solve the critical obstacles to the quantum connection \nbetween the Earth and a satellite (e.g., unfavourable weather and \nenvironmental conditions). The drones used in this experiment of \nquantum te",
+  "section_title": "3.3. Bridging knowledge gaps on Internet of Quantum Drones",
+  "image_filename": "page_009_fig_01.png",
+  "relative_path": "images/page_009_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "quantum",
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular",
+    "communications",
+    "satellite",
+    "bridging"
+  ],
+  "cross_references": [
+    {
+      "page": 8,
+      "snippet": "Quantum satellites are a key component of a realistic free-space \nquantum network since they eliminate photon loss over long dis-\ntances [108]. Quantum satellites and optical ﬁbres are two promi-\nnent"
+    },
+    {
+      "page": 9,
+      "snippet": "Fig. 5. Quantum satellite system [109]."
+    }
+  ],
+  "metadata": {
+    "width": 3442,
+    "height": 2430,
+    "size_bytes": 56695,
+    "format": "png"
+  }
+}

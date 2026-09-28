@@ -1,0 +1,33 @@
+{
+  "original_page": 14,
+  "figure_number": "Fig. 6",
+  "original_caption": "S. Ahmad et al. | 4  Autonomous features in UAV networks",
+  "contextual_text": "S. Ahmad et al. 4  Autonomous features in UAV networks New autonomous capabilities are being developed to enhance UAV network performance \nand address specific challenges. These approaches aim to provide optimal solutions for \nparticular issues while supporting dynamic network environments. Numerous studies have \nexamined the characteristics of autonomous UAV network management techniques. Fig­\nure 8 outlines three different resource management strategies for UAV networks. These \nstrategies include traffic control, transmission control protocols, communication protocols, \nand efficient power management. 4.1  Network planning and management of resources Planning and resource management are critical for the success of any network, especially \nthose that involve minimal human interaction, such as unmanned aerial vehicle (UAV) net­\nworks. In the context of UAVs, numerous studies focus on addressing the challenges and \nrisks inherent in these networks. These studies aim to overcome obstacle",
+  "section_title": "4.1  Network planning and management of resources",
+  "image_filename": "page_014_fig_01.jpeg",
+  "relative_path": "images/page_014_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "ahmad",
+    "autonomous",
+    "features",
+    "uav",
+    "networks",
+    "network",
+    "planning",
+    "management",
+    "resources"
+  ],
+  "cross_references": [
+    {
+      "page": 14,
+      "snippet": "Fig. 6  The bar chart shows the distribution of research papers by journal category. IEEE has the highest \nnumber with 33 papers, followed by Science Direct with 19 and Springer with 18. Cornell Unive"
+    }
+  ],
+  "metadata": {
+    "width": 1182,
+    "height": 670,
+    "size_bytes": 132515,
+    "format": "jpeg"
+  }
+}

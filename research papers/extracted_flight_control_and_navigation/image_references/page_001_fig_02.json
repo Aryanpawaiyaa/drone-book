@@ -1,0 +1,25 @@
+{
+  "original_page": 1,
+  "figure_number": "Figure 1-2",
+  "original_caption": "Swarm and Evolutionary Computation 89 (2024) 101626 | Survey Paper",
+  "contextual_text": "Swarm and Evolutionary Computation 89 (2024) 101626 Available online 8 June 2024\n2210-6502/© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies. Survey Paper From PID to swarms: A decade of advancements in drone control and path \nplanning - A systematic review (2013–2023) Berk Cetinsaya *, Dirk Reiners , Carolina Cruz-Neira Department of Computer Science, University of Central Florida, 4000 Central Florida Blvd, Orlando, FL, 32816, USA A R T I C L E I N F O Keywords: \nUnmanned aerial vehicle (UAV) \nDrone control \nPath planning \nSwarm intelligence \nNature-inspired swarm algorithms A B S T R A C T This systematic literature review synthesizes and evaluates existing research on drone control and path planning, \nencompassing the principles of swarm intelligence and nature-inspired algorithms. However, it is not limited to \nthese; it also explores other algorithms to provide a comprehensive overview of the state-of-the",
+  "section_title": "1. Introduction",
+  "image_filename": "page_001_fig_02.jpeg",
+  "relative_path": "images/page_001_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "swarm",
+    "evolutionary",
+    "computation",
+    "survey",
+    "paper",
+    "introduction"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 248,
+    "height": 271,
+    "size_bytes": 34672,
+    "format": "jpeg"
+  }
+}

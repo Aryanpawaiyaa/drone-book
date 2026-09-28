@@ -1,0 +1,50 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 4",
+  "original_caption": "Research Article 6 | Fig. 4. Overview of results for the vision-based state estimation. (A) Qualitative analysis of the training dataset for planar optical ﬂow. Accumulated and blurry events can be deblurred using the ground-truth ﬂow. Events result from a repeating texture on the ground. Flow magnitude is well-distributed across both training and test datasets. (B) Comparison of estimated and ground-truth visual observables for sequences with different motion speeds (slow, medium, fast). (C) Network activity resulting from the top-left- corner events in the fast motion sequence.",
+  "contextual_text": "Research Article\n6 Fig. 4. Overview of results for the vision-based state estimation. (A) Qualitative analysis of the training dataset for planar optical\nﬂow. Accumulated and blurry events can be deblurred using the ground-truth ﬂow. Events result from a repeating texture on the\nground. Flow magnitude is well-distributed across both training and test datasets. (B) Comparison of estimated and ground-truth\nvisual observables for sequences with different motion speeds (slow, medium, fast). (C) Network activity resulting from the top-left-\ncorner events in the fast motion sequence. pings is evolved in simulation for a set of 16 visual observable\nsetpoints. Each scaled velocity setpoint νBsp has at most one\nnonzero element ∈{±0.2, ±0.5, ±1.0} 1/s. In other words: they\nrepresent hover, vertical ﬂight in the form of landing at three\nspeeds (no ascending ﬂight), and horizontal ﬂight in four direc-\ntions at three speeds. Unless mentioned otherwise, the setpoint\nfor yaw rate ωBz,sp = 0. The ﬁrst",
+  "section_title": "RESULTS",
+  "image_filename": "page_006_fig_01.png",
+  "relative_path": "images/page_006_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "events",
+    "ground",
+    "results",
+    "training",
+    "truth",
+    "motion",
+    "fast",
+    "research",
+    "article",
+    "overview"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "Robust vision-based state estimation\nTo prevent reality-gap issues when simulating an event-based\ncamera, we train and evaluate the vision part of our pipeline us-\ning real-world event sequences recor"
+    },
+    {
+      "page": 5,
+      "snippet": "We train our vision SNN with the self-supervised contrast\nmaximization framework from [43] and a quantization-aware\ntraining routine that simulates the neuron and synapse models\nin the target neuromor"
+    },
+    {
+      "page": 5,
+      "snippet": "In Fig. 4C, we show the internal spiking activity of our vision\nSNN as it processes the top-left corner of the image space from\nthe fast sequence shown in Fig. 4B, along with the decoded opti-\ncal ﬂow"
+    },
+    {
+      "page": 6,
+      "snippet": "Fig. 4. Overview of results for the vision-based state estimation. (A) Qualitative analysis of the training dataset for planar optical\nﬂow. Accumulated and blurry events can be deblurred using the gro"
+    },
+    {
+      "page": 7,
+      "snippet": "observables with those estimated by the vision network. Look-\ning at the scaled velocity plots for the different setpoints, we see\nthat these become less noisy for higher setpoints and faster ﬂight,\na"
+    }
+  ],
+  "metadata": {
+    "width": 5994,
+    "height": 5912,
+    "size_bytes": 8932633,
+    "format": "png"
+  }
+}

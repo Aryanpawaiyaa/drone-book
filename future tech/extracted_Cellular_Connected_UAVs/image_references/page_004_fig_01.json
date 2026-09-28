@@ -1,0 +1,38 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 3",
+  "original_caption": "Technology & Experiment | Network Architecture ✓ ✓ ✓ ✓ ✓ ✓ 5G/B5G Innovations ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ Experimental Prototyping ✓ ✓ Ideal Features of Prototype ✓",
+  "contextual_text": "Computer Networks 182 (2020) 107451 4 D. Mishra and E. Natalizio Table 2\nExisting surveys and tutorials for UAV cellular communication. Broad\nReferences →\n[8] [13] [23] [39] [35] [40] [36] [10] [33] [37] [24] [18] [41] [5] [42] [43] [38] [44] [28] This work\nCategory\nContributions ↓ Nature of Integration\nUAV-Assisted Cellular Comm\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\nCellular-Assisted UAV Comm\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓ Applications & Use cases Applications & Use cases\n✓\n✓\n✓\n✓\n✓ Design & Challenges Technical Challenges\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\nPropagation Channel Models\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\nMobility & Handovers\n✓\n✓\nTrajectory Optimization\n✓\n✓\n✓ Technology &\nExperiment Network Architecture\n✓\n✓\n✓\n✓\n✓\n✓\n5G/B5G Innovations\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\nExperimental Prototyping\n✓\n✓\nIdeal Features of Prototype\n✓ Harmonization\n& Compliance Standardization\n✓\n✓\n✓\nRegulations\n✓\n✓\n✓\nCommunication Requirement\n✓\n✓\n✓\n✓\n✓\n✓ Socio-economic\nConcerns Security Aspects\n✓\n✓\n✓\nSocial Concerns\n✓\n✓\nMar",
+  "section_title": "2.1. Key contributions",
+  "image_filename": "page_004_fig_01.jpeg",
+  "relative_path": "images/page_004_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "technology",
+    "experiment",
+    "network",
+    "architecture",
+    "innovations",
+    "experimental",
+    "prototyping",
+    "ideal",
+    "features",
+    "prototype"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "Fig. 3. High level organization of this work."
+    },
+    {
+      "page": 4,
+      "snippet": "The high level organization of this work is summarized in Fig. 3.\nFirst, we begin with the detailed taxonomy of application domains\nand corresponding use cases for cellular-connected UAVs, and then\nhi"
+    }
+  ],
+  "metadata": {
+    "width": 631,
+    "height": 1270,
+    "size_bytes": 50330,
+    "format": "jpeg"
+  }
+}

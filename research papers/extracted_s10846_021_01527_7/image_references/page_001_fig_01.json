@@ -1,0 +1,29 @@
+{
+  "original_page": 1,
+  "figure_number": "Figure 1-1",
+  "original_caption": "A Review of Quadrotor Unmanned Aerial Vehicles: Applications, Architectural Design and Control Algorithms | Moad Idrissi1 & Mohammad Salami1 & Fawaz Annaz1",
+  "contextual_text": "SURVEY PAPER A Review of Quadrotor Unmanned Aerial Vehicles: Applications,\nArchitectural Design and Control Algorithms Moad Idrissi1\n& Mohammad Salami1 & Fawaz Annaz1 Received: 7 March 2021 /Accepted: 3 November 2021\n# Crown 2022 Abstract\nOver the past decade, unmanned aerial vehicles (UAVs) have received a significant attention due to their diverse capabilities for\nnon-combatant and military applications. The primary aim of this study is to unveil a clear categorization overview for more than\na decade worth of substantial progress in UAVs. The paper will begin with a general overview of the advancements, followed by\nan up-to-date explanation of the different mechanical structures and technical elements that have been included. The paper will\nthen explore and examine various vertical take-off and landing (VTOL) configurations, followed by expressing the dynamics,\napplicable simulation tools and control strategies for a Quadrotor. In conclusion to this review, the dynamic system present",
+  "section_title": "SURVEY PAPER",
+  "image_filename": "page_001_fig_01.png",
+  "relative_path": "images/page_001_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "review",
+    "quadrotor",
+    "unmanned",
+    "aerial",
+    "vehicles",
+    "applications",
+    "architectural",
+    "design",
+    "control",
+    "algorithms"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 128,
+    "height": 124,
+    "size_bytes": 1413,
+    "format": "png"
+  }
+}

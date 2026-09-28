@@ -1,0 +1,12 @@
+{
+  "source_pdf": "MILITARYDRONES.pdf",
+  "total_pages": 13,
+  "total_extracted_images": 0,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\military drones\\extracted_MILITARYDRONES",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

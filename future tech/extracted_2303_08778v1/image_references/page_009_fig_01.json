@@ -1,0 +1,46 @@
+{
+  "original_page": 9,
+  "figure_number": "Fig. 6",
+  "original_caption": "Research Article 9 | Fig. 6. Results with vision network and proportional-integral (PI) controller. (A) Top row: alternating setpoints in X and Y in order to ﬂy a square. Bottom row: rotating the scaled velocity setpoint by the yaw angle leads the drone spinning around its Z-axis while ﬂying in a straight line. (B) Landing experiments with different lighting conditions. While ﬂickering lights lead to many more events, visual observable estimates (and hence control) only diverge when it is so dark that there are almost no events.",
+  "contextual_text": "Research Article\n9 Fig. 6. Results with vision network and proportional-integral (PI) controller. (A) Top row: alternating setpoints in X and Y in\norder to ﬂy a square. Bottom row: rotating the scaled velocity setpoint by the yaw angle leads the drone spinning around its Z-axis\nwhile ﬂying in a straight line. (B) Landing experiments with different lighting conditions. While ﬂickering lights lead to many more\nevents, visual observable estimates (and hence control) only diverge when it is so dark that there are almost no events. Loihi, depending on the sequence, outperforms Jetson Nano by\nthree to four orders of magnitude, providing a one to two orders\nof magnitude improvement in execution frequency. Further-\nmore, the beneﬁts of neuromorphic processing show in Loihi’s\nincreasing execution frequency as event sparsity increases (from\nfast to slow motion sequences). Note that a GPU like Jetson\nNano is not optimized to simulate SNNs, and a more efﬁcient\nimplementation could be obtained by r",
+  "section_title": "DISCUSSION AND CONCLUSION",
+  "image_filename": "page_009_fig_01.png",
+  "relative_path": "images/page_009_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "row",
+    "while",
+    "events",
+    "research",
+    "article",
+    "results",
+    "vision",
+    "network",
+    "proportional",
+    "integral"
+  ],
+  "cross_references": [
+    {
+      "page": 7,
+      "snippet": "include these in training for the linear network controller. Fig. 6A\nshows these tests. The top row displays the user alternating\nthrough different scaled velocity setpoints in X and Y (while\nkeeping "
+    },
+    {
+      "page": 7,
+      "snippet": "The bottom row of Fig. 6A shows an experiment in which\nthe drone has to ﬂy in a straight line while spinning around\nits Z axis like a frisbee. The drone receives a nonzero yaw rate\nsetpoint ωBz,sp = 0"
+    },
+    {
+      "page": 7,
+      "snippet": "Fig. 6B shows landing with divergence νBz,sp = −0.5 1/s for\nvarious lighting conditions (quantiﬁed with lux measurements).\nThe events for the top left corner are shown in the bottom row.\nThe light and"
+    },
+    {
+      "page": 9,
+      "snippet": "Fig. 6. Results with vision network and proportional-integral (PI) controller. (A) Top row: alternating setpoints in X and Y in\norder to ﬂy a square. Bottom row: rotating the scaled velocity setpoint "
+    }
+  ],
+  "metadata": {
+    "width": 5357,
+    "height": 5181,
+    "size_bytes": 8457872,
+    "format": "png"
+  }
+}

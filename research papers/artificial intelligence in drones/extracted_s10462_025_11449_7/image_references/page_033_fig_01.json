@@ -1,0 +1,34 @@
+{
+  "original_page": 33,
+  "figure_number": "Fig. 9",
+  "original_caption": "The widespread deployment of AI-driven UAV networks is significantly influenced by regu­ latory and legal constraints. UAV operations are subject to airspace regulations, safety pro­ tocols, and privacy laws, all of which impact scalability and real-world feasibility (Wolff  et al. 2023). A comprehensive analysis of these regulatory challenges and their implications  on AI-based UAV networks would provide valuable insights for practical implementation  (Xu and Yang 2022). Regulatory bodies such as the Federal Aviation Administration (FAA),  European Union Aviation Safety Agency (EASA), and the Civil Aviation Authority (CAA)  have established strict operational guidelines for UAVs (Al Hammadi et al. 2023). These  include flight altitude restrictions, no-fly zones, mandatory line-of-sight operation, and air­ space integration requirements (Xu et al. 2022). AI-driven UAVs, particularly autonomous  swarms, raise concerns about compliance with existing aviation laws, as many jurisdictions  do not currently support fully autonomous drone operations (Wang et al. 2022). | One of the key regulatory challenges is data privacy and surveillance laws. AI-powered  UAV networks equipped with computer vision and deep learning algorithms raise concerns  about mass surveillance, data collection, and individual privacy rights (Zhang et al. 2024).  Compliance with General Data Protection Regulation (GDPR) in Europeand California  Consumer Privacy Act (CCPA) in the U.S. requires UAV operators to implement privacy- preserving mechanisms when processing sensitive information (Yacef et al. 2023). Another  critical concern is the legal liability of AI-driven UAV operations. If an autonomous UAV",
+  "contextual_text": "Flight into the future: a holistic review of AI-trends, vision, and… implementation. Future research should therefore prioritize developing open UAV datasets, \nlightweight AI frameworks, and cross-platform benchmarking tools to advance reproduc­\nibility and real-world deployment. 5  Management of security, safety, and privacy As technology advances and expands, its security is compromised. Effective and efficient \nmanagement of security, safety, and privacy is essential. We have separated the area into two \ngroups, as shown in Fig. 9. 5.1  Exploration of regulatory aspects The widespread deployment of AI-driven UAV networks is significantly influenced by regu­\nlatory and legal constraints. UAV operations are subject to airspace regulations, safety pro­\ntocols, and privacy laws, all of which impact scalability and real-world feasibility (Wolff \net al. 2023). A comprehensive analysis of these regulatory challenges and their implications \non AI-based UAV networks would provide valuable in",
+  "section_title": "5.1  Exploration of regulatory aspects",
+  "image_filename": "page_033_fig_01.png",
+  "relative_path": "images/page_033_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "privacy",
+    "regulatory",
+    "aviation",
+    "driven",
+    "networks",
+    "operations",
+    "laws",
+    "autonomous",
+    "data"
+  ],
+  "cross_references": [
+    {
+      "page": 33,
+      "snippet": "Fig. 9  The figure illustrates the categorization of security, safety, and privacy management into two \ngroups: Group 1: Physical layer security and safety and Group 2: Privacy, showing the structure "
+    }
+  ],
+  "metadata": {
+    "width": 1064,
+    "height": 519,
+    "size_bytes": 115982,
+    "format": "png"
+  }
+}

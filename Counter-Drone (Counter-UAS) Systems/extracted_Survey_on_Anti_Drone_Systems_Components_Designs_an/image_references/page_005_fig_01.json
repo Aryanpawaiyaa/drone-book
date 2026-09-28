@@ -1,0 +1,34 @@
+{
+  "original_page": 5,
+  "figure_number": "FIGURE 2",
+  "original_caption": "Visibility Optical camera • Low expense • Miniaturized • Identiﬁcation | • Highly affected by the weather • Vulnerable to obstacles",
+  "contextual_text": "This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/ This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2021.3065926, IEEE Access TABLE 1: Drone detection technologies Feature\nSensing devices\nAdvantages\nDisadvantages\nDetection range\nReferences Heat\nInfrared camera\n• Less affected by weather\n• Long range\n• Low accuracy\n1–15 km\n[22]–[27] RF signal\nRF receiver\n• Obstacle-free\n• Detect the drone operator\n• Unable to detect\n• Autonomous ﬂight\n3–50 km\n[12],\n[28]–[33] Physical\nobject Radar\n• Less affected by weather\n• Long range\n• High expense\n• Regulations on RF license\n• Vulnerable to obstacles 1–20 km\n[34]–[40] Visibility\nOptical camera\n• Low expense\n• Miniaturized\n• Identiﬁcation • Highly\naffected\nby\nthe\nweather\n• Vulnerable to obstacles 0.5–3 km\n[41]–[",
+  "section_title": "FIGURE 3: Distance and velocity determination by FMCW",
+  "image_filename": "page_005_fig_01.png",
+  "relative_path": "images/page_005_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "visibility",
+    "optical",
+    "camera",
+    "low",
+    "expense",
+    "miniaturized",
+    "highly",
+    "affected",
+    "weather",
+    "vulnerable"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "FIGURE 2: Frequency modulated continuous wave (FMCW)\nmechanism"
+    }
+  ],
+  "metadata": {
+    "width": 1950,
+    "height": 574,
+    "size_bytes": 57370,
+    "format": "png"
+  }
+}

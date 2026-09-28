@@ -1,0 +1,29 @@
+{
+  "original_page": 8,
+  "figure_number": "Figure 3",
+  "original_caption": "The goal is to ensure that a criminal organization does not conceal its actions. In fact, when there are several parties conducting an action, one of the necessary security measures is to make sure that the action cannot be rejected without the others’ knowledge [24]. | 4. Taxonomy of IoD",
+  "contextual_text": "Sensors 2021, 21, 5718\n8 of 24 3.2.2. Conﬁdentiality Conﬁdentiality or privacy of the wireless communication channel protects from the\nunauthorized disclosure of information [24]. Another signiﬁcant barrier to IoD implemen-\ntation is making data available, and controlling access to that data (data conﬁdentiality).\nFor instance, when a group of drones collects road trafﬁc data from several places, there is\na continuing problem in sharing this data safely and effectively [20]. 3.2.3. Availability Registered users should also be granted access to appropriate network services in\nconjunction with system denial-of-service attacks. Both the mechanism and the system are\ncapable of recognizing if a drone is engaged in combat and keeping track of the battle limit,\nwhich governs whether the ﬂight management system can pick up on a malfunctioning\ndrone and determine if the availability criteria are compromised [10]. 3.2.4. Integrity Integrity is essential to guarantee the trustworthiness of the in",
+  "section_title": "4. Taxonomy of IoD",
+  "image_filename": "page_008_fig_01.png",
+  "relative_path": "images/page_008_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "action",
+    "taxonomy",
+    "iod",
+    "goal",
+    "ensure",
+    "criminal",
+    "organization",
+    "does",
+    "not",
+    "conceal"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 2002,
+    "height": 1077,
+    "size_bytes": 160790,
+    "format": "png"
+  }
+}

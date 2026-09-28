@@ -1,0 +1,188 @@
+{
+  "source_pdf": "1711.10085v2.pdf",
+  "total_pages": 14,
+  "total_extracted_images": 17,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "I Introduction",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "II UAV Overview",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "II-A UAV Definition",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "II-B UAV Types",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "II-C UAV Categories",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "II-D UAV Topics",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "III Related Works on UAV Survey",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "III-A Quadcopter UAV",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "III-B Flapping-wing UAV",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "III-C Flight Video",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "III-D Flight Controller",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "IV Our Survey Methodology",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "IV-A Scope of This Survey",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "IV-B UAV Papers Identification",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "IV-C Survey Updates and Online Sharing",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "V Survey Results Overview",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "V-A Yearly Distribution of UAV Papers",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "V-B UAV Types Distribution",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "V-C UAV Topics Distribution",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "VI UAV Types",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "VI-A Quadcopters",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "VI-B Hexacopters",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "VI-C Fixed-wing UAVs",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "VI-D Flapping-wing UAVs",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "VI-E Single-rotor, Coaxial, and Ducted-fan UAVs",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "VI-F Octocopter, Glider, Blimp, and Ionic Flyer UAVs",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "VI-G Cyclocopter, Spincopter, Coanda, Parafoil, and Kite UAVs",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "VII Discussion and Final Remarks",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "Appendix A: Additional Survey Results",
+      "page": 10
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 10
+    },
+    {
+      "level": 1,
+      "title": "Biographies",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "Chun Fui Liew",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "Danielle DeLatte",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "Naoya Takeishi",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "Takehisa Yairi",
+      "page": 14
+    }
+  ],
+  "output_directory": "f:\\drone-book\\research papers\\extracted_1711_10085v2",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_page": 5,
+  "figure_number": "Figure 5-1",
+  "original_caption": "the performance is described by the actuators implemented and their respective positions. | VTOL UAVs are commonly developed and designed to consist of actuators that vary between 1, 3, 4, 6 and 8 rotors.",
+  "contextual_text": "the performance is described by the actuators implemented\nand their respective positions. VTOL UAVs are commonly developed and designed to\nconsist of actuators that vary between 1, 3, 4, 6 and 8 rotors. Fig. 3 Various UAV\narchitectures that have been\nsuccessfully implemented, (a)\nTilting propeller [50], (b) Ducted-\nFan UAV [51], (c) AquaMAV\n[35], (d) Tilt-wing [34], (e)\nMono-Copter [52], (f) Foldable &\nSelf deploying drone [53], (g)\nFlapping wing UAV [54], (h)\nControlled Insect [55], (i) Solar\nPowered UAV [56] Table 2\nAdvantages and disadvantages of various types of UAVs Category\nAdvantage\nDisadvantage Tilt Propeller [65, 66] -Increased stability.\n-Carries both advantages of HTOL and VTOL.\n-Complete body tilting isn’t required.\n-Hence, it is more suitable for flying within wrecked buildings. -Requires more actuators for tilting transition.\n-Mathematical modelling becomes more complex.\n-Consumes more energy during transition. Ducted-Fan [51] -Capable of achieving superior speeds (even t",
+  "section_title": "Multi-Rotor Aircraft (VTOL) Structures",
+  "image_filename": "page_005_fig_01.jpeg",
+  "relative_path": "images/page_005_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "actuators",
+    "vtol",
+    "performance",
+    "described",
+    "implemented",
+    "their",
+    "respective",
+    "positions",
+    "uavs",
+    "commonly"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1503,
+    "height": 992,
+    "size_bytes": 146724,
+    "format": "jpeg"
+  }
+}

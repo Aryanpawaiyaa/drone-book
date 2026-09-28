@@ -1,0 +1,34 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 5",
+  "original_caption": "3. Receiver is static/ mobile. The simulated GPS signals were designed to simulate static and dynamic locations in and around Indian Institute of Technology, Bombay (Mumbai), Maharashtra, India. The ex- periments were conducted in the outskirts of Madurai, Tamil Nadu, India. The physical crow fly distance between the two locations is nearly 1200 kms. Fig. 5 shows the geographical location of the original own location (left), spoofed own lo- cation (center), and the air travel duration between the two locations, which is more than 2 hrs and 30 mins (right). | Figure 5. Screenshots of original own location (left), spoofed own location (center), air travel duration between the two (right).",
+  "contextual_text": "Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers MSWiM ’22, Montreal, Canada, Table 2. Models of Android Mobiles, Chipsets and GNSS Capabilities Sr. No.@\nBuild\nModel\nChipset\nGNSS Capability S1\nRealme 3\nRMX1825\nMediatek Helio P70\nG+L+A\nS2\nOppo\nF7\nMediatek MT6771(Helio P60)\nG+L+A\nS3\nASUS\nMax Pro M1\nQualcomm SDM 636 Snapdragon\nG+L+B+A\nS4\nPOCO\nM2\nMediatek MT6769V/CU Helio G80\nG+L+B+A\nG= GPS, L= GLONASS, B= BeiDou, A= Assisted GPS\n@While assessing the results, we will be referring to different Android devices with their sr. nos., i.e., S1, S2, S3\nand S4. 3. Receiver is static/ mobile.\nThe simulated GPS signals were designed to simulate static\nand dynamic locations in and around Indian Institute of\nTechnology, Bombay (Mumbai), Maharashtra, India. The ex-\nperiments were conducted in the outskirts of Madurai, Tamil\nNadu, India. The physical crow fly distance between the two\nlocations is nearly 1200 kms. Fig. 5 shows the geographical\nlocation of the original own",
+  "section_title": "4.2 Experimental Setup",
+  "image_filename": "page_005_fig_01.png",
+  "relative_path": "images/page_005_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "location",
+    "own",
+    "locations",
+    "between",
+    "two",
+    "static",
+    "india",
+    "original",
+    "left",
+    "spoofed"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "3. Receiver is static/ mobile.\nThe simulated GPS signals were designed to simulate static\nand dynamic locations in and around Indian Institute of\nTechnology, Bombay (Mumbai), Maharashtra, India. The e"
+    }
+  ],
+  "metadata": {
+    "width": 1028,
+    "height": 775,
+    "size_bytes": 911905,
+    "format": "png"
+  }
+}

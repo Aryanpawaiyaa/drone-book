@@ -1,0 +1,58 @@
+{
+  "original_page": 8,
+  "figure_number": "Fig. 9",
+  "original_caption": "Fig. 9: Prototypes of ﬁxed-wing UAVs (in alphabetical order: [22], [53], [54], [60], [103]–[109]) appear in the reviewed papers. See text for details. | Fig. 10: Prototypes of ﬂapping-wing UAVs (in alphabetical order: [59], [110]–[115]) appear in the reviewed papers. See text for details.",
+  "contextual_text": "8 Fig. 9: Prototypes of ﬁxed-wing UAVs (in alphabetical order: [22], [53], [54], [60], [103]–[109]) appear in the reviewed papers.\nSee text for details. Fig. 10: Prototypes of ﬂapping-wing UAVs (in alphabetical order: [59], [110]–[115]) appear in the reviewed papers. See text\nfor details. develop a ﬂapping-wing UAV—BOLT that is capable of ﬂying\nand walking on the ground like a bipedal robot (Fig. 10 (c)). Inspired by birds, Paranjape et al. [112] design a ﬂapping-\nwing UAV that is able to perch naturally on a chair or human\nhand (Fig. 10 (d)). One of the unique features of their UAV\nis to control the ﬂight path and heading angles by using wing\narticulation. on the other hand, Lamers et al. [113] develop a\nﬂapping-wing UAV that has a mini monocular camera system\n(Fig. 10 (e)). By combining the camera and a proximity\nsensor, their UAV can achieve obstacle detection by applying\na machine learning method. Flapping-wing UAVs with insect shapes are also common.\nMa et al. [114] fabricate an b",
+  "section_title": "VI-E Single-rotor, Coaxial, and Ducted-fan UAVs",
+  "image_filename": "page_008_fig_02.jpeg",
+  "relative_path": "images/page_008_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "uavs",
+    "prototypes",
+    "wing",
+    "alphabetical",
+    "order",
+    "appear",
+    "reviewed",
+    "papers",
+    "see",
+    "text"
+  ],
+  "cross_references": [
+    {
+      "page": 7,
+      "snippet": "A ﬁxed-wing UAV (Fig. 9 (a)–(k)) [22], [53], [54], [60],\n[103]–[109], also known as airplane, aeroplane, or simply a\nplane, is one of the most common aircrafts in the aviation\nhistory. Compared to a m"
+    },
+    {
+      "page": 7,
+      "snippet": "Figure 9 (a)–(c) show three typical ﬁxed-wing UAVs.\nBryson and Sukkarieh [103] demonstrate a mapping appli-\ncation with their ﬁxed-wing UAV by integrating informa-\ntion from an IMU sensor, a GPS senso"
+    },
+    {
+      "page": 7,
+      "snippet": "merits of both types of UAVs, where they present their design,\nmodeling, and control of a UAV that could vertically take-off\nand land (VTOL) like a multi-rotor UAV and perform cruise\nﬂight like a ﬁxed"
+    },
+    {
+      "page": 7,
+      "snippet": "Researchers have also explored topics on ﬁxed-wing UAVs\nwith transformable shapes. Daler et al. [54] build a ﬁxed-wing\nUAV that could ﬂy in the air and walk on the ground by\nrotating its wings (Fig. 9"
+    },
+    {
+      "page": 7,
+      "snippet": "Alexis and Tzes [108] present a hybrid UAV, where the\nUAV could perform cruise ﬂight like a ﬁxed-wing UAV and\nperform hovering ﬂight like a bicopter (Fig. 9 (h)). Their key\ndesign lies on the hybrid w"
+    },
+    {
+      "page": 7,
+      "snippet": "Several palm-sized ﬁxed-wing UAVs have also been de-\nsigned by researchers. Zufferey and Floreano [109] design a\nsmall ﬁxed-wing UAV that has only 30 grams and capable of\nnavigating autonomously at an"
+    },
+    {
+      "page": 8,
+      "snippet": "Fig. 9: Prototypes of ﬁxed-wing UAVs (in alphabetical order: [22], [53], [54], [60], [103]–[109]) appear in the reviewed papers.\nSee text for details."
+    }
+  ],
+  "metadata": {
+    "width": 3100,
+    "height": 335,
+    "size_bytes": 157839,
+    "format": "jpeg"
+  }
+}

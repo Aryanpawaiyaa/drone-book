@@ -1,0 +1,29 @@
+{
+  "original_page": 22,
+  "figure_number": "Figure 12",
+  "original_caption": "the 3D model can be reasonably reduced to a 2D planar case by neglecting azimuthal effects [125], as illustrated in Figure 12. Defining the drone’s CoG in polar coordinates qp = {r ∈R > 0, β ∈[0, π]}, the EoM are given as [99–101,125] |    ",
+  "contextual_text": "Drones 2025, 9, 425\n22 of 48 the 3D model can be reasonably reduced to a 2D planar case by neglecting azimuthal\neffects [125], as illustrated in Figure 12. Defining the drone’s CoG in polar coordinates\nqp = {r ∈R > 0, β ∈[0, π]}, the EoM are given as [99–101,125] \n\n\n \n\n m ..r\n=\nmr .\nβ 2 −mgsβ + FTsβ+θ −T mr2 .. β\n=\n−2mr .r .\nβ −mgrcβ + FTrcβ+θ\nI ..\nθ\n=\nτθ (41) Figure 12. Unified Model Representation: (a) TMS containing the automated winch model, defined\nby DC motor angular velocity ωm, overall winch torque τaw, and electric current i; (b) Tethered\nconnection model, defined by mechanical tension T and elevation angle β; (c) Tethered drone model,\ndefined by thrust force FT and pitching torque τθ. Adding a controllable winch, where cable length is regulated via the motor torque τaw\nand angular speed ωm, leads to a fully coupled model [10,11]: \n\n \n Iaw .ωm\nrc\n=\nτaw −Bf ωm −rcT mr2 .. β\n=\n−2mr .r .\nβ −mgrcβ + FTrcβ+θ\nI ..\nθ\n=\nτθ ,\n(42) subject to the taut cable constraint T(t) =",
+  "section_title": "B · FB",
+  "image_filename": "page_022_fig_01.jpeg",
+  "relative_path": "images/page_022_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "model",
+    "reasonably",
+    "reduced",
+    "planar",
+    "case",
+    "neglecting",
+    "azimuthal",
+    "effects",
+    "illustrated",
+    "defining"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1208,
+    "height": 746,
+    "size_bytes": 107509,
+    "format": "jpeg"
+  }
+}

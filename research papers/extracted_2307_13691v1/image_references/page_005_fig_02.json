@@ -1,0 +1,34 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 2",
+  "original_caption": "Antennas 22,150 Aircrafe Detection 5,6 Remote Sensing 3,983 | AI 5,789 IoT 1,720 Aircraft control 2,504",
+  "contextual_text": "5 0 1 2 3 4\nAntennas Aircrafe Detection Remote sensing AI IoT Aircraft control Antennas 22,150\nAircrafe Detection 5,6\nRemote Sensing 3,983 AI 5,789\nIoT 1,720\nAircraft control 2,504 Fig. 2: View in UAV Research Direction and their Inner-Interaction, recent three years TABLE II: Comparison between the various communication technologies for FANETs [61], [62]. Technology\nStandard\nData Rate\nRange\nWiFi [63]–[67]\n802.11 [13]\nUp to 2 Mbps\nUp to 100m\nLCY<5ms| DM:Y |\n802.11a [64]\nUp to 54 Mbps\nUp to 120m\nUL NT:WLAN\n802.11b [63]\nUp to 11 Mbps\nUp to 140m\n802.11n [65]\nUp to 600 Mbps\nUp to 250m\n802.11g [66]\nUp to 54 Mbps\nUp to 140m\n802.11ac [67]\nUp to 866.7Mbps\nUp to 120m\nZigBee [68], [69]\n802.15.4\nUp to 25kbps\nUp to 100m\nLCY<15ms|DM:Y|UL\nblacktooth V5 [70]\n802.15.1\nUp to 2Mbps\nUp to 200m\nLCY<3ms|DM:Y|UL\nLoRaWAN [71]\nIEEE\nUp to 50 kbps\nUp to 15km\nDCD|DM:Y|UL\n802.15.4g\nNT:WPAN\nSigfox [72]\n-\nUp to 100 bps\nUp to 30km\nLCY about 2s|DM:Y|UL\nNB-IoT [73]\n-\nUp to 250 kbps\nUp to 35km\nLCY:1.6 to 10s|DM:Y|L\nCel",
+  "section_title": "TABLE II: Comparison between the various communication technologies for FANETs [61], [62].",
+  "image_filename": "page_005_fig_02.png",
+  "relative_path": "images/page_005_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "antennas",
+    "aircrafe",
+    "detection",
+    "remote",
+    "sensing",
+    "iot",
+    "aircraft",
+    "control",
+    "comparison",
+    "between"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "Fig. 2: View in UAV Research Direction and their Inner-Interaction, recent three years"
+    }
+  ],
+  "metadata": {
+    "width": 779,
+    "height": 992,
+    "size_bytes": 147367,
+    "format": "png"
+  }
+}

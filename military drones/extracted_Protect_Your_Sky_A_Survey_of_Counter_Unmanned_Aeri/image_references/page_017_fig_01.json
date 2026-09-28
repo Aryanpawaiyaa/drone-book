@@ -1,0 +1,29 @@
+{
+  "original_page": 17,
+  "figure_number": "Figure 17-1",
+  "original_caption": "mUAV, the threat level must be updated according to the tracking result. (v) Decision on Neutralization: C2 systems can make | decisions to neutralize UAVs from the updated threat level. Neutralization methods include controlling, warning, disrupting, disabling, and destroying [187]. Following the regulations of the authorities and accord- ing to the neutralization strategy, the neutralization method is determined by the C2 system. To increase the effectiveness, multiple mitigation systems with various neutralization methods can be operated simultaneously.",
+  "contextual_text": "H. Kang et al.: Protect Your Sky: A Survey of Counter UAV Systems mUAV, the threat level must be updated according to the\ntracking result.\n(v) Decision on Neutralization: C2 systems can make decisions to neutralize UAVs from the updated threat\nlevel.\nNeutralization\nmethods\ninclude\ncontrolling,\nwarning, disrupting, disabling, and destroying [187].\nFollowing the regulations of the authorities and accord-\ning to the neutralization strategy, the neutralization\nmethod is determined by the C2 system. To increase\nthe effectiveness, multiple mitigation systems with\nvarious\nneutralization\nmethods\ncan\nbe\noperated\nsimultaneously. 2) COMPUTATION\nThroughout the integrated CUS procedures, high computing\npower is required to improve the accuracy and effectiveness\nof detection/identiﬁcation, localization, tracking, and neu-\ntralization. Outstanding computing performance is required\nto implement state-of-the-art data fusion schemes, detection-\nlocalization-tracking algorithms, and for orchestral multi ",
+  "section_title": "TABLE 5. Regulations on Commercial UAVs in 20 countries and Violation Consequences [40]–[44].",
+  "image_filename": "page_017_fig_01.png",
+  "relative_path": "images/page_017_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "neutralization",
+    "threat",
+    "level",
+    "updated",
+    "uavs",
+    "methods",
+    "regulations",
+    "muav",
+    "must",
+    "according"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 377,
+    "height": 64,
+    "size_bytes": 3399,
+    "format": "png"
+  }
+}

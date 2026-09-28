@@ -1,0 +1,34 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 3",
+  "original_caption": "a National Marine Engineering Association (NMEA) GGA stream of data. We utilised Google Earth to define a route at the desired location, exported the Keyhole Markup Language (KML) file onto the SatGen software [24] (Labsat provides a trial version of its SatGen software which can generate a L1 Coarse Acquisition (C/ A) signal) and generated the NMEA GGA data stream. Fig. 3 is a pictorial representation of how the spoofed GPS signal is generated. | 3.2 Tx of Generated Spoofed Signal",
+  "contextual_text": "MSWiM ’22, Montreal, Canada, M Surendra Kumar, et al. a National Marine Engineering Association (NMEA) GGA\nstream of data. We utilised Google Earth to define a route at\nthe desired location, exported the Keyhole Markup Language\n(KML) file onto the SatGen software [24] (Labsat provides a\ntrial version of its SatGen software which can generate a L1\nCoarse Acquisition (C/ A) signal) and generated the NMEA\nGGA data stream. Fig. 3 is a pictorial representation of how\nthe spoofed GPS signal is generated. Figure 3. The image shows how generation of various\nspoofed GPS signals (static or dynamic) has been carried\nout. 3.2\nTx of Generated Spoofed Signal The generated GPS baseband data streams are converted to\nRF using a Software Defined Radio (SDR). We have utilized\nthe HackRF One SDR (the lowest price of HackRF One SDR\nin comparison to other available SDRs was the reason for\nchoosing it). For Tx of the generated RF signal, a compatible\n700-5800 MHz directional patch array antenna was utilised.",
+  "section_title": "3.2 Tx of Generated Spoofed Signal",
+  "image_filename": "page_004_fig_02.png",
+  "relative_path": "images/page_004_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "signal",
+    "generated",
+    "spoofed",
+    "nmea",
+    "gga",
+    "stream",
+    "data",
+    "satgen",
+    "software",
+    "national"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "a National Marine Engineering Association (NMEA) GGA\nstream of data. We utilised Google Earth to define a route at\nthe desired location, exported the Keyhole Markup Language\n(KML) file onto the SatGen"
+    }
+  ],
+  "metadata": {
+    "width": 982,
+    "height": 742,
+    "size_bytes": 451110,
+    "format": "png"
+  }
+}

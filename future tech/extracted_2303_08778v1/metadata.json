@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2303.08778v1.pdf",
+  "total_pages": 18,
+  "total_extracted_images": 8,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "1 Introduction",
+      "page": 1
+    }
+  ],
+  "output_directory": "f:\\drone-book\\future tech\\extracted_2303_08778v1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

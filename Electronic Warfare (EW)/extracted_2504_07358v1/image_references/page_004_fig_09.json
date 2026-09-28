@@ -1,0 +1,26 @@
+{
+  "original_page": 4,
+  "figure_number": "Figure 4-9",
+  "original_caption": "A. Transponders Overview | Human Operator",
+  "contextual_text": "4 do not comprehensively explore the role of transponders in\nsecurity threats, the distinctions between security challenges\nin manned aircraft and UAVs, or UAV-to-UAV coordination\nattacks. The works in [42], [43] are primarily structured around\ncryptographic methods for securing communications and de-\nveloping security protocols. Therefore, this study provides a\nmore extensive and holistic discussion of UAV-to-UAV coor-\ndination attacks including those involving transponders UAV-\nto-command center coordination attacks, UAV functionality\nattacks, and their associated countermeasures and defensive\naids. Additionally, it presents an analysis of current challenges\nand outlines future research directions in the domain of UAV\nelectronic warfare. Structure: The rest of the paper is composed of eight sec-\ntions. Section II presents UAV-to-UAV coordination attacks.\nSection III discusses UAV-to-command center coordination at-\ntacks. Section IV summarizes UAV functionality attacks. Sec-\ntion V di",
+  "section_title": "UAV Traffic Management",
+  "image_filename": "page_004_fig_09.png",
+  "relative_path": "images/page_004_fig_09.png",
+  "ocr_text": "",
+  "keywords": [
+    "transponders",
+    "overview",
+    "human",
+    "operator",
+    "uav",
+    "traffic",
+    "management"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 391,
+    "height": 352,
+    "size_bytes": 5650,
+    "format": "png"
+  }
+}

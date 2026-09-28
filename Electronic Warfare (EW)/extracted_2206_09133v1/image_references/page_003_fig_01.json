@@ -1,0 +1,29 @@
+{
+  "original_page": 3,
+  "figure_number": "Figure 2",
+  "original_caption": "[16] SDR (BladeRF X40)+Open • Static and dynamic spoofing done against static drone Source Simulator (OSS) • Experiment carried out indoor [15] SDR (USRP B210)+ • Target’s position required Replayed received signal • Target drone in loiter or hovering mode [7] LABSAT3 • Experiment carried out indoor GPS simulator • Drone in static position [2] SDR (BladeRF X40) • Experiment carried out indoor +OSS • Drone landed or hovering [39] SDR (HackRF One)+OSS • Attacks carried out against hovering or landed drone [33] Aeroflex GPSG • Experiment carried out under lab conditions -1000 GPS simulator • In absence of live-sky signals [32] SDR (BladeRF X40)+OSS • Attacks carried out against hovering drone | Figure 2. GPS spoofing attack plan designed considering generation, transmission (Tx), targets of attack, and method to test the results.",
+  "contextual_text": "Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers MSWiM ’22, Montreal, Canada, Table 1. System and conditions of GPS spoofing Reference\nSystem\nConditions [16]\nSDR (BladeRF X40)+Open\n• Static and dynamic spoofing done against static drone\nSource Simulator (OSS)\n• Experiment carried out indoor\n[15]\nSDR (USRP B210)+\n• Target’s position required\nReplayed received signal\n• Target drone in loiter or hovering mode\n[7]\nLABSAT3\n• Experiment carried out indoor\nGPS simulator\n• Drone in static position\n[2]\nSDR (BladeRF X40)\n• Experiment carried out indoor\n+OSS\n• Drone landed or hovering\n[39]\nSDR (HackRF One)+OSS\n• Attacks carried out against hovering or landed drone\n[33]\nAeroflex GPSG\n• Experiment carried out under lab conditions\n-1000 GPS simulator\n• In absence of live-sky signals\n[32]\nSDR (BladeRF X40)+OSS\n• Attacks carried out against hovering drone did not limit their review to GPS spoofing attacks against\naerial platforms, but also included non aerial platforms",
+  "section_title": "3 GPS Spoofing Attack Plan",
+  "image_filename": "page_003_fig_01.png",
+  "relative_path": "images/page_003_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "drone",
+    "carried",
+    "out",
+    "sdr",
+    "oss",
+    "experiment",
+    "hovering",
+    "gps",
+    "bladerf",
+    "static"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 948,
+    "height": 354,
+    "size_bytes": 30403,
+    "format": "png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_page": 13,
+  "figure_number": "Figure 13-1",
+  "original_caption": "Vol.:(0123456789) | Monitoring sea turtles [149], black bears [150], big land mammals (such as elephants) [151], marine mammals (such  as dugongs [152]), and birds (such as flocks of snow geese [153]), as well as providing assistance for anti-poaching activi- ties for rhinos, are all examples of ways in which UAVs may be used for governing wildlife [154, 155]. The use of several  datasets is being employed by researchers for the purpose of wildlife monitoring, counting, and surveillance models.",
+  "contextual_text": "Vol.:(0123456789) Discover Artificial Intelligence            (2024) 4:97  \n| https://doi.org/10.1007/s44163-024-00209-1\t\nReview CNN, ANN, LSTM, and Naive Bias are used extensively for image segmentation [134]. This transforms 2D photos into 3D \nmodels with high resolution for usage in GIS applications [135]. The advancement of generative AI in conjunction with \nUAVs transforms agriculture by enabling precision farming techniques. It improves the monitoring of crops, forecasts agricultural yields, optimizes the use of resources, and promotes land \nmanagement [37]. Producing authentic data educates models for precise disease identification and weed management, \nresulting in effective, environmentally friendly agricultural methods and enhanced crop yield with minimum ecological \nconsequences [141]. Green computing is establishing a name for itself in AI-based UAV agricultural surveillance by reduc-\ning environmental effects and maximizing efficiency in resource use. Utilizing UAV hardwar",
+  "section_title": "4.4  \u0007Wildlife monitoring with UAV",
+  "image_filename": "page_013_fig_01.jpeg",
+  "relative_path": "images/page_013_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "monitoring",
+    "such",
+    "wildlife",
+    "mammals",
+    "vol",
+    "sea",
+    "turtles",
+    "black",
+    "bears",
+    "big"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1500,
+    "height": 676,
+    "size_bytes": 57289,
+    "format": "jpeg"
+  }
+}

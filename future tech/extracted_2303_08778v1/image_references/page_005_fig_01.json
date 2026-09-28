@@ -1,0 +1,38 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 3",
+  "original_caption": "Research Article 5 | Fig. 3. Overview of the control pipeline for simulation and real-world tests. During training in simulation, we construct visual observable observations from ground-truth using the continuous homography transform. The control decoding takes these observ- ables together with roll and pitch and a setpoint to output commands, which control the drone dynamics. We train the controller using evolution based on a ﬁtness signal that quantiﬁes how well the controller can follow setpoints for horizontal and vertical ﬂight. In the real world, we receive corner ﬂows from the vision network, transform these to visual observables and control com- mands in a single matrix multiplication in order to send low-level control commands thrust and attitude to the autopilot.",
+  "contextual_text": "Research Article\n5 Fig. 3. Overview of the control pipeline for simulation and real-world tests. During training in simulation, we construct visual\nobservable observations from ground-truth using the continuous homography transform. The control decoding takes these observ-\nables together with roll and pitch and a setpoint to output commands, which control the drone dynamics. We train the controller\nusing evolution based on a ﬁtness signal that quantiﬁes how well the controller can follow setpoints for horizontal and vertical\nﬂight. In the real world, we receive corner ﬂows from the vision network, transform these to visual observables and control com-\nmands in a single matrix multiplication in order to send low-level control commands thrust and attitude to the autopilot. We train our vision SNN with the self-supervised contrast\nmaximization framework from [43] and a quantization-aware\ntraining routine that simulates the neuron and synapse models\nin the target neuromorphic hardware. Onc",
+  "section_title": "RESULTS",
+  "image_filename": "page_005_fig_01.png",
+  "relative_path": "images/page_005_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "control",
+    "simulation",
+    "real",
+    "world",
+    "visual",
+    "transform",
+    "these",
+    "commands",
+    "controller",
+    "research"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "On the other hand, the control part of the network, consist-\ning of a linear mapping from the motion of the four corners\nto thrust and attitude control commands, is trained in a drone\nsimulator using "
+    },
+    {
+      "page": 5,
+      "snippet": "Fig. 3. Overview of the control pipeline for simulation and real-world tests. During training in simulation, we construct visual\nobservable observations from ground-truth using the continuous homograp"
+    }
+  ],
+  "metadata": {
+    "width": 6755,
+    "height": 3732,
+    "size_bytes": 3127484,
+    "format": "png"
+  }
+}

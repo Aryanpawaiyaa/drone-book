@@ -1,0 +1,29 @@
+{
+  "original_page": 9,
+  "figure_number": "Figure 16",
+  "original_caption": "Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers | MSWiM ’22, Montreal, Canada,",
+  "contextual_text": "Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers MSWiM ’22, Montreal, Canada, Figure 16. Screenshots taken on drone controller Android\ndevice during indoor spoofing: top left #1: GPSTest App\nshowing receipt of spoofed signals, top center #2: GPSTest\nApp map showing controller’s location, top right #3: Google\nMaps App showing controller’s location, bottom #4: DJI GO\n4 App showing controller’s location. Figure 17. Screenshots taken on drone controller with DJI\nGo 4 App running. Top: drone own location; Bottom: con-\ntroller’s and drone’s locations. not have proprietary permission, we could not find which\nparticular countermeasure has been implemented in this\ndrone. Our results show that a vulnerability which these\ndrones (DJI made) once had (shown in many research papers\ntill late 2020) has been patched up. 6\nConclusions and Future Work\nOur results show that an asynchronous GPS spoofing at-\ntack is effective even under live sky signals against GNSS\nreceive",
+  "section_title": "6 Conclusions and Future Work",
+  "image_filename": "page_009_fig_01.png",
+  "relative_path": "images/page_009_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "efficacy",
+    "asynchronous",
+    "gps",
+    "spoofing",
+    "against",
+    "high",
+    "volume",
+    "consumer",
+    "gnss",
+    "receivers"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 982,
+    "height": 742,
+    "size_bytes": 653865,
+    "format": "png"
+  }
+}

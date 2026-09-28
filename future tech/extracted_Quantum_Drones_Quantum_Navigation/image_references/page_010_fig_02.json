@@ -1,0 +1,38 @@
+{
+  "original_page": 10,
+  "figure_number": "Fig. 7",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 7. Proposed LAQDN for short-distances communication.",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 7. Proposed LAQDN for short-distances communication. Fig. 8. Proposed HAQDN and LAQDN for medium-distance communication. or group of buildings, private networks (e.g. shipping and deliv-\nery), healthcare, agriculture, searching and rescue operations, etc. \nLikewise, IoQDs-based long-distance communication and its archi-\ntecture will be useful for applications like secure key or message \nexchange between continents, shipping and delivery across dif-\nferent geographical regions, geographical mapping, secure military \npurposes, and many more. Different architectures are explained as \nfollows. 3.3.1. LAQDN architecture\nRecently, quantum drones have been used to enable short-\ndistance ground-to-ground link establishment. Here, the quantum \ndrone is considered an airborne node. Presently, this node is capa-\nble of maintaining two air-to-ground links for a very short distance \n(100 meters) ",
+  "section_title": "3.3.1 LAQDN architecture",
+  "image_filename": "page_010_fig_02.jpeg",
+  "relative_path": "images/page_010_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "laqdn",
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular",
+    "communications",
+    "proposed",
+    "short"
+  ],
+  "cross_references": [
+    {
+      "page": 10,
+      "snippet": "Fig. 7. Proposed LAQDN for short-distances communication."
+    },
+    {
+      "page": 10,
+      "snippet": "3.3.1. LAQDN architecture\nRecently, quantum drones have been used to enable short-\ndistance ground-to-ground link establishment. Here, the quantum \ndrone is considered an airborne node. Presently, thi"
+    }
+  ],
+  "metadata": {
+    "width": 1561,
+    "height": 850,
+    "size_bytes": 198373,
+    "format": "jpeg"
+  }
+}

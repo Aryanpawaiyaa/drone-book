@@ -1,0 +1,29 @@
+{
+  "original_page": 11,
+  "figure_number": "Figure 9",
+  "original_caption": "In [94, 95], our previous work was set on applying the dynamics into Simulink and analysing the performance with- out using any control techniques. The results obtained were used to verify the correctness of a Quadrotor helicopter model. Figure 9 depicts the designed dynamic system on Simulink which has been separated into five regions for ease of under- standing. The region highlighted in orange considers the ac- tuators as well as the propellers selected for the study, where the output of the thrust generated is followed through to the | mixing algorithm. This is linked to the control input of the equations of motion within the region highlighted in red. The Quadrotor parameters such as mass, body inertia, gravitational acceleration etc. are all stored within the system variable block highlighted in green, where the selection of these parametric values correspond to the equations of motion. Once the con- trol inputs are defined by the user, the integration process where the actual states of the vehicle can be viewed with respect to eq. (1) as a set of response curves.",
+  "contextual_text": "In [94, 95], our previous work was set on applying the\ndynamics into Simulink and analysing the performance with-\nout using any control techniques. The results obtained were\nused to verify the correctness of a Quadrotor helicopter model.\nFigure 9 depicts the designed dynamic system on Simulink\nwhich has been separated into five regions for ease of under-\nstanding. The region highlighted in orange considers the ac-\ntuators as well as the propellers selected for the study, where\nthe output of the thrust generated is followed through to the mixing algorithm. This is linked to the control input of the\nequations of motion within the region highlighted in red. The\nQuadrotor parameters such as mass, body inertia, gravitational\nacceleration etc. are all stored within the system variable block\nhighlighted in green, where the selection of these parametric\nvalues correspond to the equations of motion. Once the con-\ntrol inputs are defined by the user, the integration process\nwhere the actual stat",
+  "section_title": "5.2 Dynamic Simulation",
+  "image_filename": "page_011_fig_02.jpeg",
+  "relative_path": "images/page_011_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "highlighted",
+    "where",
+    "set",
+    "into",
+    "simulink",
+    "control",
+    "quadrotor",
+    "dynamic",
+    "region",
+    "equations"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 2035,
+    "height": 1715,
+    "size_bytes": 265970,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 1",
+  "original_caption": "Fig. 1: Overall Structure of the Survey. | TABLE I: COMPARISON OF RELATED WORK ON UAV SURVEYS IN TERMS OF APPLICATIONS Reference Providing wireless Remote sensing Real-Time Search and Delivery of Surveillance Precision Infrastructure coverage monitoring Rescue goods agriculture inspection [1] ✓ ✓ ✓ ✓ [2] ✓ ✓ [3] ✓ ✓ ✓ ✓ ✓ [4] ✓ [5] ✓ [6] ✓ This work ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓",
+  "contextual_text": "2 Fig. 1: Overall Structure of the Survey. TABLE I: COMPARISON OF RELATED WORK ON UAV SURVEYS IN TERMS OF APPLICATIONS\nReference\nProviding wireless\nRemote sensing\nReal-Time\nSearch and\nDelivery of\nSurveillance\nPrecision\nInfrastructure\ncoverage\nmonitoring\nRescue\ngoods\nagriculture\ninspection\n[1]\n✓\n✓\n✓\n✓\n[2]\n✓\n✓\n[3]\n✓\n✓\n✓\n✓\n✓\n[4]\n✓\n[5]\n✓\n[6]\n✓\nThis work\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓ TABLE II: COMPARISON OF RELATED WORK ON UAV SURVEYS IN TERMS OF NEW TECHNOLOGY TRENDS Reference\nCollision\nmmWave\nFree space\nCloud\nMachine\nNFV\nSDN\nImage\navoidance\noptical\ncomputing\nlearning\nprocessing\n[1]\n✓\n✓\n[2]\n✓\n✓\n[3]\n✓\n✓\n[4]\n✓\n✓\n✓\n[5]\n✓\n[6]\nThis work\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓ avoidance, 9) coordination, 10) environmental monitoring.\nHowever, this survey does not consider the challenges facing\nUAVs in these applications and the potential role of new\ntechnologies in UAV uses. The authors of [3] provide a\ncomprehensive survey on UAVs, highlighting their potential\nuse in the delivery of Internet of Things (IoT) services from\nthe sky. T",
+  "section_title": "TABLE II: COMPARISON OF RELATED WORK ON UAV SURVEYS IN TERMS OF NEW TECHNOLOGY TRENDS",
+  "image_filename": "page_002_fig_01.png",
+  "relative_path": "images/page_002_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "work",
+    "comparison",
+    "related",
+    "uav",
+    "surveys",
+    "terms",
+    "overall",
+    "structure",
+    "survey",
+    "applications"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "Fig. 1: Overall Structure of the Survey."
+    },
+    {
+      "page": 8,
+      "snippet": "Fig. 10: Block Diagram of SAR System Using UAVs with Machine Learning Technology."
+    },
+    {
+      "page": 10,
+      "snippet": "Fig. 11: Active Vs. Passive Remote Sensing."
+    },
+    {
+      "page": 11,
+      "snippet": "Fig. 12: Classiﬁcation of UAV Aerial Sensing Systems."
+    },
+    {
+      "page": 11,
+      "snippet": "Fig. 13: Image Processing for a UAV Remote Sensing Image"
+    },
+    {
+      "page": 12,
+      "snippet": "Fig. 14: Machine Learning in UAV Remote Sensing."
+    },
+    {
+      "page": 14,
+      "snippet": "Fig. 15: The Deployment of UAVs for Construction and Infrastructure Inspection."
+    },
+    {
+      "page": 15,
+      "snippet": "Fig. 16: Illustration of How CNNs Work [58]."
+    },
+    {
+      "page": 15,
+      "snippet": "Fig. 17: Proposed Approach for Crack Detection Algorithm [91]."
+    },
+    {
+      "page": 18,
+      "snippet": "Fig. 18: The Deployment of UAVs in Precision Agriculture Applications."
+    },
+    {
+      "page": 18,
+      "snippet": "Fig. 19: Steps of Image Processing and Analysis for Identifying Rangeland VI [141]."
+    }
+  ],
+  "metadata": {
+    "width": 1280,
+    "height": 660,
+    "size_bytes": 129869,
+    "format": "png"
+  }
+}

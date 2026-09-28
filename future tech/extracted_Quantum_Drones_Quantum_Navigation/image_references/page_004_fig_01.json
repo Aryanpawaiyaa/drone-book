@@ -1,0 +1,106 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 1",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 1. Applications of IoQDs.",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 2.2. Data collection and analysis The primary data source was obtained through a systematic \nliterature review [132]. Concerning the research objectives, we per-\nformed an integrative review to synthesize the accumulated state \nof knowledge on QD, IoQDs, and CQS. Integrative reviews estab-\nlish discussions and summarize a determined theme from various \npublications in an integrated manner, leading to new perspectives. \nThis approach is indicated for exploring novel topics in scientiﬁc \nliterature. The search for relevant publications included databases, \nkeywords, and eligibility/coding criteria. Complementarily, we also \nadopted the snowball process [133] to identify other relevant \nworks and cross-references. To deﬁne the keywords and Boolean \noperators, a search process dedicated to ﬁnding the main terms \nassociated with “quantum drones,” “Internet of Quantum Drones,” \n“quantum satelli",
+  "section_title": "3. Internet of Quantum Drones and satellites",
+  "image_filename": "page_004_fig_01.png",
+  "relative_path": "images/page_004_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular",
+    "communications",
+    "applications",
+    "ioqds",
+    "internet"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "In several studies [98,104,105], IoQDs were used to exchange \nconﬁdential messages across the continents. These experimenta-\ntions were conducted to transmit data over long-distance and with \nlow-powe"
+    },
+    {
+      "page": 4,
+      "snippet": "Fig. 1. Applications of IoQDs."
+    },
+    {
+      "page": 11,
+      "snippet": "Fig. 10. Proposed planet-to-planet connectivity using HA."
+    },
+    {
+      "page": 11,
+      "snippet": "In this architecture, IoQDs and IoQSs will be required to make \nthe proposed valuable architecture for real-time applications. In \naddition, this architecture can be extended to an IoPT, as shown in \n"
+    },
+    {
+      "page": 13,
+      "snippet": "Wehner et al. [144] discussed that the internet’s global net-\nwork of immediate communication has radically changed our way \nof life. Even if two places are thousands of miles apart, quan-\ntum interne"
+    },
+    {
+      "page": 14,
+      "snippet": "Fig. 11. Essential drone and satellite-based quantum hardware elements and proposed connectivity for ground-based applications."
+    },
+    {
+      "page": 14,
+      "snippet": "In quantum entanglement, physical phenomena occur when a \nlarge number of particles come together in a way that each parti-\ncle’s quantum state cannot be described in isolation from the rest \nof the g"
+    },
+    {
+      "page": 14,
+      "snippet": "In quantum entanglement, physical phenomena occur when \na large number of particles come together in a way that each \nparticle’s quantum state cannot be described in isolation from \nthe rest of the gr"
+    },
+    {
+      "page": 14,
+      "snippet": "Likewise, in Fig. 13, we propose a multi-layered quantum \nentanglement-based approach using quantum satellites and quan-\ntum drones. In this approach, quantum satellite-based single and \nmulti-hop qua"
+    },
+    {
+      "page": 15,
+      "snippet": "Fig. 12. Single and Multi-hop drone-based quantum entanglement for quantum internet services in different applications."
+    },
+    {
+      "page": 16,
+      "snippet": "Fig. 13. Single and multi-hop satellite and drone-based quantum entanglement for quantum internet services in different applications."
+    },
+    {
+      "page": 19,
+      "snippet": "Quantum technology \ncan implement smart \ncity development \nsupported by the use \nof distributed \ncomputing \nenvironment. For \nexample, the hybrid \narchitecture proposed \n(Fig. 11, Fig. 12 and \nFig. 13"
+    },
+    {
+      "page": 19,
+      "snippet": "acteristics of quantum computing platforms, services, or concept \ndesigns for IoQDs. Fig. 14 shows the overview of various soft-\nware applications and assets studies for IoQDs in recent studies. \nThes"
+    },
+    {
+      "page": 20,
+      "snippet": "Fig. 14. Important software applications and assets for IoQDs."
+    },
+    {
+      "page": 20,
+      "snippet": "tum programming languages for IoQDs, and quantum computing-\nbased error-correction ﬁrmware for IoQDs. Quantum computing-\nbased device control ﬁrmware, quantum computing-based logical \nlevel schedulers"
+    },
+    {
+      "page": 20,
+      "snippet": "4.1.1. Quantum programming languages for IoQDs\nQuantum programming languages are important to the pro-\ngram, conﬁguration, and operation of the hardware systems and \nsub-systems in space computing inf"
+    },
+    {
+      "page": 21,
+      "snippet": "Fig. 15. Quantum programming languages and IoQDs."
+    },
+    {
+      "page": 24,
+      "snippet": "The Quantum Software Life Cycle for IoQDs is shown in Fig. 16\n[171,172]. Step 1 consists of requirement gathering, in which \nthe hardware-related requirements related to IoQDs are gathered. \nBased on "
+    },
+    {
+      "page": 26,
+      "snippet": "Fig. 16. Quantum software life cycle for IoQDs."
+    }
+  ],
+  "metadata": {
+    "width": 3459,
+    "height": 2372,
+    "size_bytes": 96120,
+    "format": "png"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "original_page": 21,
+  "figure_number": "Fig. 26",
+  "original_caption": "time setting Ki, when the system states overshoots and settles with a steady state error to the reference value. The Integral action can eliminate this error overtime, enforcing the system to follow the desired trajectory accurately. As for the deriva- tive term Kd, it is highly used in motion control where a sen- sitive system that has a large overshoot can be eliminated by increasing the derivative action, however, choosing a large derivative will cause the system to slowly reach the reference point which may not be suitable for systems that require quick responsivity. Fig. 26 illustrates a block diagram of a quadrotor that is modelled with the inclusion of a PID controller for positional tracking. | Fig. 25 The change in altitude compares how the controller reacts with external disturbances against the Kalman filter [10]",
+  "contextual_text": "time setting Ki, when the system states overshoots and settles\nwith a steady state error to the reference value. The Integral\naction can eliminate this error overtime, enforcing the system\nto follow the desired trajectory accurately. As for the deriva-\ntive term Kd, it is highly used in motion control where a sen-\nsitive system that has a large overshoot can be eliminated by\nincreasing the derivative action, however, choosing a large\nderivative will cause the system to slowly reach the reference\npoint which may not be suitable for systems that require quick\nresponsivity. Fig. 26 illustrates a block diagram of a quadrotor\nthat is modelled with the inclusion of a PID controller for\npositional tracking. The authors in [5–7, 98] deployed classical control (PD and\nPID) actions to analyse the behaviour of the Quadrotor. For\ninstance, the authors in [5] controlled the attitude of a\nQuadrotor by using three independent inner loops; rolling,\npitching and yawing. Positioning the UAV along the x,",
+  "section_title": "7.9 Sliding Mode Control",
+  "image_filename": "page_021_fig_01.jpeg",
+  "relative_path": "images/page_021_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "error",
+    "reference",
+    "action",
+    "control",
+    "large",
+    "derivative",
+    "controller",
+    "time",
+    "setting",
+    "when"
+  ],
+  "cross_references": [
+    {
+      "page": 21,
+      "snippet": "time setting Ki, when the system states overshoots and settles\nwith a steady state error to the reference value. The Integral\naction can eliminate this error overtime, enforcing the system\nto follow t"
+    },
+    {
+      "page": 22,
+      "snippet": "Fig. 26 Block diagram of the control implementation for a traditional Quadrotor [5]"
+    }
+  ],
+  "metadata": {
+    "width": 971,
+    "height": 771,
+    "size_bytes": 70866,
+    "format": "jpeg"
+  }
+}

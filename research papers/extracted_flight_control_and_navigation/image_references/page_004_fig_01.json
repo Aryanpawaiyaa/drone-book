@@ -1,0 +1,38 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 2",
+  "original_caption": "The initial search across prominent academic databases, including  IEEE Xplore, ACM Digital Library, and ScienceDirect, resulted in a total  of 7750 papers. Subsequently, after the screening of titles and abstracts  following PRISMA guidelines, 770 papers were deemed potentially  relevant for further review. Following a thorough examination of the full  texts, study quality assessment, and removal of duplicates, 60 publica­ tions were included in the final review, contributing to the synthesis of  the literature in this review paper (see Fig. 2). | 4.2.1. Drone control  This section of the systematic review focuses on drone control sys­ tems, drawing insights from thirty selected articles. These articles  collectively contribute to a nuanced understanding of the advancements  in drone control over the past decade. The subsequent subsections  dissect various aspects of this domain, including human-robot interac­ tion (Section 4.2.1.1), surveillance and area coverage (Section 4.2.1.2),  attitude control systems (Section 4.2.1.3), safety and security consid­ erations (Section 4.2.1.4), formation control (Section 4.2.1.5), machine  learning integration (Section 4.2.1.6), communication and control  frameworks (Section 4.2.1.7), and drone control in entertainment  (Section 4.2.1.8).",
+  "contextual_text": "Swarm and Evolutionary Computation 89 (2024) 101626 4 inclusion criteria. Subsequently, we conducted a thorough examination \nof the full texts of the selected articles to further assess their relevance to \nour study. To ensure a systematic and comprehensive data-gathering \nprocess, we devised a standardized data extraction form. This form \nwas instrumental in capturing key information from each chosen article, \nincluding research questions, contributions, methodology, findings, \nlimitations, and potential areas for future research. This approach \nallowed us to methodically collect and organize the essential details \nfrom the literature under consideration. 4. Results In this section, we present the comprehensive results obtained from \nthe systematic search and analysis conducted on the topic of drone \ncontrol systems and path planning techniques. We delve into the out­\ncomes of our search process, summarize the key findings from the \ncollected studies, and identify state-of-the-art con",
+  "section_title": "4.2. Study summaries",
+  "image_filename": "page_004_fig_01.png",
+  "relative_path": "images/page_004_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "section",
+    "control",
+    "review",
+    "drone",
+    "including",
+    "papers",
+    "following",
+    "study",
+    "articles",
+    "initial"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "The initial search across prominent academic databases, including \nIEEE Xplore, ACM Digital Library, and ScienceDirect, resulted in a total \nof 7750 papers. Subsequently, after the screening of titles"
+    },
+    {
+      "page": 4,
+      "snippet": "4.2.1.1. Human-Robot interaction in drone control systems. Drones can be \ncontrolled in various ways, with the most common and traditional \nmethod being the use of a remote control. However, recent re"
+    }
+  ],
+  "metadata": {
+    "width": 1025,
+    "height": 1355,
+    "size_bytes": 184632,
+    "format": "png"
+  }
+}

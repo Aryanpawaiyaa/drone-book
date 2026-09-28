@@ -1,0 +1,73 @@
+{
+  "source_pdf": "2305.18371v1.pdf",
+  "total_pages": 6,
+  "total_extracted_images": 2,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Introduction",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "Related work",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "System Architecture",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "Design and Implementation",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "ColibriUAV Platform",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "Event-based Camera",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "Kraken SoC",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "Experimental Results",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "DVS Camera",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "Motor control with PWM and end-to-end evaluation",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "Conclusion",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 6
+    }
+  ],
+  "output_directory": "f:\\drone-book\\future tech\\extracted_2305_18371v1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

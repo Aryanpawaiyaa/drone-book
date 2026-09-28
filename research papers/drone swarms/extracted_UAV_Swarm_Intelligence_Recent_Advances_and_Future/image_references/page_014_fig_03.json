@@ -1,0 +1,38 @@
+{
+  "original_page": 14,
+  "figure_number": "FIGURE 9",
+  "original_caption": "FIGURE 9. Typical layered UAV network scenario for forest fire prevention and inspection [97]. | FIGURE 10. The ict-centric mobile simulation framework [98].",
+  "contextual_text": "Y. Zhou et al.: UAV Swarm Intelligence: Recent Advances and Future Trends FIGURE 9. Typical layered UAV network scenario for forest fire prevention\nand inspection [97]. FIGURE 10. The ict-centric mobile simulation framework [98]. FIGURE 11. Illustration of the multi-UAV network, showing the selection\nof each UAV [99]. network is the key to gaining the right to information\non the battleﬁeld. At the same time, due to the high\nprobability of line-of-sight (LOS) link and on-demand\ndeployment, the UAV can improve the overall performance\nof the ground communication system. Chen Q et al. studied\na relay system in which multiple UAVs established a UAV\nrelay network through orthogonal frequency division multi-\nple access (OFDMA) to help some transmitters communicate\nwith corresponding receivers [100]. In a cellular network composed of drones, each drone can sense and transmit data\nfrom multiple tasks to the base station. By introducing the\nInformation Age to quantify the ‘‘freshness’’ of base s",
+  "section_title": "FIGURE 10. The ict-centric mobile simulation framework [98].",
+  "image_filename": "page_014_fig_03.jpeg",
+  "relative_path": "images/page_014_fig_03.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "ict",
+    "centric",
+    "mobile",
+    "simulation",
+    "framework",
+    "typical",
+    "layered",
+    "uav",
+    "network",
+    "scenario"
+  ],
+  "cross_references": [
+    {
+      "page": 13,
+      "snippet": "1) COMMUNICATION ARCHITECTURE\nThe communication architecture is one of the cores of UAV\nnetworking design. A suitable network structure can improve\nthe efﬁciency and reliability of communication data "
+    },
+    {
+      "page": 14,
+      "snippet": "FIGURE 9. Typical layered UAV network scenario for forest fire prevention\nand inspection [97]."
+    }
+  ],
+  "metadata": {
+    "width": 490,
+    "height": 332,
+    "size_bytes": 43864,
+    "format": "jpeg"
+  }
+}

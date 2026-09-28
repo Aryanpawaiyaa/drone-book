@@ -1,0 +1,25 @@
+{
+  "original_page": 15,
+  "figure_number": "Figure 15-1",
+  "original_caption": "",
+  "contextual_text": "H. Kang et al.: Protect Your Sky: A Survey of Counter UAV Systems FIGURE 6. Diagram of CUS architecture that consists of sensing systems, C2 systems, and mitigation systems. because infrared images are detected based on heat\nenergy, these images are inﬂuenced by the emissivity\nand reﬂection of sunlight. As active and passive sensors,\nLiDAR and EO/IR sensors are widely used to collect\nlight information, as discussed further in Section V-\nA(3). 2) DATA FUSION\nThe majority of sensing systems have a single type of sensor.\nThe data collected by a single sensor or identical types of sen-\nsors, however, could be insufﬁcient for accurate and precise\ndetection/identiﬁcation and localization/tracking. To offset\nthe limitations of single types of sensors, multiple types can\nbe employed by high-end systems considering the require-\nments and usage environments. Furthermore, instead of sim-\nply obtaining results from each sensor type, comprehensive\ndata fusion (i.e., the fusion of sensing informatio",
+  "section_title": "TABLE 5. Regulations on Commercial UAVs in 20 countries and Violation Consequences [40]–[44].",
+  "image_filename": "page_015_fig_01.png",
+  "relative_path": "images/page_015_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "regulations",
+    "commercial",
+    "uavs",
+    "countries",
+    "violation",
+    "consequences"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 377,
+    "height": 64,
+    "size_bytes": 3399,
+    "format": "png"
+  }
+}

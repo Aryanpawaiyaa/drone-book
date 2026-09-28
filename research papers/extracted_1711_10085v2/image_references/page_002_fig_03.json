@@ -1,0 +1,42 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 2",
+  "original_caption": "A. UAV Deﬁnition | Commonly known as a drone, a UAV is an aircraft that can perform ﬂight missions autonomously without a human pilot onboard [3], [4] or can be tele-operated by a pilot from a ground station. The UAV’s degree of autonomy varies but often has basic autonomy features such as “self-leveling” using an inertial measurement unit (IMU), “position-holding” using a global navigation satellite system (GNSS) sensor, and “altitude-holding” using a barometer or a distance sensor. UAVs with higher degrees of autonomy offer more func- tions like automatic take-off and landing, path planning, and obstacle avoidance. In general, a UAV can be viewed as a ﬂying robot. In the literature and UAV communities, a UAV also has several other names like micro aerial vehicle (MAV), unmanned aerial system (UAS), vertical take-off and landing aircraft (VTOL), multicopter, rotorcraft, and aerial robot. In this work, we will use the phrases “UAV” and “drone” interchangeably.",
+  "contextual_text": "2 Fig. 1: Common UAV types. See text for details. A. UAV Deﬁnition Commonly known as a drone, a UAV is an aircraft that\ncan perform ﬂight missions autonomously without a human\npilot onboard [3], [4] or can be tele-operated by a pilot\nfrom a ground station. The UAV’s degree of autonomy varies\nbut often has basic autonomy features such as “self-leveling”\nusing an inertial measurement unit (IMU), “position-holding”\nusing a global navigation satellite system (GNSS) sensor, and\n“altitude-holding” using a barometer or a distance sensor.\nUAVs with higher degrees of autonomy offer more func-\ntions like automatic take-off and landing, path planning, and\nobstacle avoidance. In general, a UAV can be viewed as\na ﬂying robot. In the literature and UAV communities, a\nUAV also has several other names like micro aerial vehicle\n(MAV), unmanned aerial system (UAS), vertical take-off and\nlanding aircraft (VTOL), multicopter, rotorcraft, and aerial\nrobot. In this work, we will use the phrases “UAV” and\n“d",
+  "section_title": "II-A UAV Definition",
+  "image_filename": "page_002_fig_03.png",
+  "relative_path": "images/page_002_fig_03.png",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "autonomy",
+    "aerial",
+    "drone",
+    "aircraft",
+    "pilot",
+    "holding",
+    "sensor",
+    "like",
+    "take"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "Previously, we have classiﬁed UAVs into several types based\non their ﬂying principles. In Fig. 2, Floreano and Wood [5]\nand Liew [6] provide insights on how UAVs can be categorized\nwith two principal "
+    },
+    {
+      "page": 2,
+      "snippet": "Fig. 2: Two UAV categorization methods found in the litera-\nture. Left: Flight time versus UAV mass (inspired by Floreano\nand Wood [5]). Right: Degree of autonomy versus degree of\nsociability (inspire"
+    },
+    {
+      "page": 2,
+      "snippet": "and rotor-type UAVs, we simplify their original plot into\na conceptual chart in Fig. 2 (right). In general, ﬂapping-\nwing UAVs are usually small and have short ﬂight time.\nBlimp/balloon UAVs are light"
+    }
+  ],
+  "metadata": {
+    "width": 1587,
+    "height": 1587,
+    "size_bytes": 65097,
+    "format": "png"
+  }
+}

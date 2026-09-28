@@ -1,0 +1,29 @@
+{
+  "original_page": 5,
+  "figure_number": "Figure 6",
+  "original_caption": "S1 Realme 3 RMX1825 Mediatek Helio P70 G+L+A S2 Oppo F7 Mediatek MT6771(Helio P60) G+L+A S3 ASUS Max Pro M1 Qualcomm SDM 636 Snapdragon G+L+B+A S4 POCO M2 Mediatek MT6769V/CU Helio G80 G+L+B+A G= GPS, L= GLONASS, B= BeiDou, A= Assisted GPS @While assessing the results, we will be referring to different Android devices with their sr. nos., i.e., S1, S2, S3 and S4. | Figure 6. Top left: external TCXO connected on HackRF One SDR; Top right: indoor experimental setup; Bottom left: capabilities of different GNSS receivers; Bottom right: setup for spoofing test against drone.",
+  "contextual_text": "Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers MSWiM ’22, Montreal, Canada, Table 2. Models of Android Mobiles, Chipsets and GNSS Capabilities Sr. No.@\nBuild\nModel\nChipset\nGNSS Capability S1\nRealme 3\nRMX1825\nMediatek Helio P70\nG+L+A\nS2\nOppo\nF7\nMediatek MT6771(Helio P60)\nG+L+A\nS3\nASUS\nMax Pro M1\nQualcomm SDM 636 Snapdragon\nG+L+B+A\nS4\nPOCO\nM2\nMediatek MT6769V/CU Helio G80\nG+L+B+A\nG= GPS, L= GLONASS, B= BeiDou, A= Assisted GPS\n@While assessing the results, we will be referring to different Android devices with their sr. nos., i.e., S1, S2, S3\nand S4. 3. Receiver is static/ mobile.\nThe simulated GPS signals were designed to simulate static\nand dynamic locations in and around Indian Institute of\nTechnology, Bombay (Mumbai), Maharashtra, India. The ex-\nperiments were conducted in the outskirts of Madurai, Tamil\nNadu, India. The physical crow fly distance between the two\nlocations is nearly 1200 kms. Fig. 5 shows the geographical\nlocation of the original own",
+  "section_title": "4.2 Experimental Setup",
+  "image_filename": "page_005_fig_02.png",
+  "relative_path": "images/page_005_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "mediatek",
+    "helio",
+    "setup",
+    "gps",
+    "different",
+    "top",
+    "left",
+    "right",
+    "experimental",
+    "bottom"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 977,
+    "height": 730,
+    "size_bytes": 1135515,
+    "format": "png"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "original_page": 10,
+  "figure_number": "Fig. 13",
+  "original_caption": "Fig. 13: Prototypes of cyclocopters (Fig. (a)–(b)) [128], [129], spincopters (Fig. (c)–(d)) [61], [130], Coandˇa UAV (Fig. (e)) [131], parafoil UAV (Fig. (f)) [132], and kite UAV (Fig. (g)) [133] appear in the reviewed papers. See text for details. | In the Part II of this survey, we cover the trends in aerial robotics by discussing three emerging topics—(i) holonomic UAVs, a special type of UAV that can perform horizontal motions while maintaining orientation; (ii) localization and mapping with UAV; and (iii) human-drone interaction.",
+  "contextual_text": "10 Fig. 13: Prototypes of cyclocopters (Fig. (a)–(b)) [128], [129], spincopters (Fig. (c)–(d)) [61], [130], Coandˇa UAV (Fig.\n(e)) [131], parafoil UAV (Fig. (f)) [132], and kite UAV (Fig. (g)) [133] appear in the reviewed papers. See text for details. 2001, we focused on the robotic communities (TRO, TME,\nIJRR, RAS, IROS, ICRA, HRI, ROMAN). To extend the\nsurvey, we could expand into journals/conferences in the\naerospace and aeronautics communities, such as International\nJournal of Robust and Nonlinear Control [134], Journal of\nGuidance, Control, and Dynamics [135], and International\nConference on Unmanned Aircraft Systems [136]. UAVs from\nthe commercial sectors would also provide fertile ground. To\nname a few, the DJI Phantom 4 [137] and YUNEEC Typhoon\nH [138]) appear to possess advanced path planning, human\ntracking, and obstacle avoidance algorithms. However, private\ncompanies often do not provide detailed technical information\nto the public. In the Part II of this survey, we cover t",
+  "section_title": "REFERENCES",
+  "image_filename": "page_010_fig_02.png",
+  "relative_path": "images/page_010_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "prototypes",
+    "cyclocopters",
+    "spincopters",
+    "parafoil",
+    "kite",
+    "appear",
+    "reviewed",
+    "papers",
+    "see"
+  ],
+  "cross_references": [
+    {
+      "page": 9,
+      "snippet": "A cyclocopter (Fig. 13 (a)–(b)) [128], [129] is a UAV that\nﬂies by rotating a cyclogyro wing with several wings posi-\ntioned around the edge of a cylindrical structure. Generally,\nthe wings’ angles of"
+    },
+    {
+      "page": 9,
+      "snippet": "servo motor to generate required forces. Tanaka et al. [128]\nbuilt a cyclocopter that can the angles of attack using a\nnovel eccentric point mechanism without additional actuators\n(Fig. 13 (a)). Hara "
+    },
+    {
+      "page": 9,
+      "snippet": "A spincopter (Fig. 13 (c)–(d)) [61], [130] is a UAV that spins\nitself during ﬂight. Orsag et al. [61] designed a spincopter\nthat can spin the central wings (and the whole aircraft) using\ntwo small mot"
+    },
+    {
+      "page": 9,
+      "snippet": "A Coandˇa UAV is an aircraft that produces lifting force by\nutilizing the Coandˇa effect. Speciﬁcally, the Coandˇa effect is\ncaused by the tendency of a jet of ﬂuid to follow an adjacent\nsurface and t"
+    },
+    {
+      "page": 9,
+      "snippet": "Parafoil\nUAVs\n(Fig.\n13\n(f))\n[132]\nand\nkite\nUAVs\n(Fig. 13 (g)) [133] resemble the shapes and ﬂying principles\nof a parafoil or kite. For an aerial cargo delivery application,\nCacan et al. [132] improve"
+    },
+    {
+      "page": 10,
+      "snippet": "Fig. 13: Prototypes of cyclocopters (Fig. (a)–(b)) [128], [129], spincopters (Fig. (c)–(d)) [61], [130], Coandˇa UAV (Fig.\n(e)) [131], parafoil UAV (Fig. (f)) [132], and kite UAV (Fig. (g)) [133] appe"
+    }
+  ],
+  "metadata": {
+    "width": 1197,
+    "height": 674,
+    "size_bytes": 74957,
+    "format": "png"
+  }
+}

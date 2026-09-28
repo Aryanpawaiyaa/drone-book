@@ -1,0 +1,173 @@
+{
+  "source_pdf": "sensors-26-00081-v2.pdf",
+  "total_pages": 32,
+  "total_extracted_images": 3,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Introduction ",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Background of the Study ",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Basic Principles of an Event Camera ",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "Types of Event Cameras ",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "Materials and Methods ",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "Search Terms ",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "Search Strategy and Criteria ",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "Data Extraction ",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "Results ",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Review of Past Survey of Event Cameras in UAV Applications ",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Models and Algorithms ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "Geometric Approach ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "Learning-Based Methods ",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "Neuromorphic Computing Approach ",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "Hybrid Sensor Integration Methods ",
+      "page": 16
+    },
+    {
+      "level": 2,
+      "title": "Application Benefits of Event Camera Vision Systems in UAVs ",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "Visual SLAM and Odometry ",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "Obstacle Avoidance and Collison Detection ",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "GPS-Denied Navigation and Terrain Relative Flight ",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Infrastructure Inspection and Anomaly Detection ",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Object and Human Tracking in Dynamic Scenes ",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "High-Speed and Aggressive Maneurvering ",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "Datasets and Open-Source Tools ",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Available Datasets for Event Cameras in UAVs Applications ",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Simulators and Emulators ",
+      "page": 22
+    },
+    {
+      "level": 1,
+      "title": "Discussion ",
+      "page": 24
+    },
+    {
+      "level": 2,
+      "title": "Replacing Frame-Based Camera with Event Camera in UAV Applications ",
+      "page": 24
+    },
+    {
+      "level": 2,
+      "title": "Challenges in Software Development and Deployment for Event Camera Vision Systems in UAVs ",
+      "page": 24
+    },
+    {
+      "level": 2,
+      "title": "Evolution of Event Camera Dataset for UAV Applications ",
+      "page": 25
+    },
+    {
+      "level": 2,
+      "title": "Comparing the Algorithm ",
+      "page": 25
+    },
+    {
+      "level": 1,
+      "title": "Conclusions ",
+      "page": 26
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 27
+    }
+  ],
+  "output_directory": "f:\\drone-book\\future tech\\extracted_sensors_26_00081_v2",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

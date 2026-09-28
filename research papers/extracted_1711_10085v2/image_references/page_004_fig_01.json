@@ -1,0 +1,34 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 4",
+  "original_caption": "At the second step, we design a list of keywords (Table I) to search drone papers systematically from the titles and abstracts collected in the ﬁrst step. Note that we search for both the full name of each keyword (e.g., Unmanned Aerial Vehicle) and its abbreviation (i.e., UAV) with an automatic program script. The keywords include most of the words that describe a UAV. For example, the word “quadcopter” or “quadrotor” could be detected by the keyword “copter” or “rotor”. As long as one of the keywords is detected, the paper will pass this automated screening process. | Fig. 4: A screenshot of TagSpaces with different categories of tags on the left hand side, list of drone papers that match the search criterion at the middle, and info of the selected paper in HTML format on the right hand side. Best viewed in color.",
+  "contextual_text": "4 TABLE I: 35 keywords used to search drone papers system-\natically from the collected titles and abstracts. acrobatic\nbat\nﬂight\nrotor\naerial\nbee\nﬂy\nrotorcraft\naero\nbird\nﬂying\nsoar\naeroplane\nblimp\nglide\nsoaring\nair\ncopter\nglider\nmicro aerial vehicle\naircraft\ndragonﬂy\ngliding\nunmmaned aerial vehicle\nairplane\ndrone\nhover\nunmanned aircraft system\nairship\nﬂap\nhovering\nvertical takeoff and landing\nballoon\nﬂapping\nkite\nMAV, UAV, UAS, VTOL At the second step, we design a list of keywords (Table I) to\nsearch drone papers systematically from the titles and abstracts\ncollected in the ﬁrst step. Note that we search for both the full\nname of each keyword (e.g., Unmanned Aerial Vehicle) and\nits abbreviation (i.e., UAV) with an automatic program script.\nThe keywords include most of the words that describe a UAV.\nFor example, the word “quadcopter” or “quadrotor” could be\ndetected by the keyword “copter” or “rotor”. As long as one\nof the keywords is detected, the paper will pass this automated\nscreeni",
+  "section_title": "V. SURVEY RESULTS OVERVIEW",
+  "image_filename": "page_004_fig_01.png",
+  "relative_path": "images/page_004_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "keywords",
+    "search",
+    "step",
+    "list",
+    "drone",
+    "papers",
+    "keyword",
+    "uav",
+    "detected",
+    "paper"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "Fig. 4: A screenshot of TagSpaces with different categories of\ntags on the left hand side, list of drone papers that match the\nsearch criterion at the middle, and info of the selected paper\nin HTML fo"
+    }
+  ],
+  "metadata": {
+    "width": 1905,
+    "height": 963,
+    "size_bytes": 259116,
+    "format": "png"
+  }
+}

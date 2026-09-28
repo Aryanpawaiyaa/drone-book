@@ -1,0 +1,38 @@
+{
+  "original_page": 24,
+  "figure_number": "Fig. 29",
+  "original_caption": "& Application set for indoor environments. & Precise control is essential (minimum steady state). & Able to reach the desired positions (x, y and z) with quick responsivity. & Strongly resistible against external perturbations (outdoor areas). | successive responsivity and ease of implementation. However, the robustness and insensitivities will be considered least important.",
+  "contextual_text": "&\nApplication set for indoor environments.\n&\nPrecise control is essential (minimum steady state).\n&\nAble to reach the desired positions (x, y and z) with quick\nresponsivity.\n&\nStrongly resistible against external perturbations (outdoor\nareas). With regard to the control techniques mentioned in this\npaper, many authors have attempted to compare two control\nlaws while other authors have combined these techniques in\norder to achieve an improved performance. For this particular\nreview, the main focus will be considered towards selecting a\ncontroller that is able to successfully achieve all the steps\nmentioned above, especially the aspect of overcoming exter-\nnal disturbances such as wind. On the other hand, a second\ncontroller will also be selected with a main criteria of successive responsivity and ease of implementation.\nHowever, the robustness and insensitivities will be considered\nleast important. Based on the literature reviewed, the most popular control-\nlers that are generally imple",
+  "section_title": "7.10 Comparative Study",
+  "image_filename": "page_024_fig_01.jpeg",
+  "relative_path": "images/page_024_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "responsivity",
+    "application",
+    "set",
+    "indoor",
+    "environments",
+    "precise",
+    "control",
+    "essential",
+    "minimum",
+    "steady"
+  ],
+  "cross_references": [
+    {
+      "page": 22,
+      "snippet": "Simulating the theoretical work shown on Fig. 29 is\nassessed by applying the desired angles for each sub con-\ntroller. For simplicity, the complete system was firstly\nanalysed by assessing the movemen"
+    },
+    {
+      "page": 24,
+      "snippet": "Fig. 29 Block diagram of the SMC with position tracking inputs [139]"
+    }
+  ],
+  "metadata": {
+    "width": 2035,
+    "height": 1119,
+    "size_bytes": 160272,
+    "format": "jpeg"
+  }
+}

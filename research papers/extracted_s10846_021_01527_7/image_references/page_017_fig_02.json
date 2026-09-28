@@ -1,0 +1,38 @@
+{
+  "original_page": 17,
+  "figure_number": "fig. 19",
+  "original_caption": "An artificial neural network (NN) control system is a modern engineering control system that became very popular due to its abilities to deal with intractable and cumbersome systems. It is a type of an intelligent controller that adjusts itself online as it learns from the output of a traditional controller [125]. The aim of designing such a control law is to enforce the system states towards an equilibrium point by making the feedback error move towards zero. | In [126], a neural network adaptive sliding mode system is designed to control a quadrotor for positional and attitude tracking. The design approach consists of developing a tradi- tional SMC for each state to be controlled, while their",
+  "contextual_text": "7.4 Neural Network An artificial neural network (NN) control system is a modern\nengineering control system that became very popular due to its\nabilities to deal with intractable and cumbersome systems. It is\na type of an intelligent controller that adjusts itself online as it\nlearns from the output of a traditional controller [125]. The\naim of designing such a control law is to enforce the system\nstates towards an equilibrium point by making the feedback\nerror move towards zero. In [126], a neural network adaptive sliding mode system is\ndesigned to control a quadrotor for positional and attitude\ntracking. The design approach consists of developing a tradi-\ntional SMC for each state to be controlled, while their coefficients are adaptively tuned by the NN method. This\ntechnique ensures that the system has a powerful capability\nof tackling non-linearity, fault tolerance, adaptation and con-\ntinuous online learning. The research group in [127] proposed\nan NN robust algorithm to enforce qu",
+  "section_title": "7.4 Neural Network",
+  "image_filename": "page_017_fig_02.jpeg",
+  "relative_path": "images/page_017_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "control",
+    "neural",
+    "network",
+    "controller",
+    "towards",
+    "artificial",
+    "modern",
+    "engineering",
+    "became",
+    "very"
+  ],
+  "cross_references": [
+    {
+      "page": 17,
+      "snippet": "coefficients are adaptively tuned by the NN method. This\ntechnique ensures that the system has a powerful capability\nof tackling non-linearity, fault tolerance, adaptation and con-\ntinuous online lear"
+    },
+    {
+      "page": 18,
+      "snippet": "Fig. 19 NN based control strategy flowchart [127]\nFig. 20 Generalised functionality of the H∞controller [128]"
+    }
+  ],
+  "metadata": {
+    "width": 1503,
+    "height": 1009,
+    "size_bytes": 118442,
+    "format": "jpeg"
+  }
+}

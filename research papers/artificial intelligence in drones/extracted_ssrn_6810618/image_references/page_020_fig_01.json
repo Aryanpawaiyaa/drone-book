@@ -1,0 +1,34 @@
+{
+  "original_page": 20,
+  "figure_number": "Fig. 15",
+  "original_caption": "Table 9  Adverse Condition Performance Comparison | Approach  Wind  Precipitation Temperature  Standard Systems  65%  50%  60%  All-Weather Perception  85%  85%  75%  Adaptive Control  90%  70%  80%  Resilient Hardware  75%  90%  95%",
+  "contextual_text": "Autonomous Control and Artificial Intelligence in Drones Y. ALQUDSI et al. : \nPage 20 of 26 Table 9 \nAdverse Condition Performance Comparison Approach \nWind \nPrecipitation Temperature \nStandard Systems \n65% \n50% \n60% \nAll-Weather Perception \n85% \n85% \n75% \nAdaptive Control \n90% \n70% \n80% \nResilient Hardware \n75% \n90% \n95% Fig. 15: Impact of regulatory frameworks on deployment timelines across regions. Performance-based approaches enable \n3-5x faster deployment. Error bars show variation across application domains. constrained network architectures that facilitate verification while maintaining performance, runtime monitoring \nframeworks for detecting unsafe states during operation, and hybrid system designs that combine learning-based \ncomponents with verifiable safety layers [82, 83]. Computational efficiency represents another barrier, as the extra processing demands of advanced AI algorithms of-\nten exceed the capabilities of resource-constrained drone platforms. Model compression t",
+  "section_title": "8. Challenges and Future Directions",
+  "image_filename": "page_020_fig_01.png",
+  "relative_path": "images/page_020_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "adverse",
+    "condition",
+    "performance",
+    "comparison",
+    "approach",
+    "wind",
+    "precipitation",
+    "temperature",
+    "standard",
+    "all"
+  ],
+  "cross_references": [
+    {
+      "page": 20,
+      "snippet": "Fig. 15: Impact of regulatory frameworks on deployment timelines across regions. Performance-based approaches enable \n3-5x faster deployment. Error bars show variation across application domains."
+    }
+  ],
+  "metadata": {
+    "width": 771,
+    "height": 470,
+    "size_bytes": 25858,
+    "format": "png"
+  }
+}

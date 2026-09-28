@@ -1,0 +1,46 @@
+{
+  "original_page": 15,
+  "figure_number": "Fig. 12",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 12. Single and Multi-hop drone-based quantum entanglement for quantum internet services in different applications.",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 12. Single and Multi-hop drone-based quantum entanglement for quantum internet services in different applications. be explored in detail. However, a few initiatives are only taken \nto use quantum satellites to make it feasible [152–155]. Thus this \nsection explores the existing satellite-based IoT network designs \nwhich can be transformed into quantum satellite integrated so-\nlutions in future. Here, a comparative analysis of those studies \nwhich perform quantum or software services to satellite-based IoT \nor constellation of satellites is performed. Acín et al. [24] surveyed important quantum domains, including \nquantum communication, quantum computation, quantum simula-\ntion, quantum metrology, sensing and imaging, quantum control, \nand quantum software and theory. For example, superconducting \ncircuits, electronic semiconductor qubits, impurity spins, and linear \noptics are consid",
+  "section_title": "4 Software characteristics for satellite-based IoT and futuristic quantum-integrated benefits",
+  "image_filename": "page_015_fig_01.jpeg",
+  "relative_path": "images/page_015_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "quantum",
+    "based",
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular",
+    "communications",
+    "single"
+  ],
+  "cross_references": [
+    {
+      "page": 14,
+      "snippet": "In quantum entanglement, physical phenomena occur when a \nlarge number of particles come together in a way that each parti-\ncle’s quantum state cannot be described in isolation from the rest \nof the g"
+    },
+    {
+      "page": 14,
+      "snippet": "In quantum entanglement, physical phenomena occur when \na large number of particles come together in a way that each \nparticle’s quantum state cannot be described in isolation from \nthe rest of the gr"
+    },
+    {
+      "page": 15,
+      "snippet": "Fig. 12. Single and Multi-hop drone-based quantum entanglement for quantum internet services in different applications."
+    },
+    {
+      "page": 19,
+      "snippet": "Quantum technology \ncan implement smart \ncity development \nsupported by the use \nof distributed \ncomputing \nenvironment. For \nexample, the hybrid \narchitecture proposed \n(Fig. 11, Fig. 12 and \nFig. 13"
+    }
+  ],
+  "metadata": {
+    "width": 1839,
+    "height": 1543,
+    "size_bytes": 320245,
+    "format": "jpeg"
+  }
+}

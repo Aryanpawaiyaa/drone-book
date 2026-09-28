@@ -1,0 +1,228 @@
+{
+  "source_pdf": "2008.12461v1.pdf",
+  "total_pages": 20,
+  "total_extracted_images": 32,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "I Introduction",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "II Background",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "II-A Reported UAS Sightings",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "II-B UAS-based Threats",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "II-B1 Safety Threats",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "II-B2 Security Threats",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "II-B3 Privacy Threats",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "II-C Airspace Restrictions Applicable to UAS Flights",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "III State of the Art UAS Detection",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "III-A Acoustic based UAS Detection",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "III-B Passive RF based Detection",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "III-C Vision based UAS Detection",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "III-D Radar based UAS Detection",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "III-D1 Active Detection",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "III-D2 Passive Radar",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "III-D3 Posterior Signal Processing",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "III-E Data-fusion-based UAS Detection",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "IV State of the Art Mitigation",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "IV-A Physical Capture",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "IV-B Jamming",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "IV-C Vulnerabilities",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "V Challenges in UAS Detection and Mitigation",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "V-A UAS Detection",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "V-A1 Acoustic based UAS Detection",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "V-A2 Passive RF based UAS Detection",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "V-A3 Vision based UAS Detection",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "V-A4 Radar based UAS Detection",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "V-A5 Data Fusion based UAS Detection",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "V-B UAS Mitigation",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "V-B1 Physical Capture",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "V-B2 Directional EMP",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "V-B3 RF Jamming",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "V-B4 Hacking",
+      "page": 15
+    },
+    {
+      "level": 1,
+      "title": "VI Future Trends",
+      "page": 16
+    },
+    {
+      "level": 2,
+      "title": "VI-A Technical advancements",
+      "page": 16
+    },
+    {
+      "level": 2,
+      "title": "VI-B Industrial Standards",
+      "page": 16
+    },
+    {
+      "level": 2,
+      "title": "VI-C Unified and Secured Coordination Strategies",
+      "page": 16
+    },
+    {
+      "level": 1,
+      "title": "VII Concluding Remarks",
+      "page": 17
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 17
+    },
+    {
+      "level": 1,
+      "title": "Biographies",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "Jian Wang",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "YongXin Liu",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "Houbing Song",
+      "page": 20
+    }
+  ],
+  "output_directory": "f:\\drone-book\\Counter-Drone (Counter-UAS) Systems\\extracted_2008_12461v1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

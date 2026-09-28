@@ -1,0 +1,32 @@
+{
+  "original_page": 32,
+  "figure_number": "Fig. 34",
+  "original_caption": "Fig. 34: Cellular-to-UAV Path Loss Parameters. | LNLOS(dB) = 20log(dkm) + 20log(fGHz) + 92.4 + Ls",
+  "contextual_text": "32 Fig. 34: Cellular-to-UAV Path Loss Parameters. LNLOS(dB) = 20log(dkm) + 20log(fGHz) + 92.4 + Ls +ζNLOS (10) In equation (7), P(LOS) is the probability of having line of\nsight (LOS) connection at an evaluation angle of θ, P(NLOS)\nis the probability of having non LOS connection and it equals\n(1- P(LOS)), LLOS and LNLOS are the average path loss\nfor LOS and NLOS paths. In equation (8), a, b, c, d and e are\nthe empirical parameters. In equations (9) and (10), dkm is the\ndistance between the UAV and the ground user in km, fGHz\nis the frequency in GHz, Ls is a random shadowing in dB as\na function of the elevation angle (θ), ζLOS and ζNLOS are the\naverage additional losses which depend on the environment. 5) UAV to UAV path Loss Model: In general, the UAV-to-\nUAV wireless channels are line of sight dominated, so that the\nfree space path loss can be adopted for the aerial channels.\nDue to the continuous movements of UAVs with different\nvelocities, the UAV-to-UAV wireless channels will have ",
+  "section_title": "LNLOS(dB) = 20log(dkm) + 20log(fGHz) + 92.4 + Ls",
+  "image_filename": "page_032_fig_01.jpeg",
+  "relative_path": "images/page_032_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "lnlos",
+    "dkm",
+    "fghz",
+    "cellular",
+    "uav",
+    "path",
+    "loss",
+    "parameters"
+  ],
+  "cross_references": [
+    {
+      "page": 32,
+      "snippet": "Fig. 34: Cellular-to-UAV Path Loss Parameters."
+    }
+  ],
+  "metadata": {
+    "width": 919,
+    "height": 469,
+    "size_bytes": 26027,
+    "format": "jpeg"
+  }
+}

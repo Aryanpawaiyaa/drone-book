@@ -1,0 +1,34 @@
+{
+  "original_page": 10,
+  "figure_number": "FIGURE 7",
+  "original_caption": "Y. Zhou et al.: UAV Swarm Intelligence: Recent Advances and Future Trends | FIGURE 7. High-level operations for the first scenario in the centralized platform [74].",
+  "contextual_text": "Y. Zhou et al.: UAV Swarm Intelligence: Recent Advances and Future Trends FIGURE 7. High-level operations for the first scenario in the centralized platform [74]. use the penalty to smooth the trajectory. At the same time,\nto improve the detection capabilities, multiple drones are used\nat each level to perform tasks, and long and short memory\nnetworks are used to approximate the environmental state,\nwhich improves the accuracy of approximation and data uti-\nlization efﬁciency [73]. 5) RESEARCH TRENDS AND FUTURE INSIGHTS\nUAV cluster path planning should not only ensure the optimal\nglobal path and the shortest time to complete the task, but also\nensure that the UAV cluster can avoid obstacles and avoid\ncollisions between the single machines during the comple-\ntion of the task. In the path planning process, most studies\nutilize the drone as a mass point without considering the size\nand load of the drone, which makes the modeling process\nmore sampling and ideal. In the future modeling proc",
+  "section_title": "FIGURE 8. Two-layer quasi-distributed control framework [77].",
+  "image_filename": "page_010_fig_02.jpeg",
+  "relative_path": "images/page_010_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "zhou",
+    "uav",
+    "swarm",
+    "intelligence",
+    "recent",
+    "advances",
+    "future",
+    "trends",
+    "high",
+    "level"
+  ],
+  "cross_references": [
+    {
+      "page": 10,
+      "snippet": "FIGURE 7. High-level operations for the first scenario in the centralized platform [74]."
+    }
+  ],
+  "metadata": {
+    "width": 1555,
+    "height": 367,
+    "size_bytes": 135010,
+    "format": "jpeg"
+  }
+}

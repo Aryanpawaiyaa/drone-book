@@ -1,0 +1,54 @@
+{
+  "original_page": 11,
+  "figure_number": "Fig. 4",
+  "original_caption": "the mobility of the vehicles on the ground [101]. Mobile ground platforms are suitable for battleﬁelds and dynamically and rapidly changing environments. However, compared to static ground platforms, mobile ground platforms have SWAP constraints; thus, the available levels and types of sensing and mitigation systems can be limited on this platform. Moreover, the utilization of the mobile ground platform is affected by the capability of the vehicles. | by the eyes of the operators. If a sensing system is employed (approximately 19%), it mainly consists of RF sensors [110], [111]. Only approximately 7% of thuman-packable platforms employ both sensing and mitigation systems [112], [113].",
+  "contextual_text": "H. Kang et al.: Protect Your Sky: A Survey of Counter UAV Systems the mobility of the vehicles on the ground [101]. Mobile\nground platforms are suitable for battleﬁelds and dynamically\nand rapidly changing environments. However, compared to\nstatic ground platforms, mobile ground platforms have SWAP\nconstraints; thus, the available levels and types of sensing and\nmitigation systems can be limited on this platform. Moreover,\nthe utilization of the mobile ground platform is affected by the\ncapability of the vehicles. As shown at the top of Fig. 4(b), among all mobile ground\nplatforms, approximately 49% of them have both sensing and\nmitigation systems [102]–[104], approximately 25% employ\nonly a sensing system [105], and remaining 25% have only a\nmitigation system [106]. Compared to static ground platforms\nfor which 31% have both sensing and mitigation systems,\nwe can infer that an individual mobile ground platform per-\nforms as a total solution of an integrated CUS for successful\ncounterm",
+  "section_title": "TABLE 5. Regulations on Commercial UAVs in 20 countries and Violation Consequences [40]–[44].",
+  "image_filename": "page_011_fig_01.png",
+  "relative_path": "images/page_011_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "ground",
+    "platforms",
+    "mobile",
+    "sensing",
+    "vehicles",
+    "mitigation",
+    "platform",
+    "approximately",
+    "mobility",
+    "suitable"
+  ],
+  "cross_references": [
+    {
+      "page": 9,
+      "snippet": "A static ground platform can be equipped with only a\nsensing system (approximately, 43%) or a mitigation system\n(approx. 25%), or both (approx. 31%), as depicted at the\ntop of Fig. 4(a), where the are"
+    },
+    {
+      "page": 10,
+      "snippet": "It is important to note that integrated platforms equipped\nwith both sensing and mitigation systems require reliable\nconnectivity and high-level orchestration among the sys-\ntems. Thus, static ground "
+    },
+    {
+      "page": 11,
+      "snippet": "As shown at the top of Fig. 4(b), among all mobile ground\nplatforms, approximately 49% of them have both sensing and\nmitigation systems [102]–[104], approximately 25% employ\nonly a sensing system [105"
+    },
+    {
+      "page": 11,
+      "snippet": "For the platform with a sensing system, as shown\nin Fig. 4(b)-(i+ii), approximately 56% of sensing systems\nhave a single sensor, while 44% of them are equipped with\nmultiple types of sensors, comparab"
+    },
+    {
+      "page": 11,
+      "snippet": "3) HUMAN-PACKABLE PLATFORM\nThe human-packable platforms for CUSs, accounting for\napproximately 22% of CUSs [38], are designed to be operated\nby an individual by hand. Most human-packable platforms\nwit"
+    },
+    {
+      "page": 11,
+      "snippet": "The human-packable platforms equipping multiple sensors\n[114] take approximately 5% as shown in Fig. 4(c)-(i+ii), and\nno MS and MM are employed for the human-packable plat-\nforms that have both sensin"
+    }
+  ],
+  "metadata": {
+    "width": 377,
+    "height": 64,
+    "size_bytes": 3399,
+    "format": "png"
+  }
+}

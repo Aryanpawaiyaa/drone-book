@@ -1,0 +1,29 @@
+{
+  "original_page": 11,
+  "figure_number": "Figure 11-1",
+  "original_caption": "Discover Artificial Intelligence            (2024) 4:97   | https://doi.org/10.1007/s44163-024-00209-1\t Review | Table 2   UAV Object Detection Dataset",
+  "contextual_text": "Vol.:(0123456789) Discover Artificial Intelligence            (2024) 4:97  \n| https://doi.org/10.1007/s44163-024-00209-1\t\nReview This strategy lessens object detection missions’ influence on the surrounding environment while preserving the \ncapability to conduct effective surveillance. This helps to promote sustainability in aerial monitoring activities [110]. The \nYOLO technique was then added to UAVs for object identification and visualizing. YOLO is a one-stage technique that can \nquickly identify a UAV-captured picture as green computing concept. Researchers have built a YOLOv2-based ROS that \ncan communicate with UAVs for tasks including object identification and system navigation. The method uses a simple \ncolor picture for detection [111]. To advance the object detection process to the next level, researchers have identified \na few potential areas for future development. An item may be located from various vantage points and angles using a \nUAV. Nowadays, generative AI improves ",
+  "section_title": "4.3  \u0007AI‑enabled agriculture surveillance UAV system",
+  "image_filename": "page_011_fig_01.jpeg",
+  "relative_path": "images/page_011_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "discover",
+    "artificial",
+    "intelligence",
+    "https",
+    "doi",
+    "org",
+    "review",
+    "object",
+    "detection"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1500,
+    "height": 718,
+    "size_bytes": 55752,
+    "format": "jpeg"
+  }
+}

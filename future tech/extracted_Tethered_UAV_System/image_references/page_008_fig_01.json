@@ -1,0 +1,29 @@
+{
+  "original_page": 8,
+  "figure_number": "Figure 4",
+  "original_caption": "• An outer fluoroplastic insulation sheath for environmental protection; • High-voltage copper conductors, each with individual insulation jackets for safe power transmission; • An integrated optical fiber module containing one or multiple fiber-optic lines for high-speed data communication; • An inner Kevlar harness, providing tensile strength and durability under mechanical stress. | Figure 4. Standard drone tether cable section and structural composition [79].",
+  "contextual_text": "Drones 2025, 9, 425\n8 of 48 2.2.2. Tether Cable Cable selection is a key design phase in TUAV system integration, requiring careful\nconsideration of multiple performance parameters. This typically involves a trade-off\nbetween minimizing transmission power losses and reducing overall cable weight to\npreserve aerial payload capacity [77,78]. A standard tether cable, illustrated in Figure 4, is\ncomposed of several concentric layers, each serving a distinct function [79,80]: •\nAn outer fluoroplastic insulation sheath for environmental protection;\n•\nHigh-voltage copper conductors, each with individual insulation jackets for safe power\ntransmission;\n•\nAn integrated optical fiber module containing one or multiple fiber-optic lines for\nhigh-speed data communication;\n•\nAn inner Kevlar harness, providing tensile strength and durability under mechanical\nstress. Figure 4. Standard drone tether cable section and structural composition [79]. While fiber-optic communication is widely regarded as the ",
+  "section_title": "2.3. Ground Control Station",
+  "image_filename": "page_008_fig_01.jpeg",
+  "relative_path": "images/page_008_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "insulation",
+    "high",
+    "fiber",
+    "outer",
+    "fluoroplastic",
+    "sheath",
+    "environmental",
+    "protection",
+    "voltage",
+    "copper"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1239,
+    "height": 518,
+    "size_bytes": 171956,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "original_page": 8,
+  "figure_number": "Fig. 5",
+  "original_caption": "Research Article 8 | Fig. 5. Comparison of results obtained in simulation and during real-world ﬂight tests. (A) Estimated scaled velocities for 16 different setpoints in three axes, across three scenarios: linear network controller in simulation and the real world, and a hand- tuned proportional-integral (PI) controller in the real world. (B) 3D world position trajectories for the same ﬂight tests, offset to accomodate more plots in a single ﬁgure. Each cube in (B) matches the plot in the corresponding location in (A).",
+  "contextual_text": "Research Article\n8 Fig. 5. Comparison of results obtained in simulation and during real-world ﬂight tests. (A) Estimated scaled velocities for 16\ndifferent setpoints in three axes, across three scenarios: linear network controller in simulation and the real world, and a hand-\ntuned proportional-integral (PI) controller in the real world. (B) 3D world position trajectories for the same ﬂight tests, offset to\naccomodate more plots in a single ﬁgure. Each cube in (B) matches the plot in the corresponding location in (A). event data that is coming in and is being processed in an online\nfashion. This shows in Loihi’s execution frequencies in Table 2,\nwhich are well above the 200 Inf/s achieved during ﬂight tests. Because Jetson Nano does not provide static and dynamic\npower components, we compare the difference between idle and\nrunning power, and use that to compute energy per inference.",
+  "section_title": "RESULTS",
+  "image_filename": "page_008_fig_01.png",
+  "relative_path": "images/page_008_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "world",
+    "real",
+    "results",
+    "simulation",
+    "tests",
+    "three",
+    "controller",
+    "research",
+    "article",
+    "comparison"
+  ],
+  "cross_references": [
+    {
+      "page": 6,
+      "snippet": "pings is evolved in simulation for a set of 16 visual observable\nsetpoints. Each scaled velocity setpoint νBsp has at most one\nnonzero element ∈{±0.2, ±0.5, ±1.0} 1/s. In other words: they\nrepresent h"
+    },
+    {
+      "page": 6,
+      "snippet": "lation in terms of the estimated scaled velocities ˆνB (Fig. 5A)\nand the world position pWB over time (Fig. 5B) for all setpoints.\nThe controller reaches the setpoint in all cases, and is capable of\nk"
+    },
+    {
+      "page": 6,
+      "snippet": "We get the second column of Fig. 5 by deploying this con-\ntroller in the real world, and replacing the ground-truth visual"
+    },
+    {
+      "page": 7,
+      "snippet": "The third column of Fig. 5 shows the results obtained by\nconnecting a hand-tuned proportional-integral (PI) controller to\nthe vision-based state estimation. We compare this to the linear\nnetwork contr"
+    },
+    {
+      "page": 8,
+      "snippet": "Fig. 5. Comparison of results obtained in simulation and during real-world ﬂight tests. (A) Estimated scaled velocities for 16\ndifferent setpoints in three axes, across three scenarios: linear network"
+    }
+  ],
+  "metadata": {
+    "width": 5097,
+    "height": 6220,
+    "size_bytes": 6333695,
+    "format": "png"
+  }
+}

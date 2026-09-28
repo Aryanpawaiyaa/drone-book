@@ -1,0 +1,143 @@
+{
+  "source_pdf": "s10846-021-01527-7.pdf",
+  "total_pages": 33,
+  "total_extracted_images": 34,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "A Review of Quadrotor Unmanned Aerial Vehicles: Applications, Architectural Design and Control Algorithms",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Abstract",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Introduction",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Enabling Technologies and Applications",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "UAV Mechanical Architectures",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "Multi-Rotor Aircraft (VTOL) Structures",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "Common VTOL UAVs",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "Quadrotor Configurations",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "Quadrotor Dynamics",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "Aerodynamics Effects of the Propeller",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Dynamic Simulation",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Simulation Tools",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "Control Strategies",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "Backstepping",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "Gain Scheduling",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "Adaptive Control",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "Neural Network",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "H∞Control",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Fuzzy Logic",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Linear Quadratic Regulator (LQR)",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "PID Control",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "Sliding Mode Control",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "Comparative Study",
+      "page": 22
+    },
+    {
+      "level": 3,
+      "title": "Closing Remarks",
+      "page": 25
+    },
+    {
+      "level": 2,
+      "title": "Conclusion",
+      "page": 27
+    },
+    {
+      "level": 2,
+      "title": "References",
+      "page": 29
+    }
+  ],
+  "output_directory": "f:\\drone-book\\research papers\\extracted_s10846_021_01527_7",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

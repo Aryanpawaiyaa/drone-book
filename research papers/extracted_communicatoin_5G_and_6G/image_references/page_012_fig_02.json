@@ -1,0 +1,38 @@
+{
+  "original_page": 12,
+  "figure_number": "Fig. 8",
+  "original_caption": "Zhang et al. [84] Air-to-air path loss KNN and the Random Forest Alsamhi et al. [85] | Estimate the channel propagation Artiﬁcial Neural Network (ANN)",
+  "contextual_text": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z\n12 TABLE VI: AI/ML in UAV Networks Reference\nKey Contribution/Metric\nTechnique(s)\nJung et al. [80]\nResponse-time between UAVs and BS\nMultiPath TCP (MPTCP) based on the AI\nPark et al. [81]\nPacket transmission rates of UAVs\nSupport Vector Machine (SVM)\nKhan et al. [82]\nCommunication link between UAVs and BS\nsystems K-Nearest Neighbors (KNN) Xiao et al. [83]\nCommunication efﬁciency between a UAV\nand a BS Recurrent Neural Network (RNN) Zhang et al. [84]\nAir-to-air path loss\nKNN and the Random Forest\nAlsamhi\net\nal.\n[85] Estimate the channel propagation\nArtiﬁcial Neural Network (ANN) Wang et al. [86]\nOptimize UAV deployment and minimize\ntransmit power Gated Recurrent Units (GRUs) and Convolutional Neural Networks (CNNs) Zhang et al. [87]\nOptimal deployment of aerial BSs.\nML framework based on Gaussian Mixture Model (GMM) and Weighted\nExpectation Maximization (WEM)\nMasroor\net\nal.\n[88] optimal deployme",
+  "section_title": "TABLE VI: AI/ML in UAV Networks",
+  "image_filename": "page_012_fig_02.jpeg",
+  "relative_path": "images/page_012_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "air",
+    "zhang",
+    "path",
+    "loss",
+    "knn",
+    "random",
+    "forest",
+    "alsamhi",
+    "estimate",
+    "channel"
+  ],
+  "cross_references": [
+    {
+      "page": 12,
+      "snippet": "Fig. 8: Centrally Controlled Transmission Range [111]."
+    },
+    {
+      "page": 12,
+      "snippet": "Fig. 7 illustrates a UAV that uses the same transmitting\npower PTx to form a link with all other UAVs within its\ntransmission range. A graphical depiction of the network\ntopology, structured like an M"
+    }
+  ],
+  "metadata": {
+    "width": 915,
+    "height": 381,
+    "size_bytes": 47638,
+    "format": "jpeg"
+  }
+}

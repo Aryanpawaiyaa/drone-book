@@ -1,0 +1,37 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 2",
+  "original_caption": "Fig. 2: The methodology of the literature review and research process. | Fig. 3: Percentage of articles from various publishers used in this review.",
+  "contextual_text": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z\n4 Fig. 2: The methodology of the literature review and research process. Fig. 3: Percentage of articles from various publishers used in\nthis review. networks in depth. According to the authors, the integration\nof 5G and 6G technologies will make UAV networks\nultra-reliable and pervasive. Gupta et al. [46] demonstrated a blockchain-assisted secure\nUAV communication over 6G mobile networks. In the same\narticle, research challenges and future directions for further\nimprovement, as well as architecture, are also discussed. Han\net al. [47] looked at 5G communication networks and mobile\nedge computing (MEC) as viable technologies for supporting\nUAV-enabled ecosystems and overcoming fundamental UAV\nnetwork problems including limited computation, storage, and\ncoverage. They also debated the 5G and MEC alternatives,\noutlining the latest advances and attempting to address some\nof the critical problems. A",
+  "section_title": "I-B Research Methodology",
+  "image_filename": "page_004_fig_02.jpeg",
+  "relative_path": "images/page_004_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "methodology",
+    "review",
+    "research",
+    "literature",
+    "process",
+    "percentage",
+    "articles",
+    "various",
+    "publishers"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "Fig. 2: The methodology of the literature review and research process."
+    },
+    {
+      "page": 5,
+      "snippet": "this study, however, we employ a fundamental procedure\n[61],to identify and ﬁlter the existing literature on the issue\nof UAV integration into 6G networks. Fig. 2 depicts the\narticle screening procedu"
+    }
+  ],
+  "metadata": {
+    "width": 409,
+    "height": 260,
+    "size_bytes": 9417,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 1",
+  "original_caption": "RSSI Received Signal Strength Indicator SAR Search and Rescue SC-OFDMA Single Carrier OFDMA SCADA Supervisory Control and Data Acquisition SFC Service Function Chaining SINR Signal-to-Interference and Noise Ratio SOA Service Oriented Architecture U2G UAV-to-Ground U2U UAV-to-UAV UAS Unmanned Aerial System UAV Unmanned Aerial Vehicle UE User Equipment ULA Uniform Linear Antenna Array URLLC Ultra-Reliable Low Latency Communication UTM UAV Traffic Management VNF Virtual Network Function | Fig. 1. Integration opportunities of UAV with Cellular Network.",
+  "contextual_text": "Computer Networks 182 (2020) 107451 2 D. Mishra and E. Natalizio List of abbreviations 3GPP\nThird Generation Partnership Project\n5G/B5G\nFifth Generation/Beyond Fifth Generation\nAI\nArtificial Intelligence\nANN\nArtificial Neural Network\nAR/VR\nAugmented Reality/Virtual Reality\nATC\nAir Traffic Control\nBDMA\nBeam Division Multiple Access\nBVLoS\nBeyond Visual Line of Sight\nCAGR\nCompound Annual Growth Rate\nCNPC\nControl and Non-Payload Communication\nCOTS\nCommercial off-the-shelf\nCPS\nCyber–Physical System\nDPDK\nData Plane Development Kit\nEARFCN\nAbsolute Radio Frequency Channel Num-\nber\neMBB\nExtreme Mobile Broadband\nETSI\nEuropean Telecommunications Standards\nInstitute\nG2U\nGround-to-UAV\nGCS\nGround Control Station\nGPRS\nGeneral Packet Radio Service\nGSM\nGlobal System for Mobile Communications\nHAP\nHigh Altitude Platform\nHD\nHigh Definition\nICIC\nInter-Cell Interference Coordination\nIIoT\nIndustrial Internet of Things\nIoT\nInternet of Things\nKPI\nKey Performance Indicators\nLAP\nLow Altitude Platform\nLoS\nLine of",
+  "section_title": "1.1. UAV communication requirement",
+  "image_filename": "page_002_fig_01.jpeg",
+  "relative_path": "images/page_002_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "signal",
+    "ofdma",
+    "service",
+    "function",
+    "unmanned",
+    "aerial",
+    "communication",
+    "network",
+    "rssi"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "Fig. 1. Integration opportunities of UAV with Cellular Network."
+    },
+    {
+      "page": 3,
+      "snippet": "The integration of UAVs to cellular network falls under three broad\nparadigms [23,24], as shown in Fig. 1:"
+    },
+    {
+      "page": 11,
+      "snippet": "Fig. 10. UAVs with diverse network functions."
+    },
+    {
+      "page": 11,
+      "snippet": "Fig. 11. Deployment on multi-domain UAV services [109]."
+    },
+    {
+      "page": 12,
+      "snippet": "configured according to the need of the civilian mission. They have\nconsidered the UAVs to provide infrastructure and hardware that\nenable agile integration of network functions at deployment time by\n"
+    },
+    {
+      "page": 12,
+      "snippet": "A software based service architecture running on a distributed\ncloud environment is demonstrated in [109]. In this demonstration,\nan Industry 4.0 application controlling the indoor drones is considere"
+    },
+    {
+      "page": 12,
+      "snippet": "In [110], the authors presented a UAV-enabled MEC architecture\napplicable for cellular-connected UAVs. Fig. 12(a) illustrates this archi-\ntecture, where the UAV has some computational task to be execu"
+    },
+    {
+      "page": 12,
+      "snippet": "the total time for UAV mission considering the maximum speed and\nground station capacity constraints. This setup is shown in Fig. 12(b)."
+    },
+    {
+      "page": 12,
+      "snippet": "In [41], the authors envision a heterogeneous UAV network archi-\ntecture, where UAVs are used to deliver value-added IoT services from\nthe sky. The UAVs are considered as key enabler of IoT framework "
+    },
+    {
+      "page": 12,
+      "snippet": "In [116], the authors presented Dronemap Planner, a service-\noriented cloud based UAV management system, which performs overall\nmanagement of UAVs over Internet and control their communication\nand mis"
+    },
+    {
+      "page": 13,
+      "snippet": "Fig. 12. Network Architectures of Cellular-connected UAV."
+    },
+    {
+      "page": 13,
+      "snippet": "Fig. 13. Service Oriented System Architecture of UAV [116]."
+    },
+    {
+      "page": 14,
+      "snippet": "Fig. 14. Coexistence performance of aerial UE and ground UE, 700 MHz in rural\nsetting [131]."
+    },
+    {
+      "page": 14,
+      "snippet": "proposal is validated by a testbed setup involving 2 × 2 MIMO where\nwide beam transmitters are employed half-power beams at 60◦on\nazimuth and elevation planes and 6 dBi forward gain. Fig. 14 shows\nthe"
+    },
+    {
+      "page": 16,
+      "snippet": "An open-source 4G connected and controlled self-flying UAV is\ndemonstrated in [139], defining a new, light-weight, secure and open-\nsource class of cellular-connected UAV. This work utilizes open-sour"
+    },
+    {
+      "page": 16,
+      "snippet": "Fig. 15. Prototype design and configurations in [139]."
+    },
+    {
+      "page": 17,
+      "snippet": "Fig. 16.\nSchematic of the avionics components in [139]."
+    },
+    {
+      "page": 17,
+      "snippet": "Fig. 17. High level schematics of the prototype setup in [141]."
+    },
+    {
+      "page": 17,
+      "snippet": "open source software for ground control station software. The field tests\nare conducted by sending basic control commands from smartphone\nor laptop to UAV and they are successfully executed by the UAV"
+    },
+    {
+      "page": 20,
+      "snippet": "Fig. 18. High level architecture of 3GPP Release 16 work on remote identification of\nUAS."
+    },
+    {
+      "page": 20,
+      "snippet": "7.1.2. Release-16\nThis release plan started in September, 2016 and the approval for\nstage-3 development was conducted on December, 2019. This release\nwork is mainly on System and Application layer asp"
+    }
+  ],
+  "metadata": {
+    "width": 981,
+    "height": 595,
+    "size_bytes": 87616,
+    "format": "jpeg"
+  }
+}

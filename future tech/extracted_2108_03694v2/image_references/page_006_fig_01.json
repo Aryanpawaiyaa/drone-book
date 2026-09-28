@@ -1,0 +1,42 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 7",
+  "original_caption": "The bottom plots in Fig. 7 demonstrate how the adaptation, implemented using synaptic plasticity on the neuromorphic chip, helps to remove the offset induced by an additional weight of 125g mounted on one of the UAV’s arms. The plots show the roll of the drone at different target roll angles. From the blue traces in Fig. 7, as well as from the obtained errors for the CPU controller reported in Table I, it is clear that this additional weight of 125g represents a strong disturbance. Without adaptation, a persistent steady- state error of roughly 20◦is observed, while the adaptation in the SNN controller removes this offset. With the added weight, the CPU controller’s average error increases roughly by a factor of 2-3, while the adaptive controller manages to maintain the same error as without the disturbance. Note, the behavior of the adaptive controller here depends on the direction of the perturbation relative to the set point, showing the limitation of a simple single-value adaptive term. State- dependent adaptation can be explored in the SNN in future work. | By integrating the event-based vision sensor more tightly with neuromorphic processors, we removed one of the bot- tlenecks in unleashing the full functionality of neuromorphic vision-driven control. The complexity of the visual task can be increased now by using large SNNs on chip, while maintaining lower latencies and lower power consumption, supported by good scaling properties of parallel and asyn- chronous neuromorphic hardware [20].",
+  "contextual_text": "for the experiments done with the SNN controller. This is due\nto the limited output resolution of the SNN controller (360\nvalues) causing small oscillations around the set-points. The\nRMSEs were obtained by averaging over runs of 10 seconds\neach. The bottom plots in Fig. 7 demonstrate how the adaptation,\nimplemented using synaptic plasticity on the neuromorphic\nchip, helps to remove the offset induced by an additional\nweight of 125g mounted on one of the UAV’s arms. The\nplots show the roll of the drone at different target roll\nangles. From the blue traces in Fig. 7, as well as from the\nobtained errors for the CPU controller reported in Table I,\nit is clear that this additional weight of 125g represents a\nstrong disturbance. Without adaptation, a persistent steady-\nstate error of roughly 20◦is observed, while the adaptation\nin the SNN controller removes this offset. With the added\nweight, the CPU controller’s average error increases roughly\nby a factor of 2-3, while the adaptive control",
+  "section_title": "REFERENCES",
+  "image_filename": "page_006_fig_01.png",
+  "relative_path": "images/page_006_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "controller",
+    "adaptation",
+    "neuromorphic",
+    "weight",
+    "error",
+    "while",
+    "adaptive",
+    "plots",
+    "chip",
+    "offset"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "In this series of experiments, we demonstrate the value\nof implementing the SNN controller in neuromorphic hard-\nware, namely the possibility to explore on-chip learning\nto autonomously adjust the con"
+    },
+    {
+      "page": 6,
+      "snippet": "The bottom plots in Fig. 7 demonstrate how the adaptation,\nimplemented using synaptic plasticity on the neuromorphic\nchip, helps to remove the offset induced by an additional\nweight of 125g mounted on"
+    },
+    {
+      "page": 6,
+      "snippet": "Fig. 7: Adaptive control experiments (without vision). Top:\nA trial run to illustrate the similar accuracy of both con-\ntrollers. Bottom: Left Two trial runs using the software\ncontroller with the add"
+    }
+  ],
+  "metadata": {
+    "width": 1920,
+    "height": 936,
+    "size_bytes": 64522,
+    "format": "png"
+  }
+}

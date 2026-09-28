@@ -1,0 +1,34 @@
+{
+  "original_page": 43,
+  "figure_number": "Fig. 38",
+  "original_caption": "Fig. 38: Control and Data Planes in SDN Platform. | lossy network (RPL) [324], this protocol can utilize different low power communication technologies, such as low power WiFi, IEEE 802.15.4 [346], which is a standard for low-power and low rate wireless communications and can be used for UAV-UAV communications in FANET [347]. The IPv6 over Low Power Wireless Personal Area Networks (6LoWPAN) deﬁnes a set of protocols that can be used to integrate nodes with IPv6 datagrams over constrained networks such as FANET [348].",
+  "contextual_text": "43 Fig. 38: Control and Data Planes in SDN Platform. lossy network (RPL) [324], this protocol can utilize different\nlow power communication technologies, such as low power\nWiFi, IEEE 802.15.4 [346], which is a standard for low-power\nand low rate wireless communications and can be used for\nUAV-UAV communications in FANET [347]. The IPv6 over\nLow Power Wireless Personal Area Networks (6LoWPAN)\ndeﬁnes a set of protocols that can be used to integrate\nnodes with IPv6 datagrams over constrained networks such\nas FANET [348]. 3) Future Insights: Based on the reviewed literature of the\nnetworking challenges and new networking trends of FANET,\nwe suggest these future insights: • SDN services can be developed to support FANET func-\ntions, such as surveillance, safety and security services. • Further studies are needed to study the SDN deployment\nin FANET with high reliability, reachability and fast\nmobility of UAV nodes [349] • More research is needed to develope speciﬁc security\nprotocols for FA",
+  "section_title": "XII-C3 Future Insights",
+  "image_filename": "page_043_fig_01.png",
+  "relative_path": "images/page_043_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "low",
+    "power",
+    "such",
+    "wireless",
+    "communications",
+    "uav",
+    "fanet",
+    "over",
+    "networks",
+    "control"
+  ],
+  "cross_references": [
+    {
+      "page": 43,
+      "snippet": "Fig. 38: Control and Data Planes in SDN Platform."
+    }
+  ],
+  "metadata": {
+    "width": 1010,
+    "height": 580,
+    "size_bytes": 76222,
+    "format": "png"
+  }
+}

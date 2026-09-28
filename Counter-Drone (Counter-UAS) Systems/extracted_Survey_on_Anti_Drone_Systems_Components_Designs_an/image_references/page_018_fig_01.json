@@ -1,0 +1,29 @@
+{
+  "original_page": 18,
+  "figure_number": "FIGURE 12",
+  "original_caption": "Coefﬁcient Ti Airplane crash (120) | Human casu- alty (100)",
+  "contextual_text": "This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/ This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2021.3065926, IEEE Access TABLE 9: Potential threat derivation according to priority classiﬁcation (airport) area class Damage types Coefﬁcient\nTi\nAirplane\ncrash\n(120) Human casu-\nalty\n(100) Airport\nparalysis\n(60) Facility\nexplosion\n(80) Facility dam-\nage, civilian\ninjuries\n(20) Other\ndamage\n(10) Class I\nY\nY\nY\nN\nY\nN\n300/300\n1.0β Class II\nN\nY\nY\nY\nY\nN\n260/300\n0.867β Class III\nY\nN\nY\nN\nY\nY\n210/300\n0.667β Class IV\nN\nN\nN\nN\nY\nY\n30/300\n0.1β where d is the distance between the drone and area of interest\nand D is the system’s maximum detection range. wd indi-\ncates a weight of threat with respect to a speciﬁc area, which\nincreases when the drone approaches t",
+  "section_title": "C",
+  "image_filename": "page_018_fig_01.png",
+  "relative_path": "images/page_018_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "airplane",
+    "crash",
+    "human",
+    "casu",
+    "alty"
+  ],
+  "cross_references": [
+    {
+      "page": 18,
+      "snippet": "FIGURE 12: Risk model for drone neutralization"
+    }
+  ],
+  "metadata": {
+    "width": 1230,
+    "height": 655,
+    "size_bytes": 109840,
+    "format": "png"
+  }
+}

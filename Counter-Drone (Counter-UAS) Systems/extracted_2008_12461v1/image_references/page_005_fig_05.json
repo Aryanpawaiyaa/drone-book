@@ -1,0 +1,38 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 4",
+  "original_caption": "To utilize the spectrum patterns of UAS, in [40], an Artiﬁcial Neural Networks (ANN) detection algorithm for a UAS RF signal was proposed which employs three signal features: improved slope, improved skewness, and improved kurtosis. It was shown that the proposed algorithm based on ANN outperforms other recognition technologies of the improved slope, skewness, and kurtosis of signal spectrum. | RF spectral",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n5 Fig. 3: Evolution of UAS Detection Technologies of UAS in a large scale. Machine learning (ML) presents\na tremendous opportunity of integrating with the acoustic\nsensing into acoustic based UAS detection for improved UAS\ndetection performance. B. Passive RF based Detection UAS usually maintain at least one Radio Frequency (RF)\ncommunication data link to its remote controller to either\nreceive control commands or deliver aerial images. In this\ncase, the spectral patterns of such transmission are used as\nan important evidence for the detection and localization of\nUAS. Different passive RF technologies are shown in Fig. 4.\nIn most cases, Software Deﬁned Radio (SDR) receivers are\nemployed to intercept the RF channels. To utilize the spectrum patterns of UAS, in [40], an Artiﬁcial\nNeural Networks (ANN) detection algorithm for a UAS RF\nsignal was proposed which employs three signal features:\nimproved slope, improved skewness, and improved kurtosis.\nIt was shown t",
+  "section_title": "III-B Passive RF based Detection",
+  "image_filename": "page_005_fig_05.jpeg",
+  "relative_path": "images/page_005_fig_05.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "improved",
+    "signal",
+    "spectrum",
+    "uas",
+    "ann",
+    "detection",
+    "algorithm",
+    "proposed",
+    "slope",
+    "skewness"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "UAS usually maintain at least one Radio Frequency (RF)\ncommunication data link to its remote controller to either\nreceive control commands or deliver aerial images. In this\ncase, the spectral patterns"
+    },
+    {
+      "page": 5,
+      "snippet": "Fig. 4: Categorization of passive RF approaches"
+    }
+  ],
+  "metadata": {
+    "width": 417,
+    "height": 167,
+    "size_bytes": 12752,
+    "format": "jpeg"
+  }
+}

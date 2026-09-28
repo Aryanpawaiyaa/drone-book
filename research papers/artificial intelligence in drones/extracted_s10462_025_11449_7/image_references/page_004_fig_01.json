@@ -1,0 +1,31 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 2",
+  "original_caption": "S. Ahmad et al. | 1.1  UAV networks based on AI",
+  "contextual_text": "S. Ahmad et al. 1.1  UAV networks based on AI AI is advancing and developing strategies that mimic or even surpass human intelligence. \nThe primary strength of AI lies in its ability to learn and adapt (Yao et al. 2024). AI tech­\nniques are particularly beneficial for UAV-based networks due to the inherent fluidity and \nunique challenges of this technology. Researchers are actively exploring artificial intelli­\ngence (AI) applications in UAV networks. This section discusses four critical aspects of \nAI-based UAV network design: location and direction, network architecture, privacy and \nsecurity, and general UAV applications. These areas are vital for the successful design and \ndeployment of next-generation drone (Letaief et al. 2019). 1.1.1  Privacy and security risks Two significant risks are associated with UAV networks: the inherent security vulnerabilities \nof wireless networks and issues concerning data privacy and traffic management in these \nnetworks, especially with dynamic top",
+  "section_title": "1.1.1  Privacy and security risks",
+  "image_filename": "page_004_fig_01.jpeg",
+  "relative_path": "images/page_004_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "ahmad",
+    "uav",
+    "networks",
+    "based",
+    "privacy",
+    "security",
+    "risks"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "Fig. 2  This diagram illustrates the multifaceted applications of AI in UAV (Unmanned Aerial Vehicle) \nnetworks, including privacy, security, and efficient routing. Highlights challenges and solutions"
+    }
+  ],
+  "metadata": {
+    "width": 1418,
+    "height": 1049,
+    "size_bytes": 173917,
+    "format": "jpeg"
+  }
+}

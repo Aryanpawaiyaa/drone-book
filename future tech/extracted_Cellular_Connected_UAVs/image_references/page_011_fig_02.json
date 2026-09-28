@@ -1,0 +1,38 @@
+{
+  "original_page": 11,
+  "figure_number": "Fig. 10",
+  "original_caption": "MEC-Oriented [110], [111], [112], [113] The cloud computing capabilities are placed close to edge of mobile network | • Significant reduction in data exchange cost • Computational offloading to local servers • Improvement of QoE for end users",
+  "contextual_text": "Computer Networks 182 (2020) 107451 11 D. Mishra and E. Natalizio Table 5\nEnvisioned Network architectures of Cellular-connected UAV. Technology\nPrinciple\nBenefits NFV-Oriented [107], [108], [109]\nDecouples the hardware and software that exists in\ntraditional vendor network setting • Greater flexibility for NF deployment\n• Dynamic service provisioning\n• Easily deployable and well scalable\n• Efficient allocation to general purpose hardware MEC-Oriented [110], [111], [112], [113]\nThe cloud computing capabilities are placed close\nto edge of mobile network •\nSignificant reduction in data exchange cost\n•\nComputational offloading to local servers\n•\nImprovement of QoE for end users IoT-Oriented [41], [62], [66], [58], [114]\nConnecting massive number of diverse, smart\ndevices to 5G/B5G cellular network • Assists efficient decision making on huge data\n• Extracting meaningful information for end users\n• Control automation without human intervention\n• Information sharing and communication Service",
+  "section_title": "NFV oriented architectures",
+  "image_filename": "page_011_fig_02.jpeg",
+  "relative_path": "images/page_011_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "oriented",
+    "mec",
+    "cloud",
+    "computing",
+    "capabilities",
+    "placed",
+    "close",
+    "edge",
+    "mobile",
+    "network"
+  ],
+  "cross_references": [
+    {
+      "page": 11,
+      "snippet": "Fig. 10. UAVs with diverse network functions."
+    },
+    {
+      "page": 12,
+      "snippet": "configured according to the need of the civilian mission. They have\nconsidered the UAVs to provide infrastructure and hardware that\nenable agile integration of network functions at deployment time by\n"
+    }
+  ],
+  "metadata": {
+    "width": 897,
+    "height": 659,
+    "size_bytes": 72270,
+    "format": "jpeg"
+  }
+}

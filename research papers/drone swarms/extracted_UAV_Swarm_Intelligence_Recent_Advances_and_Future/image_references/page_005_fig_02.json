@@ -1,0 +1,38 @@
+{
+  "original_page": 5,
+  "figure_number": "FIGURE 5",
+  "original_caption": "network (FANET) of a mobile UAV has a dynamic topology. Due to the limitation of drone battery resources and maneu- verability, the routing in FANET is unstable. FIGURE 5 shows a biologically-inspired FANETs clustering algorithm, through the use of gray wolf optimization and clustering algorithm based on ant colony optimization, the performance of the system is evaluated in a terms of cluster construction time, energy consumption, cluster life cycle and delivery success probability [33]. | FIGURE 5. Working framework of proposed BICSF.",
+  "contextual_text": "Y. Zhou et al.: UAV Swarm Intelligence: Recent Advances and Future Trends network (FANET) of a mobile UAV has a dynamic topology.\nDue to the limitation of drone battery resources and maneu-\nverability, the routing in FANET is unstable. FIGURE 5\nshows a biologically-inspired FANETs clustering algorithm,\nthrough the use of gray wolf optimization and clustering\nalgorithm based on ant colony optimization, the performance\nof the system is evaluated in a terms of cluster construction\ntime, energy consumption, cluster life cycle and delivery\nsuccess probability [33]. FIGURE 5. Working framework of proposed BICSF. Advanced multi-UAV control technology requires a gen-\neral task assignment algorithm under resource constraints.\nThrough the use of a cross-entropy-based multi-type UAV\nsynergic task assignment method, under limited resource con-\nditions, efﬁcient and accurate task assignment for different\ntypes of cooperative UAVs is achieved [34]. To be able to\nfully synchronize all the drones in t",
+  "section_title": "FIGURE 5. Working framework of proposed BICSF.",
+  "image_filename": "page_005_fig_02.png",
+  "relative_path": "images/page_005_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "fanet",
+    "clustering",
+    "algorithm",
+    "optimization",
+    "cluster",
+    "working",
+    "framework",
+    "proposed",
+    "bicsf",
+    "network"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "network (FANET) of a mobile UAV has a dynamic topology.\nDue to the limitation of drone battery resources and maneu-\nverability, the routing in FANET is unstable. FIGURE 5\nshows a biologically-inspired"
+    },
+    {
+      "page": 5,
+      "snippet": "FIGURE 5. Working framework of proposed BICSF."
+    }
+  ],
+  "metadata": {
+    "width": 509,
+    "height": 449,
+    "size_bytes": 27409,
+    "format": "png"
+  }
+}

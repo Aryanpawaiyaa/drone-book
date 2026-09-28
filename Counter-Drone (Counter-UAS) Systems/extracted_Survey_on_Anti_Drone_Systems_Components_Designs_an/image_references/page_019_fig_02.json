@@ -1,0 +1,34 @@
+{
+  "original_page": 19,
+  "figure_number": "FIGURE 14",
+  "original_caption": "This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI | 10.1109/ACCESS.2021.3065926, IEEE Access",
+  "contextual_text": "This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/ This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2021.3065926, IEEE Access FIGURE 13: Estimated risk from drone ﬂight path and neu-\ntralization point larger area of low r(−→p ) values, and larger Deff implies\nlarger available response area. c(−→\ndt) and Deff are strongly\nrelated to the particular neutralization system selected, and\nhence are essential parameters to evaluate neutralization per-\nformance. Fig. 13 shows a simple drone ﬂight simulation coded in\nMATLAB to verify the proposed risk model validity. We\nformed a (100, 100, 100) simulation space, with estimated\nﬂight path from (5, 5) to (100, 90) and 3 designated areas\nwith potential threats levels {50, 30, 20}. The drone response\nteam (dev",
+  "section_title": "10.1109/ACCESS.2021.3065926, IEEE Access",
+  "image_filename": "page_019_fig_02.png",
+  "relative_path": "images/page_019_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "access",
+    "publication",
+    "ieee",
+    "article",
+    "accepted",
+    "future",
+    "issue",
+    "journal",
+    "but",
+    "not"
+  ],
+  "cross_references": [
+    {
+      "page": 19,
+      "snippet": "FIGURE 14: Advances and requirements for detection tech-\nnologies"
+    }
+  ],
+  "metadata": {
+    "width": 1068,
+    "height": 734,
+    "size_bytes": 75575,
+    "format": "png"
+  }
+}

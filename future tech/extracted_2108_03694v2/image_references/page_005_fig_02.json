@@ -1,0 +1,31 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 6",
+  "original_caption": "E. Experiments | III. RESULTS",
+  "contextual_text": "ing neurons receive an input spike from the on-chip spike\ngenerator according to the current roll angle of the drone. E. Experiments First, we demonstrate that the neuromorphic controller is\nable to perform with similar speed and accuracy as the state\nof the art event-driven CPU controller in an extreme control\nscenario, such as controlling a drone moving at high speeds.\nIn order to maintain the disk at different constant speeds, a\nmotorized wheel was attached to the axis of the disk and\nthe rotational speed was kept constant for 10s. To ignore\ninitial transient effects, the analysis of the data was done\nonly for the second half (5s) of the experiment. To quantify\nthe performance, the RMSE between the reading on the disk\nand drone encoders was calculated after correction for the\ndelay, induced by the overall motor plant (on order of 100-\n150ms).\nTo quantify the ability of the on-chip plasticity to adapt\ncontrol parameters online, a reference trajectory was imposed\non the drone to bring",
+  "section_title": "III. RESULTS",
+  "image_filename": "page_005_fig_02.png",
+  "relative_path": "images/page_005_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "iii",
+    "results",
+    "experiments"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "Fig. 6 shows the closed-loop response when using the\nLoihi or the CPU to obtain an angle estimate from the visual\nfeedback. In this experiment, the disk with the visual pattern\nwas turned manually and"
+    },
+    {
+      "page": 5,
+      "snippet": "Fig. 6: Top: Line tracking using the Loihi visual processing\nas controller input. Bottom: Line tracking using the CPU\nvisual processing as controller input."
+    }
+  ],
+  "metadata": {
+    "width": 1680,
+    "height": 947,
+    "size_bytes": 70927,
+    "format": "png"
+  }
+}

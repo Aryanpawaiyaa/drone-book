@@ -1,0 +1,38 @@
+{
+  "original_page": 23,
+  "figure_number": "Fig. 32",
+  "original_caption": "state. Each of these techniques are implemented in various ways such that the control output reacts differently from one another. In fact, the continuous research of these techniques is | becoming widely implemented for practical experiments where the variations in the controller response can be viewed. As a result, the dynamics react uniquely in terms of responsivity and robustness based on the selected controller. Nevertheless, the implementation approach is somewhat sim- ilar to the flowchart shown on Fig. 32, which is aimed at researchers who are modelling dynamics and designing a con- trol system for their selected UAV.",
+  "contextual_text": "state. Each of these techniques are implemented in various\nways such that the control output reacts differently from one\nanother. In fact, the continuous research of these techniques is becoming widely implemented for practical experiments\nwhere the variations in the controller response can be\nviewed. As a result, the dynamics react uniquely in terms of\nresponsivity and robustness based on the selected controller.\nNevertheless, the implementation approach is somewhat sim-\nilar to the flowchart shown on Fig. 32, which is aimed at\nresearchers who are modelling dynamics and designing a con-\ntrol system for their selected UAV. With regard to the controllers mentioned in this review, we\nnoticed that there is a great research focused on modifying the\ndesign to achieve an improved performance from the dynamic\nmodel. In particular, Quadrotors have been greatly researched\nfor applications that are carried out in outdoor environments.\nHowever, to reach that stage of complex behaviour analysis,\nt",
+  "section_title": "7.10 Comparative Study",
+  "image_filename": "page_023_fig_01.jpeg",
+  "relative_path": "images/page_023_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "these",
+    "techniques",
+    "implemented",
+    "controller",
+    "dynamics",
+    "selected",
+    "state",
+    "each",
+    "various",
+    "ways"
+  ],
+  "cross_references": [
+    {
+      "page": 23,
+      "snippet": "becoming widely implemented for practical experiments\nwhere the variations in the controller response can be\nviewed. As a result, the dynamics react uniquely in terms of\nresponsivity and robustness ba"
+    },
+    {
+      "page": 26,
+      "snippet": "Fig. 32 Flow chart illustrating a\nprocedural development of the\nsystem architecture"
+    }
+  ],
+  "metadata": {
+    "width": 1503,
+    "height": 1557,
+    "size_bytes": 160439,
+    "format": "jpeg"
+  }
+}

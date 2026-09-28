@@ -1,0 +1,29 @@
+{
+  "original_page": 11,
+  "figure_number": "Figure 5",
+  "original_caption": "3.2. Method | To process the events, a relevant and valid method is required depending on the event representation and specifics of the hardware platform. Moreover, the relevant information from event data that needs to be extracted to fulfil the required task depends on the application and algorithm being utilized [18]. However, the efficacy of such efforts varies significantly based on the nature of the application and the unique demands it places on the data being extracted [18]. Figure 5 presents an overview of common methods used for event-based SLAM.",
+  "contextual_text": "Biomimetics 2024, 9, 444\n11 of 41 3.2. Method To process the events, a relevant and valid method is required depending on the event\nrepresentation and specifics of the hardware platform. Moreover, the relevant information\nfrom event data that needs to be extracted to fulfil the required task depends on the\napplication and algorithm being utilized [18]. However, the efficacy of such efforts varies\nsignificantly based on the nature of the application and the unique demands it places on\nthe data being extracted [18]. Figure 5 presents an overview of common methods used for\nevent-based SLAM. Figure 5. Common methods used in event-based SLAM. 3.2.1. Feature-Based Methods The feature-based VSLAM algorithms comprise two main elements: (1) the extraction\nand tracking of features, and (2) the tracking and mapping of the camera. During the\nfeature extraction phase, resilient features, immune to diverse factors such as motion, noise,\nand changes in illumination, are identified. The ensuing featur",
+  "section_title": "3.2.1. Feature-Based Methods",
+  "image_filename": "page_011_fig_01.jpeg",
+  "relative_path": "images/page_011_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "event",
+    "based",
+    "method",
+    "relevant",
+    "required",
+    "data",
+    "extracted",
+    "application",
+    "being",
+    "methods"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1112,
+    "height": 872,
+    "size_bytes": 209398,
+    "format": "jpeg"
+  }
+}

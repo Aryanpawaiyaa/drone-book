@@ -1,0 +1,38 @@
+{
+  "original_page": 12,
+  "figure_number": "Fig. 6",
+  "original_caption": "where Aπ(s, a) = Qπθ(s, a)−Vπθ(s) is termed the Advantage function, in which Qπθ(s, a) is the action-value function and Vπθ(s) is the state-value function. With this advantage function, variance of the gradient can be reduced which improves model training stability. It is very time consuming to ﬁnd hyperparameters that stabilize the learning process, since A2C relies on the initial estimation of values, therefore A2C algorithms can be challenging to design or further time- consuming for real-time training scenarios. | To further accelerate policy convergence, an Asynchronous",
+  "contextual_text": "of low-complexity inference models with ML algorithms to\nreduce the impact of long training times on system perfor-\nmance in such scenarios. Additionally, when simultaneously\noptimizing multiple agents, as in multi-agent reinforcement\nlearning (MARL), the computation complexity and communi-\ncation overhead increase exponentially due to the additional\nproblem dimensionality. This may further exaggerate the sim-\nto-real gap based on the aggregate generalizations made across\nmultiple agent representations in the twin domain. In the\nexample of a self-coordinating swarm UAV network, each\nagent may be required to relay signiﬁcant state information\nincluding location, speed, height, and network status of itself\nand other agents to the twin domain in each training step to\navoid collisions, reduce interference, and take actions without\nloss of information. Additionally, as the number of agents\nincrease, the amount of information required by the twin\ndomain to maintain an accurate model of the p",
+  "section_title": "𝑈ଶଵ",
+  "image_filename": "page_012_fig_01.jpeg",
+  "relative_path": "images/page_012_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "function",
+    "time",
+    "advantage",
+    "value",
+    "training",
+    "consuming",
+    "further",
+    "where",
+    "termed",
+    "action"
+  ],
+  "cross_references": [
+    {
+      "page": 12,
+      "snippet": "Fig. 6: (a) Snapshot of the UB NeXT testbed; (b) UB NeXT testbed topology."
+    },
+    {
+      "page": 13,
+      "snippet": "In addition to AERPAW, the UB NeXT testbed [80] pro-\nvides a comprehensive framework for network virtualization\nand domain adaptation research in integrated aerial-ground\nwireless networking. We have "
+    }
+  ],
+  "metadata": {
+    "width": 1514,
+    "height": 1053,
+    "size_bytes": 267804,
+    "format": "jpeg"
+  }
+}

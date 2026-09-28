@@ -1,0 +1,29 @@
+{
+  "original_page": 17,
+  "figure_number": "Figure 8",
+  "original_caption": "simplified forms are used to calculate tether parameters such as elevation angle β and curved cable length L [122]: |   ",
+  "contextual_text": "Drones 2025, 9, 425\n17 of 48 simplified forms are used to calculate tether parameters such as elevation angle β and\ncurved cable length L [122]: \n\n \n z = λ \u0002 cosh \u0000 r λ \u0001 −1 \u0003 dz\ndr = tβ = sinh \u0000 r λ \u0001 L = λsinh \u0000 r λ \u0001\n(18) Figure 8. Catenary representation of the tether cable in the symmetric configuration: (a) Top view\nillustration representing both inertial and body-fixed reference frames, the azimuthal coordinate γ,\nand the relation between Cartesian coordinates xy and radial position r; (b) Side view representation\nof the tether curved length L, tension horizontal component T0 at ground endpoint, and the angle of\ntension application β at drone endpoint. While most models assume a fixed anchor point, adaptations exist for mobile bases\nsuch as UGVs [97] or USVs [119]. Similar principles have also been applied to hose-based\ntether systems [58]. Overall, static models are most appropriate for low-speed or hovering\napplications, where inertial effects are minimal. 3.2.2. Tether D",
+  "section_title": "3.2.2. Tether Dynamics",
+  "image_filename": "page_017_fig_01.jpeg",
+  "relative_path": "images/page_017_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "tether",
+    "simplified",
+    "forms",
+    "calculate",
+    "parameters",
+    "such",
+    "elevation",
+    "angle",
+    "curved",
+    "cable"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1555,
+    "height": 526,
+    "size_bytes": 67439,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "source_pdf": "N0620210303.pdf",
+  "total_pages": 9,
+  "total_extracted_images": 5,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\war case studies\\extracted_N0620210303",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

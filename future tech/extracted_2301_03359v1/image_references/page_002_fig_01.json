@@ -1,0 +1,45 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 1",
+  "original_caption": "E.g.: Aerial-Ground | Mobile Network",
+  "contextual_text": "Twin Domain Contains accurate model of physical entity \nCan be centralized or deployed on edge servers \nAccelerates AI using both real and synthetic data Physical Domain Data generation and collection\nEnvironmental interaction\nParameterized control Wireless Network E.g.: Aerial-Ground Mobile Network Base Station End Devices Centralized \nNetwork Control Aerial Backhaul Network Location information \nNetwork performance\nRF interference\nGround truth data Data Acquisition Domain Adaptation Reality gap measurement \nTraining data generation\nDomain-agnostic feature extraction\nSystem identification Optimization and Learning AI integration \nParametric analysis \nAutonomous control\nProcessing/ Analytics\nMachine \nLearning Modeling and Softwarization Hybrid simulation\nSystem virtualization\nData fusion \nSynthetic sensing\nDataset construction Virtual Networking Scenario Fig. 1: Top-level overview of a DT-enabled system. [18], trajectory and passive beamforming design in UAV-RIS\nw",
+  "section_title": "I. INTRODUCTION",
+  "image_filename": "page_002_fig_01.jpeg",
+  "relative_path": "images/page_002_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "aerial",
+    "ground",
+    "mobile",
+    "network",
+    "introduction"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "Fig. 1: Top-level overview of a DT-enabled system."
+    },
+    {
+      "page": 3,
+      "snippet": "Digital twins were ﬁrst introduced in the NASA Apollo pro-\ngram as a “multi-physics, multi-scale probabilistic simulation”\nof an object, system, or process in the physical world, which\nuses physical p"
+    },
+    {
+      "page": 4,
+      "snippet": "In a DT system, the role of data acquisition is to generate\nand maintain a virtual environment using ground truth data\nfrom the physical domain. In addition to data required to build\nthe virtual model"
+    },
+    {
+      "page": 4,
+      "snippet": "We identify online environment virtualization using various\ndata acquisition techniques as a key enabling technology for\nreal-time and mission-critical applications of DT in unknown\nphysical environme"
+    },
+    {
+      "page": 11,
+      "snippet": "Robustness Mechanisms. Robust learning aims to mitigate\nthe effect of environmental perturbances, such as modeling\nerrors, time-varying dynamics, or unreliable data, on the\nresulting control policy. T"
+    }
+  ],
+  "metadata": {
+    "width": 75,
+    "height": 75,
+    "size_bytes": 2577,
+    "format": "jpeg"
+  }
+}

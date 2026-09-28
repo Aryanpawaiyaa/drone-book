@@ -1,0 +1,30 @@
+{
+  "original_page": 16,
+  "figure_number": "Fig. 8",
+  "original_caption": "S. Ahmad et al. | 4.1.1  Critical insight (Table 3)",
+  "contextual_text": "S. Ahmad et al. 4.1.1  Critical insight (Table 3) Table 3 shows useful methods but also makes the trade offs clear. Older path planning and \nMAC (Medium Access Control) designs are simple, stable, and use little energy, so they \nwork well in networks that do not change much. However, they cannot adjust quickly when \nthe network changes often, such as in busy urban areas or during fast UAV movements. On \nthe other hand, AI-based methods can adapt in real time and make smarter decisions for \nrouting and communication, which helps in complex and changing environments. But these \nmethods need more energy, computing power, and sometimes special hardware, which can \nreduce flight time and make drones more expensive. Another important issue is that many \nstudies do not focus on security and privacy. This can leave the network open to attacks like \njamming, spoofing, or data theft, which is risky for missions involving sensitive informa­\ntion. Overall, Table 2 shows that there is still no sing",
+  "section_title": "4.2.1  Dynamic channel access",
+  "image_filename": "page_016_fig_01.jpeg",
+  "relative_path": "images/page_016_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "ahmad",
+    "critical",
+    "insight",
+    "dynamic",
+    "channel",
+    "access"
+  ],
+  "cross_references": [
+    {
+      "page": 16,
+      "snippet": "Fig. 8  The diagram highlights the key autonomous features of UAV networks, organized into three main \ncategories: resource management and network planning, multiple access and routing protocols, and "
+    }
+  ],
+  "metadata": {
+    "width": 1182,
+    "height": 645,
+    "size_bytes": 48114,
+    "format": "jpeg"
+  }
+}

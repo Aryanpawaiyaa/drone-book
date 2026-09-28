@@ -1,0 +1,38 @@
+{
+  "original_page": 2,
+  "figure_number": "Fig. 1",
+  "original_caption": "minimal manual effort, by automatically and quickly sending an alert to the base station upon detection of movement. | 2.2. Leisure Pursuit",
+  "contextual_text": "minimal manual effort, by automatically and quickly sending an alert to\nthe base station upon detection of movement. 2.2. Leisure Pursuit In our modern world, there is an increasing interest in using light-\nweight UAVs (weighing less than 55 pounds) as a hobby and/or for a\nrecreational purpose [1]. 2.3. Disaster Management In the case of a natural disaster, UAVs can easily reach the disaster-\nstruck locations that are dangerous and difficult to access otherwise.\nThey can, therefore, provide disaster estimations and facilitate in put-\nting effective countermeasures in place. For example, in the case of a\nwildfire, a swarm of drones, equipped with fire extinguishers or similar,\ncan quickly examine and handle a large area without endangering\nhuman lives. 2.4. Environmental Mapping Mapping different environments via UAVs has been becoming an\nactive research topic such as in the fields of cartography [3] and ar-\nchaeology [1]. 2.5. Search and Rescue (S&R) UAVs can save a lot of time and man",
+  "section_title": "4. Dynamics and Flying Mechanisms",
+  "image_filename": "page_002_fig_01.png",
+  "relative_path": "images/page_002_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "minimal",
+    "manual",
+    "effort",
+    "automatically",
+    "quickly",
+    "sending",
+    "alert",
+    "base",
+    "station",
+    "upon"
+  ],
+  "cross_references": [
+    {
+      "page": 1,
+      "snippet": "A swarm or fleet of Unmanned Aerial Vehicles (UAVs) is a set of\naerial robots i.e., drones that work together to achieve a specific goal.\nEach drone in a swarm is propelled by a specific number of rot"
+    },
+    {
+      "page": 2,
+      "snippet": "Fig. 1. Classification of swarms."
+    }
+  ],
+  "metadata": {
+    "width": 839,
+    "height": 349,
+    "size_bytes": 49527,
+    "format": "png"
+  }
+}

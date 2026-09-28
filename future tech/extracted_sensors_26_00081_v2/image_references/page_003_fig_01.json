@@ -1,0 +1,29 @@
+{
+  "original_page": 3,
+  "figure_number": "Figure 1",
+  "original_caption": "Sensors 2026, 26, 81 3 of 32 | urban environments as well as severe hardware failure which could lead to losses [20]. These characteristics make them perfect for robotics and computer vision applications where conventional cameras are ineffective, like situations requiring high dynamic range or speed [21].",
+  "contextual_text": "Sensors 2026, 26, 81\n3 of 32 urban environments as well as severe hardware failure which could lead to losses [20].\nThese characteristics make them perfect for robotics and computer vision applications\nwhere conventional cameras are ineffective, like situations requiring high dynamic range\nor speed [21]. Figure 1. Reported drone or UAV accidents by year of occurrence [12]. Autonomous drones without event cameras react within tens of milliseconds, which\nfalls short for swift navigation in complex, dynamic environments. To safely avoid collision\nwith fast moving objects, drones need sensors and algorithms with minimal latency [22].\nSimilarly, Ref. [23] highlights the necessity of low latency for navigating unmanned aerial\nvehicles around dynamic obstacles. Event cameras stand out in these contexts due to their\nhigh dynamic range. For instance, Ref. [24] proposed an entirely asynchronous method for\nmonitoring intruders using unmanned aircraft systems (UASs), leveraging event cameras’\nuniq",
+  "section_title": "1.1. Background of the Study",
+  "image_filename": "page_003_fig_01.png",
+  "relative_path": "images/page_003_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "sensors",
+    "urban",
+    "environments",
+    "well",
+    "severe",
+    "hardware",
+    "failure",
+    "could",
+    "lead",
+    "losses"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1379,
+    "height": 749,
+    "size_bytes": 47602,
+    "format": "png"
+  }
+}

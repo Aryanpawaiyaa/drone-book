@@ -1,0 +1,34 @@
+{
+  "original_page": 15,
+  "figure_number": "Fig. 11",
+  "original_caption": "Discover Artificial Intelligence            (2024) 4:97   | https://doi.org/10.1007/s44163-024-00209-1\t Review | Fig. 11   SAR area monitoring using AI-enabled UAV",
+  "contextual_text": "Vol.:(0123456789) Discover Artificial Intelligence            (2024) 4:97  \n| https://doi.org/10.1007/s44163-024-00209-1\t\nReview foremost, UAV cameras gathered photos and video data from the forest. The picture would be in black and white, color, \nor RGB style for better detection and identification [161]. Regarding the data obtained from the video, the footage might be collected in its raw, night vision mode form [162]. \nSPOT is a program that can identify poachers in longer wavelength infrared heat UAV footage instantly [163]. SPOT \nsearches for poachers in the simulated infrared heat picture, and identifications of poachers are represented by blue \nrectangles [164]. The system learns from examples to pinpoint the most important elements of photos taken in natural \nsettings like forests and animals [165]. Currently, state-of-the-art methods, such as generative AI and UAVs, are trans-\nforming wildlife monitoring. These approaches create models that accurately identify and track animal",
+  "section_title": "4.5  \u0007Rescue operation surveillance with UAV embedded AI",
+  "image_filename": "page_015_fig_01.jpeg",
+  "relative_path": "images/page_015_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "discover",
+    "artificial",
+    "intelligence",
+    "https",
+    "doi",
+    "org",
+    "review",
+    "sar",
+    "area"
+  ],
+  "cross_references": [
+    {
+      "page": 15,
+      "snippet": "Fig. 11   SAR area monitoring using AI-enabled UAV"
+    }
+  ],
+  "metadata": {
+    "width": 1772,
+    "height": 759,
+    "size_bytes": 74206,
+    "format": "jpeg"
+  }
+}

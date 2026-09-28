@@ -1,0 +1,12 @@
+{
+  "source_pdf": "2504.07358v1.pdf",
+  "total_pages": 20,
+  "total_extracted_images": 15,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\Electronic Warfare (EW)\\extracted_2504_07358v1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

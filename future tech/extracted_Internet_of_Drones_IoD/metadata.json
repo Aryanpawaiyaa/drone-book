@@ -1,0 +1,268 @@
+{
+  "source_pdf": "Internet of Drones (IoD).pdf",
+  "total_pages": 24,
+  "total_extracted_images": 1,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Introduction ",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "Related Works ",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "Requirements of Internet of Drones (IoD) ",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "Communication Requirements ",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "Seamless Coverage ",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "Real-Time and Remote Communication ",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "Transmission of HD Image/Video ",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "Drone Identification and Regulation ",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "Positioning of High-Precision ",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "Security Requirements ",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "Authenticity ",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "Confidentiality ",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "Availability ",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "Integrity ",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "Non-Repudiation ",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "Taxonomy of IoD ",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "Architecture ",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Architecture Elements (Component) ",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Communication Protocols ",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "Middlewares ",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Service-Based ",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Cloud-Based ",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "Data Fusion and Sharing ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "Distributed ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "Centralized ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "Cloud-Based ",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Security ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "Authentication ",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "Privacy ",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "Intrusion Detection ",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "Availability ",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "Applications ",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "Smart Agriculture ",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "Mining ",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "Construction ",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "Emergency and Delivery Services ",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "Films and TV ",
+      "page": 13
+    },
+    {
+      "level": 1,
+      "title": "Commercial Case Studies ",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "Matternet ",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "ARIA ",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "DroneSmartX ",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "H3 Dynamics ",
+      "page": 15
+    },
+    {
+      "level": 1,
+      "title": "Recent Advancements ",
+      "page": 15
+    },
+    {
+      "level": 1,
+      "title": "Challenges and Future Research Trends ",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "Privacy and Security-Related Challenges ",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "Global Resource Management-Related Challenges ",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "Sensor Communication-Related Challenges ",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "Coordination and Tasks Scheduling-Related Challenges ",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "Drones Distribution and Deployment-Related Challenges ",
+      "page": 21
+    },
+    {
+      "level": 1,
+      "title": "Conclusions ",
+      "page": 21
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 21
+    }
+  ],
+  "output_directory": "f:\\drone-book\\future tech\\extracted_Internet_of_Drones_IoD",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

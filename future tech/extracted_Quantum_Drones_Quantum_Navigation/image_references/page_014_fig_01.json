@@ -1,0 +1,42 @@
+{
+  "original_page": 14,
+  "figure_number": "Fig. 11",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 11. Essential drone and satellite-based quantum hardware elements and proposed connectivity for ground-based applications.",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 11. Essential drone and satellite-based quantum hardware elements and proposed connectivity for ground-based applications. all, the landscape of literature shows that there are several dis-\ncussions about the future of quantum computing. Evidence from \nthe literature suggests that computers may be reprogrammed via \nquantum computing. In quantum entanglement, physical phenomena occur when a \nlarge number of particles come together in a way that each parti-\ncle’s quantum state cannot be described in isolation from the rest \nof the group. Fig. 12 shows a proposal of a multi-layered quantum \nentanglement-based approach for secure and faster communica-\ntion. In this drone-based single or multi-quantum entanglement \napproach, quantum internet can be constructed, and services can \nbe ensured for various on-ground applications. In this architec-\nture, a quantum drone-based distribution point",
+  "section_title": "4 Software characteristics for satellite-based IoT and futuristic quantum-integrated benefits",
+  "image_filename": "page_014_fig_01.jpeg",
+  "relative_path": "images/page_014_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "based",
+    "satellite",
+    "quantum",
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular",
+    "communications"
+  ],
+  "cross_references": [
+    {
+      "page": 13,
+      "snippet": "Wehner et al. [144] discussed that the internet’s global net-\nwork of immediate communication has radically changed our way \nof life. Even if two places are thousands of miles apart, quan-\ntum interne"
+    },
+    {
+      "page": 14,
+      "snippet": "Fig. 11. Essential drone and satellite-based quantum hardware elements and proposed connectivity for ground-based applications."
+    },
+    {
+      "page": 19,
+      "snippet": "Quantum technology \ncan implement smart \ncity development \nsupported by the use \nof distributed \ncomputing \nenvironment. For \nexample, the hybrid \narchitecture proposed \n(Fig. 11, Fig. 12 and \nFig. 13"
+    }
+  ],
+  "metadata": {
+    "width": 1561,
+    "height": 1526,
+    "size_bytes": 203197,
+    "format": "jpeg"
+  }
+}

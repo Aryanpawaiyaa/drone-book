@@ -1,0 +1,34 @@
+{
+  "original_page": 20,
+  "figure_number": "Fig. 20",
+  "original_caption": "Fig. 20: Autonomous E-Commerce. | 3) Theft: The main concerns of utilizing UAVs for data gathering and wireless delivery, are cyber liability and hacking. UAVs that are used to gather sensitive information might become targets for malicious software seeking to steal data. A hacker might even usurp control of the UAV itself for the purpose of illegal activities, such as theft of its cargo or stored data, invasion of privacy, or smuggling. Liability for utilizing a UAV does not ﬁt neatly into the coverage offered by the types of liability insurance policies that most individuals and businesses currently possess [159].",
+  "contextual_text": "20 Fig. 20: Autonomous E-Commerce. Fig. 21: UAV Delivery Applications and Challenges. Fig. 22: UAV Delivery of Goods System. 3) Theft: The main concerns of utilizing UAVs for data\ngathering and wireless delivery, are cyber liability and hacking.\nUAVs that are used to gather sensitive information might\nbecome targets for malicious software seeking to steal data.\nA hacker might even usurp control of the UAV itself for the\npurpose of illegal activities, such as theft of its cargo or stored\ndata, invasion of privacy, or smuggling. Liability for utilizing\na UAV does not ﬁt neatly into the coverage offered by the\ntypes of liability insurance policies that most individuals and\nbusinesses currently possess [159]. 4) Weather: Similar to light aircrafts, UAVs cannot hover\nin all weather conditions. The capability to resist certain\nweather conditions is determined by the speciﬁcations of the\nUAV [160]. In pre-ﬂight planning, it is clear that advanced\nweather data will play an essential role in en",
+  "section_title": "VIII-B3 Theft",
+  "image_filename": "page_020_fig_01.png",
+  "relative_path": "images/page_020_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "theft",
+    "data",
+    "liability",
+    "utilizing",
+    "uavs",
+    "might",
+    "uav",
+    "autonomous",
+    "commerce",
+    "main"
+  ],
+  "cross_references": [
+    {
+      "page": 20,
+      "snippet": "Fig. 20: Autonomous E-Commerce."
+    }
+  ],
+  "metadata": {
+    "width": 1120,
+    "height": 421,
+    "size_bytes": 138602,
+    "format": "png"
+  }
+}

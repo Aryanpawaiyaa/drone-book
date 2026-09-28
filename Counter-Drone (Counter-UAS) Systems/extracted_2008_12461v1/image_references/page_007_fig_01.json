@@ -1,0 +1,32 @@
+{
+  "original_page": 7,
+  "figure_number": "Fig. 6",
+  "original_caption": "IEEE AESS SYSTEMS MAGAZINE 7 | Millimeter wave",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n7 Long wave Millimeter wave Micro-Doppler effect\nActive radar Body reflectant pattern Wave length\nTechnical \nbackground Typical \nsignals Fig. 6: Categorization of active radar based approaches quadrature stream for posterior processing. The feasibility of\nusing Ultra Wide Band (UWB) signals with 24GHz carrier\nwas demonstrated in [61]. The selection of carrier frequency\nfor UAS detection radar should be higher than 6GHz (K-band)\nin [62] and [63]. Other approaches utilize multiple antennas to form MIMO\nfront-ends. The beneﬁt of such approach lies in its applicability\nto radar system with lower carrier frequencies. [64] demon-\nstrated the detection of a small hexacopter using 32 by 8\nelement L-Band receiver array, which achieved good detection\nsensitivity against micro-UAS. Similar research was presented\nin [65], a ubiquitous FMCW radar system working at 8.75\nGHz (X-band) with PC-based signal processor is presented.\nThe results indicated that it has the capabili",
+  "section_title": "III-D2 Passive Radar",
+  "image_filename": "page_007_fig_01.jpeg",
+  "relative_path": "images/page_007_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "ieee",
+    "aess",
+    "magazine",
+    "millimeter",
+    "wave",
+    "iii",
+    "passive",
+    "radar"
+  ],
+  "cross_references": [
+    {
+      "page": 7,
+      "snippet": "Fig. 6: Categorization of active radar based approaches"
+    }
+  ],
+  "metadata": {
+    "width": 464,
+    "height": 202,
+    "size_bytes": 56458,
+    "format": "jpeg"
+  }
+}

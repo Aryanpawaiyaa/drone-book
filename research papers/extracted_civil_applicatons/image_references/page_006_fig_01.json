@@ -1,0 +1,34 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 6",
+  "original_caption": "of kg’s of kg’s | Public safety Considered safe Considered safe Need global regulations Need safety regulations Safe Safe",
+  "contextual_text": "6 UAV classiﬁcation based on communication platform LAP Balloon Tethered Helikite [30], [31] VTOL Quadrotor The FALCON [32] Aircraft Viking aircraft [33]–[35] HAP Aircraft Helios\n(NASA) [27]\nHeliplat(Europe) [28], [36] Balloon Project Loon Balloon\n(Google) [37] Airship Zeppelin NT\n[27] Fig. 5: UAV Classiﬁcation. TABLE III: PLATFORM CLASSIFICATION OF UAV TYPES, AND PERFORMANCE PARAMETERS Issues\nHAP\nLAP Type\nAirship\nAircraft\nBalloon\nVTOL\nAircraft\nBalloon Endurance\nlong endurance\n- 15-30 hours JP-fuel\nLong endurance\nFew hours\nFew hours\nFrom 1 day - >7 days Solar\nUp to 100 days\nTo few days Max. Altitude\nUp to 25 km\n15-20 km\n17-23 km\nUp to 4 km\nUp to 5 km\nUp to 1.5 km Payload (kg)\nHundreds of kg’s\nUp to 1700 kg\nTens of kg’s\nFew kg’s\nFew kg’s\nTens of kg’s Flight Range\nHundreds of km’s\nFrom 1500 to\nUp to\nTens of km’s\nLess than 200 km\nTethered Balloon 25000 km\n17 million km Deployment time\nNeed Runway\nNeed Runway\ncustom-built\nEasy to deploy\nEasy to launched\nEasy to deploy Auto launchers\nby cat",
+  "section_title": "TABLE III: PLATFORM CLASSIFICATION OF UAV TYPES, AND PERFORMANCE PARAMETERS",
+  "image_filename": "page_006_fig_01.png",
+  "relative_path": "images/page_006_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "safe",
+    "safety",
+    "considered",
+    "need",
+    "regulations",
+    "public",
+    "global",
+    "iii",
+    "platform",
+    "classification"
+  ],
+  "cross_references": [
+    {
+      "page": 6,
+      "snippet": "Fig. 6: Use of Single UAV Systems in SAR Operations, Mountain Avalanche Events."
+    }
+  ],
+  "metadata": {
+    "width": 960,
+    "height": 540,
+    "size_bytes": 908462,
+    "format": "png"
+  }
+}

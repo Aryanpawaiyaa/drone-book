@@ -1,0 +1,29 @@
+{
+  "original_page": 8,
+  "figure_number": "Figure 3",
+  "original_caption": "Biomimetics 2024, 9, 444 8 of 41 | Figure 3. The output of a traditional frame-based camera (upper) vs. an event camera (lower): (a) with a rotating object; (b) with a steady object (constant brightness); in this case, no events are generated as depicted by the empty final graph [18].",
+  "contextual_text": "Biomimetics 2024, 9, 444\n8 of 41 (a) \n(b) Figure 3. The output of a traditional frame-based camera (upper) vs. an event camera (lower):\n(a) with a rotating object; (b) with a steady object (constant brightness); in this case, no events are\ngenerated as depicted by the empty final graph [18]. Utilizing event cameras’ asynchrony and high temporal resolution, SLAM algorithms\ncan benefit from reduced motion blur and improved visual perception in dynamic en-\nvironments, ultimately leading to more robust and accurate mapping and localization\nresults [61]. It can enhance the reconstruction of 3D scenes and enable tracking of fast\nmotion with high precision. Furthermore, a low data rate and reduced power consumption\ncompared to traditional cameras make them ideal for resource-constrained devices in ap-\nplications such as autonomous vehicles, robotics, and augmented reality [61]. Moreover, it\ncan be used to significantly increase the frame rate of low-framerate video while occupying\nsignificant",
+  "section_title": "3.1. Event Camera Operating Principles",
+  "image_filename": "page_008_fig_02.jpeg",
+  "relative_path": "images/page_008_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "camera",
+    "event",
+    "object",
+    "biomimetics",
+    "output",
+    "traditional",
+    "frame",
+    "based",
+    "upper",
+    "lower"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 687,
+    "height": 604,
+    "size_bytes": 44529,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_page": 11,
+  "figure_number": "Figure 11-3",
+  "original_caption": "This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI | 10.1109/ACCESS.2021.3065926, IEEE Access",
+  "contextual_text": "This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/ This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2021.3065926, IEEE Access (a) Drone hijacking mechanism. (b) Drone spooﬁng mechanism. (c) Geofence mechanism for drone. FIGURE 6: Typical non-destructive neutralization mecha-\nnisms FIGURE 7: Non-destructive drone neutralization scheme\nrelationships mented by degrading the target communication quality [137].\nHowever, anti-drone systems aim for complete drone neutral-\nization, hence jammers that only reduce drone performance were not considered in this paper. Jamming is a simple, robust, and wide-range solution\nwith low failure risk, hence most anti-drone systems adopt\njamming as their major neutralization scheme [84]. How-\never, since jamming techn",
+  "section_title": "10.1109/ACCESS.2021.3065926, IEEE Access",
+  "image_filename": "page_011_fig_03.png",
+  "relative_path": "images/page_011_fig_03.png",
+  "ocr_text": "",
+  "keywords": [
+    "access",
+    "publication",
+    "ieee",
+    "article",
+    "accepted",
+    "future",
+    "issue",
+    "journal",
+    "but",
+    "not"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 784,
+    "height": 414,
+    "size_bytes": 39784,
+    "format": "png"
+  }
+}

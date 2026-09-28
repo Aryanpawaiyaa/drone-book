@@ -1,0 +1,34 @@
+{
+  "original_page": 7,
+  "figure_number": "Fig. 5",
+  "original_caption": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z 7 | Technology uMUB uHSLLC mMTC uHDD Unmanned aerial vehicles √ √ √ √",
+  "contextual_text": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z\n7 be positioned and navigated to avoid colliding with one\nanother and other objects such as buildings and trees. In\nmany cases, the Global Navigation Satellite System (GNSS)\ndelivers precise coordinates. However, for BLOS activities\nin particular, depending just on GNSS for navigation is\ninadequate. Using beamforming and triangularization from\nmany base stations, 6G can provide additional positioning\nservices. UAVs must be positioned and navigated to avoid\ncolliding with one other and other objects such as buildings\nand trees while executing missions autonomously. In many\ncases, GNSS delivers precise coordinates. However, for BLOS\nactivities in particular, depending just on GNSS for navigation\nis inadequate. Using beamforming and triangularization from\nmany base stations, 6G can provide additional positioning\nservices. TABLE IV: Characterization of emerging technologies under\ndifferent 6G servi",
+  "section_title": "III. SECURITY LANDSCAPE",
+  "image_filename": "page_007_fig_01.jpeg",
+  "relative_path": "images/page_007_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "accepted",
+    "ieee",
+    "transactions",
+    "network",
+    "service",
+    "management",
+    "vol",
+    "month",
+    "technology",
+    "umub"
+  ],
+  "cross_references": [
+    {
+      "page": 7,
+      "snippet": "Fig. 5: Proposed Architecture for 6G-enabled UAV Network\nwith Interactions Among Different Technologies."
+    }
+  ],
+  "metadata": {
+    "width": 5969,
+    "height": 4361,
+    "size_bytes": 961652,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 13,
+  "figure_number": "Fig. 7",
+  "original_caption": "To collect relevant research on AI-based UAV networks, we followed a structured review  process. We searched major academic databases, including IEEE Xplore, SpringerLink, Sco­ pus, and Google Scholar. The keywords used in the search included “UAV communication,”  “drone networks,” “artificial intelligence,” “machine learning,” “deep learning,” “energy  management,” and “swarm coordination.” The search covered research papers published  between 2015 and 2025, which is the period that includes the most important developments  in this field. We applied clear inclusion and exclusion criteria to select papers. We included  peer-reviewed journal articles and conference papers written in English that focus on UAV  network architecture, communication methods, energy efficiency, and AI-based optimiza­ tion. We excluded papers that were not in English, studies unrelated to UAV networking  and AI, patents, and papers that focused only on drone hardware without communication  or AI aspects. The selection process was done in two stages. First, we screened titles and  abstracts to remove duplicates and irrelevant results. Second, we reviewed the full text of  the remaining papers to confirm their relevance. After this process, a total of 245 research  papers were selected for detailed study. These papers were then grouped into key themes  such as communication protocols, energy management, AI optimization techniques, swarm  coordination, and security and regulatory issues, which form the structure of this review.  The entire process is also explained using flow diagram as shown in Fig. 7. | Fig. 5  Yearly distribution of selected research papers (2018–2024). The bar chart illustrates the number of  relevant papers published each year from 2018 to 2024. Research activity peaked in 2019 with 20 papers,  followed by consistent contributions between 2020 and 2022. A decline is observed in 2023 and 2024,  reflecting either a narrowing of the selection criteria or a shift in publication trends",
+  "contextual_text": "Flight into the future: a holistic review of AI-trends, vision, and… 2019). Aerodynamic studies of fixed wing UAVs explore energy-efficient gliding strategies \nto optimize long-range missions, but hybrid UAV designs require further research (Liu et al. \n2019; Abbasi et al. 2020). 3  Research methodology The literature review section of this article is based on a comprehensive selection of research \npapers, including surveys, review articles, and original research studies, as shown in Figs. 5 \nand 6. These articles were carefully chosen from various high-impact journals. To collect relevant research on AI-based UAV networks, we followed a structured review \nprocess. We searched major academic databases, including IEEE Xplore, SpringerLink, Sco­\npus, and Google Scholar. The keywords used in the search included “UAV communication,” \n“drone networks,” “artificial intelligence,” “machine learning,” “deep learning,” “energy \nmanagement,” and “swarm coordination.” The search covered research ",
+  "section_title": "﻿3﻿ ﻿Research methodology",
+  "image_filename": "page_013_fig_01.jpeg",
+  "relative_path": "images/page_013_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "papers",
+    "research",
+    "uav",
+    "process",
+    "communication",
+    "energy",
+    "relevant",
+    "based",
+    "networks",
+    "followed"
+  ],
+  "cross_references": [
+    {
+      "page": 13,
+      "snippet": "To collect relevant research on AI-based UAV networks, we followed a structured review \nprocess. We searched major academic databases, including IEEE Xplore, SpringerLink, Sco­\npus, and Google Scholar"
+    }
+  ],
+  "metadata": {
+    "width": 1182,
+    "height": 638,
+    "size_bytes": 148369,
+    "format": "jpeg"
+  }
+}

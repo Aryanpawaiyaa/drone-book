@@ -1,0 +1,38 @@
+{
+  "original_page": 21,
+  "figure_number": "Fig. 15",
+  "original_caption": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al. Vehicular Communications 36 (2022) 100487 | Fig. 15. Quantum programming languages and IoQDs.",
+  "contextual_text": "A. Kumar, D. Augusto de Jesus Pacheco, K. Kaushik et al.\nVehicular Communications 36 (2022) 100487 Fig. 15. Quantum programming languages and IoQDs. languages will be useful for programming quantum circuits, imple-\nmenting quantum algorithms and writing assembly instructions. \n(ii) functional quantum programming languages will be useful to \noperate the drones, (iii) domain-speciﬁc languages will be use-\nful for computational, communications and transformation tasks, \n(iv) object-oriented languages could be helpful in error detection, \ncorrection, module-wise function implementation and integrating \ngates and circuits with different functionalities and (v) impera-\ntive languages could be helpful in hardware circuit management \nand providing necessary classes to drone operations. The impor-\ntant studies conducted over quantum programming languages and \ntheir comparative analysis are shown in Table 3. Pérez-Castillo et al. [45] discussed that quantum computing \ncontinues to advance from a",
+  "section_title": "4.1.1 Quantum programming languages for IoQDs",
+  "image_filename": "page_021_fig_01.png",
+  "relative_path": "images/page_021_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "quantum",
+    "programming",
+    "languages",
+    "ioqds",
+    "kumar",
+    "augusto",
+    "jesus",
+    "pacheco",
+    "kaushik",
+    "vehicular"
+  ],
+  "cross_references": [
+    {
+      "page": 20,
+      "snippet": "4.1.1. Quantum programming languages for IoQDs\nQuantum programming languages are important to the pro-\ngram, conﬁguration, and operation of the hardware systems and \nsub-systems in space computing inf"
+    },
+    {
+      "page": 21,
+      "snippet": "Fig. 15. Quantum programming languages and IoQDs."
+    }
+  ],
+  "metadata": {
+    "width": 6287,
+    "height": 4787,
+    "size_bytes": 440248,
+    "format": "png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 10,
+  "figure_number": "Fig. 9",
+  "original_caption": "Computer Networks 182 (2020) 107451 | D. Mishra and E. Natalizio",
+  "contextual_text": "Computer Networks 182 (2020) 107451 10 D. Mishra and E. Natalizio • UAV-DS: These systems are vulnerable to cyber–physical attacks\nwhere the delivery of goods is compromised. The malicious in-\ntruder takes control of the UAV with an intention to destroy,\nsteal or delay the transported goods. Even the UAVs can be\nphysically attacked to acquire the goods being transported along\nwith physical UAV assets.\n• UAV-RMS: UAV-enabled VR, online video transmission and online\ntracking are some of the use cases in this type of application.\nAn attacker can manipulate the identity of the UAV and transmit\ndisrupted information to the control station using their identities.\nIn a large-scale deployment of UAVs, the control station must pro-\ncess the multi-media files incurring a large delay and burdening\nhigh utilization of computational resources.\n• UAV-ITS: This application ensures road safety, traffic analysis to\nmonitor accidents, track compromised vehicles, etc. Such benefits\nare achieved by a swar",
+  "section_title": "5.1. Network architectures",
+  "image_filename": "page_010_fig_01.jpeg",
+  "relative_path": "images/page_010_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "computer",
+    "networks",
+    "mishra",
+    "natalizio",
+    "network",
+    "architectures"
+  ],
+  "cross_references": [
+    {
+      "page": 10,
+      "snippet": "Fig. 9. NFV based architecture for UAVs [107]."
+    },
+    {
+      "page": 11,
+      "snippet": "validated by a prototype built upon open-source technologies. The\nhigh-level architecture of such a system is shown in Fig. 9. As shown in\nthe figure, the communication infrastructure formed by a set "
+    }
+  ],
+  "metadata": {
+    "width": 884,
+    "height": 638,
+    "size_bytes": 160343,
+    "format": "jpeg"
+  }
+}

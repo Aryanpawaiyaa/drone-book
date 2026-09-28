@@ -1,0 +1,29 @@
+{
+  "original_page": 9,
+  "figure_number": "Figure 4",
+  "original_caption": "Biomimetics 2024, 9, 444 9 of 41 | Figure 4. The process of generating events by the event camera (adapted from [26]); the ON (upward) arrow represents an increase and the OFF (downward) arrow depicts a decrease in log intensity value than the threshold.",
+  "contextual_text": "Biomimetics 2024, 9, 444\n9 of 41 Figure 4. The process of generating events by the event camera (adapted from [26]); the ON (upward)\narrow represents an increase and the OFF (downward) arrow depicts a decrease in log intensity value\nthan the threshold. Event cameras are essentially sensors that react to motion and brightness variations in\na scene. They produce more events per second when there is greater motion. The reason\nis that every pixel modifies the rate at which it samples data using a delta modulator in\nresponse to variations in the log intensity signal it tracks. These sensors can respond to\nvisual stimuli rapidly because of the sub-millisecond latency and microsecond precision\ntimestamped events. Surface reflectance and scene lighting both affect how much light a\npixel receives. A change in log intensity denotes a proportional change in reflectance in\nsituations where illumination is largely constant. The primary cause of these reflectance\nchanges is the motion of objects in ",
+  "section_title": "3.1.2. Event Representation",
+  "image_filename": "page_009_fig_01.png",
+  "relative_path": "images/page_009_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "event",
+    "arrow",
+    "biomimetics",
+    "process",
+    "generating",
+    "events",
+    "camera",
+    "adapted",
+    "upward",
+    "represents"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1221,
+    "height": 769,
+    "size_bytes": 89691,
+    "format": "png"
+  }
+}

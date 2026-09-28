@@ -1,0 +1,34 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 2",
+  "original_caption": "Features and characteristics of UAV swarms The goal of developing sophisticated robotic systems capable of performing com- plex tasks in various environments drives the growing interest in MRS. As a subset of  MRS, UAV swarms offer several advantages and key features, as illustrated in Fig. 2. | Parallelism Performing tasks concurrently and independently, enhancing system perfor- mance and efficiency",
+  "contextual_text": "Page 5 of 24\nAlqudsi and Makaraci ﻿Journal of Engineering and Applied Science           (2025) 72:12 Features and characteristics of UAV swarms\nThe goal of developing sophisticated robotic systems capable of performing com-\nplex tasks in various environments drives the growing interest in MRS. As a subset of \nMRS, UAV swarms offer several advantages and key features, as illustrated in Fig. 2. Table 2  Features and characteristics of UAV swarms [16–19] Feature\nDescription Cost-effectiveness\nUtilizing a group of specialized robots for various tasks is more cost-effective \nthan building a single versatile robot Scalability\nMaintaining effectiveness and performance even as the number of robots \nincreases. Robustness & Survivability\nMaintaining functionality in adverse conditions, reconfiguring to mitigate \nimpacts of robot failures. Adaptability & Flexibility\nAdjusting collective behavior to respond to environmental changes or new \nmission objectives Parallelism\nPerforming tasks concurrent",
+  "section_title": "Features and characteristics of UAV swarms",
+  "image_filename": "page_005_fig_01.jpeg",
+  "relative_path": "images/page_005_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "features",
+    "uav",
+    "swarms",
+    "characteristics",
+    "performing",
+    "tasks",
+    "mrs",
+    "goal",
+    "developing",
+    "sophisticated"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "Features and characteristics of UAV swarms\nThe goal of developing sophisticated robotic systems capable of performing com-\nplex tasks in various environments drives the growing interest in MRS. As a s"
+    }
+  ],
+  "metadata": {
+    "width": 1418,
+    "height": 1283,
+    "size_bytes": 90612,
+    "format": "jpeg"
+  }
+}

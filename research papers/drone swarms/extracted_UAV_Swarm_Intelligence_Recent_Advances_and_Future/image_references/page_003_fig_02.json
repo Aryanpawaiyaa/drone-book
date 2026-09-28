@@ -1,0 +1,38 @@
+{
+  "original_page": 3,
+  "figure_number": "FIGURE 2",
+  "original_caption": "Y. Zhou et al.: UAV Swarm Intelligence: Recent Advances and Future Trends | FIGURE 2. A detailed structure of the survey.",
+  "contextual_text": "Y. Zhou et al.: UAV Swarm Intelligence: Recent Advances and Future Trends FIGURE 2. A detailed structure of the survey. 183858\nVOLUME 8, 2020",
+  "section_title": "FIGURE 2. A detailed structure of the survey.",
+  "image_filename": "page_003_fig_02.jpeg",
+  "relative_path": "images/page_003_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "detailed",
+    "structure",
+    "survey",
+    "zhou",
+    "uav",
+    "swarm",
+    "intelligence",
+    "recent",
+    "advances",
+    "future"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "The rest of this article is organized as follows. Part II,\nbasen on hierarchical, describes the research status and trend\nanalysis of UAV swarm intelligence. Part III discusses the\nlimitations and the"
+    },
+    {
+      "page": 3,
+      "snippet": "FIGURE 2. A detailed structure of the survey."
+    }
+  ],
+  "metadata": {
+    "width": 2140,
+    "height": 2529,
+    "size_bytes": 363625,
+    "format": "jpeg"
+  }
+}

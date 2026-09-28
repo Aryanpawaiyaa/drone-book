@@ -1,0 +1,46 @@
+{
+  "original_page": 15,
+  "figure_number": "Fig. 14",
+  "original_caption": "model which changes from one point to the other as the sched- uling variable is changed. Where αk (k = 0, 1, 2, 3 etc.) is the constant reference signals, Rαk denotes the region of attrac- tion where the controller is scheduled. | In the process of designing such a controller, the gains were set at a fixed point to kick start the basis for the development of a full gain scheduled controller. Using linearization tech- niques to represent the nonlinear dynamics of a Quadrotor by finding the equilibrium points, controllability and observabil- ity techniques were used in combination with the gain sched- uler to stabilize the UAV. In Fig. 14, the block diagram has been modified to include a scheduling feature which is fed back into the controller. This feature reads the systems output states feeding them back to the controller in which the adjust- ments are implemented when necessary.",
+  "contextual_text": "model which changes from one point to the other as the sched-\nuling variable is changed. Where αk (k = 0, 1, 2, 3 etc.) is the\nconstant reference signals, Rαk denotes the region of attrac-\ntion where the controller is scheduled. In the process of designing such a controller, the gains were\nset at a fixed point to kick start the basis for the development\nof a full gain scheduled controller. Using linearization tech-\nniques to represent the nonlinear dynamics of a Quadrotor by\nfinding the equilibrium points, controllability and observabil-\nity techniques were used in combination with the gain sched-\nuler to stabilize the UAV. In Fig. 14, the block diagram has\nbeen modified to include a scheduling feature which is fed\nback into the controller. This feature reads the systems output\nstates feeding them back to the controller in which the adjust-\nments are implemented when necessary. Where, K represents the controller, f(x, u) represents the\ndynamics of the Quadrotor and uss defines the equi",
+  "section_title": "7.3 Adaptive Control",
+  "image_filename": "page_015_fig_02.jpeg",
+  "relative_path": "images/page_015_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "controller",
+    "point",
+    "sched",
+    "where",
+    "scheduled",
+    "gain",
+    "feature",
+    "back",
+    "model",
+    "changes"
+  ],
+  "cross_references": [
+    {
+      "page": 15,
+      "snippet": "In the process of designing such a controller, the gains were\nset at a fixed point to kick start the basis for the development\nof a full gain scheduled controller. Using linearization tech-\nniques to "
+    },
+    {
+      "page": 15,
+      "snippet": "points control input. The fixed gain controller shown on\nFig. 14 was studied by the authors in Matlab to track a\nreference trajectory. Figure 15 depicts the resultant mo-\ntion of the vehicle as it att"
+    },
+    {
+      "page": 15,
+      "snippet": "Correcting this issue implies that an improved controller\nthat can switch between parameters as the UAV deviates fur-\nther away from the equilibrium point is required. Developing\nthe gain scheduling c"
+    },
+    {
+      "page": 16,
+      "snippet": "Fig. 14 Block Diagrams of the\nconventional controller and the\ngain scheduled control system\n[110]"
+    }
+  ],
+  "metadata": {
+    "width": 971,
+    "height": 999,
+    "size_bytes": 92835,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "source_pdf": "Survey_on_Anti-Drone_Systems_Components_Designs_an.pdf",
+  "total_pages": 25,
+  "total_extracted_images": 17,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\Counter-Drone (Counter-UAS) Systems\\extracted_Survey_on_Anti_Drone_Systems_Components_Designs_an",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

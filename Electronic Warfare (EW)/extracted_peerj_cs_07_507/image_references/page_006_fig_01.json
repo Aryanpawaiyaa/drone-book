@@ -1,0 +1,26 @@
+{
+  "original_page": 6,
+  "figure_number": "Figure 2",
+  "original_caption": "Figure 2 GPS Segments. | Full-size DOI: 10.7717/peerjcs.507/fig-2",
+  "contextual_text": "Figure 2\nGPS Segments. Full-size\nDOI: 10.7717/peerjcs.507/fig-2 navigational data on Galileo. NMA validates the received GNSS signal, making it robust\nagainst GNSS spoofing attacks. However, wide scale implementation of this authentication\nservice would require updatingthefirmwareof existingGalileoreceivers. Anotherlimitation\nis that NMA does not currently offer authentication service for the ranging measurements\n(Gutierrez, 2020). Global positioning system (GPS)\nOriginally known as the NAVSTAR, GPS was launched in 1978 only for the US military.\nHowever, later in 1994, GPS services were made fully available to the rest of the world. GPS\nhas emerged as the de-facto GNSS standard due to its global coverage, wide adoption and\nacceptability. GPS segments\nThe system’s architecture of GPS, as of any other GNSS, can be segregated into three main\ndomains, known as Space segment, Control segment, and User segment as shown in Fig. 2. • Space segment: This segment contains a constellation of sate",
+  "section_title": "BACKGROUND",
+  "image_filename": "page_006_fig_01.png",
+  "relative_path": "images/page_006_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "gps",
+    "segments",
+    "full",
+    "size",
+    "doi",
+    "peerjcs",
+    "background"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 2935,
+    "height": 1545,
+    "size_bytes": 1109540,
+    "format": "png"
+  }
+}

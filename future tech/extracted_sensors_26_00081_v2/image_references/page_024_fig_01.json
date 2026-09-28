@@ -1,0 +1,29 @@
+{
+  "original_page": 24,
+  "figure_number": "Figure 6",
+  "original_caption": "from 2021 through 2024, reflecting the rising adoption of deep learning, reinforcement learning, and Transformer-based architectures. Neuromorphic techniques have been em- ployed intermittently since 2019, with relatively modest but consistent representation across recent years, demonstrating ongoing interest in bio-inspired computing and spiking neural networks for UAV applications. This trend reveals a shift from exclusively model-based approaches in early years toward a diverse methodological ecosystem, with all four method categories actively employed by 2024–2025, suggesting that the field has matured into a multi-faceted research domain that integrates traditional geometric principles with modern machine learning and bio-inspired techniques. | Figure 6. Summary of the method used over the year.",
+  "contextual_text": "Sensors 2026, 26, 81\n24 of 32 from 2021 through 2024, reflecting the rising adoption of deep learning, reinforcement\nlearning, and Transformer-based architectures. Neuromorphic techniques have been em-\nployed intermittently since 2019, with relatively modest but consistent representation across\nrecent years, demonstrating ongoing interest in bio-inspired computing and spiking neural\nnetworks for UAV applications. This trend reveals a shift from exclusively model-based\napproaches in early years toward a diverse methodological ecosystem, with all four method\ncategories actively employed by 2024–2025, suggesting that the field has matured into a\nmulti-faceted research domain that integrates traditional geometric principles with modern\nmachine learning and bio-inspired techniques. Figure 6. Summary of the method used over the year. 4. Discussion 4.1. Replacing Frame-Based Camera with Event Camera in UAV Applications Ref. [112] demonstrated on an ornithopter robot how frame-based cameras pe",
+  "section_title": "4.1. Replacing Frame-Based Camera with Event Camera in UAV Applications",
+  "image_filename": "page_024_fig_01.png",
+  "relative_path": "images/page_024_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "learning",
+    "based",
+    "techniques",
+    "years",
+    "bio",
+    "inspired",
+    "uav",
+    "applications",
+    "method",
+    "camera"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1189,
+    "height": 590,
+    "size_bytes": 45900,
+    "format": "png"
+  }
+}

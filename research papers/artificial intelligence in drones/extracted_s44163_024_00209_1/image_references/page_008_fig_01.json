@@ -1,0 +1,34 @@
+{
+  "original_page": 8,
+  "figure_number": "Fig. 7",
+  "original_caption": "Vol:.(1234567890) | Recently, an enhanced learning algorithm called TSR-YOLO has been designed to recognize the traffic sign in accord- ance to monitor the traffic [80]. A system capable of performing global feature extraction with a multi-branch lightweight  detection head has been developed to improve the accuracy of identifying more minor traffic signs. This method is well  suited to challenging weather forecasts and environments [81]. YOLOv5 (STC-YOLO) is an upgraded version of YOLO that  performs better in environments with fog, snow, noise, occlusion, and blur. It is designed to monitor tiny traffic signs and  vehicles [82]. The area of artificial intelligence-based UAV traffic monitoring is actively implementing green computing  approaches [83]. When compared to other machine learning methods for traffic monitoring, YOLO performs better since  it scans the whole scene in a single run, drastically improving speed without sacrificing accuracy [84]. When compared to  traditional machine learning methods, YOLO’s real-time integration of detection and classification is a major advantage.  Its effectiveness and ability to generalize well across different pictures enable the completion of quick object identifica- tion tasks [85].",
+  "contextual_text": "Vol:.(1234567890) Review\t\nDiscover Artificial Intelligence            (2024) 4:97  \n| https://doi.org/10.1007/s44163-024-00209-1 fed these photographs. This identification system’s primary skill is its capacity to assess traffic congestion [58]. The results \nof the recognition are sent to a traffic-management facility. The traffic managers may readily provide further analysis \nusing those data [59, 60]. Figure 6 depicts the current AI applications for traffic monitoring and how UAVs function with it as an embedded \nsystem. The classification system that UAVs carry can be broken into two parts: one for extracting features and the other \nfor recognizing characteristics [61, 62]. The recorded pictures are sent to the part of the system that pulls out the high-\nlevel details. The outcomes of the final recognition are then determined by the system component responsible for the \nrecognition, and these findings are based on the extracted characteristics [63]. A reconstructed network that has ",
+  "section_title": "4.1  \u0007Applications of AI in UAV for traffic monitoring",
+  "image_filename": "page_008_fig_01.jpeg",
+  "relative_path": "images/page_008_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "traffic",
+    "yolo",
+    "learning",
+    "monitoring",
+    "designed",
+    "monitor",
+    "detection",
+    "accuracy",
+    "signs",
+    "well"
+  ],
+  "cross_references": [
+    {
+      "page": 8,
+      "snippet": "Fig. 7   Traffic Monitoring using UAV"
+    }
+  ],
+  "metadata": {
+    "width": 2032,
+    "height": 876,
+    "size_bytes": 185203,
+    "format": "jpeg"
+  }
+}

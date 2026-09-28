@@ -1,0 +1,34 @@
+{
+  "original_page": 17,
+  "figure_number": "Fig. 17",
+  "original_caption": "Computer Networks 182 (2020) 107451 | D. Mishra and E. Natalizio",
+  "contextual_text": "Computer Networks 182 (2020) 107451 17 D. Mishra and E. Natalizio Fig. 16.\nSchematic of the avionics components in [139]. • The UAV cellular to ground control is secure by encryption and\ncan pass through several firewalls.\n• As compared to other UAV industry verticals, the significant\nadvantages are light weight (UAV weighs nearly 300 grams) and\nlonger flight time (> 1 h). A working prototype of LTE controlled drone was demonstrated\nin [140] proving the control of UAV via LTE connection and then tested\nas a 3D measurement platform. The goal of this prototype development\nwas to investigate and evaluate LTE as a potential candidate of commu-\nnication infrastructure for controlling a UAV. The experimental goals\nare to provide answer to below mentioned questions. • whether existing LTE network infrastructure is an efficient means\nof controlling UAVs?\n• whether the LTE connection is good enough in terms of providing\nlow latency, jitter and bit error rate?\n• whether the bit rate is sufficien",
+  "section_title": "6.2. Field trials",
+  "image_filename": "page_017_fig_01.jpeg",
+  "relative_path": "images/page_017_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "computer",
+    "networks",
+    "mishra",
+    "natalizio",
+    "field",
+    "trials"
+  ],
+  "cross_references": [
+    {
+      "page": 17,
+      "snippet": "Fig. 17. High level schematics of the prototype setup in [141]."
+    },
+    {
+      "page": 17,
+      "snippet": "open source software for ground control station software. The field tests\nare conducted by sending basic control commands from smartphone\nor laptop to UAV and they are successfully executed by the UAV"
+    }
+  ],
+  "metadata": {
+    "width": 897,
+    "height": 815,
+    "size_bytes": 177963,
+    "format": "jpeg"
+  }
+}

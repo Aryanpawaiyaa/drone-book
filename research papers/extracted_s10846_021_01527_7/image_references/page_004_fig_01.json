@@ -1,0 +1,29 @@
+{
+  "original_page": 4,
+  "figure_number": "Figure 3",
+  "original_caption": "A general comparison between the categorised UAV modes illustrates that HTOL UAVs are capable of having remarkable payloads compared to VTOL, the typical structure of wings on HTOL vehicles provides the drone with the ability to fly longer distances. As for VTOL, despite the fact that they may be limited for longer-range missions, their design is usu- ally more efficient in the sense of vertically taking off and landing as well as having the ability to manoeuvre freely. Since both approaches cater for some drawbacks, researchers have introduced an innovative method that combines the ca- pability of VTOL and HTOL into a single design such that the advantages from both models are achieved. Figure 3 shows several extended UAV architectural designs based on the four categories presented in Fig. 2 such as tilted propellers [50, 57–59], ducted fan UAV’s [51, 60–62], tilt-wing [34, 60, 63], foldable/self-deploying Quadrotor [53, 64], flapping wing UAV [54], controlled insect flying [55], Solar powered Fixed wind UAV [56], aqua Micro aerial vehicle [35] and Mono-copter [52]. | Based on the common UAV designs presented in Fig. 3, each one of these architectures are dedicated to function in a unique manner for a specific application. However, it is fair to mention that the designs come with limitations that will neg- atively impact the vehicles performance in some manner.",
+  "contextual_text": "Tilt-Rotor etc. and Exclusive models that consist of unique\ndesigns such as the Bird UAV [3]. A general comparison between the categorised UAV\nmodes illustrates that HTOL UAVs are capable of having\nremarkable payloads compared to VTOL, the typical structure\nof wings on HTOL vehicles provides the drone with the ability\nto fly longer distances. As for VTOL, despite the fact that they\nmay be limited for longer-range missions, their design is usu-\nally more efficient in the sense of vertically taking off and\nlanding as well as having the ability to manoeuvre freely.\nSince both approaches cater for some drawbacks, researchers\nhave introduced an innovative method that combines the ca-\npability of VTOL and HTOL into a single design such that the\nadvantages from both models are achieved. Figure 3 shows\nseveral extended UAV architectural designs based on the four\ncategories presented in Fig. 2 such as tilted propellers [50,\n57–59], ducted fan UAV’s [51, 60–62], tilt-wing [34, 60,\n63], foldable/",
+  "section_title": "Multi-Rotor Aircraft (VTOL) Structures",
+  "image_filename": "page_004_fig_01.png",
+  "relative_path": "images/page_004_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "vtol",
+    "htol",
+    "designs",
+    "having",
+    "vehicles",
+    "ability",
+    "longer",
+    "design",
+    "both"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1503,
+    "height": 310,
+    "size_bytes": 30898,
+    "format": "png"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "original_page": 7,
+  "figure_number": "Fig. 3",
+  "original_caption": "Platform Fidelity Accessibility Type Physics Interface NS-3 High Free, Open-source Simulation Single (RF) C++, Python EMANE Low Free, Open-source Emulation Multi (RF, mobility) C++, Python, XML InSite High Paid, proprietary Simulation Single (RF) Software GUI Colosseum High Free, proprietary Emulation Multi (RF, mobility) Linux VM EXata High Paid, proprietary Emulation Single (RF) Software GUI UBSim Low Free, Open-source Simulation Multi (RF, mobility) Python | TABLE II: Wireless network virtualization platforms.",
+  "contextual_text": "Platform\nFidelity\nAccessibility\nType\nPhysics\nInterface\nNS-3\nHigh\nFree, Open-source\nSimulation\nSingle (RF)\nC++, Python\nEMANE\nLow\nFree, Open-source\nEmulation\nMulti (RF, mobility)\nC++, Python, XML\nInSite\nHigh\nPaid, proprietary\nSimulation\nSingle (RF)\nSoftware GUI\nColosseum\nHigh\nFree, proprietary\nEmulation\nMulti (RF, mobility)\nLinux VM\nEXata\nHigh\nPaid, proprietary\nEmulation\nSingle (RF)\nSoftware GUI\nUBSim\nLow\nFree, Open-source\nSimulation\nMulti (RF, mobility)\nPython TABLE II: Wireless network virtualization platforms. … \n… \n… \n… Colosseum Quadrant Traffic Generator (TGEN) Traffic Network Fabric Management \nInfrastructure •\nWebsite \n•\nResource \nManagement\n•\nNetwork Services \n•\nStorage Massive Channel Emulator (MCHEM) FPGA Fabric\nRF Scenario Server Management Network SRN\nSRN\nSRN SRN x32\nSRN x32 SRN\nSRN\nSRN SRN x32 SRN\nSRN\nSRN SRN x32 SRN\nSRN\nSRN … \n… \n… \n… Software Radio Node (SRN) Software Container \n(Guest OS, kernel, etc.) USRP X310 SDR PHY Layer MAC Layer NET Layer Fig. 3: Architecture of C",
+  "section_title": "NET Layer",
+  "image_filename": "page_007_fig_01.jpeg",
+  "relative_path": "images/page_007_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "high",
+    "free",
+    "open",
+    "source",
+    "simulation",
+    "single",
+    "python",
+    "emulation",
+    "multi",
+    "mobility"
+  ],
+  "cross_references": [
+    {
+      "page": 7,
+      "snippet": "Fig. 3: Architecture of Colosseum [60]"
+    },
+    {
+      "page": 7,
+      "snippet": "Colosseum: Colosseum [64] is the world’s largest network\nemulator, comprised of 256 software-deﬁned radios (SDR) to\nprovide a wide variety of emulated RF propagation scenarios.\nThe architecture of Col"
+    }
+  ],
+  "metadata": {
+    "width": 153,
+    "height": 604,
+    "size_bytes": 8781,
+    "format": "jpeg"
+  }
+}

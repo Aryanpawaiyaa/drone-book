@@ -1,0 +1,20 @@
+{
+  "original_page": 42,
+  "figure_number": "Figure 42-3",
+  "original_caption": "",
+  "contextual_text": "Operation Checks ✅ Before Takeoff Calibrate the IMU (Inertial Measurement Unit) and compass.\nEnsure the GPS lock is strong (minimum 7 satellites).\nTest basic controls (throttle, yaw, pitch, roll) before liftoff.\nAnnounce takeoff and check surroundings for safety\nhazards.\n✅ During Flight Monitor battery levels and signal strength.\nKeep the drone within the visual line of sight (VLOS).\nFollow all DGCA altitude and distance restrictions.\nMaintain situational awareness and be ready to abort if\nneeded.\n✅ Landing & Post-Flight Checklist Land in a safe, designated area.\nPower down the drone and disconnect the battery.\nInspect for any damage or unusual heating.\nLog flight details in your operation record book. 42",
+  "section_title": "NOTES",
+  "image_filename": "page_042_fig_03.png",
+  "relative_path": "images/page_042_fig_03.png",
+  "ocr_text": "",
+  "keywords": [
+    "notes"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1227,
+    "height": 1533,
+    "size_bytes": 127106,
+    "format": "png"
+  }
+}

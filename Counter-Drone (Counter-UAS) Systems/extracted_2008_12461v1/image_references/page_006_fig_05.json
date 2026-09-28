@@ -1,0 +1,34 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 5",
+  "original_caption": "A real-time vision based UAS detection system is designed which is based on two vision processing platforms: FPGA- based platform, which can operate below 10 Watt (i.e., power saving), and Graphics Processing Unit (GPU)-based platform, which is able to process more frames. However, for FPGA, it is impossible to change algorithms in real time [51]. Muhammad, S. et al. compared different convolutional neural networks’ performance in detecting UAS, and their results showed that the Visual Geometry Group (VGG 16) network with Faster R-CNN achieved outstanding performance [52]. An approach is proposed to combine different pictures to generate synthetic images to extend the image data set to train the convolutional neural network to enhance the performance of the UAS detection [53]. | Moving object  segmentation",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n6 the methods of image segmentation. The differential of UAS\nand environment in images is used to determine whether the\nrestricted areas have the UAS. A vision based UAS detection\napproach is presented in [47], which could separate the UAS\nfrom background efﬁciently. Similar work was reported in [48]\nand [16]. The common challenges for their approaches are\nhow to separate UAS from background images and how to\ndistinguish UAS from ﬂying birds. Typical vision-based UAS\ndetection technologies are summarized in Figure 5. In contrast, state-of-art image segmentation methods make\nuse of neural networks to directly identify the appearance of\nUAS. An approach leverages the thermal camera to detect\nthe UAS and neural network to identify the UAS [49]. An\noutstanding research is presented in [50]. A lightweight and\nfast algorithm which could operate on embedded system\n(Nvidia Jetson TX1) and identify the UAS in movement. A real-time vision based UAS detection system is ",
+  "section_title": "III-D Radar based UAS Detection",
+  "image_filename": "page_006_fig_05.jpeg",
+  "relative_path": "images/page_006_fig_05.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "based",
+    "uas",
+    "detection",
+    "performance",
+    "real",
+    "time",
+    "vision",
+    "processing",
+    "fpga",
+    "platform"
+  ],
+  "cross_references": [
+    {
+      "page": 6,
+      "snippet": "Fig. 5: Categorization of vision based approaches"
+    }
+  ],
+  "metadata": {
+    "width": 293,
+    "height": 195,
+    "size_bytes": 14342,
+    "format": "jpeg"
+  }
+}

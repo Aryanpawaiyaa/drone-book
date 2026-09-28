@@ -1,0 +1,29 @@
+{
+  "original_page": 28,
+  "figure_number": "Figure 28-1",
+  "original_caption": "In this paper, an overview of the recent researches and studies related to the UAV architectures and available control laws has been presented. The classifications of these drones were chosen based on the vast literature that is explored by others, whereby expressing the benefits and drawbacks of the common UAV architectures has narrowed this research into focusing on Quadrotor drones due to their orientation abilities and other great advantages. Understanding the functionality of these systems were essentially described through mathemati- cal expressions that represents the motion for the full six de- grees of freedom. The literature reviewed shows that verifying this concept was implemented through simulation platforms such as Simulink/Matlab. | considerations as to how this emerging technology may be improved. Therefore, it is concluded that designing an impec- cable physical system is absurd and that there will always be a difference in limitation. However, these can be minimised to a certain extent depending on the selected controller and the mechanical characteristics.",
+  "contextual_text": "In this paper, an overview of the recent researches and\nstudies related to the UAV architectures and available control\nlaws has been presented. The classifications of these drones\nwere chosen based on the vast literature that is explored by\nothers, whereby expressing the benefits and drawbacks of the\ncommon UAV architectures has narrowed this research into\nfocusing on Quadrotor drones due to their orientation abilities\nand other great advantages. Understanding the functionality of\nthese systems were essentially described through mathemati-\ncal expressions that represents the motion for the full six de-\ngrees of freedom. The literature reviewed shows that verifying\nthis concept was implemented through simulation platforms\nsuch as Simulink/Matlab. Control strategies that are commonly implemented on\nQuadrotors have been explored where the advantages and\ndisadvantages of each method are presented. Although each\ntechnique caters for some limitation, describing the perfor-\nmance of each meth",
+  "section_title": "LQR",
+  "image_filename": "page_028_fig_01.jpeg",
+  "relative_path": "images/page_028_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "these",
+    "uav",
+    "architectures",
+    "drones",
+    "literature",
+    "through",
+    "paper",
+    "overview",
+    "recent",
+    "researches"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1503,
+    "height": 892,
+    "size_bytes": 53137,
+    "format": "jpeg"
+  }
+}

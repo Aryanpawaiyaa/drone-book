@@ -1,0 +1,26 @@
+{
+  "original_page": 23,
+  "figure_number": "Figure 23-13",
+  "original_caption": "UAVs Open Issues | Future Research Directions",
+  "contextual_text": "23 UAVs Open Issues •\nAutonomy\n•\nPath planning\n•\nSwarming\n•\nEnvironmental Adaptability\n•\nCooperative Control\n•\nFault detection \n•\nBattery management\n•\nFlight time\n•\nPayload carrying capability\n•\nHuman-UAV Interaction\n•\netc, •\nPower Systems\n•\nCommunication\n•\nNetworking topology\n•\nEnhanced Sense and Perception\n•\nSize and Weight Reduction\n•\nPayload and Versatility\n•\nNoise Reduction\n•\nStandardization\n•\netc •\nSafety operations\n•\nData Privacy concerns\n•\nVulnerability hacking or jamming\n•\nSecurity and Privacy\n•\nCybersecurity Threats\n•\nPhysical Security\n•\nGPS Spoofing and Navigation Attacks\n•\nAnti-Drone Technology Adaptation\n•\netc Future Research Directions Machine Learning •\nResource allocation\n•\nObstacle avoidance\n•\nTracking\n•\nPath planning\n•\nBattery scheduling\n•\nDevelopment of smaller, lighter, and \nsmarter nano UAVs Security and Privacy •\nPotential threats and the need for data confidentiality\n•\nExploration of techniques like blockchain and physical \nlayer security\n•\nRobust encryption, aut",
+  "section_title": "REFERENCES",
+  "image_filename": "page_023_fig_13.png",
+  "relative_path": "images/page_023_fig_13.png",
+  "ocr_text": "",
+  "keywords": [
+    "uavs",
+    "open",
+    "issues",
+    "future",
+    "research",
+    "directions",
+    "references"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1091,
+    "height": 649,
+    "size_bytes": 54312,
+    "format": "png"
+  }
+}

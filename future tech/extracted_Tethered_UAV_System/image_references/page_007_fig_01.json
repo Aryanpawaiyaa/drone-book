@@ -1,0 +1,29 @@
+{
+  "original_page": 7,
+  "figure_number": "Figure 3",
+  "original_caption": "tioning both as a fixed-wing aircraft and a rotorcraft [70]. A second classification criterion is given by the propeller orientation, a critical factor in the UAV’s design. The suspended TUAV configuration, with rotors facing downward, is commonly adopted in scenarios where the aerial platform operates below the control station level, such as in bridge in- spections, minimizing the risk of tether entanglement [18,19,38]. Tilt-rotor multicopters offer improved wind disturbance rejection and fault tolerance, enabled by servos adjusting rotor tilt angles [71]. A distinctive layout involves a quadcopter frame augmented with two laterally placed horizontal rotors, designed to counteract aerodynamic drag [58]. For operations in confined or collision-prone environments, ducted propellers offer improved propulsion efficiency and increase–d protection, albeit with reduced flight performance [20]. An innovative design further integrates ducted propulsion with tiltable rotors, featuring two vertical ducted propellers mounted on rotating shafts [72]. | Figure 3. TUAV Airframe Classification: (a) By number of propellers; (b) By propellers orientation.",
+  "contextual_text": "Drones 2025, 9, 425\n7 of 48 tioning both as a fixed-wing aircraft and a rotorcraft [70]. A second classification criterion\nis given by the propeller orientation, a critical factor in the UAV’s design. The suspended\nTUAV configuration, with rotors facing downward, is commonly adopted in scenarios\nwhere the aerial platform operates below the control station level, such as in bridge in-\nspections, minimizing the risk of tether entanglement [18,19,38]. Tilt-rotor multicopters\noffer improved wind disturbance rejection and fault tolerance, enabled by servos adjusting\nrotor tilt angles [71]. A distinctive layout involves a quadcopter frame augmented with\ntwo laterally placed horizontal rotors, designed to counteract aerodynamic drag [58]. For\noperations in confined or collision-prone environments, ducted propellers offer improved\npropulsion efficiency and increase–d protection, albeit with reduced flight performance [20].\nAn innovative design further integrates ducted propulsion with tiltable",
+  "section_title": "2.2.1. Aerial Power Module",
+  "image_filename": "page_007_fig_01.jpeg",
+  "relative_path": "images/page_007_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "propellers",
+    "rotors",
+    "ducted",
+    "classification",
+    "orientation",
+    "design",
+    "tuav",
+    "aerial",
+    "tilt",
+    "rotor"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1332,
+    "height": 475,
+    "size_bytes": 91620,
+    "format": "jpeg"
+  }
+}

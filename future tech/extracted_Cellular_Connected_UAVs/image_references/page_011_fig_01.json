@@ -1,0 +1,38 @@
+{
+  "original_page": 11,
+  "figure_number": "Fig. 11",
+  "original_caption": "5.1.1. NFV oriented architectures In [107], the authors present the feasibility of an agile, automated and cost-effective UAV deployment architecture carrying out heteroge- neous missions with the help of NFV technology. This work proposes an adaptable way to achieve a reconfigurable UAV management system, which is capable of carrying out missions with varying objectives. For example, some UAVs could incorporate a VNF that provides access point connectivity services, another VNF for network layer routing functionalities, a third VNF for flight control system that can be easily upgraded as per the changing needs of the mission. The work is | • Management and Orchestration (MANO):- It is located with the GCS and realized by Open Source MANO (OSM) Release TWO. It contains all the necessary functionalities of service orchestration and VNF manager as per ETSI NFV reference architecture [118]. OpenStack Ocata is used for VIM. Both OSM and VIM were deployed in mini-ITX computer having 4 Gb Ethernet ports, 8 GB RAM, Intel Core i7 2.3 GHz, 128 GB SSD with DPDK support. • UAV hardware and software:- It provides the infrastructure sup- port for execution and deployment on light-weight VNFs. It is realized by Parrot AR.Drone 2.0 carrying single board Raspberry Pi 3 Model B. • Mission Planner:- It is located at the GCS and defines the nature and characteristics of different network services or network func- tions (NFs) to be deployed along with their placement policies. It also interfaces with MANO component to call for the light-weight VNF deployment on set of UAVs.",
+  "contextual_text": "Computer Networks 182 (2020) 107451 11 D. Mishra and E. Natalizio Table 5\nEnvisioned Network architectures of Cellular-connected UAV. Technology\nPrinciple\nBenefits NFV-Oriented [107], [108], [109]\nDecouples the hardware and software that exists in\ntraditional vendor network setting • Greater flexibility for NF deployment\n• Dynamic service provisioning\n• Easily deployable and well scalable\n• Efficient allocation to general purpose hardware MEC-Oriented [110], [111], [112], [113]\nThe cloud computing capabilities are placed close\nto edge of mobile network •\nSignificant reduction in data exchange cost\n•\nComputational offloading to local servers\n•\nImprovement of QoE for end users IoT-Oriented [41], [62], [66], [58], [114]\nConnecting massive number of diverse, smart\ndevices to 5G/B5G cellular network • Assists efficient decision making on huge data\n• Extracting meaningful information for end users\n• Control automation without human intervention\n• Information sharing and communication Service",
+  "section_title": "NFV oriented architectures",
+  "image_filename": "page_011_fig_01.jpeg",
+  "relative_path": "images/page_011_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "vnf",
+    "nfv",
+    "uav",
+    "deployment",
+    "carrying",
+    "network",
+    "mano",
+    "oriented",
+    "architectures",
+    "architecture"
+  ],
+  "cross_references": [
+    {
+      "page": 11,
+      "snippet": "Fig. 11. Deployment on multi-domain UAV services [109]."
+    },
+    {
+      "page": 12,
+      "snippet": "A software based service architecture running on a distributed\ncloud environment is demonstrated in [109]. In this demonstration,\nan Industry 4.0 application controlling the indoor drones is considere"
+    }
+  ],
+  "metadata": {
+    "width": 1706,
+    "height": 685,
+    "size_bytes": 346571,
+    "format": "jpeg"
+  }
+}

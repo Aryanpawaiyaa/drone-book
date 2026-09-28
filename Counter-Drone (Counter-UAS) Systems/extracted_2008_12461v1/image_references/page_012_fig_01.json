@@ -1,0 +1,30 @@
+{
+  "original_page": 12,
+  "figure_number": "Fig. 12",
+  "original_caption": "Vulnerabilities | Communication",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n12 Vulnerabilities GPS Communication Protocol Control Using Sensors Spoofing Modification & Invading Fig. 12: Catergorization of Vulnerabilities vulnerabilities of the UAS control systems and performed\nMan-in-the-Middle attack to inject the control commands to\ninteract with the UAS. Dey etc. [109] presented cracking SDK,\nreversing engineering and GPS spooﬁng to hijack the UAS.\nThey compared the DJI and Parrot drone performances under\nthe exploitation attack. The results showed that the DJI is more\nsecure than Parrot, which means that the DJI is hard to rush\ninto the restricted area. Chen etc. [110] analyzed the popular\naltitude estimation algorithms utilized in navigation system of\nUAS and proposed several effective attacks ( shown as IV-C\n) to the vulnerabilities. • KF-based Sensor Fusion\n1) Maximum false data injection: modifying the cal-\nculation functions of GPS and barometer measure-\nments. • Altitude estimation based on accurate sensor noise models\n1) B",
+  "section_title": "V. CHALLENGES IN UAS DETECTION AND MITIGATION",
+  "image_filename": "page_012_fig_01.png",
+  "relative_path": "images/page_012_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "vulnerabilities",
+    "communication",
+    "challenges",
+    "uas",
+    "detection",
+    "mitigation"
+  ],
+  "cross_references": [
+    {
+      "page": 12,
+      "snippet": "Fig. 12: Catergorization of Vulnerabilities"
+    }
+  ],
+  "metadata": {
+    "width": 214,
+    "height": 235,
+    "size_bytes": 3286,
+    "format": "png"
+  }
+}

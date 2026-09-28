@@ -1,0 +1,23 @@
+{
+  "original_page": 25,
+  "figure_number": "Figure 7",
+  "original_caption": "Figure 7. Cont.",
+  "contextual_text": "Biomimetics 2024, 9, 444\n25 of 41 Compared to their biological counterparts, neural networks in their first and second\ngenerations have limited modeling capabilities. Interestingly, there is no temporal reference\nto electrical impulses found in biological neural networks in these models. Additionally,\nresearch on biological processes remains limited. The human brain excels in processing\nreal-time data, efficiently encoding information through various features related to spikes,\nincluding specific event times [179]. The concept of simulating neural events prompted the\ncreation of SNNs, which currently stand as the most biologically plausible models. An SNN architecture controls the information transfer from a presynaptic (source)\nneuron to a postsynaptic (target) neuron through a network of interconnected neurons\nconnected by synapses. SNNs use spikes to encode and transport information, in contrast\nto traditional ANNs. Unlike a single forward propagation, each input is displayed for\na ",
+  "section_title": "4.3. Spiking Neural Networks",
+  "image_filename": "page_025_fig_02.png",
+  "relative_path": "images/page_025_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "cont",
+    "spiking",
+    "neural",
+    "networks"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1619,
+    "height": 532,
+    "size_bytes": 89856,
+    "format": "png"
+  }
+}

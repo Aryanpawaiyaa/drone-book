@@ -1,0 +1,36 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 4",
+  "original_caption": "Computer Networks 182 (2020) 107451 | D. Mishra and E. Natalizio",
+  "contextual_text": "Computer Networks 182 (2020) 107451 6 D. Mishra and E. Natalizio Fig. 4. Taxonomy of UAV Cellular applications & use cases. be efficiently integrated to existing cellular networks as a flying\nbase station or a relay or an aerial UE. These different types\nof integration showcase several promising applications and use\ncases.\n• Owing to the implicit benefits of cellular networks in terms of\nubiquitous accessibility, large coverage, scheduled and safe in-\nformation exchange protocols, cellular-connected UAVs are well\nsuited and find their applicability in many real-world applications\nsuch as earth and environmental observation, civil infrastructure\nand surveillance, defence and security, industrial IoT platforms,\netc. Integrating UAVs to 5G/B5G cellular systems proves to be a\nwin–win situation for both the parties. This work aims at presenting an extensive study of cellular-\nconnected UAVs, where the UAVs are integrated into the existing\ncellular networks as new aerial UEs. In order to car",
+  "section_title": "4.1. Three dimensional (3D) coverage model",
+  "image_filename": "page_006_fig_02.jpeg",
+  "relative_path": "images/page_006_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "computer",
+    "networks",
+    "mishra",
+    "natalizio",
+    "three",
+    "dimensional",
+    "coverage",
+    "model"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "Cellular-connected UAVs find their applicability in a wide range of\nemerging applications with varying demands and goals. In this work,\nwe showcase some of the attractive researched domains as a start"
+    },
+    {
+      "page": 6,
+      "snippet": "Fig. 4. Taxonomy of UAV Cellular applications & use cases."
+    }
+  ],
+  "metadata": {
+    "width": 1395,
+    "height": 1051,
+    "size_bytes": 315583,
+    "format": "jpeg"
+  }
+}

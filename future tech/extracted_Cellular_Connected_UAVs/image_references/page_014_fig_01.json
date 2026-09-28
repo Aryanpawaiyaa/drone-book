@@ -1,0 +1,36 @@
+{
+  "original_page": 14,
+  "figure_number": "Fig. 14",
+  "original_caption": "Computer Networks 182 (2020) 107451 | D. Mishra and E. Natalizio",
+  "contextual_text": "Computer Networks 182 (2020) 107451 14 D. Mishra and E. Natalizio Rel-15 for 5G NR. 5G will exploit full benefits of MIMO by lever-\naging the uncorrelated and distributed spatial location of cellular-\nconnected UAVs, as well as ground users. Massive MIMO enhances\nthe signal strength, where multiple data streams can include unique\nphase and weights to the waveforms to be constructively generated\nat the UAV receiver [123,124]. It minimizes the interference to other\ncellular-connected UAV receivers. The work [123] presents an evaluation of a massive MIMO system\nfor cellular-connected UAVs. It demonstrates that, massive MIMO as-\nsists in harmonious coexistence of cellular-connected UAVs with ground\nusers, supports large uplink data rates and results in consistent CNPC\nlink behaviour. The test uses 20 MHz bandwidth in sub-6 GHz licenced\nspectrum operating in TDD mode. Massive MIMO-enabled systems are\nuseful to restrict the impact of interference to the existing terrestrial\nusers. Such syste",
+  "section_title": "5.3. B5G innovations for cellular-connected UAVs",
+  "image_filename": "page_014_fig_01.jpeg",
+  "relative_path": "images/page_014_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "computer",
+    "networks",
+    "mishra",
+    "natalizio",
+    "innovations",
+    "cellular",
+    "connected",
+    "uavs"
+  ],
+  "cross_references": [
+    {
+      "page": 14,
+      "snippet": "Fig. 14. Coexistence performance of aerial UE and ground UE, 700 MHz in rural\nsetting [131]."
+    },
+    {
+      "page": 14,
+      "snippet": "proposal is validated by a testbed setup involving 2 × 2 MIMO where\nwide beam transmitters are employed half-power beams at 60◦on\nazimuth and elevation planes and 6 dBi forward gain. Fig. 14 shows\nthe"
+    }
+  ],
+  "metadata": {
+    "width": 967,
+    "height": 309,
+    "size_bytes": 115517,
+    "format": "jpeg"
+  }
+}

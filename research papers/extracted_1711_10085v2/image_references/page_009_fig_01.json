@@ -1,0 +1,46 @@
+{
+  "original_page": 9,
+  "figure_number": "Fig. 11",
+  "original_caption": "Fig. 11: Prototypes of single-rotor helicopters (Fig. (a)–(c)) [116]–[118], coaxial helicopters (Fig. (d)–(f)) [46], [47], [119], and ducted-fan UAV (Fig. (g)) [120] appear in the reviewed papers. See text for details.",
+  "contextual_text": "9 Fig. 11: Prototypes of single-rotor helicopters (Fig. (a)–(c)) [116]–[118], coaxial helicopters (Fig. (d)–(f)) [46], [47], [119],\nand ducted-fan UAV (Fig. (g)) [120] appear in the reviewed papers. See text for details. Fig. 12: Prototypes of octocopters (Fig. (a)–(b)) [121], [122], multirotor (Fig. (c)) [123], gliders (Fig. (d)–(e)) [124], [125],\nblimp (Fig. (f)) [126], and Ionic Flyer (Fig. (g)) [127] appear in the reviewed papers. See text for details. A multirotor is a UAV with more than one rotor and\nhas simple rotors conﬁguration for ﬂight control. Oung and\nD’Andrea [123] design a modular multirotor system, where\neach rotor aircraft has a hexagonal shape and can be assembled\ninto a multirotor aircraft with different conﬁguration. With\na distributed state estimation algorithm and a parameterized\ncontrol strategy, the multirotor is able to ﬂy in any ﬂight-\nfeasible conﬁguration both indoors and outdoors (Fig. 12 (c)). A glider (Fig. 12 (d)–(e)) [124], [125] is a UAV that uses its\n",
+  "section_title": "VII. DISCUSSION AND FINAL REMARKS",
+  "image_filename": "page_009_fig_01.jpeg",
+  "relative_path": "images/page_009_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "helicopters",
+    "prototypes",
+    "single",
+    "rotor",
+    "coaxial",
+    "ducted",
+    "fan",
+    "uav",
+    "appear",
+    "reviewed"
+  ],
+  "cross_references": [
+    {
+      "page": 8,
+      "snippet": "A single-rotor helicopter (Fig. 11 (a)–(c)) [116]–[118] is a\nUAV that relies on a main rotor and a tail rotor to generate\nthrust for VTOL, hovering, forward, backward, and lateral\nﬂights. By using a l"
+    },
+    {
+      "page": 8,
+      "snippet": "On the other hand, a coaxial helicopter (Fig. 11 (d)–(f)) is\na UAV that uses two contra-rotating rotors mounted on the\nsame axis to generate thrust for VTOL, hovering, forward,"
+    },
+    {
+      "page": 8,
+      "snippet": "A ducted-fan UAV (Fig. 11 (g)) is a UAV that has similar\nrotors conﬁguration with a coaxial helicopter but the rotors are\nmounted within a cylindrical duct. The duct helps to reduce\nthrust losses of t"
+    },
+    {
+      "page": 9,
+      "snippet": "Fig. 11: Prototypes of single-rotor helicopters (Fig. (a)–(c)) [116]–[118], coaxial helicopters (Fig. (d)–(f)) [46], [47], [119],\nand ducted-fan UAV (Fig. (g)) [120] appear in the reviewed papers. See"
+    }
+  ],
+  "metadata": {
+    "width": 3098,
+    "height": 334,
+    "size_bytes": 232884,
+    "format": "jpeg"
+  }
+}

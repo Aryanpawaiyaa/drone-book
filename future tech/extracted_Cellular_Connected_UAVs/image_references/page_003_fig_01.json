@@ -1,0 +1,39 @@
+{
+  "original_page": 3,
+  "figure_number": "Fig. 2",
+  "original_caption": "Computer Networks 182 (2020) 107451 | D. Mishra and E. Natalizio",
+  "contextual_text": "Computer Networks 182 (2020) 107451 3 D. Mishra and E. Natalizio Fig. 2. Integration Opportunities of UAV to Cellular Network. Table 1\nUAV Cellular Communication Requirement [22]. Type\nCNPC Uplink\nCNPC Downlink\nPayload Rate\n∼100 Kbps\n∼100 Kbps\n∼50 Mbps\nLatency\n–\n∼50 ms\nSame as Ground UE • Control and Non-Payload Communication (CNPC) - It refers\nto the time critical control and safety commands to maintain\nthe flight operations. CNPC includes the navigation, waypoint\nupdates, telemetry report and air traffic control (ATC) updates to\nensure secure and reliable UAV operation. CNPC usually demands\nhighly secure and reliable communication with low data rate\n(few hundred Kb/s) requirements. The reliability requirement for\nCNPC is less than 10−3 packet error rate (PER).\n• Payload Communication - It refers to all the information dissem-\nination activities between UAV and ground station pertaining to a\nUAV mission. For instance, in a surveillance operation, UAV needs\nto transmit real time video ",
+  "section_title": "2. Related surveys and tutorials",
+  "image_filename": "page_003_fig_01.png",
+  "relative_path": "images/page_003_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "computer",
+    "networks",
+    "mishra",
+    "natalizio",
+    "related",
+    "surveys",
+    "tutorials"
+  ],
+  "cross_references": [
+    {
+      "page": 3,
+      "snippet": "Fig. 2. Integration Opportunities of UAV to Cellular Network."
+    },
+    {
+      "page": 3,
+      "snippet": "• UAV-Assisted Cellular Communication - In this paradigm,\nUAVs are realized as flying base stations, relays or localization\nanchors, that can intelligently reposition themselves to assist the\nexisting"
+    },
+    {
+      "page": 3,
+      "snippet": "• Cellular-Assisted UAV Communication - This is also known as\nCellular-connected UAVs.1 As shown in Fig. 2(b), flying UAVs\nare realized as new aerial User Equipments (UEs) coexisting with\nterrestrial "
+    }
+  ],
+  "metadata": {
+    "width": 1454,
+    "height": 167,
+    "size_bytes": 24429,
+    "format": "png"
+  }
+}

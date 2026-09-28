@@ -1,0 +1,38 @@
+{
+  "original_page": 10,
+  "figure_number": "Fig. 6",
+  "original_caption": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z 10 | Fig. 6: A Blockchain-enabled 6G UAV Network.",
+  "contextual_text": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z\n10 service adaptability, migration, collaboration, and evolution in\nUAV communication using AI as a function operating in the\nedge core network [88]. The implementation of blockchain\ntechnology could allow participating UAVs to maintain high\nlevels of trust and establish a ﬂat architecture. Distributed\nentities generate transactions, which are subsequently recorded\nin blocks that are added to the blockchain. UAVs also\nperiodically evaluate transactions in order to identify malicious\nnodes, offering trust and anonymity that protects the UAV\nnetwork from malicious attacks. In addition, BC technology\ncan\nsecure\nconﬁdential\ndata\ncollected\nby\nUAVs\nfrom\nunauthorised access by intruders. Despite the potential beneﬁts of blockchain in UAV\nnetworks, there are still a number of challenges that need\nto be addressed before blockchain can be implemented in\nthe 6G mobile system.The majority of existing UAVs ",
+  "section_title": "V. AI/ML TECHNIQUES",
+  "image_filename": "page_010_fig_01.jpeg",
+  "relative_path": "images/page_010_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "network",
+    "accepted",
+    "ieee",
+    "transactions",
+    "service",
+    "management",
+    "vol",
+    "month",
+    "blockchain",
+    "enabled"
+  ],
+  "cross_references": [
+    {
+      "page": 9,
+      "snippet": "The above properties of blockchain can be utilized to\nimprove the performance of the UAV-6G communication\nnetwork by enabling secure spectrum sharing between network\noperators and UAV service provider"
+    },
+    {
+      "page": 10,
+      "snippet": "Fig. 6: A Blockchain-enabled 6G UAV Network."
+    }
+  ],
+  "metadata": {
+    "width": 4153,
+    "height": 3433,
+    "size_bytes": 461232,
+    "format": "jpeg"
+  }
+}

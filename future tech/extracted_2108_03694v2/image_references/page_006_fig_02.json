@@ -1,0 +1,42 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 7",
+  "original_caption": "Fig. 7: Adaptive control experiments (without vision). Top: A trial run to illustrate the similar accuracy of both con- trollers. Bottom: Left Two trial runs using the software controller with the additional weight mounted to the drone, without adaptation. Right Same two trial runs using the adaptive SNN controller. | IV. CONCLUSIONS",
+  "contextual_text": "for the experiments done with the SNN controller. This is due\nto the limited output resolution of the SNN controller (360\nvalues) causing small oscillations around the set-points. The\nRMSEs were obtained by averaging over runs of 10 seconds\neach. The bottom plots in Fig. 7 demonstrate how the adaptation,\nimplemented using synaptic plasticity on the neuromorphic\nchip, helps to remove the offset induced by an additional\nweight of 125g mounted on one of the UAV’s arms. The\nplots show the roll of the drone at different target roll\nangles. From the blue traces in Fig. 7, as well as from the\nobtained errors for the CPU controller reported in Table I,\nit is clear that this additional weight of 125g represents a\nstrong disturbance. Without adaptation, a persistent steady-\nstate error of roughly 20◦is observed, while the adaptation\nin the SNN controller removes this offset. With the added\nweight, the CPU controller’s average error increases roughly\nby a factor of 2-3, while the adaptive control",
+  "section_title": "REFERENCES",
+  "image_filename": "page_006_fig_02.png",
+  "relative_path": "images/page_006_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "trial",
+    "adaptive",
+    "without",
+    "two",
+    "runs",
+    "controller",
+    "control",
+    "experiments",
+    "vision",
+    "top"
+  ],
+  "cross_references": [
+    {
+      "page": 5,
+      "snippet": "In this series of experiments, we demonstrate the value\nof implementing the SNN controller in neuromorphic hard-\nware, namely the possibility to explore on-chip learning\nto autonomously adjust the con"
+    },
+    {
+      "page": 6,
+      "snippet": "The bottom plots in Fig. 7 demonstrate how the adaptation,\nimplemented using synaptic plasticity on the neuromorphic\nchip, helps to remove the offset induced by an additional\nweight of 125g mounted on"
+    },
+    {
+      "page": 6,
+      "snippet": "Fig. 7: Adaptive control experiments (without vision). Top:\nA trial run to illustrate the similar accuracy of both con-\ntrollers. Bottom: Left Two trial runs using the software\ncontroller with the add"
+    }
+  ],
+  "metadata": {
+    "width": 1702,
+    "height": 896,
+    "size_bytes": 65767,
+    "format": "png"
+  }
+}

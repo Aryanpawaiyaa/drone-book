@@ -1,0 +1,29 @@
+{
+  "original_page": 2,
+  "figure_number": "Figure 1",
+  "original_caption": "Unlike free-flying/untethered UAVs, tethered drones are physically connected to a ground station via a cable capable of transmitting power, data, or both. This configuration enables significantly extended flight durations and enhances operational stability by lever- aging the tether as a physical constraint that attenuates disturbances [10,11]. Furthermore, TUAVs exhibit a tightly coupled dynamic behavior resulting from the interaction between the aerial platform and the tether cable. This coupling introduces unique challenges in modeling, control, and stability, setting TUAVs apart from their untethered counterparts. An overview of these newly introduced features is illustrated in Figure 1. | Figure 1. TUAV newly introduced features: (a) Wired connection to ground power source; (b) Wired data transmission link (optical fiber); (c) Physically constrained safe flight zone.",
+  "contextual_text": "Drones 2025, 9, 425\n2 of 48 such as power delivery mechanisms, Tether Management Systems (TMS), communication\narchitecture, and system modeling and integration. This work aims to bridge the gap\nbetween fragmented research efforts and practical applications, offering a consolidated\nresource for researchers and engineers. In particular, the unique contribution of this review\nlies in its holistic synthesis of TUAV system components, control strategies, and applica-\ntion scenarios, with special emphasis on the coupled dynamics of drone–tether–winch\nsubsystems. By integrating engineering perspectives from modeling, control, sensing, and\noperation, this review establishes a unified framework for understanding and advancing\nTUAV technologies, addressing a critical gap not previously covered in the literature. 1.1. New Features Unlike free-flying/untethered UAVs, tethered drones are physically connected to a\nground station via a cable capable of transmitting power, data, or both. This configur",
+  "section_title": "1.1.2. Wired Data Communication",
+  "image_filename": "page_002_fig_01.png",
+  "relative_path": "images/page_002_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "data",
+    "wired",
+    "untethered",
+    "physically",
+    "ground",
+    "cable",
+    "power",
+    "flight",
+    "stability",
+    "tether"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 990,
+    "height": 523,
+    "size_bytes": 93477,
+    "format": "png"
+  }
+}

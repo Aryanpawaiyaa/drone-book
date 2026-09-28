@@ -1,0 +1,38 @@
+{
+  "original_page": 11,
+  "figure_number": "Fig. 7",
+  "original_caption": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z 11 | Fig. 7: Maximum Transmission Range [111].",
+  "contextual_text": "ACCEPTED IN IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, VOL. XX, NO. YY, MONTH 202Z\n11 [102] investigated the optimal deployment of aerial BSs to\nofﬂoad terrestrial BSs by predicting the congestion in the\nwireless network to minimizing the power consumption of the\ndrones. On the other hand, during the disasters cases, UAVs\nare consider a good solution of the WSN; Masroor et al. [103]\nare highlighted this issue and recommended that WSN with\nUAV together to increase the response of the network. Aside from the work mentioned above, there are some\ntutorials and surveys oriented toward the use of machine\nlearning methods in wireless communication networks. In\n[104], for example, offers a tutorial on artiﬁcial neural\nnetworks (ANNs) for wireless networks. All of the papers\ndiscussed above, however, do not expressly examine AI\ntechniques for UAV applications.Furthermore, we noted that\nthe majority of existing studies focuses on typical centralised\nmethodologies for RL solutions, whic",
+  "section_title": "VI. ENERGY EFFICIENCY",
+  "image_filename": "page_011_fig_01.jpeg",
+  "relative_path": "images/page_011_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "accepted",
+    "ieee",
+    "transactions",
+    "network",
+    "service",
+    "management",
+    "vol",
+    "month",
+    "maximum",
+    "transmission"
+  ],
+  "cross_references": [
+    {
+      "page": 11,
+      "snippet": "Fig. 7: Maximum Transmission Range [111]."
+    },
+    {
+      "page": 12,
+      "snippet": "Fig. 7 illustrates a UAV that uses the same transmitting\npower PTx to form a link with all other UAVs within its\ntransmission range. A graphical depiction of the network\ntopology, structured like an M"
+    }
+  ],
+  "metadata": {
+    "width": 908,
+    "height": 517,
+    "size_bytes": 97959,
+    "format": "jpeg"
+  }
+}

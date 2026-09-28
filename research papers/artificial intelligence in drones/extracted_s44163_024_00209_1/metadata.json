@@ -1,0 +1,123 @@
+{
+  "source_pdf": "s44163-024-00209-1.pdf",
+  "total_pages": 24,
+  "total_extracted_images": 11,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "In-depth review of AI-enabled unmanned aerial vehicles: trends, vision, and challenges",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Abstract",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "1 Introduction",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "2 Review methodology",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "2.1 Paper selection criteria",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "2.2 Source of literatures",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "2.3 Area of coverage",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "3 UAV platform type",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "3.1 Fixed-wing UAV",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "3.2 Multi-rotor UAV",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "3.3 Single rotor UAV",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "4 Artificial intelligence embedded UAV",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "4.1 Applications of AI in UAV for traffic monitoring",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "4.2 AI in UAV for object detection",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "4.3 AI-enabled agriculture surveillance UAV system",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "4.4 Wildlife monitoring with UAV",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "4.5 Rescue operation surveillance with UAV embedded AI",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "5 Challenges and future aspect on AI enabled UAV",
+      "page": 16
+    },
+    {
+      "level": 2,
+      "title": "6 Summary",
+      "page": 16
+    },
+    {
+      "level": 2,
+      "title": "7 Conclusion",
+      "page": 18
+    },
+    {
+      "level": 2,
+      "title": "Acknowledgements ",
+      "page": 18
+    },
+    {
+      "level": 2,
+      "title": "References",
+      "page": 19
+    }
+  ],
+  "output_directory": "f:\\drone-book\\research papers\\artificial intelligence in drones\\extracted_s44163_024_00209_1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

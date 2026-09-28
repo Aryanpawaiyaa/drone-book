@@ -1,0 +1,42 @@
+{
+  "original_page": 3,
+  "figure_number": "Fig. 2",
+  "original_caption": "Fig. 2(b) illustrates the two basic flying mechanisms and rotor or- ganizations known as the ‘+’ and ‘x’ patterns. In each configuration of rotors, the two rotors on the opposite ends always rotate in the same direction while the other two rotate in the opposite directions. The ‘x’ design is a more stable structure, and it can produce more rotation ac- celeration than the ‘+’ organization [6]. Generally, the ‘+’ configuration provides easy manoeuvring and is well-suited for the purpose of sports flying. In contrast, aerial photography is much easier with the ‘x’ con- figuration that inherently keeps the propellers out of the screen. | the drone [7].",
+  "contextual_text": "This means that when the blades rotate, their rotor pitch does not vary.\nIn addition to a drone's direction of movement, its roll, pitch, and yaw\nmovement depend on the difference between the throttle provided by\nthe four motors operating the propellers. Stable flight requires high-\nprecision control of the motors. The control algorithms continuously\ntake feedback and adjust the throttle of the motors, thereby controlling\nroll, pitch, yaw, and thrust of the drone. Yaw movement is controlled to\nensure the stability of rotation on the vertical or Z-axis. Pitch movement\nis controlled to ensure the stability of rotation on the Y-axis (also called\nlateral or transverse axis) that determines the degree of side-to-side\ntilting. Similarly, the roll is the measure of how high the nose or front of\nthe drone is lifted. Its movement is controlled to ensure the stability on\nthe X-axis (or longitudinal axis). Fig. 2(b) illustrates the two basic flying mechanisms and rotor or-\nganizations known as th",
+  "section_title": "4.3. Existing Control Approaches",
+  "image_filename": "page_003_fig_02.png",
+  "relative_path": "images/page_003_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "two",
+    "flying",
+    "configuration",
+    "rotors",
+    "opposite",
+    "rotate",
+    "more",
+    "illustrates",
+    "basic",
+    "mechanisms"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "Consider an autonomous and adaptive quadcopter that is an under-\nactuated system having four input engines and propellers enabling roll,\npitch, yaw, and thrust control as well as six degrees of freedo"
+    },
+    {
+      "page": 2,
+      "snippet": "Fig. 2. (a) Movement about axes, (b) Configuration of a quadcopter."
+    },
+    {
+      "page": 3,
+      "snippet": "Fig. 2(b) illustrates the two basic flying mechanisms and rotor or-\nganizations known as the ‘+’ and ‘x’ patterns. In each configuration of\nrotors, the two rotors on the opposite ends always rotate in"
+    }
+  ],
+  "metadata": {
+    "width": 396,
+    "height": 323,
+    "size_bytes": 88992,
+    "format": "png"
+  }
+}

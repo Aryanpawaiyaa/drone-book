@@ -1,0 +1,34 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 5",
+  "original_caption": "Moving object  segmentation | Optical Vision",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n6 the methods of image segmentation. The differential of UAS\nand environment in images is used to determine whether the\nrestricted areas have the UAS. A vision based UAS detection\napproach is presented in [47], which could separate the UAS\nfrom background efﬁciently. Similar work was reported in [48]\nand [16]. The common challenges for their approaches are\nhow to separate UAS from background images and how to\ndistinguish UAS from ﬂying birds. Typical vision-based UAS\ndetection technologies are summarized in Figure 5. In contrast, state-of-art image segmentation methods make\nuse of neural networks to directly identify the appearance of\nUAS. An approach leverages the thermal camera to detect\nthe UAS and neural network to identify the UAS [49]. An\noutstanding research is presented in [50]. A lightweight and\nfast algorithm which could operate on embedded system\n(Nvidia Jetson TX1) and identify the UAS in movement. A real-time vision based UAS detection system is ",
+  "section_title": "III-D Radar based UAS Detection",
+  "image_filename": "page_006_fig_07.jpeg",
+  "relative_path": "images/page_006_fig_07.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "moving",
+    "object",
+    "segmentation",
+    "optical",
+    "vision",
+    "iii",
+    "radar",
+    "based",
+    "uas",
+    "detection"
+  ],
+  "cross_references": [
+    {
+      "page": 6,
+      "snippet": "Fig. 5: Categorization of vision based approaches"
+    }
+  ],
+  "metadata": {
+    "width": 307,
+    "height": 182,
+    "size_bytes": 14772,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "original_page": 7,
+  "figure_number": "FIGURE 6",
+  "original_caption": "of the war information, and established a multi-UAV con- frontation model based on uncertain information. An intelli- gent self-organizing algorithm (ISOA) based on a distributed control structure decomposes the global optimization prob- lem into multiple local optimization problems. Each UAV can solve its local optimization problem, and then through the UAV Information exchange, optimal decision-making for multiple UAV systems [42]. An interpretable intelligent model is deduced for the decision-making logic of the UAV when performing scheduled tasks and choosing to deviate from the speciﬁed path. The intelligent model is an if-then rule derived from a Sugeno-type fuzzy inference model on a visual platform [53]. For the autonomous routing problem of formation drones ﬂying in areas where communication is refused, this area does not allow the exchange of information between drones. Modeling the problem under the framework of game theory, the drone can choose multiple strategies to take the next step [54]. Reference [55] proposes a muti-UAV Bio-Inspired Optmizaed Leader Election (BOLE) method, the selected leader acts as a decision maker and assigns taks to other drones. | • Secondly, in the scheduling and management scenarios for complex tasks, heuristic algorithms are usually used to solve the problem of the UAV task assignment. How- ever, due to the high computational complexity, it may take a long time to ﬁnd the optimal solution, so it is nec- essary to study the task planning algorithm with fast con- vergence ability. In addition, due to the complexity and variability of mission scenarios, research on real-time mission planning for heterogeneous UAV systems will also become a direction in the future.",
+  "contextual_text": "Y. Zhou et al.: UAV Swarm Intelligence: Recent Advances and Future Trends of the war information, and established a multi-UAV con-\nfrontation model based on uncertain information. An intelli-\ngent self-organizing algorithm (ISOA) based on a distributed\ncontrol structure decomposes the global optimization prob-\nlem into multiple local optimization problems. Each UAV\ncan solve its local optimization problem, and then through\nthe UAV Information exchange, optimal decision-making\nfor multiple UAV systems [42]. An interpretable intelligent\nmodel is deduced for the decision-making logic of the UAV\nwhen performing scheduled tasks and choosing to deviate\nfrom the speciﬁed path. The intelligent model is an if-then\nrule derived from a Sugeno-type fuzzy inference model on\na visual platform [53]. For the autonomous routing problem\nof formation drones ﬂying in areas where communication is\nrefused, this area does not allow the exchange of information\nbetween drones. Modeling the problem under the fr",
+  "section_title": "FIGURE 6. Mainstream path planning algorithms.",
+  "image_filename": "page_007_fig_02.png",
+  "relative_path": "images/page_007_fig_02.png",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "information",
+    "model",
+    "problem",
+    "optimization",
+    "multiple",
+    "decision",
+    "drones",
+    "planning",
+    "con"
+  ],
+  "cross_references": [
+    {
+      "page": 7,
+      "snippet": "B. PATH PLANNING LAYER\nThe path planning layer is responsible for transforming the\ndecision data into waypoints and using the UAV attitude\ninformation and environment perception information to gen-\ner"
+    },
+    {
+      "page": 7,
+      "snippet": "FIGURE 6. Mainstream path planning algorithms."
+    }
+  ],
+  "metadata": {
+    "width": 669,
+    "height": 221,
+    "size_bytes": 9882,
+    "format": "png"
+  }
+}

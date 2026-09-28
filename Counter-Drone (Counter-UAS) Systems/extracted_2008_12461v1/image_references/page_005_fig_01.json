@@ -1,0 +1,38 @@
+{
+  "original_page": 5,
+  "figure_number": "Fig. 3",
+  "original_caption": "IEEE AESS SYSTEMS MAGAZINE 5 | Fig. 3: Evolution of UAS Detection Technologies",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n5 Fig. 3: Evolution of UAS Detection Technologies of UAS in a large scale. Machine learning (ML) presents\na tremendous opportunity of integrating with the acoustic\nsensing into acoustic based UAS detection for improved UAS\ndetection performance. B. Passive RF based Detection UAS usually maintain at least one Radio Frequency (RF)\ncommunication data link to its remote controller to either\nreceive control commands or deliver aerial images. In this\ncase, the spectral patterns of such transmission are used as\nan important evidence for the detection and localization of\nUAS. Different passive RF technologies are shown in Fig. 4.\nIn most cases, Software Deﬁned Radio (SDR) receivers are\nemployed to intercept the RF channels. To utilize the spectrum patterns of UAS, in [40], an Artiﬁcial\nNeural Networks (ANN) detection algorithm for a UAS RF\nsignal was proposed which employs three signal features:\nimproved slope, improved skewness, and improved kurtosis.\nIt was shown t",
+  "section_title": "III-B Passive RF based Detection",
+  "image_filename": "page_005_fig_01.png",
+  "relative_path": "images/page_005_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "detection",
+    "ieee",
+    "aess",
+    "magazine",
+    "evolution",
+    "uas",
+    "technologies",
+    "iii",
+    "passive",
+    "based"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "Since 2014, ﬁve technologies have been proposed for UAS\ndetection, including acoustic, vision, passive radio frequency,\nradar, and data fusion. We summarized the evolution of UAS\ndetection technologie"
+    },
+    {
+      "page": 5,
+      "snippet": "Fig. 3: Evolution of UAS Detection Technologies"
+    }
+  ],
+  "metadata": {
+    "width": 2831,
+    "height": 755,
+    "size_bytes": 73782,
+    "format": "png"
+  }
+}

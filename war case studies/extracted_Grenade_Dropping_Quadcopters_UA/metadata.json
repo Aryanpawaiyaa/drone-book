@@ -1,0 +1,12 @@
+{
+  "source_pdf": "Grenade-Dropping-Quadcopters-UA.pdf",
+  "total_pages": 13,
+  "total_extracted_images": 7,
+  "section_outline": [],
+  "output_directory": "f:\\drone-book\\war case studies\\extracted_Grenade_Dropping_Quadcopters_UA",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

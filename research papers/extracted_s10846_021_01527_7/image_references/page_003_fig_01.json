@@ -1,0 +1,122 @@
+{
+  "original_page": 3,
+  "figure_number": "Fig. 1",
+  "original_caption": "validating the proposed method in a challenging environment where navigating a Quadrotor was successfully done from narrow passages including people, boxes, and doors [25]. | Additional UAV technologies specifically equipped with vision and intelligence methods include object detection, path planning and object tracking [26]. With regard to these intel- ligent features, a methodology is followed to allow the UAV to locally generate waypoints that are collision-free which proved clear visibility and tracking [27]. In [28], a technique is proposed for collision avoidance systems depending on visual detection. The system hardware consisted of a hum- mingbird Quadrotor which was equipped with a higher red marker along with two built-in-fish-eye cameras. The mea- surements fusion were done from two cameras utilizing a Gaussian-mixture probability hypothesis density filter, which proved successful tracking [28]. The proposed collision avoidance algorithm relied on navigation functions. These are designed specifically for coping with cameras particularly characterized by limiting the field of view. There is recording conducted of the trajectory data with an external motion cap- ture system which led towards demonstration of decent ro- bustness against internal noise [28, 29].",
+  "contextual_text": "validating the proposed method in a challenging environment\nwhere navigating a Quadrotor was successfully done from\nnarrow passages including people, boxes, and doors [25]. Additional UAV technologies specifically equipped with\nvision and intelligence methods include object detection, path\nplanning and object tracking [26]. With regard to these intel-\nligent features, a methodology is followed to allow the UAV\nto locally generate waypoints that are collision-free which\nproved clear visibility and tracking [27]. In [28], a technique\nis proposed for collision avoidance systems depending on\nvisual detection. The system hardware consisted of a hum-\nmingbird Quadrotor which was equipped with a higher red\nmarker along with two built-in-fish-eye cameras. The mea-\nsurements fusion were done from two cameras utilizing a\nGaussian-mixture probability hypothesis density filter, which\nproved successful tracking [28]. The proposed collision\navoidance algorithm relied on navigation functions. These\na",
+  "section_title": "3 UAV Mechanical Architectures",
+  "image_filename": "page_003_fig_01.jpeg",
+  "relative_path": "images/page_003_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "proposed",
+    "uav",
+    "tracking",
+    "collision",
+    "cameras",
+    "quadrotor",
+    "done",
+    "specifically",
+    "equipped",
+    "object"
+  ],
+  "cross_references": [
+    {
+      "page": 2,
+      "snippet": "Other enabling technologies have greatly extended the use\nof UAVs making them suitable for more applications due\nto innovative research taking place globally. Hence, a mind-\nmap shown in Fig. 1 has be"
+    },
+    {
+      "page": 3,
+      "snippet": "Although the features presented in Fig. 1 can easily overlap\nwith other categories depending on the set application, clari-\nfying this further is presented in Table 1 which highlights"
+    },
+    {
+      "page": 3,
+      "snippet": "some of the applications that are suitable for the various fea-\ntures mentioned in Fig. 1. It is evident that the applications\nselected for each feature somehow overlaps with other\nfeatures. Hence, a "
+    },
+    {
+      "page": 3,
+      "snippet": "Fig. 1 Mind map showing different features that are readily available"
+    },
+    {
+      "page": 4,
+      "snippet": "Table 1\nApplications related to the features presented in Fig. 1"
+    },
+    {
+      "page": 12,
+      "snippet": "The simulation process of the block diagram shown in\nFig. 9 was purely focused on demonstrating and justifying\nthe performance using simple Kinematics approach. This\nwas calculated through the thrust "
+    },
+    {
+      "page": 12,
+      "snippet": "It is worth mentioning that the signals presented in Fig. 10\nis considering the analysis of the UAV without using any\ncontrollers. However, once a control law is implemented\ninto the system, one can a"
+    },
+    {
+      "page": 12,
+      "snippet": "Fig. 10 Quadrotor dynamic\nanalysis without control\nconsiderations: (a) Applying 10 N\nthrust for 1 s, (b) Applying 19.8 N\nthrust for 2 s, (c) Maximum\nvelocity based on results attained\non 19.8 N thrust"
+    },
+    {
+      "page": 14,
+      "snippet": "The author in [123] has presented a Backstepping control\nstrategy to control the load position of two mass systems with\nunknown backlash. Controlling the two mass system will con-\nsist of either contr"
+    },
+    {
+      "page": 14,
+      "snippet": "Fig. 11 Block diagram of four-\nstep Backstepping control\nalgorithm [123]"
+    },
+    {
+      "page": 15,
+      "snippet": "In the process of designing such a controller, the gains were\nset at a fixed point to kick start the basis for the development\nof a full gain scheduled controller. Using linearization tech-\nniques to "
+    },
+    {
+      "page": 15,
+      "snippet": "points control input. The fixed gain controller shown on\nFig. 14 was studied by the authors in Matlab to track a\nreference trajectory. Figure 15 depicts the resultant mo-\ntion of the vehicle as it att"
+    },
+    {
+      "page": 15,
+      "snippet": "Correcting this issue implies that an improved controller\nthat can switch between parameters as the UAV deviates fur-\nther away from the equilibrium point is required. Developing\nthe gain scheduling c"
+    },
+    {
+      "page": 15,
+      "snippet": "Fig. 13 Trajectory tracking under\ngain scheduled control, each\ncolour represents a separate\nequilibrium point design [110]"
+    },
+    {
+      "page": 15,
+      "snippet": "Fig. 12 BS-PID compared with conventional optimized PID while\nchanging the attitude of the UAV [18]"
+    },
+    {
+      "page": 16,
+      "snippet": "the plants response to the model reference. Therefore, the\nadaptive controller attempts to keep the tracking error mini-\nmized, this is done by adjusting the controller parameters\ncausing the real par"
+    },
+    {
+      "page": 16,
+      "snippet": "Fig. 14 Block Diagrams of the\nconventional controller and the\ngain scheduled control system\n[110]"
+    },
+    {
+      "page": 16,
+      "snippet": "Fig. 15 Response curve representation of the Quadrotor as it attempts to track the reference signal under fixed gain control [110]"
+    },
+    {
+      "page": 17,
+      "snippet": "coefficients are adaptively tuned by the NN method. This\ntechnique ensures that the system has a powerful capability\nof tackling non-linearity, fault tolerance, adaptation and con-\ntinuous online lear"
+    },
+    {
+      "page": 17,
+      "snippet": "Fig. 16 Tracking trajectory using the gain scheduled controller [110]"
+    },
+    {
+      "page": 17,
+      "snippet": "Fig. 17 Model reference adaptive\ncontrol (MRAC) applied on to the\nQuadrotor model [113]"
+    },
+    {
+      "page": 18,
+      "snippet": "Fig. 18 (a) state response of the actual plant and the reference model (b)\ncomparing the actual plant and the reference model as a reference value\nplant is followed [118]"
+    },
+    {
+      "page": 18,
+      "snippet": "Fig. 19 NN based control strategy flowchart [127]\nFig. 20 Generalised functionality of the H∞controller [128]"
+    }
+  ],
+  "metadata": {
+    "width": 2035,
+    "height": 1283,
+    "size_bytes": 226794,
+    "format": "jpeg"
+  }
+}

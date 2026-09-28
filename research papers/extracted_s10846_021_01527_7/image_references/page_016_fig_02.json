@@ -1,0 +1,29 @@
+{
+  "original_page": 16,
+  "figure_number": "Figure 17",
+  "original_caption": "reference, an adjustment mechanism is used to ensure that the feedback values are ideal so that the tracking error is mini- mized. Thus, this technique has become popular due to its great stability and that no information is required from the plant model since there is a desired behaviour already in place. Figure 17 illustrates a block diagram of an MRAC implement- ed on a Quadrotor. | Considering the fact that the authors have only focused on controlling the angular position, angular velocity and acceler- ation. The test began by assuming that the controller parame- ters are unknown whereby using an online adaptive mecha- nism to determine the values will permit the convergence of",
+  "contextual_text": "reference, an adjustment mechanism is used to ensure that the\nfeedback values are ideal so that the tracking error is mini-\nmized. Thus, this technique has become popular due to its\ngreat stability and that no information is required from the\nplant model since there is a desired behaviour already in place.\nFigure 17 illustrates a block diagram of an MRAC implement-\ned on a Quadrotor. Considering the fact that the authors have only focused on\ncontrolling the angular position, angular velocity and acceler-\nation. The test began by assuming that the controller parame-\nters are unknown whereby using an online adaptive mecha-\nnism to determine the values will permit the convergence of the plants response to the model reference. Therefore, the\nadaptive controller attempts to keep the tracking error mini-\nmized, this is done by adjusting the controller parameters\ncausing the real parameters of the plant to follow the reference\nsignal. Fig. , illustrates the response of a state within the plan",
+  "section_title": "7.3 Adaptive Control",
+  "image_filename": "page_016_fig_02.jpeg",
+  "relative_path": "images/page_016_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "values",
+    "angular",
+    "adaptive",
+    "reference",
+    "adjustment",
+    "mechanism",
+    "ensure",
+    "feedback",
+    "ideal",
+    "tracking"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 2035,
+    "height": 764,
+    "size_bytes": 102544,
+    "format": "jpeg"
+  }
+}

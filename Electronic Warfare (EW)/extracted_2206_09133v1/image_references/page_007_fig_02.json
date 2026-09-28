@@ -1,0 +1,29 @@
+{
+  "original_page": 7,
+  "figure_number": "Figure 10",
+  "original_caption": "Location of Receiver Indoor Outdoor Receiver Static Mobile* Static Mobile* | Static spoofed signal S(30-40 s) S(30-40 s) S(30-50 s) S(>60 s) Dynamic spoofed signal S(30-40 s) S(>60 s) S(>90 s) S (>90 s) S= spoofing was successful; (xx s) = time taken by the receiver to show spoofed location. ∗Movement to the receiver was imparted by manual walking movement with a speed not more than 1 meter (m) per second (s). Also, the maximum distance of the receiver from the spoofer during the experiments was less than 50 m. All the tests were carried out with the cellular 4G network on.",
+  "contextual_text": "Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers MSWiM ’22, Montreal, Canada, Table 3. Results of Phase I Tests Location of Receiver\nIndoor\nOutdoor\nReceiver\nStatic\nMobile*\nStatic\nMobile* Static spoofed signal\nS(30-40 s)\nS(30-40 s)\nS(30-50 s)\nS(>60 s)\nDynamic spoofed signal\nS(30-40 s)\nS(>60 s)\nS(>90 s)\nS (>90 s)\nS= spoofing was successful; (xx s) = time taken by the receiver to show spoofed location.\n∗Movement to the receiver was imparted by manual walking movement with a speed not more than 1 meter (m) per\nsecond (s). Also, the maximum distance of the receiver from the spoofer during the experiments was less than 50 m. All\nthe tests were carried out with the cellular 4G network on. Figure 10. Designing route in Google Earth with numerous\nwaypoints. before the receipt of spoofed signals. Fig. 11 shows screen-\nshots of Google Maps and OLA App before and after Tx of\nthe spoofed signals under outdoor conditions. Figs. 12 and\n13 show the results during dynam",
+  "section_title": "5.2 Results of Static and Dynamic Spoofing under Indoor and Outdoor Conditions on Different GNSS Receivers",
+  "image_filename": "page_007_fig_02.jpeg",
+  "relative_path": "images/page_007_fig_02.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "receiver",
+    "static",
+    "spoofed",
+    "location",
+    "indoor",
+    "outdoor",
+    "mobile",
+    "signal",
+    "dynamic",
+    "spoofing"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 982,
+    "height": 742,
+    "size_bytes": 221827,
+    "format": "jpeg"
+  }
+}

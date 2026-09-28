@@ -1,0 +1,29 @@
+{
+  "original_page": 2,
+  "figure_number": "Figure 1",
+  "original_caption": "In recent decades, VSLAM has gained significant development attention as research has demonstrated that detailed scene information can be gathered from visual data [3,7], as well as due to the increased availability of low-cost cameras [7,8]. In VSLAM, cameras such as monocular, stereo, or RGB-D are used to gather visual information that can be used to solve the localization and map-building problems. These cameras record a continuous video stream by capturing frames of the surrounding environment at a specific rate. The different types of VSLAM systems that have been developed based on these different camera types are detailed in Section Limitations of Frame-Based Cameras in VSLAM, but generally, the classical VSLAM framework follows the steps as shown in Figure 1: sensor data acquisition, visual odometry (VO; also known as front-end), backend filtering/optimization, loop closure, and reconstruction [9]. Sensor data acquisition involves the acquisition and pre-processing of data captured by the sensors (a camera in the case of VSLAM). VO is used to measure the movement of the camera between the adjacent frames (ego- motion) and generate a rough map of the surroundings. The backend optimizes the camera pose received from VO and the result of loop closure in order to generate an efficient trajectory and map for the system. Loop closure determines if the system has previously visited the location to minimize the accumulated drift and update the backend for further optimization. With reconstruction, a map of the system can be developed based on the camera trajectory estimation. | Figure 1. Classic visual SLAM framework.",
+  "contextual_text": "Biomimetics 2024, 9, 444\n2 of 41 This process can help users in getting the status of the system, as well as serve as a reference\nin making autonomous navigation-related decisions [3,5]. It helps robots gain autonomy\nand reduce the requirement for human operation or intervention [3,4]. Moreover, with effec-\ntive SLAM methods, mobile robots such as vacuum cleaners, autonomous vehicles, aerial\ndrones, and others [2,4] can effectively navigate a dynamic environment autonomously. The sensor choice affects the performance and efficacy of the SLAM solution [3] and\nshould be decided based on the sensor’s information-gathering capability, power cost,\nand precision. The primary sensor types commonly utilized in SLAM applications are\nlaser sensors (such as Light Detection and Ranging (LiDAR) sensors) and vision sensors.\nLaser-based SLAM typically offers higher precision; however, these systems tend to be\nmore expensive and power-hungry [6]. Moreover, they lack semantic information and\nface chall",
+  "section_title": "1. Introduction",
+  "image_filename": "page_002_fig_01.png",
+  "relative_path": "images/page_002_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "vslam",
+    "camera",
+    "visual",
+    "data",
+    "cameras",
+    "map",
+    "based",
+    "acquisition",
+    "backend",
+    "loop"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 1183,
+    "height": 781,
+    "size_bytes": 147752,
+    "format": "png"
+  }
+}

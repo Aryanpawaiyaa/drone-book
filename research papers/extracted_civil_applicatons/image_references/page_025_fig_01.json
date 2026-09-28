@@ -1,0 +1,34 @@
+{
+  "original_page": 25,
+  "figure_number": "Fig. 26",
+  "original_caption": "Fig. 26: A UAV is Used as a Flying RSU That Broadcasts a Warning About Road Hazards that have been Detected in an Area not Pre-Equipped with an RSU (Flying Roadside Units) [169]. | • The minimum ﬂight visibility, as observed from the location of the control station must be no less than 3 statute miles. For critical infrastructure, a legislation has been developed to protect such infrastructure from rogue drone operators. UAVs should not be close to such places when these critical infrastructure exist. The classiﬁcation of critical infrastruc- ture differs by state, but generally includes facilities such as petroleum reﬁneries, chemical manufacturing facilities, pipelines, waste water treatment facilities, power generation stations, electric utilities, chemical or rubber manufacturing facilities, and other similar facilities [193].",
+  "contextual_text": "25 Fig. 26: A UAV is Used as a Flying RSU That Broadcasts a Warning About Road Hazards\nthat have been Detected in an Area not Pre-Equipped with an RSU (Flying Roadside\nUnits) [169]. Fig. 27: A UAV is Used to Provide the Rescue Team an Advance Report Prior to Reaching\nthe Incident Scene [169]. drone users important information about the limitations that\npertain to the location they where drone is being operated.\nThe ”Know Before You Fly” campaign by the FAA aims\nto educate the public about UAV safety and responsibilities.\nFor civil operations, the FAA authorization can be received\neither through Section 333 Exemption (i.e., by issuing a\nCOA), or through a Special Airworthiness Certiﬁcate (SAC) in\nwhich applicants describe their design, software development,\ncontrol, along with how and where they intend to ﬂy. The\nFAA also enforces their regulations along with Law Enforce-\nment Agencies (LEAs) to deter, detect, investigate, and stop\nunauthorized and unsafe UAV operations [189]. Overall, ",
+  "section_title": "IX-D Challenges and Future Insights",
+  "image_filename": "page_025_fig_01.png",
+  "relative_path": "images/page_025_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "facilities",
+    "critical",
+    "infrastructure",
+    "such",
+    "flying",
+    "rsu",
+    "not",
+    "chemical",
+    "manufacturing",
+    "uav"
+  ],
+  "cross_references": [
+    {
+      "page": 25,
+      "snippet": "Fig. 26: A UAV is Used as a Flying RSU That Broadcasts a Warning About Road Hazards\nthat have been Detected in an Area not Pre-Equipped with an RSU (Flying Roadside\nUnits) [169]."
+    }
+  ],
+  "metadata": {
+    "width": 791,
+    "height": 275,
+    "size_bytes": 40831,
+    "format": "png"
+  }
+}

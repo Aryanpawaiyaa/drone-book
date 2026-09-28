@@ -1,0 +1,29 @@
+{
+  "original_page": 18,
+  "figure_number": "Figure 18-1",
+  "original_caption": "such as lasers, projectiles, and collision UAVs [191]. These system can be activated when the detected mUAV is too close to a secure-sensitive area, such as an air- port, airﬁeld, nuclear power station, oil reﬁnery, public infrastructure, government facility, or military facility and related areas, and/or then they are too fast to ver- ify the threat or to use other more moderate neutral- ization methods. In urgent situations, i.e., threat Level 5(Critical), the multiple destroying systems can be acti- vated and cooperate to improve the protection capability. The destruction of an mUAV may have a knock-on effect from the debris of the mUAV and the explosion. Thus, in urban environments where many people can be injured, mitigation systems need to determine the destruction time. The destruction can also be deferred to locate and capture the operators of mUAVs. Note that the physical destruction can be a last resort for mitigating mUAVs. | of audible (between 20 Hz and 20 kHz) and ultrasound (above 20 kHz, up to several gigahertz) waves. Most UAVs generate sound from the engines/motors and/or rotors. Mini- UAVs generate buzzing and hissing sounds in the frequency range of 400 Hz to 8 kHz [192], which can be detected by the acoustic sensors. The gathered sound data can be com- pared to libraries of acoustic signatures to discriminate UAVs from other, similar objects [192]. For example, DroneShield built a database of the acoustic signatures of various UAV models to prevent false alarms due to ambient noise [193]. Alsok’s detection system employs acoustic sensors to detect the rotating propellers of UAVs and compare the detected data with the acoustic signatures in a database [194]. However, the libraries of acoustic signatures do not cover all types of proliferating UAVs over various ﬁelds. Furthermore, acoustic sensors cover a limited range, and acoustic/ultrasonic data is vulnerable to wind and surrounding ambient noise sources. Though the LoS environment can enhance the detection per- formance, it is not required for acoustic/ultrasonic sensing. To overcome the limitations of acoustic/ultrasonic sensing and to bolster the performance capabilities of other types of sensors, various techniques and algorithms have been studied using acoustic/ultrasonic data.",
+  "contextual_text": "H. Kang et al.: Protect Your Sky: A Survey of Counter UAV Systems such as lasers, projectiles, and collision UAVs [191].\nThese system can be activated when the detected mUAV\nis too close to a secure-sensitive area, such as an air-\nport, airﬁeld, nuclear power station, oil reﬁnery, public\ninfrastructure, government facility, or military facility\nand related areas, and/or then they are too fast to ver-\nify the threat or to use other more moderate neutral-\nization methods. In urgent situations, i.e., threat Level\n5(Critical), the multiple destroying systems can be acti-\nvated and cooperate to improve the protection capability.\nThe destruction of an mUAV may have a knock-on\neffect from the debris of the mUAV and the explosion.\nThus, in urban environments where many people can\nbe injured, mitigation systems need to determine the\ndestruction time. The destruction can also be deferred\nto locate and capture the operators of mUAVs. Note that\nthe physical destruction can be a last resort for mit",
+  "section_title": "TABLE 5. Regulations on Commercial UAVs in 20 countries and Violation Consequences [40]–[44].",
+  "image_filename": "page_018_fig_01.png",
+  "relative_path": "images/page_018_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "acoustic",
+    "uavs",
+    "destruction",
+    "sensors",
+    "data",
+    "signatures",
+    "ultrasonic",
+    "detected",
+    "muav",
+    "other"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 377,
+    "height": 64,
+    "size_bytes": 3399,
+    "format": "png"
+  }
+}

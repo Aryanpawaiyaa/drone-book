@@ -1,0 +1,29 @@
+{
+  "original_page": 6,
+  "figure_number": "Figure 6-1",
+  "original_caption": "Review\t Discover Artificial Intelligence            (2024) 4:97   | https://doi.org/10.1007/s44163-024-00209-1 | 3.2  \u0007Multi‑rotor UAV",
+  "contextual_text": "Vol:.(1234567890) Review\t\nDiscover Artificial Intelligence            (2024) 4:97  \n| https://doi.org/10.1007/s44163-024-00209-1 3.2  \u0007Multi‑rotor UAV The simplest and least expensive method for keeping an” eye in the sky” is to use a multi-rotor drone. They also allow for \nmore precise positioning and framing, making (Figs. 3, 4). Common types of multi-rotor aircraft include tri-copters (with three rotors), quadcopters (with four), hexa-copters \n(with six), and octo-copters (with eight). Quad-rotors are the most prevalent multi-rotor drones. It offers superior aircraft \ncontrol while in flight. Thanks to its improved maneuverability, it can go backward, forwards, sideways, and around on \nits axis [44]. Because of their low endurance and speed, multi-rotor drones aren’t suited for extensive aerial mapping, \nlong-term monitoring, or long-distance infrastructure inspection like highways, pipelines, and electricity lines. They are \ninherently inefficient and need a lot of energy to defy g",
+  "section_title": "4.1  \u0007Applications of AI in UAV for traffic monitoring",
+  "image_filename": "page_006_fig_01.jpeg",
+  "relative_path": "images/page_006_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "review",
+    "discover",
+    "artificial",
+    "intelligence",
+    "https",
+    "doi",
+    "org",
+    "multi",
+    "rotor"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 709,
+    "height": 374,
+    "size_bytes": 29178,
+    "format": "jpeg"
+  }
+}

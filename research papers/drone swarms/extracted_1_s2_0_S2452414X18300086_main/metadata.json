@@ -1,0 +1,138 @@
+{
+  "source_pdf": "1-s2.0-S2452414X18300086-main.pdf",
+  "total_pages": 7,
+  "total_extracted_images": 7,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Swarms of Unmanned Aerial Vehicles — A Survey",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Introduction",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "Application Areas",
+      "page": 1
+    },
+    {
+      "level": 3,
+      "title": "Security, Survey, Monitoring, and Surveillance",
+      "page": 1
+    },
+    {
+      "level": 3,
+      "title": "Leisure Pursuit",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "Disaster Management",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "Environmental Mapping",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "Search and Rescue (S&#x200B;&&#x200B;R)",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "Classification of UAVs",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "Dynamics and Flying Mechanisms",
+      "page": 2
+    },
+    {
+      "level": 3,
+      "title": "Mechanical Design",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "Description of Sensors",
+      "page": 3
+    },
+    {
+      "level": 3,
+      "title": "Existing Control Approaches",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "Autonomous Swarms",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "Battery Swapping/Recharging",
+      "page": 4
+    },
+    {
+      "level": 3,
+      "title": "Robustness against Collisions",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Surveillance Systems",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Swarm Design, Management, and Optimization",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Hovering Performance",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "Communication Reliability",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "Public Awareness",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "Conclusion",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "mk:H1_22",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Acknowledgement",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "References",
+      "page": 6
+    }
+  ],
+  "output_directory": "f:\\drone-book\\research papers\\drone swarms\\extracted_1_s2_0_S2452414X18300086_main",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

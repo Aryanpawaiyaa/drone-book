@@ -1,0 +1,38 @@
+{
+  "original_page": 22,
+  "figure_number": "Fig. 31",
+  "original_caption": "guide the states towards the manifold. Once this is successful- ly reached, the state will be forced to move along the manifold in which the occurrence of switching will continue to appear while trying to reach the final state, which is generally referred to as a chattering phenomenon. Being exposed to external disturbances will result in the signal deviating from the man- ifold. Therefore, keeping the chattering effects at minimum will improve the flight stability [138]. | author concludes that the trajectory was followed success- fully and that the performance of the controller was very promising in this scenario.",
+  "contextual_text": "guide the states towards the manifold. Once this is successful-\nly reached, the state will be forced to move along the manifold\nin which the occurrence of switching will continue to appear\nwhile trying to reach the final state, which is generally referred\nto as a chattering phenomenon. Being exposed to external\ndisturbances will result in the signal deviating from the man-\nifold. Therefore, keeping the chattering effects at minimum\nwill improve the flight stability [138]. The literature reviewed regarding the topic of SMC on\nQuadrotors has been vastly researched by many. Defining\nthe functionality of classical control theory and their perfor-\nmance on Quadrotors is mentioned in [7, 12, 13]. For exam-\nple, Mehmet in [12] has applied a SMC to the Quadrotor\ndynamics enforcing the behaviour of the system states to-\nwards the desired trajectories. The authors mentioned that\nSMC are very well known for their robustness to uncer-\ntainties, where the goal of the controller is to enforce the er",
+  "section_title": "7.10 Comparative Study",
+  "image_filename": "page_022_fig_01.jpeg",
+  "relative_path": "images/page_022_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "will",
+    "manifold",
+    "state",
+    "chattering",
+    "guide",
+    "states",
+    "towards",
+    "once",
+    "successful",
+    "reached"
+  ],
+  "cross_references": [
+    {
+      "page": 22,
+      "snippet": "Due to the fact that SMC are not the only controllers\nthat are able to overcome disturbances, many researchers\nwithin the control systems field have compared and com-\nbined robust controllers simultan"
+    },
+    {
+      "page": 26,
+      "snippet": "Fig. 31 Quadrotor tracking\nperformance compared between\nPID, ABSM and BSM for Roll\n(Left), Pitch (Middle) and altitude\n(right) [140]"
+    }
+  ],
+  "metadata": {
+    "width": 2035,
+    "height": 948,
+    "size_bytes": 105859,
+    "format": "jpeg"
+  }
+}

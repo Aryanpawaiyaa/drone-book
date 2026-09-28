@@ -1,0 +1,58 @@
+{
+  "original_page": 6,
+  "figure_number": "Fig. 4",
+  "original_caption": "Selecting a particular configuration is greatly dependant on the mission criteria and the performance requirement. For in- stance, assuming that the multirotor is expected to fly within indoor confined areas, Octocopters (8 rotors) are not ideally suitable for this particular application, as they are more suit- able for outdoor environments or carrying larger payloads. As the number of actuators are increased, the lift and stability is also improved. However, the overall power consumption is also negatively affected [75]. Traditional RW crafts are com- monly developed with fixed pitch blades, where the orienta- tion is controlled by varying the speed of the corresponding rotor. The considered VTOL systems which are shown on Fig. 4 will be explored further in the following section. | failure. Moreover, these vehicles can easily be effected by external disturbances such as wind or gusts due to their light- weight structure and limited actuators [72, 76, 77].",
+  "contextual_text": "Selecting a particular configuration is greatly dependant on\nthe mission criteria and the performance requirement. For in-\nstance, assuming that the multirotor is expected to fly within\nindoor confined areas, Octocopters (8 rotors) are not ideally\nsuitable for this particular application, as they are more suit-\nable for outdoor environments or carrying larger payloads. As\nthe number of actuators are increased, the lift and stability is\nalso improved. However, the overall power consumption is\nalso negatively affected [75]. Traditional RW crafts are com-\nmonly developed with fixed pitch blades, where the orienta-\ntion is controlled by varying the speed of the corresponding\nrotor. The considered VTOL systems which are shown\non Fig. 4 will be explored further in the following\nsection. 4.1 Common VTOL UAVs Monocopters shown in Fig. 4a consists of a single actuator\nand a single wing to achieve lift. Originally, this configuration\nhas been brought from the concept of maple seeds as they fall\n",
+  "section_title": "4.1 Common VTOL UAVs",
+  "image_filename": "page_006_fig_01.jpeg",
+  "relative_path": "images/page_006_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "particular",
+    "actuators",
+    "also",
+    "vtol",
+    "selecting",
+    "configuration",
+    "greatly",
+    "dependant",
+    "mission",
+    "criteria"
+  ],
+  "cross_references": [
+    {
+      "page": 6,
+      "snippet": "Selecting a particular configuration is greatly dependant on\nthe mission criteria and the performance requirement. For in-\nstance, assuming that the multirotor is expected to fly within\nindoor confine"
+    },
+    {
+      "page": 6,
+      "snippet": "Monocopters shown in Fig. 4a consists of a single actuator\nand a single wing to achieve lift. Originally, this configuration\nhas been brought from the concept of maple seeds as they fall\ndown slowly i"
+    },
+    {
+      "page": 6,
+      "snippet": "Tricopters shown in Fig. 4b consists of three actuators that\nare equally spaced by 120° from each other. They are the least\nexpensive configuration after the Monocopters, and are suit-\nable for videog"
+    },
+    {
+      "page": 6,
+      "snippet": "Quadrotors shown in Fig. 4c consists of four actuators,\nwhich are generally equally spaced by 90° from each other. In\ncomparison to Monocopters, and Tricopters, Quadrotors en-\njoy hovering with consid"
+    },
+    {
+      "page": 6,
+      "snippet": "Hexacopters shown in Fig. 4d consists of six actuators,\nwhich are equally spaced by 60° from each other. They enjoy\nan improved stability (even following a single actuator failure)\nin comparison to th"
+    },
+    {
+      "page": 6,
+      "snippet": "Octocopters shown in Fig. 4e consist of eight actuators,\nwhich are equally spaced by 45° from each other. They enjoy\nthe best stability and are capable of carrying larger payloads\ncompared to hexacopt"
+    },
+    {
+      "page": 6,
+      "snippet": "Fig. 4 Commonly used Multi-\nrotor VTOL UAVs: (a)\nMonocopter [71], (b) Tricopter\n[72], (c) Quadrotor [68], (d)\nHexacopter [73], (e) Octocopter\n[74]"
+    }
+  ],
+  "metadata": {
+    "width": 1503,
+    "height": 674,
+    "size_bytes": 114819,
+    "format": "jpeg"
+  }
+}

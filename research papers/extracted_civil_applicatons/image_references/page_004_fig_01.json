@@ -1,0 +1,69 @@
+{
+  "original_page": 4,
+  "figure_number": "Fig. 2",
+  "original_caption": "Fig. 2: Detailed Structure of the Survey.",
+  "contextual_text": "4 Fig. 2: Detailed Structure of the Survey.",
+  "section_title": "II. MARKET OPPORTUNITY",
+  "image_filename": "page_004_fig_01.png",
+  "relative_path": "images/page_004_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "detailed",
+    "structure",
+    "survey",
+    "market",
+    "opportunity"
+  ],
+  "cross_references": [
+    {
+      "page": 4,
+      "snippet": "Fig. 2: Detailed Structure of the Survey."
+    },
+    {
+      "page": 20,
+      "snippet": "Fig. 20: Autonomous E-Commerce."
+    },
+    {
+      "page": 20,
+      "snippet": "Fig. 21: UAV Delivery Applications and Challenges."
+    },
+    {
+      "page": 20,
+      "snippet": "Fig. 22: UAV Delivery of Goods System."
+    },
+    {
+      "page": 21,
+      "snippet": "Fig. 23: Amazon Airspace Model for the Safe Integration of UAV Systems."
+    },
+    {
+      "page": 24,
+      "snippet": "Fig. 24: Proposed Vehicle Detection Framework in [183]."
+    },
+    {
+      "page": 24,
+      "snippet": "Fig. 25: A UAV is Used By Police to Catch Trafﬁc Violators [169]."
+    },
+    {
+      "page": 25,
+      "snippet": "Fig. 26: A UAV is Used as a Flying RSU That Broadcasts a Warning About Road Hazards\nthat have been Detected in an Area not Pre-Equipped with an RSU (Flying Roadside\nUnits) [169]."
+    },
+    {
+      "page": 25,
+      "snippet": "Fig. 27: A UAV is Used to Provide the Rescue Team an Advance Report Prior to Reaching\nthe Incident Scene [169]."
+    },
+    {
+      "page": 29,
+      "snippet": "Fig. 28: Typical Use Cases of UAV-Aided Wireless Communications."
+    },
+    {
+      "page": 30,
+      "snippet": "Fig. 29: Applications of UAV Links."
+    }
+  ],
+  "metadata": {
+    "width": 1640,
+    "height": 2155,
+    "size_bytes": 247093,
+    "format": "png"
+  }
+}

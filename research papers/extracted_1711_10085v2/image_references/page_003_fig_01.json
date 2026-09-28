@@ -1,0 +1,38 @@
+{
+  "original_page": 3,
+  "figure_number": "Fig. 3",
+  "original_caption": "Fig. 3: Topic distribution of UAV research in 2006–2016 (data taken from [6]). Best viewed in color. See text for details. | chart summarized by Liew [6] in Fig. 3. From the pie chart, we can observe that hardware and control papers contribute to more than 50% of the pie. In recent years, researchers start to focus on higher level tasks such as navigation and task planning in UAVs. In addition, researchers also pay attention to visual odometry, localization, and mapping, which are essential for UAVs to perform task planning effectively. More recently, researchers focus on HRI and tele-operation with UAVs. Lately, researchers work on obstacle or collision avoidance, which is an important topic of UAVs.",
+  "contextual_text": "3 Fig. 3: Topic distribution of UAV research in 2006–2016 (data\ntaken from [6]). Best viewed in color. See text for details. chart summarized by Liew [6] in Fig. 3. From the pie chart,\nwe can observe that hardware and control papers contribute\nto more than 50% of the pie. In recent years, researchers\nstart to focus on higher level tasks such as navigation and\ntask planning in UAVs. In addition, researchers also pay\nattention to visual odometry, localization, and mapping, which\nare essential for UAVs to perform task planning effectively.\nMore recently, researchers focus on HRI and tele-operation\nwith UAVs. Lately, researchers work on obstacle or collision\navoidance, which is an important topic of UAVs. III. RELATED WORKS ON UAV SURVEY In this section, we discuss several surveys in the UAV ﬁeld,\nincluding surveys on quadcopter and ﬂapping-wing UAVs. We\nalso list several short papers that summarize UAV results in\na video. Lastly, we refer to several resources that aim to\nsummarize details",
+  "section_title": "IV. OUR SURVEY METHODOLOGY",
+  "image_filename": "page_003_fig_01.png",
+  "relative_path": "images/page_003_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "researchers",
+    "uavs",
+    "topic",
+    "chart",
+    "pie",
+    "more",
+    "focus",
+    "task",
+    "planning",
+    "distribution"
+  ],
+  "cross_references": [
+    {
+      "page": 3,
+      "snippet": "Fig. 3: Topic distribution of UAV research in 2006–2016 (data\ntaken from [6]). Best viewed in color. See text for details."
+    },
+    {
+      "page": 3,
+      "snippet": "chart summarized by Liew [6] in Fig. 3. From the pie chart,\nwe can observe that hardware and control papers contribute\nto more than 50% of the pie. In recent years, researchers\nstart to focus on highe"
+    }
+  ],
+  "metadata": {
+    "width": 1205,
+    "height": 680,
+    "size_bytes": 69077,
+    "format": "png"
+  }
+}

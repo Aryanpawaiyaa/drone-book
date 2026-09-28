@@ -1,0 +1,31 @@
+{
+  "original_page": 3,
+  "figure_number": "Fig. 1",
+  "original_caption": "KOSDI 517 | 러시아의 전면 침공 이후 우크라이나 전장은 세 유형의 경량 무인항공기(UAS)가 전투 흐름을 좌우했다. 첫째, FPV 드론",
+  "contextual_text": "KOSDI\n517 Soonhyeong Cha et al. | Strategic Military Applications of Unmanned Aerial Systems in Modern Warfare: A Case-Based Analysis 군사적 UAS의 분류 군사 분야에서 운용되는 무인항공기(UAS)는 통상적으로 운용 목적, 기술 사양, 체공 고도 및 작전 범위 등을 기준으로 다 양한 방식으로 분류된다. NATO는 UAS를 체급 기준으로 Class I~III로, 미국 국방부(DoD)는 작전 반경과 중량 기준으로 Group 1~5 체계로 분류한다. 또한 STANAG 4586과 같은 연합군 운용 프로토콜은 무인체계 간 상호 운용성을 위한 통신 표 준 체계를 제공한다. 본 논문에서는 실전 활용 사례를 바탕으로 임무 성격에 따른 분류 체계를 중심으로 다음과 같이 정리하였다: (1) 정찰 및 감시용 UAS: 적의 병력·장비 배치, 지형 정보 등을 수집하여 전장 상황 파악을 지원하며, EO/IR 센서, 레이더, 통신감청 장비 등을 탑재한다. (2) 공격용 UAS: 고가치 표적(HVT: High-Value Target) 타격, 근접항공지원(CAS), 폭탄·미사일 운용 등 직접 전투 임 무를 수행한다. (3) 전자전 UAS: 적 통신망 및 레이더 체계를 교란하거나 무력화하는 임무를 수행하며, 재밍(jamming), 스푸핑 (spoofing) 등의 전자 공격 능력을 갖춘다. (4) 복합 다기능형(Multi-role) UAS: 정찰, 타격, 통신 중계, 전자전 등 복수의 임무를 하나의 플랫폼에서 통합 수행할 수 있도록 설계된 무인기로, Bayraktar TB2, MQ-1C Gray Eagle, Hermes 900 등이 대표적이다. 이들은 주로 NATO Class III 또는 DoD Group 4~5로 분류되며, 장기 체공과 AI 기반 자율 임무 수행 기능을 갖추고 있어 유무인 복합 작 전(MUM-T)에도 적합하다. 현대 분쟁에서의 무인항공기(UAS) 활용 사례 우크라이나-러시",
+  "section_title": "러시아의 전면 침공 이후 우크라이나 전장은 세 유형의 경량 무인항공기(UAS)가 전투 흐름을 좌우했다. 첫째, FPV 드론",
+  "image_filename": "page_003_fig_01.jpeg",
+  "relative_path": "images/page_003_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "uas",
+    "fpv",
+    "kosdi"
+  ],
+  "cross_references": [
+    {
+      "page": 3,
+      "snippet": "정밀 타격할 수 있는 소형 무기 플랫폼으로 진화했다. 둘째, 자폭형 드론 가운데 대표적인 Shahed-136은 Fig. 1에 보이듯 약"
+    },
+    {
+      "page": 3,
+      "snippet": "Fig. 1. Shahed-136(Borsari, 2024)"
+    }
+  ],
+  "metadata": {
+    "width": 1024,
+    "height": 682,
+    "size_bytes": 36415,
+    "format": "jpeg"
+  }
+}

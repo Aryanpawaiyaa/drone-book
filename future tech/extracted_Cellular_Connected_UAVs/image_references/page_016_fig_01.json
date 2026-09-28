@@ -1,0 +1,38 @@
+{
+  "original_page": 16,
+  "figure_number": "Fig. 15",
+  "original_caption": "Network Virtualization Ability of the prototype to be hardware platform independent and softwarization of UAV network functions | ✗ ✗ ✗ ✗",
+  "contextual_text": "Computer Networks 182 (2020) 107451 16 D. Mishra and E. Natalizio Table 8\nA feature-oriented comparison of prototypes of cellular-connected UAVs from viewpoint of idealistic baseline. References →\nShort Description\n[139]\n[140]\n[141]\n[142]\nFeatures ↓ Cellular Network\nCellular network generation type to which the prototype is\nconnected and tested 4G LTE\n4G LTE\nGSM/ GPRS\n3G/4G LTE Open-source\nConstituent hardware and software components of the prototype\nbeing developed ✓\n✓\n✓\n✓ Autonomous\nWhether the UAV can fly autonomously without human\nintervention (self-flying nature) ✓\n✗\n✗\n✗ Fail-safe\nAbility to be resistant against lost link and returning to home\nlocation after UAV control is interrupted ✓\n✗\n✗\n✗ Encrypted Communication\nUse of encryption mechanism to secure the message exchanges from\npotential attackers ✓\n✗\n✗\n✗ BVLoS Capable\nBeing able to command and control the UAV, even not in the direct\nview of the remote pilot ✓\n✓\n✗\n✗ QoS-Aware\nUAV successfully fulfils the application demands with",
+  "section_title": "6.1. Experimental testbeds",
+  "image_filename": "page_016_fig_01.jpeg",
+  "relative_path": "images/page_016_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "network",
+    "virtualization",
+    "ability",
+    "prototype",
+    "hardware",
+    "platform",
+    "independent",
+    "softwarization",
+    "uav",
+    "functions"
+  ],
+  "cross_references": [
+    {
+      "page": 16,
+      "snippet": "An open-source 4G connected and controlled self-flying UAV is\ndemonstrated in [139], defining a new, light-weight, secure and open-\nsource class of cellular-connected UAV. This work utilizes open-sour"
+    },
+    {
+      "page": 16,
+      "snippet": "Fig. 15. Prototype design and configurations in [139]."
+    }
+  ],
+  "metadata": {
+    "width": 982,
+    "height": 590,
+    "size_bytes": 166971,
+    "format": "jpeg"
+  }
+}

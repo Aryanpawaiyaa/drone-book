@@ -1,0 +1,29 @@
+{
+  "original_page": 20,
+  "figure_number": "Figure 6",
+  "original_caption": "Figure 6 Off-board/On-board GPS-location dependent vehicle spoofing scenarios. | Full-size DOI: 10.7717/peerjcs.507/fig-6",
+  "contextual_text": "Figure 6\nOff-board/On-board GPS-location dependent vehicle spoofing scenarios. Full-size\nDOI: 10.7717/peerjcs.507/fig-6 in distance (1d) between the target receiver and the off-board spoofer is a function of\ndifference in their individual velocities and time. These distance variations induce abrupt\nfluctuations in RSS at the victim GPS receiver, which can be used to filter out the spoofed\nGPS signals. On-board\nGPS spoofing systems that are covertly attached to the target are known as on-board spoofers.\nA miniature size one-board spoofer, also known as a Limpet spoofer, is a portable device\nwith an independent power source and is normally concealed at a suitable location over the\ntarget platform to safeguard its operations (Lo & Enge, 2010). On-board or limpet spoofer\nnormally requires a wireless communication link with its base controlling station to receive\nspoofing commands and send feedback. Additionally, it can also be pre-programmed and\nconfigured for autonomous operations. Howeve",
+  "section_title": "TAXONOMY OF GPS SPOOFING ATTACKS",
+  "image_filename": "page_020_fig_01.png",
+  "relative_path": "images/page_020_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "board",
+    "gps",
+    "spoofing",
+    "off",
+    "location",
+    "dependent",
+    "vehicle",
+    "scenarios",
+    "full",
+    "size"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 3000,
+    "height": 2101,
+    "size_bytes": 531998,
+    "format": "png"
+  }
+}

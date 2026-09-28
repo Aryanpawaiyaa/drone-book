@@ -1,0 +1,34 @@
+{
+  "original_page": 18,
+  "figure_number": "Fig. 18",
+  "original_caption": "Irrigation scheduling Plant disease | detection Soil texture mapping Residue cover and",
+  "contextual_text": "18 Irrigation scheduling\nPlant disease detection\nSoil texture mapping\nResidue cover and tillage mapping\nField tile mapping\nCrop maturity mapping\nCrop yield mapping Precision Agriculture Using UAVs Fig. 18: The Deployment of UAVs in Precision Agriculture Applications. the challenges of using UAVs in PA. Another challenge,\nwhen UAVs are used to cover large areas, is that it\nneeds to return many times to the charging station for\nrecharging. [105], [109], [112]. D. Research Trends and Future Insights 1) Machine Learning : The next generation of UAVs will\nutilize the new technologies in precision agriculture, such as\nmachine learning. Hummingbird is a UAV-enabled data and\nimagery analytics business for precision agriculture [135]. It\nutilizes machine learning to deliver actionable insights on\ncrop health directly to the ﬁeld. The process ﬂow begins by\nperforming UAV surveys on the agricultural land at critical\ndecision-making points in the growing season. Then, UAV\nimages is uploaded to the",
+  "section_title": "VII-D Research Trends and Future Insights",
+  "image_filename": "page_018_fig_01.png",
+  "relative_path": "images/page_018_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "irrigation",
+    "scheduling",
+    "plant",
+    "disease",
+    "detection",
+    "soil",
+    "texture",
+    "mapping",
+    "residue",
+    "cover"
+  ],
+  "cross_references": [
+    {
+      "page": 18,
+      "snippet": "Fig. 18: The Deployment of UAVs in Precision Agriculture Applications."
+    }
+  ],
+  "metadata": {
+    "width": 931,
+    "height": 640,
+    "size_bytes": 188609,
+    "format": "png"
+  }
+}

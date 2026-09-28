@@ -1,0 +1,33 @@
+{
+  "original_page": 12,
+  "figure_number": "Fig. 7",
+  "original_caption": "Research Article 12 | Training control in simulation",
+  "contextual_text": "Research Article\n12 From a vision-based state estimate to control The corner ﬂows [uTL, uTR, uBR, uBL]T ∈R8×1 resulting from the\nvision-based state estimation can be used to control the drone.\nMore speciﬁcally, we can transform the corner ﬂows to visual\nobservable estimates [51], consisting of scaled velocities ˆνC ∈\nR3×1 and yaw rate ˆωCz in the camera frame C, as follows [62]: uk = −  νCx νCy  + νC z xk +  ωCz −ωCz  ◦xk\n(13) where ◦denotes the Hadamard (element-wise) product and xk = [x, y]T is the projection of the world points in the corners of\nthe ﬁeld of view onto the pixel array. Furthermore, it is assumed\nthat 1) the scene is static and planar, 2) angles in pitch and roll are\nsmall and 3) optical ﬂow is derotated in pitch and roll. Inverting\nthis relation for all four corners allows us to do a least-squares\nestimation of the scaled velocities ˆνC and the yaw rate ˆωCz , which\ncan then be transformed to the body frame B. To perform control,\nwe can let a user select setpo",
+  "section_title": "˙H = K",
+  "image_filename": "page_012_fig_01.png",
+  "relative_path": "images/page_012_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "research",
+    "article",
+    "training",
+    "control",
+    "simulation"
+  ],
+  "cross_references": [
+    {
+      "page": 12,
+      "snippet": "Because Eq. 13 is a linear transformation, it can be ‘merged’\nwith other transformations if these are also linear. This holds\nfor the decoding from spikes to corner ﬂows in the vision SNN,\nmeaning tha"
+    },
+    {
+      "page": 12,
+      "snippet": "Fig. 7. Merging linear transformations. (A) We go directly\nfrom output spikes s of the vision network to control com-\nmands c in a single linear decoding by multiplying the in-\nvolved linear transform"
+    }
+  ],
+  "metadata": {
+    "width": 5543,
+    "height": 6677,
+    "size_bytes": 511869,
+    "format": "png"
+  }
+}

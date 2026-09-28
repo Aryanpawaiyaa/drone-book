@@ -1,0 +1,46 @@
+{
+  "original_page": 7,
+  "figure_number": "Fig. 8",
+  "original_caption": "Fig. 8: Prototypes of hexacopters (in alphabetical order: [97]–[102]) appear in the reviewed papers. See text for details. | hexacopter’s pose to estimate the complex dynamic model (re- quired for accurate positioning ﬂight). In addition to the IMU sensor, Zhou et al. [101] combine visual information from two downward-facing cameras to perform visual odometry in their hexacopter (Fig. 8 (b)). On the other hand, Yol et al. [99] demonstrate a hexacopter (Fig. 8 (c)) that could perform vision-based localization by using a downward-looking camera and geo-referenced images. Navigation and obstacle avoidance are also important topics for UAVs. Nguyen et al. [102] demonstrate their real-time path planning and obstacle avoid- ance algorithms with a commercial hexacopter (Fig. 8 (d)).",
+  "contextual_text": "7 Fig. 8: Prototypes of hexacopters (in alphabetical order: [97]–[102]) appear in the reviewed papers. See text for details. hexacopter’s pose to estimate the complex dynamic model (re-\nquired for accurate positioning ﬂight). In addition to the IMU\nsensor, Zhou et al. [101] combine visual information from two\ndownward-facing cameras to perform visual odometry in their\nhexacopter (Fig. 8 (b)). On the other hand, Yol et al. [99]\ndemonstrate a hexacopter (Fig. 8 (c)) that could perform\nvision-based localization by using a downward-looking camera\nand geo-referenced images. Navigation and obstacle avoidance\nare also important topics for UAVs. Nguyen et al. [102]\ndemonstrate their real-time path planning and obstacle avoid-\nance algorithms with a commercial hexacopter (Fig. 8 (d)). Similar to a conventional quadcopter, a conventional hex-\nacopter is a non-holonomic aircraft, which cannot move\nhorizontally without changing its attitude. Ryll et al. [98]\npresent a hexacopter (Fig. 8 (e)) that ",
+  "section_title": "VI-C Fixed-wing UAVs",
+  "image_filename": "page_007_fig_01.jpeg",
+  "relative_path": "images/page_007_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "hexacopter",
+    "visual",
+    "downward",
+    "perform",
+    "their",
+    "demonstrate",
+    "obstacle",
+    "uavs",
+    "prototypes",
+    "hexacopters"
+  ],
+  "cross_references": [
+    {
+      "page": 6,
+      "snippet": "A hexacopter (Fig. 8 (a)–(f)) [97]–[102] is a UAV with\nsix rotors. Burri et al. [97] use a hexacopter (Fig. 8 (a)) to\nperform system identiﬁcation study. Speciﬁcally, they collect\ninformation from an "
+    },
+    {
+      "page": 7,
+      "snippet": "Fig. 8: Prototypes of hexacopters (in alphabetical order: [97]–[102]) appear in the reviewed papers. See text for details."
+    },
+    {
+      "page": 7,
+      "snippet": "hexacopter’s pose to estimate the complex dynamic model (re-\nquired for accurate positioning ﬂight). In addition to the IMU\nsensor, Zhou et al. [101] combine visual information from two\ndownward-facin"
+    },
+    {
+      "page": 7,
+      "snippet": "Similar to a conventional quadcopter, a conventional hex-\nacopter is a non-holonomic aircraft, which cannot move\nhorizontally without changing its attitude. Ryll et al. [98]\npresent a hexacopter (Fig."
+    }
+  ],
+  "metadata": {
+    "width": 3439,
+    "height": 334,
+    "size_bytes": 237369,
+    "format": "jpeg"
+  }
+}

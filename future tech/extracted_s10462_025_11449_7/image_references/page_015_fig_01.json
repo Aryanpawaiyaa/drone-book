@@ -1,0 +1,29 @@
+{
+  "original_page": 15,
+  "figure_number": "Figure 15-1",
+  "original_caption": "Flight into the future: a holistic review of AI-trends, vision, and… | diversity in channel models highlights the variety of approaches adopted depending on  the research context, making this table highlight a valuable summary of existing work in  UAV research. Using game theory, the authors propose several methods for managing UAV  resources, including coalition, prospect, pictorial, mean-field, and Stackelberg models. The  paper explains the objectives, arrangements, and strategies of each model, highlighting their  potential application domains. Another key study (Sun et al. 2018) focuses on real-time  UAV route planning in dynamic environments. The authors propose a discrete approach  combined with a probabilistic network to create collision-free paths. Similarly, (Nguyen and  Le 2019) investigates UAV route planning by integrating data from both static and dynamic  routes, proposing a systematic adaptive path planning method to achieve optimal results.  An intriguing concept explored in Cui et al. (2019) considers UAVs as additional users in  5 G cellular networks, addressing the unique challenges faced by service providers when  integrating these new aerial users.",
+  "contextual_text": "Flight into the future: a holistic review of AI-trends, vision, and… diversity in channel models highlights the variety of approaches adopted depending on \nthe research context, making this table highlight a valuable summary of existing work in \nUAV research. Using game theory, the authors propose several methods for managing UAV \nresources, including coalition, prospect, pictorial, mean-field, and Stackelberg models. The \npaper explains the objectives, arrangements, and strategies of each model, highlighting their \npotential application domains. Another key study (Sun et al. 2018) focuses on real-time \nUAV route planning in dynamic environments. The authors propose a discrete approach \ncombined with a probabilistic network to create collision-free paths. Similarly, (Nguyen and \nLe 2019) investigates UAV route planning by integrating data from both static and dynamic \nroutes, proposing a systematic adaptive path planning method to achieve optimal results. \nAn intriguing concept explore",
+  "section_title": "4.1  Network planning and management of resources",
+  "image_filename": "page_015_fig_01.jpeg",
+  "relative_path": "images/page_015_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "planning",
+    "models",
+    "research",
+    "authors",
+    "propose",
+    "resources",
+    "route",
+    "dynamic",
+    "network"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 828,
+    "height": 1556,
+    "size_bytes": 132221,
+    "format": "jpeg"
+  }
+}

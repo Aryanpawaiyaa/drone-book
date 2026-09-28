@@ -1,0 +1,54 @@
+{
+  "original_page": 3,
+  "figure_number": "FIGURE 1",
+  "original_caption": "This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI | 10.1109/ACCESS.2021.3065926, IEEE Access",
+  "contextual_text": "This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/ This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2021.3065926, IEEE Access FIGURE 1: Roadmap for this paper missiles cannot be used in non-military site. Thus, anti-drone\nsystems should prepare neutralization technologies without\nweapons, such as hijacking and capturing. At Aramco, Saudi Arabia’s national oil company, the\nlargest oil reﬁning facilities were burned and shut down by\ndrone attack in September 2019 [17]. Ten drones attacked\nthe facility, carrying 3 kilogram of explosives per unit. The\nincident caused huge damage to Saudi Arabia’s crude oil pro-\nduction and peak price of international crude oil. This attack\nsucceeded due to lack of simultaneous detection and defense\nsystems for multip",
+  "section_title": "B. ANTI-DRONE SYSTEM REQUIREMENTS",
+  "image_filename": "page_003_fig_01.png",
+  "relative_path": "images/page_003_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "publication",
+    "access",
+    "article",
+    "accepted",
+    "future",
+    "issue",
+    "journal",
+    "but",
+    "not",
+    "fully"
+  ],
+  "cross_references": [
+    {
+      "page": 3,
+      "snippet": "FIGURE 1: Roadmap for this paper"
+    },
+    {
+      "page": 16,
+      "snippet": "FIGURE 10: Airspace priority classiﬁcation"
+    },
+    {
+      "page": 17,
+      "snippet": "FIGURE 11: Rpath determination for illegal drone ﬂight\ndirection"
+    },
+    {
+      "page": 18,
+      "snippet": "FIGURE 12: Risk model for drone neutralization"
+    },
+    {
+      "page": 19,
+      "snippet": "FIGURE 13: Estimated risk from drone ﬂight path and neu-\ntralization point"
+    },
+    {
+      "page": 19,
+      "snippet": "FIGURE 14: Advances and requirements for detection tech-\nnologies"
+    }
+  ],
+  "metadata": {
+    "width": 2021,
+    "height": 1258,
+    "size_bytes": 362158,
+    "format": "png"
+  }
+}

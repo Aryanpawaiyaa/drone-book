@@ -1,0 +1,29 @@
+{
+  "original_page": 12,
+  "figure_number": "Figure 12-1",
+  "original_caption": "lightweight and low-powered sensing systems and/or miti- gation systems. Furthermore, sky platforms may generally require wireless air-to-ground communication links and sys- tems, where the communication architecture can be either an ad-hoc network without infrastructure or a centralized network with a central network node. These requirements and the load-and-battery limitations make sky platforms more challenging compared to ground platforms. | Typical HAPs are equipped with both sensing systems and mitigation systems, where the sensing systems have multi- ple types of sensors, such as EO, IO, and radar types, and the widely used mitigator types are projectiles. Surveillance HAPs are equipped with only sensing systems. HAPs have been vigorously studied and developed to support other plat- forms [151]. In such cases, satellite communications can be considered to link multiple platforms beyond HAPs [67].",
+  "contextual_text": "H. Kang et al.: Protect Your Sky: A Survey of Counter UAV Systems lightweight and low-powered sensing systems and/or miti-\ngation systems. Furthermore, sky platforms may generally\nrequire wireless air-to-ground communication links and sys-\ntems, where the communication architecture can be either\nan ad-hoc network without infrastructure or a centralized\nnetwork with a central network node. These requirements\nand the load-and-battery limitations make sky platforms more\nchallenging compared to ground platforms. 1) LOW-ALTITUDE PLATFORM\nLAPs can ﬂy and hover to cope effectively with mUAVs\nat low altitudes up to a few kilometers [92], [135]. LAPs\nare more affordable, and their deployments are quicker and\nmore ﬂexible than HAPs. Due to the extremely high maneu-\nverability and cost-effective mission achievement capability\nof LAPs, they can play an important role as a part of an\nintegrated CUS. LAPs are typically lightweight compared to\nHAPs, and their payloads and fuel/battery power are thus ",
+  "section_title": "TABLE 5. Regulations on Commercial UAVs in 20 countries and Violation Consequences [40]–[44].",
+  "image_filename": "page_012_fig_01.png",
+  "relative_path": "images/page_012_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "sensing",
+    "platforms",
+    "haps",
+    "network",
+    "types",
+    "sky",
+    "ground",
+    "communication",
+    "where",
+    "equipped"
+  ],
+  "cross_references": [],
+  "metadata": {
+    "width": 377,
+    "height": 64,
+    "size_bytes": 3399,
+    "format": "png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 16,
+  "figure_number": "Fig. 13",
+  "original_caption": "IEEE AESS SYSTEMS MAGAZINE 16 | authorities",
+  "contextual_text": "IEEE AESS SYSTEMS MAGAZINE\n16 Shared data cube Existing airspace authorities Regulation database\nLocal UAS \ncoordinators UAS manufactures Managed UAS operations Trusted information Provider Fig. 13: Uniﬁed Framework for Drone Safety Management VI. FUTURE TRENDS\nA. Technical advancements As discussed above, simple detection approaches cannot\nget a reliable rate of detecting malicious UAS successfully.\nOn one hand, each simple approach has its disadvantages so\nthe simple detection sensor could not meet all the detection\nrequirements in a variable environment; on the other hand,\nthe UAS designed with different materials and conﬁgurations\nalso pose a big challenge for simple detection sensors to\ncapture. The future UAS detection approaches would be more\nmature, practical and efﬁcient. The detection schemes need to\nbe combined from multiple sensors and fused with ground\ndata and aerial data collaboratively. The diversity and the\namount of data in types of detection and acquisition space\ncou",
+  "section_title": "UAS manufactures",
+  "image_filename": "page_016_fig_04.jpeg",
+  "relative_path": "images/page_016_fig_04.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "ieee",
+    "aess",
+    "magazine",
+    "authorities",
+    "uas",
+    "manufactures"
+  ],
+  "cross_references": [
+    {
+      "page": 16,
+      "snippet": "Fig. 13: Uniﬁed Framework for Drone Safety Management"
+    },
+    {
+      "page": 16,
+      "snippet": "The discussion above shows that it is hard to protect the\npublic from unsafe and unauthorized drone operations by using\none single approach. Therefore, we propose a uniﬁed frame-\nwork of collaborative"
+    }
+  ],
+  "metadata": {
+    "width": 633,
+    "height": 431,
+    "size_bytes": 42087,
+    "format": "jpeg"
+  }
+}

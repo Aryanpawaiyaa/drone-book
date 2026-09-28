@@ -1,0 +1,31 @@
+{
+  "original_page": 31,
+  "figure_number": "Fig. 31",
+  "original_caption": "Altitude of UAV | LAP HAP",
+  "contextual_text": "31 Classiﬁcation of Path loss Models for UAVs Altitude of UAV LAP\nHAP Environment Outdoor-ground users\nIndoor users\nUAV-UAV Telecommunication link Downlink\nUplink Fig. 31: Classiﬁcation of Path Loss Models for UAVs. Fig. 32: Coverage Zone By a Low Altitude UAV.\nFig. 33: Providing Wireless Coverage for Indoor Users. connections exist with a high probability, while the path loss\nincreases. 2) Outdoor-to-Indoor Path Loss Model: The Air-to-Ground\npath loss model presented in [24] is not appropriate when\nwe consider wireless coverage for indoor users, because this\nmodel assumes that all users are outdoor and located at 2D\npoints. In [216], the authors adopt the Outdoor-Indoor path\nloss model, certiﬁed by the International Telecommunication\nUnion (ITU) [217] to provide wireless coverage for indoor\nusers using UAV as shown in Figure 33. The path loss is\ngiven as follows: L = LF + LB + LI = (wlog10dout + wlog10f + g1) +(g2 + g3(1 −cosθi)2) + (g4din)\n(5) where LF is the free space path loss, LB",
+  "section_title": "LLOS(dB) = 20log(dkm) + 20log(fGHz) + 92.4 + ζLOS",
+  "image_filename": "page_031_fig_01.jpeg",
+  "relative_path": "images/page_031_fig_01.jpeg",
+  "ocr_text": "",
+  "keywords": [
+    "altitude",
+    "uav",
+    "lap",
+    "hap",
+    "llos",
+    "dkm",
+    "fghz"
+  ],
+  "cross_references": [
+    {
+      "page": 31,
+      "snippet": "Fig. 31: Classiﬁcation of Path Loss Models for UAVs."
+    }
+  ],
+  "metadata": {
+    "width": 475,
+    "height": 418,
+    "size_bytes": 14647,
+    "format": "jpeg"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "source_pdf": "2307.13691v1.pdf",
+  "total_pages": 32,
+  "total_extracted_images": 4,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Introduction",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "Popular UAV Classification in Research",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "Navigating the Latest UAV Research Chalenges",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "Communication and Antennas ",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "IoTs ",
+      "page": 4
+    },
+    {
+      "level": 2,
+      "title": "Aircraft Detection ",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Control and Autonomous Flight",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Perception and Sensing",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Energy-Efficient Flight ",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Human-UAV Interaction",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "Swarm behaviour",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "AI",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "UAV Active and Expanding Research Directions",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "Potential UAV's Open Research Directions",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "Integration of AI",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "Generative AI and ChatGPT for UAVs",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": " Environmental Monitoring and Conservation",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Urban Air Mobility (UAM)",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Miniaturization",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Swarming and Cooperative Control",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Beyond Visual Line of Sight (BVLOS) Operations",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "Long-Range and High-Altitude Flights",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "Flight Safety",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "UAV Suspension Payload Capabilities",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "Transformability or Convertibility",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "Advancements in Aircraft Control: An Overview of the Development Axes",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "Classical Control",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "Modern Control",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "Intelligent Control",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "Adaptive Control",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "Pushing the Boundaries of UAV Control: Exploring Advanced Techniques",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "Considerations for Selecting an Appropriate Control Algorithm",
+      "page": 16
+    },
+    {
+      "level": 1,
+      "title": "UAVs Fundamental Hardware/Software Architectures: Applications and Issues ",
+      "page": 18
+    },
+    {
+      "level": 2,
+      "title": " The Hardware Architecture of UAVs",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": " Flight Computer and Controller:",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Sensors:",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Actuators:",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Battery:",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Communication Interfaces:",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Payload:",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "Structural Components:",
+      "page": 18
+    },
+    {
+      "level": 2,
+      "title": "The Software Architecture for UAVs",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "UAVs Applications and Main Issues ",
+      "page": 19
+    },
+    {
+      "level": 1,
+      "title": "Key Trends: Open-Source UAV Software and Hardware Projects",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "PX4 Autopilot",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "ArduPilot",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "TensorFlow for UAV",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "Paparazzi UAV",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "Ground Control",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "AirSim",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "JdeRobot UAVs",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "DroneKit and DroneKit-Python",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "MAVLink",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "ROS for UAVs",
+      "page": 20
+    },
+    {
+      "level": 1,
+      "title": "High-Level UAV Development Software and Categorization",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "Simulation Software",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "Flight Control Software",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "Ground Control Software",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "Computer Vision Software",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "Sensor Integration Software",
+      "page": 21
+    },
+    {
+      "level": 1,
+      "title": "UAVs Open Issues and Future Research Directions",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "Open Issues",
+      "page": 21
+    },
+    {
+      "level": 2,
+      "title": "Future Research Directions",
+      "page": 22
+    },
+    {
+      "level": 1,
+      "title": " Conclusion",
+      "page": 23
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 23
+    }
+  ],
+  "output_directory": "f:\\drone-book\\research papers\\extracted_2307_13691v1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "original_page": 44,
+  "figure_number": "Fig. 39",
+  "original_caption": "Fig. 39: General Architecture of UAV Systems. Reprinted from [351]. | Integrity ensures the authenticity of information. Attackers could modify or fabricate information of UAV systems (e.g., data collected, commands issued, etc.) through communica- tions links, GCSs or compromised UAVs. For example, GPS signal spooﬁng attack.",
+  "contextual_text": "44 Fig. 39: General Architecture of UAV Systems. Reprinted from [351]. Integrity ensures the authenticity of information. Attackers\ncould modify or fabricate information of UAV systems (e.g.,\ndata collected, commands issued, etc.) through communica-\ntions links, GCSs or compromised UAVs. For example, GPS\nsignal spooﬁng attack. Availability ensures that the services (and the relevant data)\nthat UAV systems carry are running as expected and are\naccessible to authorized users. Attackers could perform DoS\n(Deny of Service) attacks on UAV systems by, for example,\nﬂooding the communications links, overloading the processing\nunits, or depleting the batteries. 3) Literature Review of the State-of-the-art Security At-\ntacks/Challenges and Countermeasures: The UAV related\ncyber security research can be classiﬁed into three main\ncategories as shown in Figure 41, namely: • A: Speciﬁc attack discussion: This line of research fo-\ncuses on one speciﬁc type of attack (e.g., signal spooﬁng)\nand propose",
+  "section_title": "XII-D3 Literature Review of the State-of-the-art Security Attacks/Challenges and Countermeasures",
+  "image_filename": "page_044_fig_01.png",
+  "relative_path": "images/page_044_fig_01.png",
+  "ocr_text": "",
+  "keywords": [
+    "uav",
+    "information",
+    "general",
+    "architecture",
+    "reprinted",
+    "integrity",
+    "ensures",
+    "authenticity",
+    "attackers",
+    "could"
+  ],
+  "cross_references": [
+    {
+      "page": 44,
+      "snippet": "Fig. 39: General Architecture of UAV Systems. Reprinted from [351]."
+    }
+  ],
+  "metadata": {
+    "width": 1015,
+    "height": 1021,
+    "size_bytes": 58153,
+    "format": "png"
+  }
+}

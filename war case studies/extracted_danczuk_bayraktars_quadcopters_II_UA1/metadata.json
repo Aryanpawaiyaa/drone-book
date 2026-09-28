@@ -1,0 +1,48 @@
+{
+  "source_pdf": "danczuk-bayraktars-quadcopters-II-UA1.pdf",
+  "total_pages": 14,
+  "total_extracted_images": 6,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "Bayraktars and Grenade-Dropping Quadcopters II",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "Groups 1–3 UAS Use in Ukraine and Globally",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "FPV One-Way Attack UAS in Ukraine",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "Need for UAS Integration in the U.S. Army",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "Effective C-UASs and the Decline of Groups 4 and 5 UAS in Ukraine",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "UASs Continue to Feed and Dominate the Information Fight",
+      "page": 10
+    },
+    {
+      "level": 1,
+      "title": "Conclusion",
+      "page": 10
+    }
+  ],
+  "output_directory": "f:\\drone-book\\war case studies\\extracted_danczuk_bayraktars_quadcopters_II_UA1",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}

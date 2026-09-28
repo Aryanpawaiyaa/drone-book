@@ -1,0 +1,633 @@
+{
+  "source_pdf": "civil applicatons.pdf",
+  "total_pages": 58,
+  "total_extracted_images": 29,
+  "section_outline": [
+    {
+      "level": 1,
+      "title": "I Introduction",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "II MARKET OPPORTUNITY",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "III UAV Classification",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "IV Search and Rescue (SAR) ",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "IV-A UAV-Based SAR System",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "IV-B How SAR Operations Utilize UAVs",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "IV-C Challenges ",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "IV-C1 Legislation",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "IV-C2 Weather",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "IV-C3 Energy Limitations",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "IV-D Research Trends and Future Insights",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "IV-D1 Image Processing",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "IV-D2 Machine Learning",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "IV-D3 Future Insights",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "V Remote Sensing",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "V-A Remote Sensing Systems",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "V-B Image Processing and Analysis",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "V-C Flight Planning",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "V-D Challenges",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "V-D1 Hostile Natural Environment",
+      "page": 10
+    },
+    {
+      "level": 3,
+      "title": "V-D2 Camera Issues",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "V-D3 Illumination Issues",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "V-E Research Trends and Future Insights",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "V-E1 Machine Learning",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "V-E2 Combining Remote Sensing and Cloud Technology",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "V-E3 Free Space Optical",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "V-E4 Future Insights ",
+      "page": 12
+    },
+    {
+      "level": 1,
+      "title": "VI Construction & Infrastructure Inspection",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VI-A Literature Review",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VI-B The Deployment of UAVs for Construction & Infrastructure Inspection Applications",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "VI-C Challenges",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "VI-D Research Trends and Future Insights",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "VI-D1 Machine Learning",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "VI-D2 Image Processing",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "VI-D3 Future Insights",
+      "page": 15
+    },
+    {
+      "level": 1,
+      "title": "VII Precision Agriculture",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "VII-A Literature Review",
+      "page": 16
+    },
+    {
+      "level": 2,
+      "title": "VII-B The Deployment of UAV in Precision Agriculture",
+      "page": 16
+    },
+    {
+      "level": 2,
+      "title": "VII-C Challenges",
+      "page": 17
+    },
+    {
+      "level": 2,
+      "title": "VII-D Research Trends and Future Insights",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "VII-D1 Machine Learning ",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "VII-D2 Image Processing",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "VII-D3 Future Insights",
+      "page": 18
+    },
+    {
+      "level": 1,
+      "title": "VIII Delivery of Goods",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "VIII-A UAV-Based Goods Delivery System",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "VIII-B Challenges",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "VIII-B1 Legislation",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "VIII-B2 Liability Insurance",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "VIII-B3 Theft",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "VIII-B4 Weather",
+      "page": 20
+    },
+    {
+      "level": 3,
+      "title": "VIII-B5 Air Traffic Control",
+      "page": 20
+    },
+    {
+      "level": 2,
+      "title": "VIII-C Research Trends and Future Insights",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "VIII-C1 Machine Learning",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "VIII-C2 Navigation System",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "VIII-C3 Future Insights",
+      "page": 21
+    },
+    {
+      "level": 1,
+      "title": "IX Real-Time Monitoring of Road Traffic",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "IX-A Literature Review",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "IX-B Use Cases",
+      "page": 23
+    },
+    {
+      "level": 2,
+      "title": "IX-C Legislation",
+      "page": 23
+    },
+    {
+      "level": 2,
+      "title": "IX-D Challenges and Future Insights",
+      "page": 25
+    },
+    {
+      "level": 1,
+      "title": "X Surveillance Applications of UAVs",
+      "page": 26
+    },
+    {
+      "level": 2,
+      "title": "X-A Literature review",
+      "page": 26
+    },
+    {
+      "level": 2,
+      "title": "X-B Discussion",
+      "page": 27
+    },
+    {
+      "level": 2,
+      "title": "X-C Research Trends and Future Insights",
+      "page": 27
+    },
+    {
+      "level": 3,
+      "title": "X-C1 Research Trends",
+      "page": 27
+    },
+    {
+      "level": 3,
+      "title": "X-C2 Future Insights",
+      "page": 28
+    },
+    {
+      "level": 1,
+      "title": "XI Providing Wireless Coverage",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "XI-A Aerial Wireless Base Stations Use Cases",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "XI-B UAV Links and Channel Characteristics ",
+      "page": 29
+    },
+    {
+      "level": 3,
+      "title": "XI-B1 Control Links",
+      "page": 29
+    },
+    {
+      "level": 3,
+      "title": "XI-B2 Data Links",
+      "page": 29
+    },
+    {
+      "level": 3,
+      "title": "XI-B3 UAV Channel Characteristics",
+      "page": 29
+    },
+    {
+      "level": 2,
+      "title": "XI-C Path Loss Models",
+      "page": 30
+    },
+    {
+      "level": 3,
+      "title": "XI-C1 Air-to-Ground Path Loss for Low Altitude Platforms",
+      "page": 30
+    },
+    {
+      "level": 3,
+      "title": "XI-C2 Outdoor-to-Indoor Path Loss Model",
+      "page": 31
+    },
+    {
+      "level": 3,
+      "title": "XI-C3 Cellular-to-UAV Path Loss Model",
+      "page": 31
+    },
+    {
+      "level": 3,
+      "title": "XI-C4 Air-to-Ground Path Loss for High Altitude Platforms",
+      "page": 31
+    },
+    {
+      "level": 3,
+      "title": "XI-C5 UAV to UAV path Loss Model",
+      "page": 32
+    },
+    {
+      "level": 2,
+      "title": "XI-D UAV Deployment Strategies",
+      "page": 32
+    },
+    {
+      "level": 3,
+      "title": "XI-D1 Deployment Strategies for Minimizing the Transmit Power of UAVs",
+      "page": 32
+    },
+    {
+      "level": 3,
+      "title": "XI-D2 Deployment Strategies for Maximizing the Wireless Coverage of UAVs",
+      "page": 32
+    },
+    {
+      "level": 3,
+      "title": "XI-D3 Deployment Strategies for Minimizing the Number of UAVs Required to Perform Task",
+      "page": 33
+    },
+    {
+      "level": 3,
+      "title": "XI-D4 Deployment Strategies to Collect Data Using UAVs",
+      "page": 33
+    },
+    {
+      "level": 2,
+      "title": "XI-E Interference Mitigation",
+      "page": 34
+    },
+    {
+      "level": 2,
+      "title": "XI-F Research Trends and Future Insights",
+      "page": 36
+    },
+    {
+      "level": 3,
+      "title": "XI-F1 Cloud and Big Data",
+      "page": 36
+    },
+    {
+      "level": 3,
+      "title": "XI-F2 Machine Learning",
+      "page": 36
+    },
+    {
+      "level": 3,
+      "title": "XI-F3 Network Functions Virtualization",
+      "page": 36
+    },
+    {
+      "level": 3,
+      "title": "XI-F4 Software Defined Networking",
+      "page": 36
+    },
+    {
+      "level": 3,
+      "title": "XI-F5 Millimeter-Wave",
+      "page": 36
+    },
+    {
+      "level": 3,
+      "title": "XI-F6 Free Space Optical",
+      "page": 37
+    },
+    {
+      "level": 3,
+      "title": "XI-F7 Future Insights",
+      "page": 37
+    },
+    {
+      "level": 1,
+      "title": "XII Key Challenges",
+      "page": 38
+    },
+    {
+      "level": 2,
+      "title": "XII-A Charging Challenges",
+      "page": 38
+    },
+    {
+      "level": 3,
+      "title": "XII-A1 Battery Management",
+      "page": 38
+    },
+    {
+      "level": 3,
+      "title": "XII-A2 Wireless Charging For UAV",
+      "page": 38
+    },
+    {
+      "level": 3,
+      "title": "XII-A3 Solar Powered UAVs",
+      "page": 39
+    },
+    {
+      "level": 3,
+      "title": "XII-A4 Machine Learning and Communications Techniques",
+      "page": 39
+    },
+    {
+      "level": 2,
+      "title": "XII-B Collision Avoidance and Swarming Challenges",
+      "page": 40
+    },
+    {
+      "level": 3,
+      "title": "XII-B1 Collision Avoidance Approaches",
+      "page": 40
+    },
+    {
+      "level": 3,
+      "title": "XII-B2 Challenges",
+      "page": 40
+    },
+    {
+      "level": 3,
+      "title": "XII-B3 Future Insights",
+      "page": 41
+    },
+    {
+      "level": 2,
+      "title": "XII-C Networking Challenges",
+      "page": 41
+    },
+    {
+      "level": 3,
+      "title": "XII-C1 FANET Challenges",
+      "page": 41
+    },
+    {
+      "level": 3,
+      "title": "XII-C2 UAV New Networking Trends",
+      "page": 42
+    },
+    {
+      "level": 3,
+      "title": "XII-C3 Future Insights",
+      "page": 43
+    },
+    {
+      "level": 2,
+      "title": "XII-D Security Challenges",
+      "page": 43
+    },
+    {
+      "level": 3,
+      "title": "XII-D1 Attack Vectors in UAV Systems",
+      "page": 43
+    },
+    {
+      "level": 3,
+      "title": "XII-D2 Taxonomy of Cyber Security Attacks/Challenges Against UAV Systems",
+      "page": 43
+    },
+    {
+      "level": 3,
+      "title": "XII-D3 Literature Review of the State-of-the-art Security Attacks/Challenges and Countermeasures",
+      "page": 44
+    },
+    {
+      "level": 3,
+      "title": "XII-D4 Summarizing of Cyber Security Challenges for UAV Systems",
+      "page": 47
+    },
+    {
+      "level": 1,
+      "title": "XIII Conclusion",
+      "page": 48
+    },
+    {
+      "level": 1,
+      "title": "XIV ACRONYMS",
+      "page": 49
+    },
+    {
+      "level": 1,
+      "title": "References",
+      "page": 49
+    },
+    {
+      "level": 1,
+      "title": "Biographies",
+      "page": 57
+    },
+    {
+      "level": 2,
+      "title": "Hazim Shakhatreh",
+      "page": 57
+    },
+    {
+      "level": 2,
+      "title": "Ahmad H. Sawalmeh",
+      "page": 57
+    },
+    {
+      "level": 2,
+      "title": "Ala Al-Fuqaha",
+      "page": 57
+    },
+    {
+      "level": 2,
+      "title": "Zuochao Dou",
+      "page": 57
+    },
+    {
+      "level": 2,
+      "title": "Eyad Almaita",
+      "page": 58
+    },
+    {
+      "level": 2,
+      "title": "Issa Khalil",
+      "page": 58
+    },
+    {
+      "level": 2,
+      "title": "Noor Shamsiah Othman",
+      "page": 58
+    },
+    {
+      "level": 2,
+      "title": "Abdallah Khreishah",
+      "page": 58
+    },
+    {
+      "level": 2,
+      "title": "Mohsen Guizani",
+      "page": 58
+    }
+  ],
+  "output_directory": "f:\\drone-book\\research papers\\extracted_civil_applicatons",
+  "extracted_files": {
+    "markdown": "extracted.md",
+    "images_folder": "images/",
+    "image_references_folder": "image_references/"
+  }
+}
